@@ -1,0 +1,21 @@
+UI_EN = {
+    
+    UI_prof_usec = "USEC",
+    UI_prof_bear = "BEAR",
+
+    UI_profdesc_usec = "American private military contractor",
+    UI_profdesc_bear = "Russian private military contractor",
+
+    UI_optionscreen_binding_Call Closest Group Member = "Call Closest Group Member",
+    UI_optionscreen_binding_Call Closest Non-Group Member = "Call Closest Non-Group Member",
+    UI_optionscreen_binding_Ask Closest Group Member to Follow = "Ask Closest Group Member to Follow",
+    UI_optionscreen_binding_Spawn_Wild_Survivor = "Spawn Wild Survivor",
+    UI_optionscreen_binding_Toggle_Group_Window = "Toggle Group Window",
+    UI_optionscreen_binding_Lower_Follow_Distance = "Lower Follow Distance",
+    UI_optionscreen_binding_Raise_Follow_Distance = "Raise Follow Distance",
+    UI_optionscreen_binding_SSHotkey_1 = "SSHotkey 1 Directive",
+    UI_optionscreen_binding_SSHotkey_2 = "SSHotkey 2 Directive",
+    UI_optionscreen_binding_SSHotkey_3 = "SSHotkey 3 Directive",
+    UI_optionscreen_binding_SSHotkey_4 = "SSHotkey 4 Directive",
+
+}
