@@ -24,87 +24,87 @@ Recipes_FR = {
      Recipe_Taking_Lucky_Strike_Cigarettes_out_of_a_pack = "Retirer les cigarettes Lucky Strike d'un paquet",
      Recipe_Taking_Winston_Cigarettes_out_of_a_pack = "Retirer les cigarettes Winston d'un paquet",
 
-     Recipe_Sell_Kalashnikov_AKS-74U_5.45x39_assault_rifle = "Vendre un fusil d'assaut Kalashnikov AKS-74U 5.45x39 (76)",
-     Recipe_Sell_Mosin_7.62x54R_bolt-action_rifle = "Vendre Mosin 7.62x54R bolt-action rifle (69)",
+     Recipe_Sell_Kalashnikov_AKS-74U_5.45x39_assault_rifle = "Vendre un fusil d'assaut Kalashnikov AKS-74U 5.45x39 (126)",
+     Recipe_Sell_Mosin_7.62x54R_bolt-action_rifle = "Vendre Mosin 7.62x54R bolt-action rifle (123)",
      Recipe_Sell_Kalashnikov_AKM_7.62x39_assault_rifle = "Vendre fusil d'assaut Kalashnikov AKM 7.62x39 (165)",
-     Recipe_Sell_Kalashnikov_AK-74_5.45x39_assault_rifle = "Vendre le fusil d'assaut Kalashnikov AK-74 5.45x39 (121)",
+     Recipe_Sell_Kalashnikov_AK-74_5.45x39_assault_rifle = "Vendre le fusil d'assaut Kalashnikov AK-74 5.45x39 (176)",
      Recipe_Sell_Rifle_Dynamics_RD-704_7.62x39_assault_rifle = "Vendre le fusil d'assaut Rifle Dynamics RD-704 7.62x39 (252)",
-     Recipe_Sell_Kalashnikov_AKMS_7.62x39_assault_rifle = "Vendre Kalashnikov AKMS 7.62x39 fusil d'assaut (156)",
-     Recipe_Sell_Kalashnikov_AKS-74_5.45x39_assault_rifle = "Vendre le fusil d'assaut Kalashnikov AKS-74 5.45x39 (132)",
-     Recipe_Sell_Kalashnikov_AK-74M_5.45x39_assault_rifle_Custom = "Vendre Kalashnikov AK-74M 5.45x39 fusil d'assaut Custom (146)",
-     Recipe_Sell_Kalashnikov_AK-103_7.62x39_assault_rifle = "Vendre Kalashnikov AK-103 7.62x39 fusil d'assaut (192)",
-     Recipe_Sell_Kalashnikov_AK-104_7.62x39_assault_rifle = "Vendre Kalashnikov AK-104 fusil d'assaut 7.62x39 (223)",
-     Recipe_Sell_SV-98_7.62x54R_bolt-action_sniper_rifle = "Vendre SV-98 7.62x54R bolt-action sniper rifle (149)",
-     Recipe_Sell_TOZ-106_20ga_bolt-action_shotgun = "Vendre TOZ-106 20ga bolt-action shotgun (19)",
-     Recipe_Sell_Remington_Model_870_12ga_pump-action_shotgun = "Vendre Remington Model 870 12ga pump-action shotgun (85)",
-     Recipe_Sell_ADAR_2-15_5.56x45_carbine = "Vendre carabine ADAR 2-15 5.56x45 (35)",
-     Recipe_Sell_Lone_Star_TX-15_DML_5.56x45_carbine = "Vente carabine Lone Star TX-15 DML 5.56x45 (136)",
-     Recipe_Sell_TDI_KRISS_Vector_Gen.2_.45_ACP_submachine_gun = "Vendre TDI KRISS Vector Gen.2 .45 ACP (177)",
-     Recipe_Sell_TDI_KRISS_Vector_Gen.2_9x19_submachine_gun = "Vendre TDI KRISS Vector Gen.2 9x19 submachine gun (155)",
-     Recipe_Sell_Colt_M1911A1_.45_ACP_pistol = "Vendre pistolet Colt M1911A1 .45 ACP (30)",     
-     Recipe_Sell_Colt_M45A1_.45_ACP_pistol = "Vendre pistolet Colt M45A1 .45 ACP (77)",
-     Recette_Sell_SIG_P226R_9x19_pistol = "Vendre pistolet SIG P226R 9x19 (34)",
-     Recette_Sell_Beretta_M9A3_9x19_pistol = "Vendre pistolet Beretta M9A3 9x19 (26)",
-     Recette_Sell_Chiappa_Rhino_200DS_9x19_revolver = "Vendre Chiappa Rhino 200DS 9x19 revolver (32)",
-     Recipe_Sell_Saiga-9_9x19_carbine = "Vendre carabine Saiga-9 9x19 (55)",
-     Recette_Sell_Soyuz-TM_STM-9_Gen.2_9x19_carbine = "Vendre carabine Soyuz-TM STM-9 Gen.2 9x19 (70)",
-     Recipe_Sell_Yarygin_MP-443_"Grach"_9x19_pistol = "Vente d'un pistolet Yarygin MP-443 "Grach" 9x19 (58)",
-     Recipe_Sell_B&T_MP9_9x19_submachine_gun = "Vendre B&T MP9 9x19 mitraillette (103)",
-     Recipe_Sell_HK_MP5_9x19_submachine_gun_(Navy_3_Round_Burst) = "Vendre mitraillette HK MP5 9x19 (Navy 3 Round Burst) (67)",
+     Recipe_Sell_Kalashnikov_AKMS_7.62x39_assault_rifle = "Vendre Kalashnikov AKMS 7.62x39 fusil d'assaut (215)",
+     Recipe_Sell_Kalashnikov_AKS-74_5.45x39_assault_rifle = "Vendre le fusil d'assaut Kalashnikov AKS-74 5.45x39 (185)",
+     Recipe_Sell_Kalashnikov_AK-74M_5.45x39_assault_rifle_Custom = "Vendre Kalashnikov AK-74M 5.45x39 fusil d'assaut Custom (200)",
+     Recipe_Sell_Kalashnikov_AK-103_7.62x39_assault_rifle = "Vendre Kalashnikov AK-103 7.62x39 fusil d'assaut (245)",
+     Recipe_Sell_Kalashnikov_AK-104_7.62x39_assault_rifle = "Vendre Kalashnikov AK-104 fusil d'assaut 7.62x39 (276)",
+     Recipe_Sell_SV-98_7.62x54R_bolt-action_sniper_rifle = "Vendre SV-98 7.62x54R bolt-action sniper rifle (233)",
+     Recipe_Sell_TOZ-106_20ga_bolt-action_shotgun = "Vendre TOZ-106 20ga bolt-action shotgun (37)",
+     Recipe_Sell_Remington_Model_870_12ga_pump-action_shotgun = "Vendre Remington Model 870 12ga pump-action shotgun (165)",
+     Recipe_Sell_ADAR_2-15_5.56x45_carbine = "Vendre carabine ADAR 2-15 5.56x45 (220)",
+     Recipe_Sell_Lone_Star_TX-15_DML_5.56x45_carbine = "Vendre carabine Lone Star TX-15 DML 5.56x45 (1098)",
+     Recipe_Sell_TDI_KRISS_Vector_Gen.2_.45_ACP_submachine_gun = "Vente TDI KRISS Vector Gen.2 .45 ACP (320)",
+     Recipe_Sell_TDI_KRISS_Vector_Gen.2_9x19_submachine_gun = "Vendre TDI KRISS Vector Gen.2 9x19 submachine gun (294)",
+     Recipe_Sell_Colt_M1911A1_.45_ACP_pistol = "Vendre pistolet Colt M1911A1 .45 ACP (80)",     
+     Recipe_Sell_Colt_M45A1_.45_ACP_pistol = "Vendre pistolet Colt M45A1 .45 ACP (118)",
+     Recipe_Sell_SIG_P226R_9x19_pistol = "Vendre pistolet SIG P226R 9x19 (85)",
+     Recette_Sell_Beretta_M9A3_9x19_pistol = "Vente du pistolet Beretta M9A3 9x19 (70)",
+     Recette_Sell_Chiappa_Rhino_200DS_9x19_revolver = "Vendre Chiappa Rhino 200DS 9x19 revolver (43)",
+     Recipe_Sell_Saiga-9_9x19_carbine = "Vendre carabine Saiga-9 9x19 (105)",
+     Recette_Sell_Soyuz-TM_STM-9_Gen.2_9x19_carbine = "Vendre carabine Soyuz-TM STM-9 Gen.2 9x19 (282)",
+     Recipe_Sell_Yarygin_MP-443_"Grach"_9x19_pistol = "Vente du pistolet Yarygin MP-443 'Grach' 9x19 (70)",
+     Recipe_Sell_B&T_MP9_9x19_submachine_gun = "Vendre B&T MP9 9x19 mitraillette (158)",
+     Recipe_Sell_HK_MP5_9x19_submachine_gun_(Navy_3_Round_Burst) = "Vendre mitraillette HK MP5 9x19 (Navy 3 Round Burst) (232)",
      Recipe_Sell_Colt_M4A1_5.56x45_assault_rifle = "Vendre fusil d'assaut Colt M4A1 5.56x45 (103)",
      Recipe_Sell_FN_SCAR-H_7.62x51_assault_rifle = "Vendre FN SCAR-H 7.62x51 fusil d'assaut (136)",
-     Recipe_Sell_HK_G36_5.56x45_assault_rifle = "Vendre fusil d'assaut HK G36 5.56x45 (72)",
-     Recette_Sell_Steyr_AUG_A1_5.56x45_fusil_d'assaut = "Vente fusil d'assaut Steyr AUG A1 5.56x45 (146)",
-     Recipe_Sell_Steyr_AUG_A3_5.56x45_assault_rifle = "Vendre fusil d'assaut Steyr AUG A3 5.56x45 (173)",
-     Recette_Sell_SIG_MPX_9x19_submachine_gun = "Vendre pistolet mitrailleur SIG MPX 9x19 (105)",
-     Recette_Sell_HK_UMP_.45_ACP_submachine_gun = "Vendre mitraillette HK UMP .45 ACP (148)",
-     Recipe_Sell_HK_MP5SD_9x19_submachine_gun_(Navy_3_Round_Burst) = "Vente mitraillette HK MP5SD 9x19 (Navy 3 Round Burst) (67)",
-     Recipe_Sell_PP-19-01_Vityaz_9x19_submachine_gun = "Vente PP-19-01 Vityaz 9x19 mitraillette (82)",
-     Recipe_Sell_HK_USP_.45_ACP_pistol = "Vendre pistolet HK USP .45 ACP (53)",
-     Recette_Sell_HK_416A5_5.56x45_assault_rifle = "Vendre fusil d'assaut HK 416A5 5.56x45 (122)",
-     Recipe_Sell_Kalashnikov_AK-105_5.45x39_assault_rifle = "Vendre Kalashnikov AK-105 5.45x39 fusil d'assaut (172)",
-     Recipe_Sell_DS_Arms_SA-58_7.62x51_assault_rifle = "Vendre fusil d'assaut DS Arms SA-58 7.62x51 (174)",
-     Recipe_Sell_FN_SCAR-L_5.56x45_assault_rifle = "Vendre FN SCAR-L 5.56x45 fusil d'assaut (95)",
-     Recipe_Sell_FN_P90_5.7x28_submachine_gun = "Vendre FN P90 5.7x28 mitraillette (253)",
-     Recipe_Sell_Springfield_Armory_M1A_7.62x51_rifle = "Vendre Springfield Armory M1A 7.62x51 rifle (181)",
-     Recipe_Sell_Remington_Model_700_7.62x51_bolt-action_sniper_rifle = "Vendre Remington Model 700 7.62x51 bolt-action sniper rifle (105)",
-     Recipe_Sell_Glock_18C_9x19_machine_pistol = "Vente d'un pistolet mitrailleur Glock 18C 9x19 (85)",
-     Recette_Sell_Can_of_white_saltl_Pistol_Lebedev_PL-15 = "Vendre Can of white saltl Pistol Lebedev PL-15 (39)",
-     Recette_Sell_SIG_MCX_.300_Blackout_assault_rifle = "Vendre fusil d'assaut SIG MCX .300 Blackout (119)",
-     Recette_Sell_TOZ_Simonov_SKS_7.62x39_carbine = "Vendre carabine TOZ Simonov SKS 7.62x39 (108)",
-     Recipe_Sell_FN_Five-seveN_MK2_5.7x28_pistol = "Vendre pistolet FN Five-seveN MK2 5.7x28 (79)",
-     Recipe_Sell_Glock_17_9x19_pistol = "Vendre pistolet Glock 17 9x19 (37)",
-     Recette_Sell_Glock_19X_9x19_pistol = "Vendre pistolet Glock 19X 9x19 (45)",
-     Recipe_Sell_Kalashnikov_AK-12_5.45x39_assault_rifle = "Vendre fusil d'assaut Kalashnikov AK-12 5.45x39 (252)",
-     Recipe_Sell_RPK-16_5.45x39_light_machine_gun = "Vente de la mitrailleuse légère RPK-16 5.45x39 (125)",
-     Recipe_Sell_Kalashnikov_AK-101_5.56x45_assault_rifle = "Vendre Kalashnikov AK-101 5.56x45 assault rifle (199)",
-     Recipe_Sell_Kalashnikov_AK-102_5.56x45_assault_rifle = "Vendre le fusil d'assaut Kalashnikov AK-102 5.56x45 (289)",
-     Recipe_Sell_CMMG_Mk47_Mutant_7.62x39_assault_rifle = "Vendre fusil d'assaut CMMG Mk47 Mutant 7.62x39 (141)",
-     Recipe_Sell_ASh-12_12.7x55_assault_rifle = "Vendre fusil d'assaut ASh-12 12.7x55 (525)",
-     Recette_Sell_SAG_AK-545_5.45x39_carbine = "Vendre SAG AK-545 5.45x39 carbine (158)",
-     Recipe_Sell_Accuracy_International_AXMC_.338_LM_bolt-action_sniper_rifle = "Vendre fusil de précision Accuracy International AXMC .338 LM bolt-action (135)",
-     Recipe_Sell_TOZ_KS-23M_23x75mm_pump-action_shotgun = "Vendre fusil à pompe TOZ KS-23M 23x75mm (103)",
-     Recipe_Sell_APB_9x18PM_silenced_machine_pistol = "Vendre pistolet mitrailleur silencieux APB 9x18PM (65)",
-     Recipe_Sell_Makarov_PM_9x18PM_pistol = "Vendre pistolet Makarov PM 9x18PM (22)",
-     Recipe_Sell_Stechkin_APS_9x18PM_machine_pistol = "Vendre pistolet mitrailleur Stechkin APS 9x18PM (64)",
-     Recette_Sell_RSh-12_12.7x55_revolver = "Vendre RSh-12 12.7x55 revolver (170)",
-     Recette_Sell_Molot_Arms_VPO-209_.366_TKM_carbine = "Vendre carabine Molot Arms VPO-209 .366 TKM (120)",
-     Recipe_Sell_Molot_Arms_VPO-136_"Vepr-KM"_7.62x39_carbine = "Vendre Molot Arms VPO-136 Vepr-KM 7.62x39 carbine (106)"
-     Recipe_Sell_Molot_Arms_VPO-101_"Vepr-Hunter"_7.62x51_carbine = "Vendre Molot Arms VPO-101 Vepr-Hunter 7.62x51 carbine (218)",
-     Recipe_Sell_Molot_Arms_VPO-215_"Gornostay"_.366_TKM_bolt-action_rifle = "Vendre Molot Arms VPO-215 "Gornostay" .366 TKM bolt-action rifle (44)",
-     Recipe_Sell_ORSIS_T-5000M_7.62x51_bolt-action_sniper_rifle = "Vendre fusil de précision ORSIS T-5000M 7.62x51 à verrou (161)",
-     Recipe_Sell_HK_G28_7.62x51_marksman_rifle = "HK G28 7.62x51 marksman rifle (183)",
+     Recipe_Sell_HK_G36_5.56x45_assault_rifle = "Vendre fusil d'assaut HK G36 5.56x45 (319)",
+     Recipe_Sell_Steyr_AUG_A1_5.56x45_assault_rifle = "Vente fusil d'assaut Steyr AUG A1 5.56x45 (379)",
+     Recipe_Sell_Steyr_AUG_A3_5.56x45_assault_rifle = "Vendre fusil d'assaut Steyr AUG A3 5.56x45 (451)",
+     Recette_Sell_SIG_MPX_9x19_submachine_gun = "Vendre pistolet mitrailleur SIG MPX 9x19 (283)",
+     Recette_Sell_HK_UMP_.45_ACP_submachine_gun = "Vente mitraillette HK UMP .45 ACP (256)",
+     Recipe_Sell_HK_MP5SD_9x19_submachine_gun_(Navy_3_Round_Burst) = "Vente mitraillette HK MP5SD 9x19 (Navy 3 Round Burst) (250)",
+     Recipe_Sell_PP-19-01_Vityaz_9x19_submachine_gun = "Vente PP-19-01 Vityaz 9x19 mitraillette (138)",
+     Recipe_Sell_HK_USP_.45_ACP_pistol = "Vente pistolet HK USP .45 ACP (113)",
+     Recette_Sell_HK_416A5_5.56x45_assault_rifle = "Vendre fusil d'assaut HK 416A5 5.56x45 (493)",
+     Recipe_Sell_Kalashnikov_AK-105_5.45x39_assault_rifle = "Vendre Kalashnikov AK-105 5.45x39 fusil d'assaut (226)",
+     Recipe_Sell_DS_Arms_SA-58_7.62x51_assault_rifle = "Vendre fusil d'assaut DS Arms SA-58 7.62x51 (571)",
+     Recipe_Sell_FN_SCAR-L_5.56x45_assault_rifle = "Vendre FN SCAR-L 5.56x45 fusil d'assaut (494)",
+     Recipe_Sell_FN_P90_5.7x28_submachine_gun = "Vendre FN P90 5.7x28 submachine gun (583)",
+     Recipe_Sell_Springfield_Armory_M1A_7.62x51_rifle = "Vendre Springfield Armory M1A 7.62x51 rifle (384)",
+     Recipe_Sell_Remington_Model_700_7.62x51_bolt-action_sniper_rifle = "Vendre Remington Model 700 7.62x51 bolt-action sniper rifle (300)",
+     Recipe_Sell_Glock_18C_9x19_machine_pistol = "Vente d'un pistolet mitrailleur Glock 18C 9x19 (154)",
+     Recette_Sell_Can_of_white_saltl_Pistol_Lebedev_PL-15 = "Vendre pistolet Lebedev PL-15 9x19 (93)",
+     Recette_Sell_SIG_MCX_.300_Blackout_assault_rifle = "Vendre fusil d'assaut SIG MCX .300 Blackout (460)",
+     Recette_Sell_TOZ_Simonov_SKS_7.62x39_carbine = "Vendre carabine TOZ Simonov SKS 7.62x39 (192)",
+     Recipe_Sell_FN_Five-seveN_MK2_5.7x28_pistol = "Vendre pistolet FN Five-seveN MK2 5.7x28 (146)",
+     Recipe_Sell_Glock_17_9x19_pistol = "Vendre pistolet Glock 17 9x19 (77)",
+     Recette_Sell_Glock_19X_9x19_pistol = "Vendre pistolet Glock 19X 9x19 (107)",
+     Recipe_Sell_Kalashnikov_AK-12_5.45x39_assault_rifle = "Vendre fusil d'assaut Kalashnikov AK-12 5.45x39 (439)",
+     Recipe_Sell_RPK-16_5.45x39_light_machine_gun = "Vendre la mitrailleuse légère RPK-16 5.45x39 (358)",
+     Recipe_Sell_Kalashnikov_AK-101_5.56x45_assault_rifle = "Vendre Kalashnikov AK-101 5.56x45 assault rifle (252)",
+     Recipe_Sell_Kalashnikov_AK-102_5.56x45_assault_rifle = "Vendre Kalashnikov AK-102 fusil d'assaut 5.56x45 (341)",
+     Recipe_Sell_CMMG_Mk47_Mutant_7.62x39_assault_rifle = "Vendre CMMG Mk47 Mutant 7.62x39 fusil d'assaut (593)",
+     Recipe_Sell_ASh-12_12.7x55_assault_rifle = "Vendre fusil d'assaut ASh-12 12.7x55 (636)",
+     Recette_Sell_SAG_AK-545_5.45x39_carbine = "Vendre SAG AK-545 5.45x39 carbine (438)",
+     Recipe_Sell_Accuracy_International_AXMC_.338_LM_bolt-action_sniper_rifle = "Vendre Accuracy International AXMC .338 LM bolt-action sniper rifle (135)",
+     Recipe_Sell_TOZ_KS-23M_23x75mm_pump-action_shotgun = "Vendre fusil à pompe TOZ KS-23M 23x75mm (110)",
+     Recipe_Sell_APB_9x18PM_silenced_machine_pistol = "Vendre pistolet mitrailleur silencieux APB 9x18PM (155)",
+     Recipe_Sell_Makarov_PM_9x18PM_pistol = "Vendre pistolet Makarov PM 9x18PM (52)",
+     Recipe_Sell_Stechkin_APS_9x18PM_machine_pistol = "Vendre pistolet mitrailleur Stechkin APS 9x18PM (81)",
+     Recette_Sell_RSh-12_12.7x55_revolver = "Vendre RSh-12 12.7x55 revolver (214)",
+     Recette_Sell_Molot_Arms_VPO-209_.366_TKM_carbine = "Vendre carabine Molot Arms VPO-209 .366 TKM (166)",
+     Recipe_Sell_Molot_Arms_VPO-136_"Vepr-KM"_7.62x39_carbine = "Vendre Molot Arms VPO-136 Vepr-KM 7.62x39 carbine (151)"
+     Recipe_Sell_Molot_Arms_VPO-101_"Vepr-Hunter"_7.62x51_carbine = "Vendre Molot Arms VPO-101 Vepr-Hunter 7.62x51 carbine (257)",
+     Recipe_Sell_Molot_Arms_VPO-215_"Gornostay"_.366_TKM_bolt-action_rifle = "Vendre Molot Arms VPO-215 "Gornostay" .366 TKM bolt-action rifle (99)",
+     Recipe_Sell_ORSIS_T-5000M_7.62x51_bolt-action_sniper_rifle = "Vendre fusil de sniper ORSIS T-5000M 7.62x51 bolt-action (476)",
+     Recipe_Sell_HK_G28_7.62x51_marksman_rifle = "HK G28 7.62x51 fusil de précision (183)",
      Recipe_Sell_Knight's_Armament_Company_SR-25_7.62x51_marksman_rifle = "Vends Knight's Armament Company SR-25 7.62x51 marksman rifle (147)",
-     Recipe_Sell_Remington_R11_RSASS_7.62x51_marksman_rifle = "Vendre Remington R11 RSASS 7.62x51 marksman rifle (249)",
-     Recipe_Sell_SVDS_7.62x54R_sniper_rifle = "Vente d'un fusil de précision SVDS 7.62x54R (256)",
-     Recipe_Sell_SWORD_International_Mk-18_.338_LM_marksman_rifle = "Vendre carabine SWORD International Mk-18 .338 LM marksman (386)",
-     Recipe_Sell_MP-43-1C_12ga_double-barrel_shotgun = "Vendre MP-43-1C 12ga double-barrel shotgun (32)",
-     Recipe_Sell_Benelli_M3_Super_90_dual-mode_12ga_shotgun = "Vendre fusil Benelli M3 Super 90 dual-mode 12ga (78)",
-     Recipe_Sell_MP-153_12ga_semi-automatic_shotgun = "Vendre MP-153 12ga semi-automatique (83)",
-     Recipe_Sell_MP-155_12ga_semi-automatic_shotgun = "Vendre MP-155 12ga semi-automatique (105)",
-     Recipe_Sell_Saiga-12K_ver.10_12ga_semi-automatic_shotgun = "Vendre Saiga-12K ver.10 12ga semi-automatique (92)",
-     Recipe_Sell_MP-133_12ga_pump-action_shotgun = "Vendre MP-133 12ga pump-action shotgun (80)",
-     Recipe_Sell_Mossberg_590A1_12ga_pump-action_shotgun = "Vendre Mossberg 590A1 12ga pump-action shotgun (80)",
+     Recipe_Sell_Remington_R11_RSASS_7.62x51_marksman_rifle = "Vendre Remington R11 RSASS 7.62x51 marksman rifle (871)",
+     Recipe_Sell_SVDS_7.62x54R_sniper_rifle = "Vente d'un fusil de précision SVDS 7.62x54R (482)",
+     Recipe_Sell_SWORD_International_Mk-18_.338_LM_marksman_rifle = "Vendre carabine SWORD International Mk-18 .338 LM marksman (1235)",
+     Recipe_Sell_MP-43-1C_12ga_double-barrel_shotgun = "Vendre MP-43-1C 12ga double-barrel shotgun (63)",
+     Recipe_Sell_Benelli_M3_Super_90_dual-mode_12ga_shotgun = "Vendre fusil Benelli M3 Super 90 dual-mode 12ga (222)",
+     Recipe_Sell_MP-153_12ga_semi-automatic_shotgun = "Vendre MP-153 12ga semi-automatique (156)",
+     Recipe_Sell_MP-155_12ga_semi-automatic_shotgun = "Vendre MP-155 12ga semi-automatique (169)",
+     Recipe_Sell_Saiga-12K_ver.10_12ga_semi-automatic_shotgun = "Vendre Saiga-12K ver.10 12ga semi-automatique (136)",
+     Recipe_Sell_MP-133_12ga_pump-action_shotgun = "Vendre MP-133 12ga pump-action shotgun (127)",
+     Recipe_Sell_Mossberg_590A1_12ga_pump-action_shotgun = "Vendre Mossberg 590A1 12ga pump-action shotgun (168)",
 
      Recipe_Sell_9x18_Ammo_Box = "Vendre une boîte de munitions 9x18 (22)",
      Recipe_Sell_.45ACP_Ammo_Box = "Vendre une boîte de munitions .45ACP (94)",
@@ -270,19 +270,20 @@ Recipes_FR = {
      Recipe_Sell_Backpack_Tasmanian_Tiger_Trooper_35 = "Vendre Sac à dos Tigre de Tasmanie Trooper 35 (513)",
      Recipe_Sell_Backpack_Eberlestock_G2_Gunslinger_II = "Vendre sac à dos Eberlestock G2 Gunslinger II (378)",
      Recipe_Sell_Backpack_Camelbak_Tri-Zip = "Vendre Sac à dos Camelbak Tri-Zip (380)",
-     Recipe_Sell_PACA_Soft_Armor = "Vendre l'armure souple PACA (8)",
-     Recette_Sell_Body_Armor_6B2_(Flora) = "Vendre Body Armor 6B2 (Flora) (11)",
-     Recipe_Sell_Body_Armor_6B5-16 = "Vendre l'armure 6B5-16 (15)",
-     Recette_Sell_Body_Armor_Kirasa = "Vendre l'armure Kirasa (6)",
-     Recipe_Sell_Body_Armor_6B23-1 = "Vendre l'armure 6B23-1 (7)",
-     Recipe_Sell_Body_Armor_6B13 = "Vendre l'armure 6B13 (9)",
-     Recipe_Sell_Body_Armor_6B23-2 = "Vendre l'armure 6B23-2 (10)",
-     Recipe_Sell_Body_Armor_FORT_Redut-M = "Vendre l'armure FORT Redut-M (35)",
-     Recipe_Sell_Body_Armor_NFM_THOR = "Vendre l'armure NFM THOR (8)",
-     Recipe_Sell_Body_Armor_Interceptor_OTV_ = "Vente de l'Intercepteur de l'Armure du Corps OTV (9)",
-     Recipe_Sell_Body_Armor_NFM_THOR_Integrated_Carrier = "Vente de l'armure de corps NFM THOR Integrated Carrier (70)",
-     Recipe_Sell_Chest_Rig_TV-109 = "Vendre la plateforme TV-109 (59)",
-     Recipe_Sell_Chest_Rig_Zulu_Nylon_Gear_M4 = "Vente d'un équipement de poitrine Zulu Nylon Gear M4 (50)",
+     Recipe_Sell_PACA_Soft_Armor = "Vendre l'armure souple PACA (162)",
+     Recette_Sell_Body_Armor_6B2_(Flora) = "Vendre Armure de corps 6B2 (Flora) (111)",
+     Recipe_Sell_Body_Armor_6B5-16 = "Vendre l'armure 6B5-16 (316)",
+     Recette_Sell_Body_Armor_Kirasa = "Vendre l'armure Kirasa (162)",
+     Recipe_Sell_Body_Armor_6B23-1 = "Vendre l'armure 6B23-1 (155)",
+     Recipe_Sell_Body_Armor_6B13 = "Vendre l'armure 6B13 (178)",
+     Recipe_Sell_Body_Armor_6B23-2 = "Vendre l'armure 6B23-2 (174)",
+     Recette_Sell_Body_Armor_FORT_Redut-M = "Vendre l'armure FORT Redut-M (712)",
+     Recette_Sell_Body_Armor_NFM_THOR = "Vendre l'armure NFM THOR (234)",
+     Recipe_Sell_Body_Armor_Interceptor_OTV_ = "Vendre Armure de corps Interceptor OTV (223)",
+     Recipe_Sell_Body_Armor_NFM_THOR_Integrated_Carrier = "Vente de l'armure de corps NFM THOR Integrated Carrier (1410)",
+     Recipe_Sell_Chest_Rig_TV-109 = "Vendre la cage thoracique TV-109 (59)",
+     Recipe_Sell_Chest_Rig_Zulu_Nylon_Gear_M4 = "Vendre Chest Rig Zulu Nylon Gear M4 (50)",
+     Recipe_Sell_Chest_Rig_CSA = "Vendre Chest Rig CSA (63)",
      Recipe_Sell_Chest_Rig_Bank_Robber = "Vendre Chest Rig Bank Robber (50)",
      Recipe_Sell_Chest_Rig_Azimut = "Vendre Coffre Rig Azimut (186)",
      Recipe_Sell_Chest_Rig_Commando = "Vendre Coffre Rig Commando (177)",
@@ -292,21 +293,21 @@ Recipes_FR = {
      Recipe_Sell_Chest_Rig_Blackrock = "Vendre Coffre Rig Blackrock (252)",
      Recipe_Sell_Chest_Rig_TV-104 = "Vendre la plateforme TV-104 (229)",
      Recipe_Sell_Chest_Rig_Stich_Profi_Mk2 = "Vendre Chest Rig Stich Profi Mk2 (200)",
-     Recipe_Sell_Chest_Rig_TV-110 = "Vendre Chest Rig TV-110 (15)",
+     Recipe_Sell_Chest_Rig_TV-110 = "Vendre Chest Rig TV-110 (214)",
      Recipe_Sell_Scav_Tool_Belt = "Vendre ceinture d'outils Scav (44)",
      Recipe_Sell_Med_Tactical_Belt = "Vendre ceinture Med Tactical (62)",
      Recipe_Sell_Battlefield_Tactical_Belt = "Vendre ceinture tactique pour champ de bataille (95)",
      Recipe_Sell_Tactical_Belt = "Vendre ceinture tactique (143)",
-     Recipe_Sell_Helmet_6B47 = "Vendre Casque 6B47 (13)",
-     Recipe_Sell_Helmet_LShZ = "Vendre Casque LShZ (9)",
-     Recipe_Sell_Helmet_ZSh-1-2M = "Vendre le casque ZSh-1-2M (40)",
-     Recipe_Sell_Helmet_BNTI_LShZ = "Vendre le casque BNTI LShZ (24)",
-     Recipe_Sell_Helmet_HighCom_Striker_ULACH = "Vendre Casque HighCom Striker ULACH (65)",
+     Recipe_Sell_Helmet_6B47 = "Vendre Casque 6B47 (222)",
+     Recipe_Sell_Helmet_LShZ = "Vendre Casque LShZ (199)",
+     Recipe_Sell_Helmet_ZSh-1-2M = "Vendre le casque ZSh-1-2M (276)",
+     Recipe_Sell_Helmet_BNTI_LShZ = "Vendre le casque BNTI LShZ (484)",
+     Recipe_Sell_Helmet_HighCom_Striker_ULACH = "Vendre Casque HighCom Striker ULACH (580)",
      Recipe_Sell_Digital_Headset_Walker's_Razor = "Vendre casque numérique Walker's Razor (217)",
      Recipe_Sell_Digital_Headset_MSA_Sordin_Supreme_PRO-X/L = "Vendre casque numérique MSA Sordin Supreme PRO-X/L (279)",
      Recipe_Sell_Digital_Headset_Peltor_ComTac_4_Hybrid = "Vendre le casque numérique Peltor ComTac 4 Hybrid (491)",
      Recipe_Sell_Digital_Headset_Peltor_ComTac_2 = "Vendre le casque numérique Peltor ComTac 2 (235)",
-     Recipe_Sell_Digital_Headset_Walker's_XCEL_500BT_Digital = "Vendre casque numérique Walker's XCEL 500BT Digital (372)",
+     Recipe_Sell_Digital_Headset_Walker's_XCEL_500BT_Digital = "Vendre le casque numérique Walker's XCEL 500BT Digital (372)",
      Recipe_Sell_Digital_Headset_OPSMEN_Earmor_M32 = "Vendre casque numérique OPSMEN Earmor M32 (155)",
 
      Recette_Sell_AI-2_Medkit = "Vendre AI-2 Medkit (32)",
@@ -328,8 +329,12 @@ Recipes_FR = {
      Recipe_Sell_Sleeping_pills = "Vendre des somnifères (60)",
      Recipe_Sell_IFAK_individual_first_aid_kit = "Vendre la trousse de secours individuelle IFAK (435)",
      Recipe_Sell_Salewa_first_aid_kit = "Vendre la trousse de secours Salewa (370)",
-     Recette_Sell_Car_first_aid_kit = "Vendre Trousse de secours voiture (117)",
+     Recipe_Sell_Car_first_aid_kit = "Vendre trousse de secours voiture (117)",
+     Recipe_Sell_Aluminum_splint = "Vendre Attelle en aluminium (52)",
+     Recipe_Sell_CMS_Surgical_Kit = "Vendre Kit chirurgical CMS (226)",
+     Recipe_Sell_Surv12_Kit = "Vendre Kit Surv12 (453)",
 
+     Recipe_Sell_Bottle_of_Dan_Jackiel_whiskey = "Vendre bouteille de whisky Dan Jackiel (315)",
      Recipe_Sell_Army_crackers = "Vendre des crackers de l'armée (18)",
      Recipe_Sell_Water_Bottle = "Vendre une bouteille d'eau (15)",
      Recipe_Sell_Iskra_Ration_Pack = "Vendre des rations Iskra (30)",
@@ -365,7 +370,7 @@ Recipes_FR = {
 
      Recipe_Sell_Scav_Box = "Vendre Scav Box (7656)",
      Recette_Sell_TerraGroup_Labs_access_keycard = "Vendre la carte d'accès aux TerraGroup Labs (630)",
-     Recipe_Sell_Crickent_lighter = "Vendre un briquet Crickent (60)",
+     Recipe_Sell_Crickent_lighter = "Vendre un briquet Crickent (8)",
      Recipe_Sell_Screwdriver = "Vendre Tournevis (22)",
      Recipe_Sell_Pack_of_nails = "Vendre Pack de clous (25)",
      Recipe_Sell_Wallet = "Vendre Portefeuille (66)",
@@ -420,7 +425,7 @@ Recipes_FR = {
      Recipe_Sell_Can_of_thermite = "Vendre Bidon de thermite (237)",
      Recipe_Sell_FireKlean_gun_lube = "Vendre du lubrifiant pour armes FireKlean (229)",
      Recipe_Sell_Pack_of_sodium_bicarbonate = "Vendre Pack de bicarbonate de sodium (64)",
-     Recipe_Sell_Smoked_Chimney_drain_cleaner = "Vendre du nettoyant pour cheminée (59)",
+     Recipe_Sell_Smoked_Chimney_drain_cleaner = "Vendre du nettoyant pour cheminée fumée (59)", 
      Recipe_Sell_Hand_drill = "Vendre Perceuse à main (378)",
      Recipe_Sell_Bulbex_cable_cutter = "Vendre Coupe-câble Bulbex (661)",
      Recipe_Sell_Ripstop_fabric = "Vendre le tissu Ripstop (36)",
@@ -433,7 +438,7 @@ Recipes_FR = {
      Recipe_Sell_Piece_of_plexiglass = "Vendre un morceau de plexiglas (54)",
      Recette_Sell_Broken_LCD = "Vendre LCD cassé (135)",
      Recipe_Sell_Round_pliers = "Vendre Pince ronde (170)",
-     Recipe_Sell_Pliers = "Vendre Pince ronde (50)",
+     Recipe_Sell_Pliers = "Vendre Pince ronde (170)",
      Recipe_Sell_Flat_Metal_cutting_scissors = "Vendre des ciseaux de coupe en métal plat (140)",
      Recette_Sell_Flat_screwdriver = "Vendre Tournevis plat (88)",
      Recipe_Sell_Insulating_tape = "Vendre Ruban isolant (12)",
@@ -453,14 +458,14 @@ Recipes_FR = {
      Recipe_Create_a_Spark_plug_kit = "Créer un kit de bougies d'allumage",
      Recipe_Create_an_Iskra_kit = "Créer un kit Iskra",
      Recipe_Create_a_Ramen_Noodles_kit = "Créer un kit de nouilles Ramen",
-     Recipe_Create_a_Tushonka_kit= "Créer un kit Tushonka",
+     Recipe_Create_a_Tushonka_kit = "Créer un kit Tushonka",
      Recipe_Create_a_Broken_GPhone_kit = "Créer un kit GPhone cassé",
      Recipe_Create_a_CPU_kit = "Créer un kit CPU",
      Recipe_Create_a_Printed_circuit_board_kit = "Créer un kit de circuit imprimé",
      Recipe_Create_a_Rechargeable_batterie_kit = "Créer un kit de batteries rechargeables",
      Recipe_Create_a_Power_cord_kit = "Créer un kit de cordon d'alimentation",
      Recipe_Create_a_T-Shaped_Plug_kit = "Créer un kit de prise en forme de T",
-     Recipe_Create_a_Car_first_aid_kit_pack = "Créer un kit de Premiers secours",
+     Recipe_Create_a_Car_first_aid_kit_pack = "Créer un kit de premiers secours pour la voiture",
      Recipe_Create_a_Gaz_analizer_kit = "Créer un kit d'analyseur de gaz",
      Recipe_Create_a_TOZ_kit = "Créer un kit TOZ",
 
@@ -475,132 +480,20 @@ Recipes_FR = {
      Recipe_Create_a_Generator_Lvl1_kit = "Créer un kit Generator Lvl1",
      Recipe_Create_a_Rest_Place_Lvl1_kit = "Créer un kit Rest Place Lvl1",
      Recipe_Create_a_Heating_Lvl1_kit = "Créer un kit de chauffage Lvl1",
-     Recipe_Create_a_Medical_Bay_Lvl1_kit = "Créer un kit Station Médicale Lvl1",
-     Recipe_Create_a_Lavatory_Lvl1_kit = "Créer un kit Sanitaire Lvl1",
+     Recipe_Create_a_Medical_Bay_Lvl1_kit = "Créer un kit Medical Bay Lvl1",
+     Recipe_Create_a_Lavatory_Lvl1_kit = "Créer un kit Lavatory Lvl1",
      Recipe_Create_a_Water_Collector_Lvl1_kit = "Créer un kit collecteur d'eau Lvl1",
-     Recipe_Create_a_Vents_Lvl2_kit = "Créer un kit Ventilations Lvl2",
-     Recipe_Create_a_Lavatory_Lvl2_kit = "Créer un kit Sanitaire Lvl2",
+     Recipe_Create_a_Vents_Lvl2_kit = "Créer un kit Vents Lvl2",
+     Recipe_Create_a_Lavatory_Lvl2_kit = "Créer un kit Lavatory Lvl2",
      Recipe_Create_a_Security_Lvl1_kit = "Créer un kit Sécurité Lvl1",
      Recipe_Create_a_Security_Lvl2_kit = "Créer un kit de sécurité de niveau 2",
      Recipe_Create_a_Illumination_Lvl1_kit = "Créer un kit Illumination Lvl1",
-     Recipe_Create_a_Workbench_Lvl1_kit = "Créer un kit Atelier Lvl1",
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+     Recipe_Create_a_Workbench_Lvl1_kit = "Créer un kit Workbench Lvl1",
+
+     Recipe_Create_a_Nutrition_Lvl1_kit = "Créer un kit Nutrition Lvl1",
+     Recipe_Craft_2_Iskra_ration_packs = "Fabriquer 2 rations Iskra",
+     Recipe_Craft_2_Cans_of_beef_stew_(Small) = "Créer 2 boîtes de ragoût de bœuf (Small)",
+     Recipe_Craft_2_Emergency_Water_Rations = "Fabriquer 2 rations d'eau d'urgence",
+     Recipe_Craft_4_Can_of_Max_Energy_energy_drink = "Fabriquer 4 canettes de boisson énergétique Max Energy",
 
 }
