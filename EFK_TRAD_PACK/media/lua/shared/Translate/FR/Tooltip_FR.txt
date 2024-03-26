@@ -5,9 +5,6 @@ Tooltip_FR = {
     Tooltip_PillsBetablockerV3 = "Bloque la panique pendant 5 heures",
     Tooltip_PillsBetablockerV4 = "Bloque la panique pendant 10 heures",
 
-    Tooltip_CMS_Kit = "Kit chirurgical CMS",
-    Tooltip_CMS_Kit = "Trousse chirurgicale SURV12",
-
 	Tooltip_EFK_SupAPS9x18 = "Réduit le bruit des tirs<br>Réduit le recul (-1)<br>Réduit la précision (-1)<br>Augmente le temps de rechargement (+8)<br>Augmente le temps de visée (-3)<br>Augmente la portée minimale (+0,1)",
 	Tooltip_EFK_SupOsprey9x19 = "Réduit le bruit des tirs<br>Réduit le recul (-2)<br>Réduit la précision (-1)<br>Augmente le temps de rechargement (+7)<br>Augmente le temps de visée (-2)<br>Augmente la portée minimale (+0,1)",
 	Tooltip_EFK_SupPL15 = "Réduit le bruit des tirs<br>Réduit le recul (-1)<br>Réduit la précision (-1)<br>Augmente le temps de rechargement (+7)<br>Augmente le temps de visée (-2)<br>Augmente la portée minimale (+0,1)",
@@ -123,4 +120,13 @@ Tooltip_FR = {
 	Tooltip_EFK_Monstrum = "Améliore le maniement de l'arme<br>Réduit le temps de rechargement (-4)<br>Réduit le temps de visée (+6)<br>Réduit le recul (-1)",
 	Tooltip_EFK_Cobra_tactical = "Améliore le maniement de l'arme<br>Réduit le temps de rechargement (-4)<br>Réduit le temps de visée (+7)<br>Réduit le recul (-1)",
 
+	Tooltip_IFAK = "Soigner 3 blessures standard",
+	Tooltip_Salewa = "Soigner 4 blessures standard",
+	Tooltip_CarFirst = "Soigne 2 blessures standard",
+	Tooltip_AI2 = "Soigner 1 blessure standard",
+    Tooltip_CMS_Kit = "Soigne 5 blessures par balle",
+    Tooltip_SURV12_Kit = "Soigne 15 blessures par balle",
+    Tooltip_EFK_ImmoSplint = "Soigne 1 blessure par fracture",
+    Tooltip_EFK_AluSplint = "Soigne 5 blessures par fracture",
+    Tooltip_EFK_Grizzly = "Soigne 18 blessures standard",
 }
