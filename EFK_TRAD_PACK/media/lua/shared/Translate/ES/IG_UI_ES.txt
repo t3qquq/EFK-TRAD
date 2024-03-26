@@ -209,6 +209,8 @@ IGUI_ES = {
    IGUI_PRAPOR_Quest_Trade = "Echa un vistazo a mi tienda",
    IGUI_PRAPOR_Quest_Exit = "No hay problema, entiendo",
 
+   IGUI_PRAPOR_Add_Item = "Toma esto, puede que te ayude a hacer lo que te pedí.",
+
    /****************************
          AUD Quetes
    ****************************/

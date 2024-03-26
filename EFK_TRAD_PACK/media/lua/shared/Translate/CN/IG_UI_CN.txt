@@ -209,6 +209,8 @@ IGUI_CN = {
    IGUI_PRAPOR_Quest_Trade = "看看我的商店",
    IGUI_PRAPOR_Quest_Exit = "没问题，我明白",
 
+   IGUI_PRAPOR_Add_Item = "拿着这个，也许能帮你完成我的要求",
+
    /****************************
          AUD Quetes
    ****************************/
