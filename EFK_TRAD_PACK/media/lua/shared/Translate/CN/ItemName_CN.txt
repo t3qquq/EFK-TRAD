@@ -626,7 +626,6 @@ ItemName_CN = {
         ItemName_Base.EFK_Rechargeable_kit = "充电电池套件",
         ItemName_Base.EFK_Power_Cord_kit = "电源线套件",
         ItemName_Base.EFK_T_ShapedPlug_kit = "T 形插头套件",
-        ItemName_Base.EFK_Car_first_aid_kit = "汽车急救包",
         ItemName_Base.EFK_GazAnaliseur_kit = "气体分析仪工具包",
 
         ItemName_Base.EFK_rest_place_lvl1_kit = "一级休息场所急救包",
@@ -654,5 +653,16 @@ ItemName_CN = {
         ItemName_Base.EFK_Emelya = "Emelya 黑麦面包丁",
         ItemName_Base.EFK_Yadreniy = "一瓶 Norvinskiy Yadreniy 优质克瓦斯（0.6 升）",
         ItemName_Base.EFK_ArmyCrackers = "军队饼干",
+
+   /**********************************************
+               AFTER C44 RELEASE
+               27/03/24
+               NEW
+   ***********************************************/
+
+        ItemName_Base.Pop2 = "一罐 RatCola 汽水",
+        ItemName_Base.EFK_Salewa_kit = "Salewa 急救箱包",
+
+
 
 }

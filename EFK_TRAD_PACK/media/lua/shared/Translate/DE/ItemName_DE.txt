@@ -626,7 +626,6 @@ ItemName_DE = {
         ItemName_Base.EFK_Rechargeable_kit = "Wiederaufladbarer Batteriesatz",
         ItemName_Base.EFK_Power_Cord_kit = "Netzkabelset",
         ItemName_Base.EFK_T_ShapedPlug_kit = "T-förmiges Steckerset",
-        ItemName_Base.EFK_Car_first_aid_kit_kit = "Erste-Hilfe-Set für das Auto",
         ItemName_Base.EFK_GasAnalizer_kit = "Gas-Analysator-Kit",
 
         ItemName_Base.EFK_rest_place_lvl1_kit = "Rest Place Level 1 Kit",
@@ -655,10 +654,14 @@ ItemName_DE = {
         ItemName_Base.EFK_Yadreniy = "Flasche Norvinskiy Yadreniy premium kvass (0,6L)",
         ItemName_Base.EFK_ArmyCrackers = "Armeekräcker",
 
+   /**********************************************
+               AFTER C44 RELEASE
+               27/03/24
+               NEW
+   ***********************************************/
 
-
-
-
+        ItemName_Base.Pop2 = "Dose RatCola Limonade",
+        ItemName_Base.EFK_Salewa_kit = "Salewa Erste-Hilfe-Paket",
 
 
 

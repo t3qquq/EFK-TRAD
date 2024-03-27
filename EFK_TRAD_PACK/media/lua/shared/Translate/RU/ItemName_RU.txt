@@ -626,7 +626,6 @@ ItemName_RU = {
         ItemName_Base.EFK_Rechargeable_kit = "Комплект перезаряжаемых батарей",
         ItemName_Base.EFK_Power_Cord_kit = "Комплект шнура питания",
         ItemName_Base.EFK_T_ShapedPlug_kit = "Комплект с Т-образной вилкой",
-        ItemName_Base.EFK_Car_first_aid_kit = "Автомобильная аптечка",
         ItemName_Base.EFK_GazAnaliseur_kit = "Набор газоанализатора",
 
         ItemName_Base.EFK_rest_place_lvl1_kit = "Набор для места отдыха уровня 1",
@@ -655,10 +654,14 @@ ItemName_RU = {
         ItemName_Base.EFK_Yadreniy = "Бутылка премиального кваса "Норвинский Ядреный" (0.6 л)",
         ItemName_Base.EFK_ArmyCrackers = "Армейские сухарики",
 
+   /**********************************************
+               AFTER C44 RELEASE
+               27/03/24
+               NEW
+   ***********************************************/
 
-
-
-
+        ItemName_Base.Pop2 = "Банка газировки RatCola",
+        ItemName_Base.EFK_Salewa_kit = "Аптечка Salewa",
 
 
 
