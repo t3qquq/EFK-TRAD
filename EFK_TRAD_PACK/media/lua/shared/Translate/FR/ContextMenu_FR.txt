@@ -286,17 +286,6 @@ ContextMenu_FR = {
     ContextMenu_SD_FarmerPrefix_Before = "",
     ContextMenu_SD_FarmerPrefix_After = "",
 
-    ContextMenu_SD_RainingGoInside = "Il pleut. Mieux vaut rentrer à l'intérieur",
-    ContextMenu_SD_IGoRelax = "Je suppose que je vais me détendre un peu",
-    ContextMenu_SD_IGoGetWood = "Je vais aller chercher du bois",
-    ContextMenu_SD_IGoPileCorpse = "Je suppose que je vais aller empiler des cadavres",
-    ContextMenu_SD_IGoForage = "Je suppose que je vais aller chercher de la nourriture",
-    ContextMenu_SD_IGoChopWood = "Je suppose que je vais aller couper du bois",
-    ContextMenu_SD_IGoFarm = "Je suppose que je vais retourner à l'agriculture",
-    ContextMenu_SD_IGoGuard = "Je suppose que je vais me remettre à la garde",
-    ContextMenu_SD_IGoBackBase = "Je suppose que je vais retourner à la base",
-    ContextMenu_SD_NoWoodHere = "Pas de bois par ici",
-
     ContextMenu_SD_TakesItemFromGround_Before = "",
     ContextMenu_SD_TakesItemFromGround_After = "",
     ContextMenu_SD_ComeWithe_Before = "",
@@ -2143,4 +2132,25 @@ ContextMenu_FR = {
 	ContextMenu_Remove_Tank = "Retirer le char M2A1", 
 	ContextMenu_Remove_Canister = "Retiré / Carburant",
 	ContextMenu_Install_Canister = "Installé / Carburant",
-     }
+
+   /**********************************************
+               AFTER C44 RELEASE
+               27/03/24
+               EDIT
+   ***********************************************/
+
+    ContextMenu_SD_RainingGoInside = "",
+    ContextMenu_SD_IGoRelax = "",
+    ContextMenu_SD_IGoGetWood = "",
+    ContextMenu_SD_IGoPileCorpse = "",
+    ContextMenu_SD_IGoForage = "",
+    ContextMenu_SD_IGoChopWood = "",
+    ContextMenu_SD_IGoFarm = "",
+    ContextMenu_SD_IGoGuard = "",
+    ContextMenu_SD_IGoBackBase = "",
+    ContextMenu_SD_NoWoodHere = "",
+    
+    
+    
+    
+}

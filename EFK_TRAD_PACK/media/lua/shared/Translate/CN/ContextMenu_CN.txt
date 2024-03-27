@@ -286,17 +286,6 @@ ContextMenu_CN = {
     ContextMenu_SD_FarmerPrefix_Before = "",
     ContextMenu_SD_FarmerPrefix_After = "",
 
-    ContextMenu_SD_RainingGoInside = "下雨了。最好进屋去",
-    ContextMenu_SD_IGoRelax = "我想我还是休息一会儿吧",
-    ContextMenu_SD_IGoGetWood = "我去找些木头",
-    ContextMenu_SD_IGoPileCorpse = "我想我要去堆些尸体",
-    ContextMenu_SD_IGoForage = "我想我要去找些食物",
-    ContextMenu_SD_IGoChopWood = "我想我要去砍些木头",
-    ContextMenu_SD_IGoFarm = "我想我要回去种田了",
-    ContextMenu_SD_IGoGuard = "我想我要回去守卫了",
-    ContextMenu_SD_IGoBackBase = "我想我会回到基地",
-    ContextMenu_SD_NoWoodHere = "这里没有木材",
-
     ContextMenu_SD_TakesItemFromGround_Before = "",
     ContextMenu_SD_TakesItemFromGround_After = "",
     ContextMenu_SD_ComeWithe_Before = "",
@@ -2143,4 +2132,25 @@ ContextMenu_CN = {
 	ContextMenu_Remove_Tank = "移除 M2A1 坦克", 
 	ContextMenu_Remove_Canister = "拆除 / 燃料",
 	ContextMenu_Install_Canister = "已安装 / 燃料",
+
+   /**********************************************
+               AFTER C44 RELEASE
+               27/03/24
+               EDIT
+   ***********************************************/
+
+    ContextMenu_SD_RainingGoInside = "",
+    ContextMenu_SD_IGoRelax = "",
+    ContextMenu_SD_IGoGetWood = "",
+    ContextMenu_SD_IGoPileCorpse = "",
+    ContextMenu_SD_IGoForage = "",
+    ContextMenu_SD_IGoChopWood = "",
+    ContextMenu_SD_IGoFarm = "",
+    ContextMenu_SD_IGoGuard = "",
+    ContextMenu_SD_IGoBackBase = "",
+    ContextMenu_SD_NoWoodHere = "",
+
+
+
+
 }

@@ -286,17 +286,6 @@ ContextMenu_Take_pills = "Принять лекарство",
     ContextMenu_SD_FarmerPrefix_Before = "",
     ContextMenu_SD_FarmerPrefix_After = "",
 
-    ContextMenu_SD_RainingGoInside = "Идет дождь. Лучше зайти внутрь",
-    ContextMenu_SD_IGoRelax = "Пожалуй, я немного отдохну",
-    ContextMenu_SD_IGoGetWood = "Пойду принесу дров",
-    ContextMenu_SD_IGoPileCorpse = "Наверное, я пойду и навалю трупов",
-    ContextMenu_SD_IGoForage = "Пожалуй, я схожу за едой",
-    ContextMenu_SD_IGoChopWood = "Наверное, я пойду и нарублю немного дров",
-    ContextMenu_SD_IGoFarm = "Наверное, я займусь фермерством",
-    ContextMenu_SD_IGoGuard = "Наверное, я вернусь к охране",
-    ContextMenu_SD_IGoBackBase = "Наверное, я вернусь на базу",
-    ContextMenu_SD_NoWoodHere = "Здесь нет дерева",
-
     ContextMenu_SD_TakesItemFromGround_Before = "",
     ContextMenu_SD_TakesItemFromGround_After = "",
     ContextMenu_SD_ComeWithe_Before = "",
@@ -2143,4 +2132,25 @@ ContextMenu_Take_pills = "Принять лекарство",
 	ContextMenu_Remove_Tank = "Удалить танк M2A1", 
 	ContextMenu_Remove_Canister = "Снято / Топливо",
 	ContextMenu_Install_Canister = "Установлен / Топливо",
-     }
+
+   /**********************************************
+               AFTER C44 RELEASE
+               27/03/24
+               EDIT
+   ***********************************************/
+
+    ContextMenu_SD_RainingGoInside = "",
+    ContextMenu_SD_IGoRelax = "",
+    ContextMenu_SD_IGoGetWood = "",
+    ContextMenu_SD_IGoPileCorpse = "",
+    ContextMenu_SD_IGoForage = "",
+    ContextMenu_SD_IGoChopWood = "",
+    ContextMenu_SD_IGoFarm = "",
+    ContextMenu_SD_IGoGuard = "",
+    ContextMenu_SD_IGoBackBase = "",
+    ContextMenu_SD_NoWoodHere = "",
+
+
+
+
+}

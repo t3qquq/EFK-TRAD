@@ -104,10 +104,6 @@ IGUI_ES = {
    IGUI_PRAPOR_Task_q5_t5 = "Llegar a Riverside USEC campamento militar",
    IGUI_PRAPOR_Task_q5_t6 = "Encontrar la tienda del oficial",
    IGUI_PRAPOR_Task_q5_t7 = "Ocultar el archivo seguro",
-   IGUI_PRAPOR_Task_q6_t1 = "Marcar el primer distribuidor de gas (7143;3184)",
-   IGUI_PRAPOR_Task_q6_t2 = "Marcar el segundo distribuidor de gas (6856;2723)",
-   IGUI_PRAPOR_Task_q6_t3 = "Marcar el tercer distribuidor de gas (7774;2732)",
-   IGUI_PRAPOR_Task_q6_t4 = "Marcar el cuarto distribuidor de gas (8276;4009)",
    IGUI_PRAPOR_Task_q7_t2 = "Llegar a la comisaría de Dirkerdam (centro de Dirkerdam oeste)",
    IGUI_PRAPOR_Task_q8_t2 = "Llegar a la comisaría de Dirkerdam (centro de Dirkerdam oeste)",
    IGUI_PRAPOR_Task_q8_t3 = "Comprobar las cuatro puertas occidentales (comprobar y despejar)",
@@ -208,8 +204,6 @@ IGUI_ES = {
    IGUI_PRAPOR_Quest_No_More_Quest = "No tengo más trabajo para ti. Vuelve a verme más tarde",
    IGUI_PRAPOR_Quest_Trade = "Echa un vistazo a mi tienda",
    IGUI_PRAPOR_Quest_Exit = "No hay problema, entiendo",
-
-   IGUI_PRAPOR_Add_Item = "Toma esto, puede que te ayude a hacer lo que te pedí.",
 
    /****************************
          AUD Quetes
@@ -474,14 +468,11 @@ IGUI_ES = {
    IGUI_TOUBIB_Task_q4_t2 = "Llegar al juzgado de Rosewood",
    IGUI_TOUBIB_Task_q4_t3 = "Encontrar el suministro de agua",
    IGUI_TOUBIB_Task_q4_t4 = "Marcar la reserva de agua",
-   IGUI_TOUBIB_Task_q5_t2 = "Acércate al restaurante Dirkerdam Woke Wok (x=7841 y=3543) (HORDE)",
    IGUI_TOUBIB_Task_q5_t3 = "Destruye la horda",
    IGUI_TOUBIB_Task_q5_t4 = "Asegura el edificio",
    IGUI_TOUBIB_Task_q6_t2 = "Encuentra 4 inyectores de morfina",
-   IGUI_TOUBIB_Task_q7_t2 = "Llegar a la farmacia de Toubib (Centro de la parte Oeste de Dirkerdam)",
    IGUI_TOUBIB_Task_q7_t3 = "Encontrar la consulta del médico",
    IGUI_TOUBIB_Task_q7_t4 = "Encontrar el caso",
-   IGUI_TOUBIB_Task_q8_t2 = "Llegar al puesto militar de Muldraugh (extremo norte de la ciudad)",
    IGUI_TOUBIB_Task_q8_t3 = "Encuentra la tienda de comunicaciones",
    IGUI_TOUBIB_Task_q8_t4 = "Encuentra la carpeta de seguridad",
    IGUI_TOUBIB_Task_q9_t2 = "Encuentra 15 latas de carne (debes convertir las latas en kits antes de devolverlas)",
@@ -494,7 +485,7 @@ IGUI_ES = {
    IGUI_SKIER_Bio_Welcome = "Hola, amigo. ¿Quieres comerciar o buscas trabajo?",
    IGUI_SKIER_Bio_History = "Historia: Antiguo empleado de la terminal aduanera de la zona portuaria, al principio supervisaba las transacciones de mercancías de la terminal. Durante el conflicto, creó una banda de matones para robar cualquier cosa de valor en los alrededores de la terminal,
    IGUI_SKIER_Flag_q5_completed = "Tienes suficiente reputación con Skier para acceder a su tienda de nivel 2",
-   IGUI_SKIER_Flag_q10_completed = "Tienes suficiente reputación con el Esquiador para tener acceso a su tienda de nivel 3",
+   IGUI_SKIER_Flag_q10_completed = "Tienes suficiente reputación con el Skier para tener acceso a su tienda de nivel 3",
 
    IGUI_SKIER_Quest_Accepted = "¡Sabía que me echarías una mano!",
    IGUI_SKIER_Quest_Accepted_variant = "Vuelve a verme cuando hayas terminado",
@@ -504,14 +495,14 @@ IGUI_ES = {
    IGUI_SKIER_Quest_Trade = "Si buscas cosas buenas, has venido al lugar adecuado",
    IGUI_SKIER_Quest_Exit = "No hay problema, lo entiendo",
 
-   IGUI_SKIER_Quest_1_Name = "Esquiador 1 - Proveedor",
+   IGUI_SKIER_Quest_1_Name = "Skier 1 - Proveedor",
    IGUI_SKIER_Quest_1_Desc = "¿Qué quieres, mercenario? ¿Un trabajo? ¿Buscas un buen sueldo neto y un paquete social completo? De acuerdo, te daré un trabajo. Apenas te conozco todavía, así que vamos a ver lo que puedes hacer. Te daré esto: consígueme un chaleco antibalas blanco, de los que parecen de papel, y una escopeta Toz. Equiparé un poco a mis chicos. Pero asegúrate de conseguir lo último, ¿entendido? No hace falta regatear. De todos modos, si lo hace bien, podemos hablar de contratarle, señor Operador".
    IGUI_SKIER_Quest_1_part1 = "¿Qué quieres, mercenario?",
    IGUI_SKIER_Quest_1_part2 = "¿Un trabajo? ¡Ja! ¿Buscas un buen sueldo neto y un paquete social completo? Vale, te daré un trabajo",
    IGUI_SKIER_Quest_1_part3 = "Apenas te conozco todavía, así que vamos a ver lo que puedes hacer. Te daré esto: consígueme un chaleco blanco antibalas, de esos que parecen de papel, y una escopeta Toz",
    IGUI_SKIER_Quest_1_part4 = "Equiparé un poco a mis chicos. Pero asegúrate de conseguir lo más fresco, ¿entendido? No hace falta regatear. De todos modos, si lo hace bien, podemos hablar más sobre su trabajo, Sr. Operador.",
 
-   IGUI_SKIER_Quest_2_Name = "Esquiador 2 - El extorsionador",
+   IGUI_SKIER_Quest_2_Name = "Skier 2 - El extorsionador",
    IGUI_SKIER_Quest_2_Desc = "¡Estoy un poco ocupado en este momento! Aunque.... Espera un segundo. Hay un asunto urgente. Hubo un tiroteo hace una hora en los garajes al otro lado del río. Justo donde se dirigía mi chico de los recados. Al diablo con él, era un idiota de todos modos. Pero tenía una llave especial con él. Una llave muy compleja, debo añadir. Para una puerta que podría estar en cualquier parte, ¿sabes? Este payaso me estaba dando algo muy valioso. El cabrón lo escondió en algún sitio y lo cerró con esta llave artera y vino a verme para hablar del precio. ¡Qué cabrón! Incluso subí un poco el precio por lo ingenioso del gesto, pero el muy gilipollas siguió sin decirme dónde estaba el objeto y fue a buscarlo él mismo. Y estoy bastante seguro de que lo hizo allí. Encuentra la llave y luego encuéntrame ese paquete, aunque tengas que comprobar todas las puertas del centro hasta llegar al puerto".
    IGUI_SKIER_Quest_2_part1 = "¡Estoy un poco ocupado en este momento! Aunque.... Espera un segundo",
    IGUI_SKIER_Quest_2_part2 = "Hay un problema urgente. Ha habido un tiroteo hace una hora en los garajes del otro lado del río. Hacia allí se dirigía mi chico de los recados",
@@ -520,14 +511,14 @@ IGUI_ES = {
    IGUI_SKIER_Quest_2_part5 = "¡Qué cabrón! Incluso le subí un poco el precio para presumir, pero el pajillero siguió sin decirme dónde estaba y fue a buscarlo él mismo. Y estoy bastante seguro de que se hizo allí",
    IGUI_SKIER_Quest_2_part6 = "Encuentra la llave, luego encuéntrame ese paquete, aunque tengas que revisar cada puerta desde el centro hasta el puerto",
 
-   IGUI_SKIER_Quest_3_Name = "Esquiador 3 - Estribo",
+   IGUI_SKIER_Quest_3_Name = "Skier 3 - Estribo",
    IGUI_SKIER_Quest_3_Desc = "Ah, eres tú otra vez. Decidiste aferrarte a mí, ¿eh? Eso es genial. Necesito agitar las cosas en nuestra zona. Todo tipo de extraños siguen entrometiéndose, disparando, saqueando los objetos de valor de mis hombres, golpeándolos indiscriminadamente. Me hace un poco infeliz, por así decirlo, y no encaja con mi concepto de negocio. Y para hacerles entender que están en la mierda, golpearlos con armas, hacerles entender que los profesionales trabajan. Bueno, adelante, reúnan a sus "operadores", y les pagaré la prima por cada cabeza, e incluso algo extra como regalo. Son tiempos difíciles, y aquí hay que ganarse la vida, de una forma u otra, y preferiblemente con salud",
    IGUI_SKIER_Quest_3_part1 = "Ah, eres tú otra vez. Has decidido colgarte de mí, ¿verdad? Jodidamente brillante",
    IGUI_SKIER_Quest_3_part2 = "Tengo que poner las cosas en movimiento en nuestra región. Todo tipo de extraños siguen entrometiéndose, disparando, saqueando los objetos de valor de mis hombres, golpeándolos indiscriminadamente",
    IGUI_SKIER_Quest_3_part3 = "Me hace bastante infeliz, por así decirlo, y no encaja con mi concepto de negocio. Y para hacerles entender que están en la mierda, dispararles con armas de fuego, hacerles entender que los profesionales trabajan",
    IGUI_SKIER_Quest_3_part4 = "Bueno, sigue adelante y rastrilla a tus 'operadores', y yo pagaré el bono por cada cabeza, e incluso algo extra como regalo también. Son tiempos difíciles, y hay que ganarse la vida de alguna manera, preferiblemente con salud.",
 
-   IGUI_SKIER_Quest_4_Name = "Esquiador 4 - ¿Qué hay en la memoria USB?",
+   IGUI_SKIER_Quest_4_Name = "Skier 4 - ¿Qué hay en la memoria USB?",
    IGUI_SKIER_Quest_4_Desc = "Hola, 'Operador' ven aquí. Tengo un trabajo dudoso para ti. ¿A qué viene esa mirada? ¿No te gusta la jerga? Sí, he estado en la cárcel, ¿y qué? ¿Por qué el mal de ojo? Dos periodos, el primero en detención juvenil, el segundo - dos años en mínima seguridad por perturbar la paz. ¿Es suficiente? ¿Hemos terminado con esto? ¡Por fin podemos prescindir de las palabras con gracia! Así que escucha, está esta estafa. No es infalible, pero podría ser interesante. Algún borracho contó una historia que durante las guerras de contratos, guió a varios grupos de VIPs que no querían cruzarse con soldados o policías. Y estoy de acuerdo con esto último. Siempre puedes tratar con perros de guerra, la gente normal no es rara entre ellos, pero los polis no son tan buenos. Al final, pasó por varios de estos grupos. Ah, y el idiota que es todavía tenía suficiente sentido común para robar todo lo que podía durante las respiraciones. Hoy, este inútil jura por su madre que robó dos memorias USB en su última carrera. No tiene ni idea de lo que había en ellas, si es que había algo. Y lleva tanto tiempo aturdido que no se acuerda de nada en absoluto: ni lugar, ni puntos de referencia, nada. De todos modos, dice que había algunos peces gordos de la seguridad allí, así que podría valer la pena. Comprueba todos los campings que encuentres. Sé que estas carreteras han sido destrozadas desde entonces, pero ¿y si...?",
    IGUI_SKIER_Quest_4_part1 = "¡Eh, 'Operador' ven aquí!",
    IGUI_SKIER_Quest_4_part2 = "Tengo un trabajo dudoso para ti. ¿Qué es esa mirada? ¿No te gusta la jerga? Sí, he estado en la cárcel, pero ¿y qué? ¿Por qué el mal de ojo? Dos periodos, el primero en detención juvenil, el segundo - dos años en mínima seguridad por perturbar la paz",
@@ -536,7 +527,7 @@ IGUI_ES = {
    IGUI_SKIER_Quest_4_part5 = "Este bueno para nada jura por su madre que robó dos memorias USB en su última carrera. No tiene ni idea de lo que había en ellas, si es que había algo. Y lleva tanto tiempo aturdido que no recuerda nada: ni el lugar, ni los puntos de referencia, ni nada",
    IGUI_SKIER_Quest_4_part6 = "De todos modos, él dice que había algunos tipos grandes en la seguridad, por lo que podría valer la pena. Comprueba todos los campings que encuentres. Sé que estos caminos han sido machacados desde entonces, pero ¿y si, ya sabes?",
 
-   IGUI_SKIER_Quest_5_Name = "Esquiador 5 - Botín de Oro",
+   IGUI_SKIER_Quest_5_Name = "Skier 5 - Botín de Oro",
    IGUI_SKIER_Quest_5_Desc = "¿Quieres hacer un trabajo secundario en tu especialización principal? Jeje. ¡Qué mundo más hipócrita! He cumplido condena por pegar a un matón, ¡y se burla de mí por mi jerga un loco que mata a la gente a mansalva sin un ápice de remordimiento! ¿Y dónde está la justicia en eso? Tiene usted razón. Como dijo mi fiscal, está ahí, más allá del muro. Y todos estamos aquí, como en una gran jaula. ¿Ves a dónde voy con esto, no? En fin, me he salido por la tangente. Bueno, esta tarea es fácil. Hay un grupo de Carroñeros infestando la fábrica. Y una de sus insignias es un personaje que se hace llamar Uruguay. ¡Qué apodo tan estúpido! Qué pena, ¿quién cría a semejantes imbéciles? Pero divago. El objetivo es completar su viaje terrenal. Pero eso es sólo la mitad de la batalla. Tiene un encendedor, una especie de amuleto de la suerte. Siempre está agitando el Zibbo dorado en sus garras. Vino a mi casa y, por supuesto, no paraba de pulsarlo. Y, por cierto, solía vivir en los dormitorios, habitación 303. Así que necesito esta lámpara cuidadosamente depositada en un lugar seguro para que alguien se quede realmente atónito y tal vez tome una pista. ¿Entendido? Nos vamos. La casa segura está en la aduana, en un dormitorio cerrado al lado del parque de caravanas. Aquí está la llave. Buena suerte,
    IGUI_SKIER_Quest_5_part1 = "¿Quieres tomar un trabajo secundario en tu especialización principal?",
    IGUI_SKIER_Quest_5_part2 = "Jeje. ¡Qué mundo más hipócrita! He cumplido condena por pegar a un matón, ¡y se burlan de mí por mi jerga unos lunáticos que matan a la gente en masa sin el menor remordimiento! ¿Y dónde está la justicia en eso? Es verdad",
@@ -546,7 +537,7 @@ IGUI_ES = {
    IGUI_SKIER_Quest_5_part6 = "Entonces, necesito esta luz cuidadosamente depositada en un lugar seguro para que alguien se quede realmente atónito, y tal vez capte una indirecta. ¿Entendido?",
    IGUI_SKIER_Quest_5_part7 = "Aquí vamos. Este escondite está en la aduana, en un dormitorio cerrado junto al aparcamiento de caravanas. Aquí hay una llave para llegar allí. Buena suerte,
 
-   IGUI_SKIER_Quest_6_Name = "Esquí 6 - Química parte 1",
+   IGUI_SKIER_Quest_6_Name = "Skier 6 - Química parte 1",
    IGUI_SKIER_Quest_6_Desc = "Así que, Sherlock, ¿quieres un acertijo? Eres nuestro profesional en estos acertijos, ¿verdad? Echa un vistazo. Un vagabundo cojo vino por aquí. Loco o demente, no lo sé. Todo en harapos, sucio de pies a cabeza, ¡y el hedor! Un arma química andante. Le tiró una a un vector, y donde va, todo muere. Jeje. Oh, diablos, la risa entre lágrimas. Pero divago. Sólo quería deshacerme de él, un poco más lejos para que el hedor no nos alcanzara, pero uno de nuestros chicos reconoció a su viejo amigo en este montón de zurullos. ¡Imagínate! Están pasando cosas horribles, convirtiendo a gente normal en basura, ¡y todo para nada! Pero esa no es la cuestión. El tipo que reconoció este montón de trapos dijo que no era sólo un idiota, ¡sino un jefe adjunto de seguridad para dos áreas sensibles especiales en el Polijim! Imagínate qué fuente podría llegar a ser si al menos recordara su nombre, y no se limitara a masticar roustons y murmurar mientras se relame los labios como un loco. ¡Qué pena! No sé qué le pasó, pero esto es lo que pienso. Durante todo este tiempo, este embolsador ha estado viviendo en alguna parte, durmiendo en colchones de meados, ¿no? ¡Eso es, eso es! Deberías estar buscando este lugar. ¿Necesitas un traje de neopreno? Jaja, es broma. Pero si llega el caso, el traje es para mí, y no sólo para mí".
    IGUI_SKIER_Quest_6_part1 = "Entonces, Sherlock, ¿quieres un acertijo?",
    IGUI_SKIER_Quest_6_part2 = "Eres nuestro profesional en estos acertijos, ¿verdad? Toma, echa un vistazo. Un vagabundo cojo vino por aquí. Loco o demente, no lo sé. Todo en harapos, sucio de pies a cabeza, ¡y el hedor! Un arma química andante,
@@ -555,7 +546,7 @@ IGUI_ES = {
    IGUI_SKIER_Quest_6_part5 = "Imagínate qué tipo de fuente podría llegar a ser si al menos pudiera recordar su nombre, y no sólo masticar tapones y murmurar mientras chasquea los labios como un loco. Qué pena. No sé qué le ha pasado, pero esto es lo que pienso",
    IGUI_SKIER_Quest_6_part6 = "Todo este tiempo, este embolsador estaba viviendo en alguna parte, durmiendo en colchones meones, ¿no? Así es, ¡lo estaba! Deberías buscar ese lugar. ¿Necesitas un traje protector? Jaja, es broma. Pero si llega el caso, seré yo quien lleve el traje, no sólo yo".
 
-   IGUI_SKIER_Quest_7_Name = "Esquí 7 - Química parte 2",
+   IGUI_SKIER_Quest_7_Name = "Skier 7 - Química parte 2",
    IGUI_SKIER_Quest_7_Desc = "Ya estoy cansado de esperarte. Los documentos que recuperaste de la guarida de ese idiota son bastante pesados. Son bastante pesados. Pero este es un asunto jodidamente peligroso. Y no está claro quién será el mejor comprador. Y no es tanto el beneficio lo que cuenta, sino los enormes problemas que te puedes encontrar si eliges la dirección equivocada. Así que aquí está la llave que encontraste allí también, y estás tratando de localizar. Mis chicos dijeron que venía de un dormitorio. Y según los documentos, nuestro subjefe fue visto en el segundo piso del primer edificio, el de tres plantas. Cualquier información que pudiera encontrar en esa habitación podría resultar muy útil, y el precio sería impresionante".
    IGUI_SKIER_Quest_7_part1 = "Ya estoy cansado de esperarte",
    IGUI_SKIER_Quest_7_part2 = "Los documentos que recuperaste de la guarida de ese gamberro son bastante pesados. Es cierto que son pesados. Pero son cosas bastante peligrosas. Y no está claro quién será el mejor comprador,
@@ -563,7 +554,7 @@ IGUI_ES = {
    IGUI_SKIER_Quest_7_part4 = "Mis chicos dijeron que venía de un dormitorio. Y según los documentos, nuestro subjefe fue visto en el segundo piso del primer edificio, el de tres plantas",
    IGUI_SKIER_Quest_7_part5 = "Cualquier información que pueda encontrar en esta habitación podría ser muy útil, y el precio sería impresionante",
 
-   IGUI_SKIER_Quest_8_Name = "Esquiador 8 - Química parte 3",
+   IGUI_SKIER_Quest_8_Name = "Skier 8 - Química parte 3",
    IGUI_SKIER_Quest_8_Desc = "El sobre en el dormitorio contenía una fórmula química. Y la memoria USB describía el proceso de reacción. Encontramos a un tipo que sabe algo al respecto. Dijo que habían hecho algo así en Polikhim, experimentando con un líquido azul y añadiendo otras cosas. ¡Lo siento, no hice química en la escuela! ¡Todos esos químicos, esas valencias, esos enlaces indecentes! Me importa una mierda. Jeje. Ves, incluso recuerdo algunas de las palabras. ¡Eso era enseñar entonces! Pero no importa. Tenemos que confirmar la experiencia descrita aquí. Y entonces, este asunto nos iluminará con nuevos colores. Esta mierda azul está abundantemente esparcida en barriles por toda la región, pero nadie sabe lo que es. Y nadie quiere averiguarlo tampoco. Pero vamos a arriesgarnos y averiguarlo. Y sacar provecho de ello. Pero para eso necesitamos otro producto, que debe estar en algún lugar de la fábrica. Había una habitación llena de basura - tenían un laboratorio allí. Busca una especie de jeringuilla amarilla brillante, como una jeringuilla de morfina. Ya me entiendes",
    IGUI_SKIER_Quest_8_part1 = "El sobre en el dormitorio contenía una fórmula química. Y la memoria USB describía el proceso de reacción. Encontramos aquí a un tipo que lo sabe todo",
    IGUI_SKIER_Quest_8_part2 = "Dijo que hicieron algo así en Polikhim, experimentando con un líquido azul y añadiendo otras cosas. Lo siento, ¡no hice química en la escuela! ¡Todas esas sustancias químicas, esas valencias, esos enlaces indecentes! Joder. Jeje",
@@ -571,20 +562,20 @@ IGUI_ES = {
    IGUI_SKIER_Quest_8_part4 = "Esta mierda azul está esparcida en barriles por toda la región, pero nadie sabe lo que es. Y nadie quiere averiguarlo tampoco. Pero vamos a correr el riesgo y averiguarlo. Y sacar beneficio de ello,
    IGUI_SKIER_Quest_8_part5 = "Pero requiere otro equipo, debe estar en algún lugar de la fábrica. Había una habitación llena de basura, ahí es donde tenían un laboratorio. Busca algún tipo de jeringuilla amarilla brillante, parece un bolígrafo, parece una jeringuilla de morfina. Ya me entiendes",
 
-   IGUI_SKIER_Quest_9_Name = "Esquiador 9 - Química parte 4",
+   IGUI_SKIER_Quest_9_Name = "Skier 9 - Química parte 4",
    IGUI_SKIER_Quest_9_Desc = "Aquí está la cosa. Todo el tema químico ha funcionado a las mil maravillas, y enseguida hemos sabido a quién teníamos que enviárselo. Y el destinatario está listo. Sólo queda un problema por resolver. Encontrar más productos químicos amarillos. El quid del problema se ha resuelto en parte antes que nosotros: alguien ya lo ha intentado. No sé si ha sido intencionado o no, pero si hemos de creer las notas de envío de los mismos documentos, toda la caja de este producto ya ha intentado salir de la fábrica. Pero este envío no se registró en ninguno de los puntos de control, así que supongo que merece la pena buscarlo en algún lugar de los almacenes de aduanas. Si intentaron transportarlo, lo más probable es que siga en el coche, probablemente una furgoneta. Y no sólo una jeringuilla, sino un maletín entero. Busca marcas, tal vez, la caja las tenga. ¿Lo tienes? Ah, una cosa más. Mis buenos amigos Prapor y Terapeuta han aparecido, husmeando. Así que venga, no nos vayamos por las ramas. Sólo unos días más y estaremos dirigiendo este lugar. Buena suerte, amigo. Le hablaré bien de ti a Trapero, él te buscará unos buenos cascos para comprar".
    IGUI_SKIER_Quest_9_part1 = "Aquí está la cosa. Todo el asunto químico funcionó a las mil maravillas, y enseguida se vio a quién debíamos imponérselo",
    IGUI_SKIER_Quest_9_part2 = "Y el recipiente está listo. Sólo queda un problema por resolver. Encontrar más de esos productos químicos amarillos. El quid del problema se ha resuelto parcialmente antes que nosotros: alguien ya lo ha intentado. No sé si es intencionado o no, pero si hemos de dar crédito a las notas de envío de los mismos documentos, ya se ha intentado sacar de la fábrica toda la caja de este producto",
    IGUI_SKIER_Quest_9_part3 = "Pero este envío no fue registrado en ninguno de los puntos de control, así que creo que merece la pena buscarlo en algún lugar de los almacenes de aduanas. Si intentaron transportarlo, lo más probable es que siga en el coche, probablemente una furgoneta. Y no sólo una jeringuilla, sino una caja entera. Busca marcas, tal vez, la caja las tenga. ¿Entendido? Ah, una cosa más",
    IGUI_SKIER_Quest_9_part4 = "Mis dulces amigos Prapor y Terapeuta han aparecido, husmeando. Así que vamos, no querrás darles la espalda ahora. Sólo un poco más y estaremos dirigiendo este lugar. Buena suerte, amigo. Hablaré bien de ti con Ragman, él te encontrará unos buenos cascos para comprar,
 
-   IGUI_SKIER_Quest_9_Name = "Esquiador 10 - Amigo del Oeste Parte 1",
+   IGUI_SKIER_Quest_9_Name = "Skier 10 - Amigo del Oeste Parte 1",
    IGUI_SKIER_Quest_9_Desc = "Oh, ¿eres tú? ¿Listo para la acción? Sí, lo estoy. Eres un personaje bastante aterrador, más que yo, ja, ja. Para abreviar, los turistas me han estado poniendo un poco de los nervios últimamente.... Se meten en todo, malgastan a mi gente. Eso no me gusta. Te ofreceré un poco de dinero si te metes con ellos,
    IGUI_SKIER_Quest_9_part1 = "Ah, ¿eres tú? ¿Listo para un negocio serio? Sí, sí",
    IGUI_SKIER_Quest_9_part2 = "Eres un personaje bastante aterrador, más que yo, ja-ja". Para abreviar, últimamente los turistas me sacan un poco de quicio..... Se meten en todo, malgastan mi pueblo. Eso no me gusta,
    IGUI_SKIER_Quest_9_part3 = "Te ofreceré algo de dinero si les haces pasar un mal rato",
 
-   IGUI_SKIER_Task_Talk_Skier = "Habla con Esquiador",
+   IGUI_SKIER_Task_Talk_Skier = "Habla con Skier",
    IGUI_SKIER_Task_q1_t1 = "Entrega 1 kit TOZ y 1 kit Armadura 3M (Debes convertir estos objetos en kits antes de devolverlos)",
    IGUI_SKIER_Task_q2_t2 = "Llegar a la imprenta (edificio industrial junto al puente más al sur de Dirkerdam)",
    IGUI_SKIER_Task_q2_t3 = "Llegar a las oficinas administrativas",
@@ -1162,4 +1153,32 @@ IGUI_ES = {
    IGUI_EFK_Magazine_Illumination = "Illumination.png",
    IGUI_EFK_Magazine_HealDocumentation = "EFK_heal.png",
    IGUI_EFK_Magazine_HealDocumentation_text = "Documentación sobre el sistema de curación EFK",
+
+   /**********************************************
+               AFTER C44 RELEASE
+               27/03/24
+               NEW
+   ***********************************************/
+
+   IGUI_Add_Item = "Toma esto, puede que te ayude a hacer lo que te he pedido",
+
+   /**********************************************
+               AFTER C44 RELEASE
+               27/03/24
+               EDIT
+   ***********************************************/
+
+   IGUI_PRAPOR_Task_q6_t1 = "Marcar el primer surtidor de gas (GPS 7143;3184)",
+   IGUI_PRAPOR_Task_q6_t2 = "Marcar el segundo dispensador de gas (GPS 6856;2723)",
+   IGUI_PRAPOR_Task_q6_t3 = "Marcar el tercer surtidor de gas (GPS 7774;2732)",
+   IGUI_PRAPOR_Task_q6_t4 = "Marcar el cuarto surtidor de gas (GPS 8276;4009)",
+   IGUI_TOUBIB_Task_q5_t2 = "Acércate al restaurante Dirkerdam Woke Wok - Sector sureste de la ciudad (HORDE)",
+   IGUI_TOUBIB_Task_q7_t2 = "Llegar a la farmacia del Terapeuta - Centro del sector Oeste de la ciudad",
+   IGUI_TOUBIB_Task_q8_t2 = "Llegar al puesto militar de Muldraugh",
+
+
+
+
+
+   
 }

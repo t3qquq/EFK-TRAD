@@ -286,17 +286,6 @@ ContextMenu_DE = {
     ContextMenu_SD_FarmerPrefix_Before = "",
     ContextMenu_SD_FarmerPrefix_After = "",
 
-    ContextMenu_SD_RainingGoInside = "Es regnet. Es ist besser, nach drinnen zu gehen",
-    ContextMenu_SD_IGoRelax = "Ich schätze, ich werde mich ein wenig entspannen",
-    ContextMenu_SD_IGoGetWood = "Ich werde mal Holz holen gehen",
-    ContextMenu_SD_IGoPileCorpse = "Ich schätze, ich werde jetzt Leichen stapeln gehen",
-    ContextMenu_SD_IGoForage = "Ich nehme an, ich werde Essen holen gehen",
-    ContextMenu_SD_IGoChopWood = "Ich nehme an, ich werde Holz hacken gehen",
-    ContextMenu_SD_IGoFarm = "Ich nehme an, ich gehe wieder in die Landwirtschaft",
-    ContextMenu_SD_IGoGuard = "Ich nehme an, dass ich wieder zur Wache gehe",
-    ContextMenu_SD_IGoBackBase = "Ich nehme an, ich werde wieder zur Basis zurückkehren",
-    ContextMenu_SD_NoWoodHere = "Hier gibt es kein Holz",
-
     ContextMenu_SD_TakesItemFromGround_Before = "",
     ContextMenu_SD_TakesItemFromGround_After = "",
     ContextMenu_SD_ComeWithe_Before = "",
@@ -2143,4 +2132,25 @@ ContextMenu_DE = {
 	ContextMenu_Remove_Tank = "Panzer M2A1 entfernen", 
 	ContextMenu_Remove_Canister = "Entfernt / Kraftstoff",
 	ContextMenu_Install_Canister = "Eingebaut / Kraftstoff",
-     }
+
+   /**********************************************
+               AFTER C44 RELEASE
+               27/03/24
+               EDIT
+   ***********************************************/
+
+    ContextMenu_SD_RainingGoInside = "",
+    ContextMenu_SD_IGoRelax = "",
+    ContextMenu_SD_IGoGetWood = "",
+    ContextMenu_SD_IGoPileCorpse = "",
+    ContextMenu_SD_IGoForage = "",
+    ContextMenu_SD_IGoChopWood = "",
+    ContextMenu_SD_IGoFarm = "",
+    ContextMenu_SD_IGoGuard = "",
+    ContextMenu_SD_IGoBackBase = "",
+    ContextMenu_SD_NoWoodHere = "",
+
+
+
+
+}

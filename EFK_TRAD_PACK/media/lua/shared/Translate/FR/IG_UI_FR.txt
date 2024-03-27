@@ -104,10 +104,6 @@ IGUI_FR = {
    IGUI_PRAPOR_Task_q5_t5 = "Atteindre le camp militaire USEC de Riverside",
    IGUI_PRAPOR_Task_q5_t6 = "Trouver la tente de l'officier",
    IGUI_PRAPOR_Task_q5_t7 = "Cacher le dossier sécurisé",
-   IGUI_PRAPOR_Task_q6_t1 = " Marquer le premier distributeur de gaz (7143;3184)",
-   IGUI_PRAPOR_Task_q6_t2 = "Marquer le deuxième distributeur de gaz (6856;2723)",
-   IGUI_PRAPOR_Task_q6_t3 = "Marquer le troisième distributeur de gaz (7774;2732)",
-   IGUI_PRAPOR_Task_q6_t4 = "Marquer le quatrième distributeur de gaz (8276;4009)",
    IGUI_PRAPOR_Task_q7_t2 = "Atteindre le poste de police de Dirkerdam (centre de la partie ouest de Dirkerdam)",
    IGUI_PRAPOR_Task_q8_t2 = "Atteindre le poste de police de Dirkerdam (centre de la partie ouest de Dirkerdam)",
    IGUI_PRAPOR_Task_q8_t3 = "Vérifier les quatre portes ouest (vérifier et dégager)",
@@ -208,8 +204,6 @@ IGUI_FR = {
    IGUI_PRAPOR_Quest_No_More_Quest = "Je n'ai plus de travail pour toi. Revenez me voir plus tard.",
    IGUI_PRAPOR_Quest_Trade = "Jetez un coup d'œil à mon magasin",
    IGUI_PRAPOR_Quest_Exit = "Pas de problème, je comprends",
-
-   IGUI_PRAPOR_Add_Item = "Prenez ceci, cela pourrait vous aider à faire ce que j'ai demandé.",
 
    /****************************
          Quetes AUD
@@ -474,14 +468,11 @@ IGUI_FR = {
    IGUI_TOUBIB_Task_q4_t2 = "Atteindre le palais de justice de Rosewood",
    IGUI_TOUBIB_Task_q4_t3 = "Trouver la réserve d'eau",
    IGUI_TOUBIB_Task_q4_t4 = "Marquer la réserve d'eau",
-   IGUI_TOUBIB_Task_q5_t2 = "Approcher le restaurant Dirkerdam Woke Wok (x=7841 y=3543) (HORDE)",
    IGUI_TOUBIB_Task_q5_t3 = "Détruire la horde",
    IGUI_TOUBIB_Task_q5_t4 = "Sécuriser le bâtiment",
    IGUI_TOUBIB_Task_q6_t2 = "Trouver 4 injecteurs de morphine",
-   IGUI_TOUBIB_Task_q7_t2 = "Atteindre la pharmacie du Toubib (Centre de la partie West Dirkerdam)",
    IGUI_TOUBIB_Task_q7_t3 = "Trouver le cabinet du Toubib",
    IGUI_TOUBIB_Task_q7_t4 = "Rechercher le cas",
-   IGUI_TOUBIB_Task_q8_t2 = "Atteindre l'avant-poste militaire de Muldraugh (extrémité nord de la ville)",
    IGUI_TOUBIB_Task_q8_t3 = "Trouver la tente de communication",
    IGUI_TOUBIB_Task_q8_t4 = "Rechercher le dossier sécurisé",
    IGUI_TOUBIB_Task_q9_t2 = "Trouver 15 boîtes de conserve de bœuf (vous devez convertir les boîtes en kits avant de les rendre)",
@@ -1162,4 +1153,32 @@ IGUI_FR = {
    IGUI_EFK_Magazine_Illumination = "Illumination_FR.png",
    IGUI_EFK_Magazine_HealDocumentation = "EFK_heal_FR.png",
    IGUI_EFK_Magazine_HealDocumentation_text = "Documentation sur le système de guérison de l'EFK",
+
+   /**********************************************
+               AFTER C44 RELEASE
+               27/03/24
+               NEW
+   ***********************************************/
+
+   IGUI_Add_Item = "Tenez, prenez ceci, cela pourrait vous aider à faire ce que j'ai demandé",
+
+   /**********************************************
+               AFTER C44 RELEASE
+               27/03/24
+               EDIT
+   ***********************************************/
+
+   IGUI_PRAPOR_Task_q6_t1 = "Marquer le premier distributeur de gaz (GPS 7143;3184)",
+   IGUI_PRAPOR_Task_q6_t2 = "Marquer le deuxième distributeur de gaz (GPS 6856;2723)",
+   IGUI_PRAPOR_Task_q6_t3 = "Marquer le troisième distributeur de gaz (GPS 7774;2732)",
+   IGUI_PRAPOR_Task_q6_t4 = "Marquer le quatrième distributeur de gaz (GPS 8276;4009)",
+   IGUI_TOUBIB_Task_q5_t2 = "Approcher le restaurant Dirkerdam Woke Wok - Secteur sud-est de la ville (HORDE)",
+   IGUI_TOUBIB_Task_q7_t2 = "Atteindre la pharmacie du thérapeute - Centre du secteur Ouest de la ville",
+   IGUI_TOUBIB_Task_q8_t2 = "Atteindre l'avant-poste militaire de Muldraugh",
+
+
+
+
+
+   
 }

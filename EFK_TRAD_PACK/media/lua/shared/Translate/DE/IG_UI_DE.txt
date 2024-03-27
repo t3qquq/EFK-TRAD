@@ -104,10 +104,6 @@ IGUI_DE = {
    IGUI_PRAPOR_Task_q5_t5 = "Erreiche das USEC-Militärlager in Riverside",
    IGUI_PRAPOR_Task_q5_t6 = "Finde das Zelt des Offiziers",
    IGUI_PRAPOR_Task_q5_t7 = "Verstecke den sicheren Ordner",
-   IGUI_PRAPOR_Task_q6_t1 = "Den ersten Gasverteiler markieren  (7143;3184)",
-   IGUI_PRAPOR_Task_q6_t2 = "Zweiten Gasversorger markieren  (6856;2723)",
-   IGUI_PRAPOR_Task_q6_t3 = "Markieren Sie den dritten Gasverteiler (7774;2732)",
-   IGUI_PRAPOR_Task_q6_t4 = "Markieren Sie den vierten Gasverteiler (8276;4009)",
    IGUI_PRAPOR_Task_q7_t2 = "Polizeistation Dirkerdam (Zentrum des westlichen Teils von Dirkerdam) erreichen",
    IGUI_PRAPOR_Task_q8_t2 = "Polizeistation Dirkerdam (Zentrum des westlichen Teils von Dirkerdam) erreichen",
    IGUI_PRAPOR_Task_q8_t3 = "Überprüfen Sie die vier Westtore (überprüfen und räumen)",
@@ -208,8 +204,6 @@ IGUI_DE = {
    IGUI_PRAPOR_Quest_No_More_Quest = "Ich habe keine Aufträge mehr für dich. Komm später wieder zu mir",
    IGUI_PRAPOR_Quest_Trade = "Schau dir meinen Laden an",
    IGUI_PRAPOR_Quest_Exit = "Kein Problem, ich verstehe",
-
-   IGUI_PRAPOR_Add_Item = "Hier, nimm das, es könnte dir helfen, das zu tun, worum ich dich gebeten habe.",
 
    /****************************
          Quetes AUD
@@ -474,14 +468,11 @@ IGUI_DE = {
    IGUI_TOUBIB_Task_q4_t2 = "Erreiche das Gerichtsgebäude von Rosewood",
    IGUI_TOUBIB_Task_q4_t3 = "Finde das Wasserreservoir",
    IGUI_TOUBIB_Task_q4_t4 = "Markiere das Wasserreservoir",
-   IGUI_TOUBIB_Task_q5_t2 = "An das Restaurant Dirkerdam Woke Wok (x=7841 y=3543) (HORDE) heranfahren",
    IGUI_TOUBIB_Task_q5_t3 = "Vernichte die Horde",
    IGUI_TOUBIB_Task_q5_t4 = "Sichere das Gebäude",
    IGUI_TOUBIB_Task_q6_t2 = "Finde 4 Morphiuminjektoren",
-   IGUI_TOUBIB_Task_q7_t2 = "Erreiche die Apotheke des Toubib (Zentrum des Teils West Dirkerdam)",
    IGUI_TOUBIB_Task_q7_t3 = "Die Praxis des Toubibs finden",
    IGUI_TOUBIB_Task_q7_t4 = "Fall suchen",
-   IGUI_TOUBIB_Task_q8_t2 = "Erreichen Sie den militärischen Außenposten Muldraugh (nördliches Ende der Stadt)",
    IGUI_TOUBIB_Task_q8_t3 = "Finde das Kommunikationszelt",
    IGUI_TOUBIB_Task_q8_t4 = "Suche nach dem gesicherten Ordner",
    IGUI_TOUBIB_Task_q9_t2 = "Finde 15 Dosen Rindfleisch (du musst die Dosen in Kits umwandeln, bevor du sie zurückgibst)",
@@ -1162,4 +1153,32 @@ IGUI_DE = {
    IGUI_EFK_Magazine_Illumination = "Illumination.png",
    IGUI_EFK_Magazine_HealDocumentation = "EFK_heal.png",
    IGUI_EFK_Magazine_HealDocumentation_text = "Dokumentation über das EFK-Heilungssystem",
+
+   /**********************************************
+               AFTER C44 RELEASE
+               27/03/24
+               NEW
+   ***********************************************/
+
+   IGUI_Add_Item = "Hier nimm das, es könnte dir helfen, das zu tun, worum ich dich gebeten habe",
+
+   /**********************************************
+               AFTER C44 RELEASE
+               27/03/24
+               EDIT
+   ***********************************************/
+
+   IGUI_PRAPOR_Task_q6_t1 = "Markieren Sie die erste Zapfsäule (GPS 7143;3184)",
+   IGUI_PRAPOR_Task_q6_t2 = "Markieren Sie die zweite Zapfsäule (GPS 6856;2723)",
+   IGUI_PRAPOR_Task_q6_t3 = "Markieren Sie die dritte Zapfsäule (GPS 7774;2732)",
+   IGUI_PRAPOR_Task_q6_t4 = "Markieren Sie die vierte Zapfsäule (GPS 8276;4009)",
+   IGUI_TOUBIB_Task_q5_t2 = "Nähern Sie sich dem Dirkerdam Woke Wok Restaurant - Südostsektor der Stadt (HORDE)",
+   IGUI_TOUBIB_Task_q7_t2 = "Erreichen Sie die Apotheke des Therapeuten - Zentrum des Westsektors der Stadt",
+   IGUI_TOUBIB_Task_q8_t2 = "Erreichen Sie Muldraughs militärischen Außenposten",
+
+
+
+
+
+   
 }
