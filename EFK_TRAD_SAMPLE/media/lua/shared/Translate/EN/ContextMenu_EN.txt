@@ -286,17 +286,6 @@ ContextMenu_EN = {
     ContextMenu_SD_FarmerPrefix_Before = "",
     ContextMenu_SD_FarmerPrefix_After = "",
 
-    ContextMenu_SD_RainingGoInside = "It's raining. Better get inside",
-    ContextMenu_SD_IGoRelax = "Guess I'll relax for a bit",
-    ContextMenu_SD_IGoGetWood = "Guess I'll go gather some wood",
-    ContextMenu_SD_IGoPileCorpse = "Guess I'll go pile some corpses",
-    ContextMenu_SD_IGoForage = "Guess I'll go do some foraging",
-    ContextMenu_SD_IGoChopWood = "Guess I'll go chop some wood",
-    ContextMenu_SD_IGoFarm = "Guess I'll get back to Farming",
-    ContextMenu_SD_IGoGuard = "Guess I'll get back to Guarding",
-    ContextMenu_SD_IGoBackBase = "Guess I'll get back to base",
-    ContextMenu_SD_NoWoodHere = "No Wood around here",
-
     ContextMenu_SD_TakesItemFromGround_Before = "",
     ContextMenu_SD_TakesItemFromGround_After = "",
     ContextMenu_SD_ComeWithMe_Before = "",
@@ -2143,4 +2132,25 @@ ContextMenu_EN = {
 	ContextMenu_Remove_Tank		= "Remove M2A1 Tank",
 	ContextMenu_Remove_Canister	= "Removed / Fuel",
 	ContextMenu_Install_Canister	= "Installed / Fuel",
+
+   /**********************************************
+               AFTER C44 RELEASE
+               27/03/24
+               EDIT
+   ***********************************************/
+
+    ContextMenu_SD_RainingGoInside = "",
+    ContextMenu_SD_IGoRelax = "",
+    ContextMenu_SD_IGoGetWood = "",
+    ContextMenu_SD_IGoPileCorpse = "",
+    ContextMenu_SD_IGoForage = "",
+    ContextMenu_SD_IGoChopWood = "",
+    ContextMenu_SD_IGoFarm = "",
+    ContextMenu_SD_IGoGuard = "",
+    ContextMenu_SD_IGoBackBase = "",
+    ContextMenu_SD_NoWoodHere = "",
+
+
+
+
 }

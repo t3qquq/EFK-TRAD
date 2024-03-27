@@ -104,10 +104,6 @@ IGUI_EN = {
    IGUI_PRAPOR_Task_q5_t5 = "Reach the Riverside USEC Military Camp.",
    IGUI_PRAPOR_Task_q5_t6 = "Find the officer's tent.",
    IGUI_PRAPOR_Task_q5_t7 = "Hide the secure folder.",
-   IGUI_PRAPOR_Task_q6_t1 = "Mark the first gas dispenser (7143;3184)",
-   IGUI_PRAPOR_Task_q6_t2 = "Mark the second gas dispenser (6856;2723)",
-   IGUI_PRAPOR_Task_q6_t3 = "Mark the third gas dispenser (7774;2732)",
-   IGUI_PRAPOR_Task_q6_t4 = "Mark the fourth gas dispenser (8276;4009)",
    IGUI_PRAPOR_Task_q7_t2 = "Reach the Dirkerdam Police Station (Center of the West part of Dirkerdam).",
    IGUI_PRAPOR_Task_q8_t2 = "Reach the Dirkerdam Police Station (Center of the West part of Dirkerdam).",
    IGUI_PRAPOR_Task_q8_t3 = "Check the four West gates (check and clear).",
@@ -208,8 +204,6 @@ IGUI_EN = {
    IGUI_PRAPOR_Quest_No_More_Quest = "I don't have any more work for you. Come back to me later.",
    IGUI_PRAPOR_Quest_Trade = "Take a look at my store",
    IGUI_PRAPOR_Quest_Exit = "No problem, i understand",
-
-   IGUI_PRAPOR_Add_Item = "Here take this, it might help you do what I asked.",
 
    /****************************
          Quetes AUD
@@ -474,14 +468,11 @@ IGUI_EN = {
    IGUI_TOUBIB_Task_q4_t2 = "Reach the court house of Rosewood",
    IGUI_TOUBIB_Task_q4_t3 = "Find the water reserve",
    IGUI_TOUBIB_Task_q4_t4 = "Mark the water reserve",
-   IGUI_TOUBIB_Task_q5_t2 = "Approach the Dirkerdam Woke Wok Restaurant (x=7841 y=3543) (HORDE)",
    IGUI_TOUBIB_Task_q5_t3 = "Destroy the horde",
    IGUI_TOUBIB_Task_q5_t4 = "Secure the building",
    IGUI_TOUBIB_Task_q6_t2 = "Deliver 4 morphine injector",
-   IGUI_TOUBIB_Task_q7_t2 = "Reach Therapist's pharmacy (Center of the West Dirkerdam part)",
    IGUI_TOUBIB_Task_q7_t3 = "Find Therapist's office",
    IGUI_TOUBIB_Task_q7_t4 = "Search for the case",
-   IGUI_TOUBIB_Task_q8_t2 = "Reach Muldraugh's military outpost (North end of the town)",
    IGUI_TOUBIB_Task_q8_t3 = "Find the communication tent",
    IGUI_TOUBIB_Task_q8_t4 = "Search for the secure folder",
    IGUI_TOUBIB_Task_q9_t2 = "Deliver 15 Beef Cans kits (You must convert this items into kits before returning its)",
@@ -1162,4 +1153,32 @@ IGUI_EN = {
    IGUI_EFK_Magazine_Illumination = "Illumination.png",
    IGUI_EFK_Magazine_HealDocumentation = "EFK_heal.png",
    IGUI_EFK_Magazine_HealDocumentation_text = "Documentation about the Healing system of EFK",
+
+   /**********************************************
+               AFTER C44 RELEASE
+               27/03/24
+               NEW
+   ***********************************************/
+
+   IGUI_Add_Item = "Here take this, it might help you do what I asked.",
+
+   /**********************************************
+               AFTER C44 RELEASE
+               27/03/24
+               EDIT
+   ***********************************************/
+
+   IGUI_PRAPOR_Task_q6_t1 = "Mark the first gas dispenser (GPS 7143;3184)",
+   IGUI_PRAPOR_Task_q6_t2 = "Mark the second gas dispenser (GPS 6856;2723)",
+   IGUI_PRAPOR_Task_q6_t3 = "Mark the third gas dispenser (GPS 7774;2732)",
+   IGUI_PRAPOR_Task_q6_t4 = "Mark the fourth gas dispenser (GPS 8276;4009)",
+   IGUI_TOUBIB_Task_q5_t2 = "Approach the Dirkerdam Woke Wok Restaurant - South East sector of the city (HORDE)",
+   IGUI_TOUBIB_Task_q7_t2 = "Reach Therapist's pharmacy - Center of the West sector of the city",
+   IGUI_TOUBIB_Task_q8_t2 = "Reach Muldraugh's military outpost",
+
+
+
+
+
+   
 }
