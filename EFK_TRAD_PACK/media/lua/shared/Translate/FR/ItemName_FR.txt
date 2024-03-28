@@ -662,7 +662,23 @@ ItemName_FR = {
 
         ItemName_Base.Pop2 = "Canette de soda RatCola",
         ItemName_Base.EFK_Salewa_kit = "Kit de premiers secours Salewa Pack",
-
-
+        ItemName_Base.EFK_HealDocumentation = "EFK Heal Documentation",
+        ItemName_Base.EFK_PraporInfo_Q2 = "Informations Prapor Quest 2",
+        ItemName_Base.EFK_PraporInfo_Q3 = "Informations Prapor Quest 3",
+        ItemName_Base.EFK_PraporInfo_Q4 = "Informations Prapor Quest 4",
+        ItemName_Base.EFK_PraporInfo_Q5 = "Informations Prapor Quest 5",
+        ItemName_Base.EFK_PraporInfo_Q7 = "Informations Prapor Quest 7",
+        ItemName_Base.EFK_PraporInfo_Q9 = "Informations Prapor Quest 9",
+        ItemName_Base.EFK_ToubibInfo_Q4 = "Informations Toubib Quest 4",
+        ItemName_Base.EFK_ToubibInfo_Q5 = "Informations Toubib Quest 5",
+        ItemName_Base.EFK_ToubibInfo_Q7 = "Informations Toubib Quest 7",
+        ItemName_Base.EFK_ToubibInfo_Q8 = "Informations Toubib Quest 8",
+        ItemName_Base.EFK_SkierInfo_Q2 = "Informations Skier Quest 2",
+        ItemName_Base.EFK_SkierInfo_Q3 = "Informations Skier Quest 3",
+        ItemName_Base.EFK_SkierInfo_Q5 = "Informations Skier Quest 5",
+        ItemName_Base.EFK_SkierInfo_Q6 = "Informations Skier Quest 6",
+        ItemName_Base.EFK_SkierInfo_Q7 = "Informations Skier Quest 7",
+        ItemName_Base.EFK_SkierInfo_Q8 = "Informations Skier Quest 8",
+        ItemName_Base.EFK_SkierInfo_Q9 = "Informations Skier Quest 9",
 
 }

@@ -662,7 +662,23 @@ ItemName_Base.Bag_ArmyMedkit = "Bolsa médica",
 
         ItemName_Base.Pop2 = "Lata de refresco RatCola",
         ItemName_Base.EFK_Salewa_kit = "Pack botiquín Salewa",
-
-
+        ItemName_Base.EFK_HealDocumentation = "Documentación de curación EFK",
+        ItemName_Base.EFK_PraporInfo_Q2 = "Informaciones Prapor Búsqueda 2",
+        ItemName_Base.EFK_PraporInfo_Q3 = "Informaciones Prapor Búsqueda 3",
+        ItemName_Base.EFK_PraporInfo_Q4 = "Información Prapor Búsqueda 4",
+        ItemName_Base.EFK_PraporInfo_Q5 = "Información Prapor Búsqueda 5",
+        ItemName_Base.EFK_PraporInfo_Q7 = "Información Prapor Búsqueda 7",
+        ItemName_Base.EFK_PraporInfo_Q9 = "Información Prapor Búsqueda 9",
+        ItemName_Base.EFK_ToubibInfo_Q4 = "Información Toubib Búsqueda 4",
+        ItemName_Base.EFK_ToubibInfo_Q5 = "Información Toubib Búsqueda 5",
+        ItemName_Base.EFK_ToubibInfo_Q7 = "Información Toubib Búsqueda 7",
+        ItemName_Base.EFK_ToubibInfo_Q8 = "Información Toubib Búsqueda 8",
+        ItemName_Base.EFK_SkierInfo_Q2 = "Información Skier Búsqueda 2",
+        ItemName_Base.EFK_SkierInfo_Q3 = "Información Skier Búsqueda 3",
+        ItemName_Base.EFK_SkierInfo_Q5 = "Información Skier Búsqueda 5",
+        ItemName_Base.EFK_SkierInfo_Q6 = "Información Skier Búsqueda 6",
+        ItemName_Base.EFK_SkierInfo_Q7 = "Información Skier Búsqueda 7",
+        ItemName_Base.EFK_SkierInfo_Q8 = "Información Skier Búsqueda 8",
+        ItemName_Base.EFK_SkierInfo_Q9 = "Información Skier Búsqueda 9",
 
 }

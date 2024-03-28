@@ -662,7 +662,23 @@ ItemName_RU = {
 
         ItemName_Base.Pop2 = "Банка газировки RatCola",
         ItemName_Base.EFK_Salewa_kit = "Аптечка Salewa",
-
-
+        ItemName_Base.EFK_HealDocumentation = "Документация по исцелению EFK",
+        ItemName_Base.EFK_PraporInfo_Q2 = "Информации Прапор Квест 2",
+        ItemName_Base.EFK_PraporInfo_Q3 = "Информация Прапор Квест 3",
+        ItemName_Base.EFK_PraporInfo_Q4 = "Информация Прапор Квест 4",
+        ItemName_Base.EFK_PraporInfo_Q5 = "Информация Прапор Квест 5",
+        ItemName_Base.EFK_PraporInfo_Q7 = "Информация Прапор Квест 7",
+        ItemName_Base.EFK_PraporInfo_Q9 = "Информация Прапор Квест 9",
+        ItemName_Base.EFK_ToubibInfo_Q4 = "Информация Тубиб Квест 4",
+        ItemName_Base.EFK_ToubibInfo_Q5 = "Информации Тубиб Квест 5",
+        ItemName_Base.EFK_ToubibInfo_Q7 = "Информация Тубиб Квест 7",
+        ItemName_Base.EFK_ToubibInfo_Q8 = "Информации Тубиб Квест 8",
+        ItemName_Base.EFK_SkierInfo_Q2 = "Информация Skier Квест 2",
+        ItemName_Base.EFK_SkierInfo_Q3 = "Информация Skier Квест 3",
+        ItemName_Base.EFK_SkierInfo_Q5 = "Информация Skier Квест 5",
+        ItemName_Base.EFK_SkierInfo_Q6 = "Информация Skier Квест 6",
+        ItemName_Base.EFK_SkierInfo_Q7 = "Информация Skier Квест 7",
+        ItemName_Base.EFK_SkierInfo_Q8 = "Информация Skier Квест 8",
+        ItemName_Base.EFK_SkierInfo_Q9 = "Информация Skier Квест 9",
 
 }
