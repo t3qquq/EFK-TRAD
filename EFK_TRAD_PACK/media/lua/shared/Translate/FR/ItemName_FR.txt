@@ -156,7 +156,7 @@ ItemName_FR = {
         ItemName_Base.EFK_TV-110 = "Wartech TV-110 plate carrier",
         ItemName_Base.EFK_Alpha = "ANA Tactical Alpha chest rig",
         ItemName_Base.EFK_BlackRock = "BlackRock chest rig",
-        Nom de l'article_Base.EFK_TV-104 = "Porte-bagages WARTECH MK3 TV-104",
+        ItemName_Base.EFK_TV-104 = "Porte-bagages WARTECH MK3 TV-104",
         ItemName_Base.EFK_Stich_Mk2 = "Stich Profi MK2 chest rig",
         ItemName_Base.EFK_Azimut = "Harnais de poitrine Azimut SS Zhuk",
         ItemName_Base.EFK_Commando = "Harnais de poitrine BlackHawk ! Commando",
@@ -688,5 +688,19 @@ ItemName_FR = {
 
         ItemName_Base.EFK_TOZ106_SKIER = "TOZ-106 Fusil de chasse à verrou 20ga",
         ItemName_Base.EFK_TOZ106_SKIER_Fold = "TOZ-106 Fusil de chasse à verrou 20ga (Replié)",
+
+        ItemName_Base.EFK_AKS-74N_MK1 = "Arme à feu personnalisée AKS-74N MK1",
+        ItemName_Base.EFK_P226R_MK1 = "Arme à feu personnalisée P226R MK1",
+        ItemName_Base.EFK_AK-105_MK1 = "Arme à feu personnalisée AK-105 MK1",
+        ItemName_Base.EFK_Vector_9x19_MK1 = "Arme à feu personnalisée Kriss Vector 9x19 MK1",
+        ItemName_Base.EFK_MPX_MK1 = "Arme à feu personnalisée MPX MK1",
+        ItemName_Base.EFK_RSASS_MK1 = "Arme à feu personnalisée RSASS MK1",
+        ItemName_Base.EFK_HK416A5_MK1 = "Arme à feu personnalisée HK 416A5 MK1",
+        ItemName_Base.EFK_ASVAL_MK1 = "Arme à feu personnalisée AS VAL MK1",
+        ItemName_Base.EFK_DVL_MK1 = "Arme à feu personnalisée DVL MK1",
+        ItemName_Base.EFK_AK-102_MK1 = "Arme à feu personnalisée AK-102 MK1",
+        ItemName_Base.EFK_AKMN_MK1 = "Arme à feu personnalisée AKMN MK1",
+        ItemName_Base.EFK_SVDS_MK1 = "Arme à feu personnalisée SVDS MK1",
+        ItemName_Base.EFK_M1A_MK1 = "Arme à feu personnalisée M1A MK1",
 
 }
