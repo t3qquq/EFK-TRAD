@@ -681,4 +681,12 @@ ItemName_FR = {
         ItemName_Base.EFK_SkierInfo_Q8 = "Informations Skier Quest 8",
         ItemName_Base.EFK_SkierInfo_Q9 = "Informations Skier Quest 9",
 
+   /**********************************************
+               28/03/24
+               NEW
+   ***********************************************/
+
+        ItemName_Base.EFK_TOZ106_SKIER = "TOZ-106 Fusil de chasse à verrou 20ga",
+        ItemName_Base.EFK_TOZ106_SKIER_Fold = "TOZ-106 Fusil de chasse à verrou 20ga (Replié)",
+
 }

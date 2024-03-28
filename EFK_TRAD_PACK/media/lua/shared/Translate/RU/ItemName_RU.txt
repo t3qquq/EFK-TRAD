@@ -681,4 +681,12 @@ ItemName_RU = {
         ItemName_Base.EFK_SkierInfo_Q8 = "Информация Skier Квест 8",
         ItemName_Base.EFK_SkierInfo_Q9 = "Информация Skier Квест 9",
 
+   /**********************************************
+               28/03/24
+               NEW
+   ***********************************************/
+
+        ItemName_Base.EFK_TOZ106_SKIER = "Дробовик ТОЗ-106 20га",
+        ItemName_Base.EFK_TOZ106_SKIER_Fold = "Дробовик ТОЗ-106 20га (складное)",
+
 }

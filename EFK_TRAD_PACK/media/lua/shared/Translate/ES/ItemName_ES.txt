@@ -681,4 +681,12 @@ ItemName_Base.Bag_ArmyMedkit = "Bolsa médica",
         ItemName_Base.EFK_SkierInfo_Q8 = "Información Skier Búsqueda 8",
         ItemName_Base.EFK_SkierInfo_Q9 = "Información Skier Búsqueda 9",
 
+   /**********************************************
+               28/03/24
+               NEW
+   ***********************************************/
+
+        ItemName_Base.EFK_TOZ106_SKIER = "Escopeta de cerrojo TOZ-106 20ga",
+        ItemName_Base.EFK_TOZ106_SKIER_Fold = "TOZ-106 escopeta de cerrojo 20ga (Plegada)",
+
 }

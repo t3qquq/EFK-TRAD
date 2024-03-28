@@ -1176,6 +1176,13 @@ IGUI_DE = {
    IGUI_TOUBIB_Task_q7_t2 = "Erreichen Sie die Apotheke des Therapeuten - Zentrum des Westsektors der Stadt",
    IGUI_TOUBIB_Task_q8_t2 = "Erreichen Sie Muldraughs milit‰rischen Auﬂenposten",
 
+   /**********************************************
+               28/03/24
+               NEW
+   ***********************************************/
+
+   IGUI_PLAYER_TWO_Hours_BeforeDead = "Ich habe 2 Stunden Zeit, um von diesem Ort zu verschwinden.",
+
 
 
 

@@ -681,4 +681,12 @@ ItemName_DE = {
         ItemName_Base.EFK_SkierInfo_Q8 = "Informationen Skier Quest 8",
         ItemName_Base.EFK_SkierInfo_Q9 = "Informationen Skier Quest 9",
 
+   /**********************************************
+               28/03/24
+               NEW
+   ***********************************************/
+
+        ItemName_Base.EFK_TOZ106_SKIER = "TOZ-106 20ga Repetierflinte",
+        ItemName_Base.EFK_TOZ106_SKIER_Fold = "TOZ-106 20ga Repetierflinte (Zusammengeklappt)",
+
 }

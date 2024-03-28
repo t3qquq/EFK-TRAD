@@ -1176,6 +1176,13 @@ IGUI_ES = {
    IGUI_TOUBIB_Task_q7_t2 = "Llegar a la farmacia del Terapeuta - Centro del sector Oeste de la ciudad",
    IGUI_TOUBIB_Task_q8_t2 = "Llegar al puesto militar de Muldraugh",
 
+   /**********************************************
+               28/03/24
+               NEW
+   ***********************************************/
+
+   IGUI_PLAYER_TWO_Hours_BeforeDead = "Tengo 2 horas para salir de este lugar.",
+
 
 
 

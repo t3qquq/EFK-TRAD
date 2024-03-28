@@ -1176,6 +1176,13 @@ IGUI_FR = {
    IGUI_TOUBIB_Task_q7_t2 = "Atteindre la pharmacie du thérapeute - Centre du secteur Ouest de la ville",
    IGUI_TOUBIB_Task_q8_t2 = "Atteindre l'avant-poste militaire de Muldraugh",
 
+   /**********************************************
+               28/03/24
+               NEW
+   ***********************************************/
+
+   IGUI_PLAYER_TWO_Hours_BeforeDead = "J'ai deux heures pour quitter cet endroit.",
+
 
 
 
