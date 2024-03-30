@@ -38,9 +38,9 @@ IGUI_ES = {
    IGUI_EFK_contextMenu_areaName_Petroville = "Petroville",
    IGUI_EFK_contextMenu_areaName_Customs = "Aduanas",
    IGUI_EFK_contextMenu_areaName_Usine = "Fábrica",
-   IGUI_EFK_contextMenu_areaName_Bois = "Madera",
+   IGUI_EFK_contextMenu_areaName_Woods = "Madera",
    IGUI_EFK_contextMenu_areaName_Exchanger = "Intercambiador",
-   IGUI_EFK_contextMenu_areaName_BaseMilitaire = "Base militar",
+   IGUI_EFK_contextMenu_areaName_MilitaryBase = "Base militar",
    IGUI_EFK_contextMenu_areaName_Labo = "Laboratorio",
    IGUI_EFK_contextMenu_areaName_MarchRidge = "Cresta de Marzo",
 
@@ -64,9 +64,9 @@ IGUI_ES = {
    IGUI_EFK_tooltip_insertion_Petroville = "¿Seguro que quieres empezar una misión en Petroville? Debes extraerte antes de 24 horas o morirás",
    IGUI_EFK_tooltip_insertion_Customs = "¿Seguro que quieres empezar una misión en Riverside? Debes extraerte en 24 horas o morirás",
    IGUI_EFK_tooltip_insertion_Usine = "¿Seguro que quieres empezar una misión en Riverside? Debes extraerte en 24 horas o morirás",
-   IGUI_EFK_tooltip_insertion_Bois = "¿Seguro que quieres empezar una misión en Riverside? Debes extraerte en 24 horas o morirás",
+   IGUI_EFK_tooltip_insertion_Woods = "¿Seguro que quieres empezar una misión en Riverside? Debes extraerte en 24 horas o morirás",
    IGUI_EFK_tooltip_insertion_Echange = "¿Seguro que quieres empezar una misión en Riverside? Debes extraerte en 24 horas o morirás",
-   IGUI_EFK_tooltip_insertion_BaseMilitaire = "¿Estás seguro de que quieres empezar una misión en Riverside? Debes extraerla antes de 24 horas o morirás",
+   IGUI_EFK_tooltip_insertion_MilitaryBase = "¿Estás seguro de que quieres empezar una misión en Riverside? Debes extraerla antes de 24 horas o morirás",
    IGUI_EFK_tooltip_insertion_Labo = "¿Estás seguro de que quieres empezar una misión en Riverside? Debe extraerse en 24 horas o morirá",
 
    IGUI_Identity = "Identidad: ",
