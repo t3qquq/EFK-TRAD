@@ -1,6 +1,6 @@
 IGUI_ES = {
 
- IGUI_ContainerTitle_efk_ordenador_de_escritorio = "Ordenador de escritorio EFK",
+   IGUI_ContainerTitle_efk_desktop_computer = "Ordenador de escritorio EFK",
 
    IGUI_EFK_Message_OnPlayerJoinHideout = "Por fin de vuelta al escondite",
 
@@ -18,7 +18,7 @@ IGUI_ES = {
    IGUI_EFK_Message_OnPlayerJoinInsertion_Petroville = "He llegado a Petroville",
    IGUI_EFK_Message_OnPlayerJoinInsertion_Customs = "He llegado a Aduanas",
    IGUI_EFK_Message_OnPlayerJoinInsertion_Usine = "He llegado a Fábrica",
-   IGUI_EFK_Message_OnPlayerJoinInsertion_Wood = "He llegado al bosque",
+   IGUI_EFK_Message_OnPlayerJoinInsertion_Woods = "He llegado al bosque",
    IGUI_EFK_Message_OnPlayerJoinInsertion_Interchange = "He llegado a Intercambio",
    IGUI_EFK_Message_OnPlayerJoinInsertion_MilitaryBase = "He llegado a la Reserva",
    IGUI_EFK_Message_OnPlayerJoinInsertion_Labo = "He llegado al Laboratorio",
@@ -69,8 +69,8 @@ IGUI_ES = {
    IGUI_EFK_tooltip_insertion_BaseMilitaire = "¿Estás seguro de que quieres empezar una misión en Riverside? Debes extraerla antes de 24 horas o morirás",
    IGUI_EFK_tooltip_insertion_Labo = "¿Estás seguro de que quieres empezar una misión en Riverside? Debe extraerse en 24 horas o morirá",
 
-   IGUI_Identidad = "Identidad: ",
-   IGUI_Reputación = "Reputación: ",
+   IGUI_Identity = "Identidad: ",
+   IGUI_Reputation = "Reputación: ",
    IGUI_Decline = "Declinar",
    IGUI_Accept = "Aceptar",
    IGUI_Talk_Mission = "Vengo a hablar de una misión",
@@ -116,7 +116,7 @@ IGUI_ES = {
    IGUI_PRAPOR_Task_q10_t2 = "Encuentra 3 kits de cargadores 5.45x39 Drum (Debes convertir los cargadores en kits antes de devolverlos)",
 
    IGUI_PRAPOR_Quest_Accepted = "¡Sabía que me ayudarías! Vuelve a verme cuando hayas terminado",
-   IGUI_PRAPOR_Quest_Accepted_variant = "Vuelve a verme cuando hayas terminado",
+   IGUI_PRAPOR_Quest_Accepted_variante= "Vuelve a verme cuando hayas terminado",
    IGUI_PRAPOR_Quest_Good_Work = "Buen trabajo",
    IGUI_PRAPOR_Quest_Decline_Reaction = "Muy bien. Vuelve si cambias de opinión",
 
@@ -241,7 +241,7 @@ IGUI_ES = {
    IGUI_AUD_Talk_Life_Choice_Rest = "COIN REPOS",
    IGUI_AUD_Talk_Life_Choice_Heating = "CALENTAMIENTO",
    IGUI_AUD_Talk_Life_Choice_Lavatory = "SANITARIO",
-   IGUI_AUD_Talk_Life_Choice_cocina = "COMIDA",
+   IGUI_AUD_Talk_Life_Choice_kitchen = "COMIDA",
    IGUI_AUD_Talk_Life_Choice_Library = "BIBLIOTECA",
 
    IGUI_AUD_Talk_Craft_Answer = "Sí, ok, ¿qué puedo hacer por usted?",
@@ -255,17 +255,17 @@ IGUI_ES = {
    IGUI_AUD_Talk_Logi_Choice_Stash = "RESERVA",
    IGUI_AUD_Talk_Logi_Choice_Water = "COLECTOR DE AGUA",
    IGUI_AUD_Talk_Logi_Choice_Vents = "VENTILACIÓN",
-   IGUI_AUD_Talk_Logi_Choice_Defectuoso = "PARED ABIME",
+   IGUI_AUD_Talk_Logi_Choice_Defective = "PARED ABIME",
 
    IGUI_AUD_Talk_Tech_Answer = "Si, ok, ¿en qué puedo ayudarlo?",
-   IGUI_AUD_Talk_Tech_Choice_Iluminación = "ILUMINACIÓN",
+   IGUI_AUD_Talk_Tech_Choice_Illumination = "ILUMINACIÓN",
    IGUI_AUD_Talk_Tech_Choice_Solar = "ENERGIA SOLAR",
    IGUI_AUD_Talk_Tech_Choice_Bitcoin = "GRANJA BITCOIN",
    IGUI_AUD_Talk_Tech_Choice_Filtering = "UNIDAD FILTRADORA DE AIRE",
    IGUI_AUD_Talk_Tech_Choice_Intelligence = "CENTRO DE INFORMACION",
 
-   IGUI_AUD_Talk_Defensa_Respuesta = "Sí, ok, ¿en qué puedo ayudarle?",
-   IGUI_AUD_Talk_Defensa_Choice_Seguridad = "SEGURIDAD",
+   IGUI_AUD_Talk_Defense_Answer = "Sí, ok, ¿en qué puedo ayudarle?",
+   IGUI_AUD_Talk_Defensa_Choice_Security = "SEGURIDAD",
    IGUI_AUD_Talk_Defense_Choice_Shooting = "PUESTO DE TIRO",
    IGUI_AUD_Talk_Defense_Choice_Weapon = "SHOOTING STAND",
 
@@ -273,7 +273,7 @@ IGUI_ES = {
    IGUI_AUD_Quest_Accepted = "Vuelve a mi con todo lo que necesitamos para construir juntos",
    IGUI_AUD_Quest_Broom_Accepted = "¡Buena cosa! ¡Es hora de sacar la escoba y el cepillo! Ah, y vamos a necesitar unas cuantas cosas para empezar a construir lo mínimo",   
    IGUI_AUD_Quest_Completed = "Buen trabajo, este lugar se ve un poco mejor ahora",
-   IGUI_AUD_Quest_Completed_Variant = "Te va a encantar tu nuevo hogar",
+   IGUI_AUD_Quest_Completed_variante= "Te va a encantar tu nuevo hogar",
 
    IGUI_AUD_Vents_Quest_1_Name = "Mejorando la casa - Ventilación 1",
    IGUI_AUD_Vents_Quest_1_Desc = "Primera mejora de la ventilación",
@@ -366,7 +366,7 @@ IGUI_ES = {
    ****************************/
 
    IGUI_TOUBIB_Bio_Welcome = "Hola, joven. ¿Quieres comerciar o buscar trabajo?",
-   IGUI_TOUBIB_Bio_Historia = "Historia: Jefe del Departamento de Traumatología del Hospital Central de Tarkov",
+   IGUI_TOUBIB_Bio_History = "Historia: Jefe del Departamento de Traumatología del Hospital Central de Tarkov",
    IGUI_TOUBIB_Flag_q5_completed = "Tienes una reputación lo suficientemente buena con la Toubib como para tener acceso a su tienda de nivel 2",
    IGUI_TOUBIB_Flag_q10_completed = "Tienes suficiente reputación con el Médico para tener acceso a su tienda de nivel 3",
    IGUI_TOUBIB_Healing_part1 = "Puedo curarte por un poco de dinero. ¿Te interesa?",
@@ -374,7 +374,7 @@ IGUI_ES = {
    IGUI_TOUBIB_Quest_Decline_Reaction = "Vuelve si necesitas algo",
 
    IGUI_TOUBIB_Quest_Accepted = "¡Sabía que me echarías una mano!",
-   IGUI_TOUBIB_Quest_Accepted_variant = "Vuelve a verme cuando hayas terminado",
+   IGUI_TOUBIB_Quest_Accepted_variante= "Vuelve a verme cuando hayas terminado",
    IGUI_TOUBIB_Quest_Decline_Reaction = "Bien. Vuelve si cambias de opinión",
    IGUI_TOUBIB_Quest_Good_Work = "Buen trabajo",
    IGUI_TOUBIB_Quest_No_More_Quest = "No tengo más trabajo para ti. Vuelve a verme más tarde",
@@ -488,7 +488,7 @@ IGUI_ES = {
    IGUI_SKIER_Flag_q10_completed = "Tienes suficiente reputación con el Skier para tener acceso a su tienda de nivel 3",
 
    IGUI_SKIER_Quest_Accepted = "¡Sabía que me echarías una mano!",
-   IGUI_SKIER_Quest_Accepted_variant = "Vuelve a verme cuando hayas terminado",
+   IGUI_SKIER_Quest_Accepted_variante= "Vuelve a verme cuando hayas terminado",
    IGUI_SKIER_Quest_Decline_Reaction = "OK. Vuelve si cambias de opinión",
    IGUI_SKIER_Quest_Good_Work = "Buen trabajo",
    IGUI_SKIER_Quest_No_More_Quest = "No tengo más trabajo para ti. Vuelve a verme más tarde",
@@ -610,7 +610,7 @@ IGUI_ES = {
    IGUI_JAEGER_Flag_q10_completed = "Tienes suficiente reputación con Jaeger para acceder a su tienda de nivel 3",
 
    IGUI_JAEGER_Quest_Accepted = "¡Sabía que me ayudarías!
-   IGUI_JAEGER_Quest_Accepted_variant = "Vuelve a verme cuando hayas terminado",
+   IGUI_JAEGER_Quest_Accepted_variante= "Vuelve a verme cuando hayas terminado",
    IGUI_JAEGER_Quest_Decline_Reaction = "OK. Vuelve si cambias de opinión",
    IGUI_JAEGER_Quest_Good_Work = "Buen trabajo",
    IGUI_JAEGER_Quest_No_More_Quest = "No tengo más trabajo para ti. Vuelve a verme más tarde",
@@ -716,13 +716,13 @@ IGUI_ES = {
    ****************************/
 
    IGUI_MECANIX_Bio_Welcome = "Saludos. ¿Buscas comerciar o encontrar trabajo?",
-   IGUI_MECANIX_Bio_Historia = "Historia: Antiguo capataz de una planta química que, desde el inicio del conflicto, se dedicó a la modificación de armas, reparación y mantenimiento de equipos y tecnología complejos. Prefiere una vida clandestina en solitario y opera con discreción, anteponiendo las tareas complicadas y desafiantes a todo lo demás",
+   IGUI_MECANIX_Bio_History = "Historia: Antiguo capataz de una planta química que, desde el inicio del conflicto, se dedicó a la modificación de armas, reparación y mantenimiento de equipos y tecnología complejos. Prefiere una vida clandestina en solitario y opera con discreción, anteponiendo las tareas complicadas y desafiantes a todo lo demás",
    IGUI_MECANIX_Flag_q5_completed = "Tienes suficiente reputación con Mecanix para acceder a su taller de nivel 2",
    IGUI_MECANIX_Flag_q10_completed = "Tienes suficiente reputación con Mecanix para obtener acceso a su almacén de nivel 3",
    IGUI_MECANIX_Talk_Firearm = "Estoy aquí para hablar sobre la personalización de armas de fuego",
 
    IGUI_MECANIX_Quest_Accepted = "¡Sabía que me ayudarías!
-   IGUI_MECANIX_Quest_Accepted_variant = "Vuelve a verme cuando hayas terminado",
+   IGUI_MECANIX_Quest_Accepted_variante = "Vuelve a verme cuando hayas terminado",
    IGUI_MECANIX_Quest_Decline_Reaction = "OK, entonces. Vuelve si cambias de opinión",
    IGUI_MECANIX_Quest_Good_Work = "Buen trabajo",
 
@@ -892,7 +892,7 @@ IGUI_ES = {
    IGUI_PEACEKEEPER_Flag_q10_completed = "Tienes suficiente reputación con el Pacificador para tener acceso a su tienda de nivel 3",
 
    IGUI_PEACEKEEPER_Quest_Accepted = "¡Sabía que me ayudarías! Vuelve a verme cuando hayas terminado",
-   IGUI_PEACEKEEPER_Quest_Accepted_variant = "Vuelve a verme cuando hayas terminado",
+   IGUI_PEACEKEEPER_Quest_Accepted_variante= "Vuelve a verme cuando hayas terminado",
    IGUI_PEACEKEEPER_Quest_Decline_Reaction = "Muy bien, entonces. Vuelve si cambias de opinión",
    IGUI_PEACEKEEPER_Quest_Good_Work = "Buen trabajo,
 
@@ -928,15 +928,15 @@ IGUI_ES = {
    ****************************/
 
    IGUI_RAGMAN_Bio_Welcome = "Hola soldado. ¿Esto es un oficio o un trabajo?",
-   IGUI_RAGMAN_Bio_Historia = "Historia: Solía trabajar como gerente en un centro comercial a las afueras de Tarkov. En la actualidad, se dedica principalmente a la venta de ropa y equipamiento, desde gafas de sol hasta chalecos antibalas",
+   IGUI_RAGMAN_Bio_History = "Historia: Solía trabajar como gerente en un centro comercial a las afueras de Tarkov. En la actualidad, se dedica principalmente a la venta de ropa y equipamiento, desde gafas de sol hasta chalecos antibalas",
    IGUI_RAGMAN_Flag_q5_completed = "Tienes suficiente reputación con Ragman para acceder a su tienda de nivel 2",
    IGUI_RAGMAN_Flag_q10_completed = "Tienes suficiente reputación con Ragman para tener acceso a su tienda de nivel 3",
 
    IGUI_RAGMAN_Quest_Accepted = "Sabía que me ayudarías. Vuelve a verme cuando hayas hecho algún progreso",
-   IGUI_RAGMAN_Quest_Accepted_variant = "Vuelve a verme cuando hayas progresado",
+   IGUI_RAGMAN_Quest_Accepted_variante= "Vuelve a verme cuando hayas progresado",
    IGUI_RAGMAN_Quest_Decline_Reaction = "Ok. Avísame si cambias de opinión",
    IGUI_RAGMAN_Talk_Refuse = "¡Hola a ti, amigo mío! Oh, ¿estás buscando trabajo? Tengo trabajo para tipos como tú, pero prefiero trabajar con tipos que sepan vestirse y protegerse. Vuelve a verme cuando tengas un poco más de conocimientos de costura, y volveremos a hablar".
-   IGUI_RAGMAN_Quest_Buen_Trabajo = "Una cosa bien hecha",   
+   IGUI_RAGMAN_Quest_Good_Work = "Una cosa bien hecha",   
 
    IGUI_RAGMAN_Quest_1_Name = "Ragman 1 - Hacer ULTRA grande otra vez",
    IGUI_RAGMAN_Quest_1_Desc = "Imagina cuanta gente había en Ultra, madres con niños, parejas, de todo, todos estaban bien atendidos. Era la hostia de guay, había mucho movimiento, seguro que lo recuerdas si eres de aquí. Pero me desvío hacia la nostalgia, no hay tiempo para eso, vamos a seguir con las cosas, yo. Hoy en día Ultra está lleno de carroñeros que roban todo lo que quieren. Hazle un favor al mundo, limpia Ultra de estos bastardos, así podré enviar a mis chicos allí. Tengo un regalo para ti, si estás dispuesto a hacerlo",
@@ -1048,7 +1048,7 @@ IGUI_ES = {
    ****************************/
 
    IGUI_TANCRED_Bio_Welcome = "Hola, ¿necesitas ayuda?",
-   IGUI_TANCRED_Bio_Historia = "Historia: Un tipo simpático que quiere ayudarte a jugar a Escape From Knox County",
+   IGUI_TANCRED_Bio_History = "Historia: Un tipo simpático que quiere ayudarte a jugar a Escape From Knox County",
 
    IGUI_TANCRED_MENU_INIT_EFK = "¿Qué es el proyecto Escape From Knox County?",
    IGUI_TANCRED_MENU_INIT_Gameplay = "¿Puedes ayudarme a entender cómo se juega a Escape From Knox County?",
@@ -1184,6 +1184,92 @@ IGUI_ES = {
    IGUI_PLAYER_TWO_Hours_BeforeDead = "Tengo 2 horas para salir de este lugar.",
 
 
+   IGUI_MECANIX_Firearm_Quest_8_Name = "Armero Mecanix - Parte 8",
+   IGUI_MECANIX_Firearm_Quest_8_Desc = "Tengo dos redes neuronales, una escanea las caras en las cámaras y las compara con la base de datos, y la otra monitoriza el comercio de criptodivisas y reacciona ante ello. Hoy he decidido crear una más, que monitorizará la temperatura, humedad, presión y otros parámetros de mi escondite, y entre otras cosas, responderá a mi estado de ánimo. A ver que tal me sale cuando termine. Hay un pedido de AKS-74N con piezas Zenit. La ergonomía debe ser superior a 65, la suma de retroceso inferior a 275, y el arma no debe ocupar más de 10 huecos. Y lo más importante, con un guardamanos B-30 con carril superior B-31S, empuñadura táctica RK-0, cargador AK-12, Klesch-2IKS, y DTK-1, Zenit por todas partes. Quizás, un regalo para un antiguo ciudadano de San Petersburgo",
+   IGUI_MECANIX_Firearm_Quest_8_part1 = "Tengo dos redes neuronales, una escanea las caras en las cámaras y las compara con la base de datos, y la otra monitorea el comercio de criptodivisas y reacciona a ello",
+   IGUI_MECANIX_Firearm_Quest_8_part2 = "Hoy he decidido crear una más, que monitorizará la temperatura, humedad, presión y otros parámetros de mi escondite, y entre otras cosas, responderá a mi estado de ánimo",
+   IGUI_MECANIX_Firearm_Quest_8_part3 = "Vamos a ver cómo resulta cuando haya terminado. Hay un pedido de AKS-74N con piezas Zenit. La ergonomía debe ser superior a 65, la suma de retroceso inferior a 275 y el arma no debe ocupar más de 10 huecos",
+   IGUI_MECANIX_Firearm_Quest_8_part4 = "Y lo más importante, con un guardamanos B-30 con carril superior B-31S, empuñadura táctica RK-0, cargador AK-12, Klesch-2IKS, y DTK-1, Zenit por todas partes. Quizás, un regalo para un antiguo ciudadano de San Petersburgo",
+
+   IGUI_MECANIX_Firearm_Quest_9_Name = "Mecanix Armero - Parte 9",
+   IGUI_MECANIX_Firearm_Quest_9_Desc = "Oh, hey. Ha surgido un asunto inusual. No suelo recibir encargos de pistolas, pero esta es una ocasión especial. Necesitamos una SIG P226R, empuñadura de madera Elite inoxidable, corredera Elite inoxidable, cargador extendido y una linterna. Ergonomía no inferior a 80, suma de retroceso no superior a 610. Un arma para verdaderos entusiastas",
+   IGUI_MECANIX_Firearm_Quest_9_part1 = "Oh, hey. Ha surgido un asunto inusual",
+   IGUI_MECANIX_Firearm_Quest_9_part2 = "No suelo recibir pedidos de pistolas, pero esta es una ocasión especial. Necesitamos una SIG P226R, empuñadura de madera Elite inoxidable, corredera Elite inoxidable, cargador extendido y una linterna",
+   IGUI_MECANIX_Firearm_Quest_9_part3 = "Ergonomía no inferior a 80, suma de retroceso no superior a 610. Un arma para verdaderos entusiastas",
+
+   IGUI_MECANIX_Firearm_Quest_10_Name = "Armero Mecanix - Parte 10",
+   IGUI_MECANIX_Firearm_Quest_10_Desc = "La llamé Lusya - la red neuronal, quiero decir. Así, cuando guardo silencio, lo hace bien e incluso me recuerda que duerma un poco cuando es necesario, pero en cuanto empiezo a hablar solo, intenta distraerme, poniendo música o algo así. Sin embargo, lo he entrenado con películas y frases de ellas. Por lo visto, esa reacción se nos presenta en las películas como la más adecuada, pero no en mi caso. Tendré que pensar qué estímulos son los mejores para imitar a la gente real, y no a la sociedad y sus estereotipos. Pero divago, monta ahora un AK-105, con silenciador y cargador de 60 balas. En cuanto a parámetros: alcance de mira superior a 800, ergonomía superior a 38, suma de retroceso inferior a 500, peso 4,8 kg o menos. Y compacta, como siempre, 8 huecos más o menos",
+   IGUI_MECANIX_Firearm_Quest_10_part1 = "La llamé Lusya - la red neuronal, quiero decir. Así, cuando guardo silencio, lo hace bien e incluso me recuerda que duerma un poco cuando es necesario, pero en cuanto empiezo a hablar solo, intenta distraerme, poniendo música o algo así",
+   IGUI_MECANIX_Firearm_Quest_10_part2 = "Sin embargo, lo entrené con películas y frases de ellas. Por lo visto, esa reacción se nos presenta en las películas como la más adecuada, pero no para mí",
+   IGUI_MECANIX_Firearm_Quest_10_part3 = "Tendré que pensar qué estímulos son los mejores para imitar a la gente real, y no a la sociedad y sus estereotipos. Pero divago, monta ahora un AK-105, con silenciador y cargador de 60 balas",
+   IGUI_MECANIX_Firearm_Quest_10_part4 = "En cuanto a parámetros: alcance de mira superior a 800, ergonomía superior a 38, suma de retroceso inferior a 500, peso 4,8 kg o menos. Y compacto, como siempre, 8 ranuras o así",
+
+   IGUI_MECANIX_Firearm_Quest_11_Name = "Armero Mecanix - Parte 11",
+   IGUI_MECANIX_Firearm_Quest_11_Desc = "Justo a tiempo, amigo. Si tienes tiempo, ayúdame con la personalización de un arma. Un cliente importante ha hecho un pedido de un subfusil KRISS Vector 9x19. Quiere que se equipe con una montura Mk.5 Modular Rail, una empuñadura Tactical Dynamics Skeletonized Foregrip, unas miras de hierro o un visor con un alcance de al menos 300 metros, un cargador con al menos 33 cartuchos y un silenciador. Ergonomía superior a 50 y retroceso inferior a 230. Gracias",
+   IGUI_MECANIX_Firearm_Quest_11_part1 = "Justo a tiempo, amigo. Si tienes tiempo, ayúdame con la personalización del arma",
+   IGUI_MECANIX_Firearm_Quest_11_part2 = "Un importante cliente ha hecho un pedido de un subfusil KRISS Vector 9x19",
+   IGUI_MECANIX_Firearm_Quest_11_part3 = "Quiere que esté equipada con un raíl modular Mk.5, una empuñadura esquelética Tactical Dynamics, unas miras de hierro o un visor con un alcance de al menos 300 metros, un cargador de al menos 33 cartuchos y un silenciador. Ergonomía superior a 50 y retroceso inferior a 230. Gracias",
+
+   IGUI_MECANIX_Firearm_Quest_12_Name = "Mecanix Armero - Parte 12",
+   IGUI_MECANIX_Firearm_Quest_12_Desc = "Bien, tenemos un pedido urgente aquí, no tenemos mucho tiempo. Un tipo se detuvo por aquí, dijo que quiere resolverlo con Reshala, que está operando en algún lugar alrededor de los dormitorios junto con la gente de la fábrica. Construirle un MPX, con la empuñadura de pistola esquelética de Tactical Dynamics, ocultafogonazos Annihilator, y linterna táctica Steiner LAS/TAC 2. Apunta a un alcance de mira de 300 o más, ergonomía por encima de 52, peso inferior a 4 kg, la suma de retroceso inferior a 225. Y no le digas a nadie por qué necesitas esta arma. Si Reshala se entera, no se pondrá muy contento, y sus chicos son bastante malos, todos sirvieron en el ejército antes de trabajar en la fábrica",
+   IGUI_MECANIX_Firearm_Quest_12_part1 = "Bien, tenemos un pedido urgente aquí, no tenemos mucho tiempo.",
+   IGUI_MECANIX_Firearm_Quest_12_part2 = "Un tipo se detuvo, dijo que quiere resolverlo con Reshala, que está operando en algún lugar alrededor de los dormitorios junto con gente de la fábrica."
+   IGUI_MECANIX_Firearm_Quest_12_part3 = "Constrúyele un MPX, con la empuñadura de pistola Skeletonized de Tactical Dynamics, el ocultador de flash Annihilator, y la linterna táctica Steiner LAS/TAC 2. Apunta a un alcance de 300 o más, una ergonomía superior a 52, un peso inferior a 4 kg y una suma de retroceso inferior a 225",
+   IGUI_MECANIX_Firearm_Quest_12_part3 = "Y no le digas a nadie por qué necesitas esta arma. Si Reshala se entera, no se pondrá muy contento, y sus chicos son bastante mezquinos, todos sirvieron en el ejército antes de trabajar en la fábrica", 
+
+   IGUI_MECANIX_Firearm_Quest_13_Name = "Armero Mecanix - Parte 13",
+   IGUI_MECANIX_Firearm_Quest_13_Desc = "¿Eres bueno escondiéndote? No lo suficientemente bueno como para que Sniper no te encuentre, creo. No envidio el tipo, Â¿CÃ³mo se llama, Brendan creo. Interesante, todos esos héroes del pasado que tanto admirábamos, ¿dónde se han ido todos? Â¿Por quÃ© todo el mundo se ha vuelto tan vacÃo? Â¿Por quÃ© ahora, con este caos alrededor, gente como Francotirador se convirtieron en hÃ©roes para nosotros? Â¿Por quÃ© hemos estado ignorando a semejantes perros de guerra, y ahora estamos deseando ser amigos de ellos? Â¿QuÃ© piensa usted? Tengo otro pedido, para un R11 RSASS. Con un alcance de 1500 o superior. Peso de 6,7 kg o menos. También necesita silenciador, ergonomía superior a 26, y suma de retroceso inferior a 300.",
+   IGUI_MECANIX_Firearm_Quest_13_part1 = "¿Eres bueno escondiéndote? No lo suficientemente bueno para que Francotirador no te encuentre, creo",
+   IGUI_MECANIX_Firearm_Quest_13_part2 = "No envidio al tipo, como se llama, Brendan creo. Interesante, todos esos héroes del pasado que tanto admirábamos, ¿dónde se han ido todos? Â¿Por quÃ© todo el mundo se ha vuelto tan vacÃo?",
+   IGUI_MECANIX_Firearm_Quest_13_part3 = "¿Por qué ahora, con este caos alrededor, gente como Francotirador se convirtieron en héroes para nosotros? Â¿Por quÃ© hemos estado ignorando a tales perros de guerra, y ahora estamos deseando ser amigos de ellos? Â¿QuÃ© opinas?", 
+   IGUI_MECANIX_Firearm_Quest_13_part4 = "Tengo otro pedido, para un R11 RSASS. Con un alcance de mira de 1500 o superior. Peso 6,7 kg o menos. También necesita silenciador, ergonomía superior a 26, y suma de retroceso inferior a 300." 
+
+   IGUI_MECANIX_Firearm_Quest_14_Name = "Mecanix Armero - Parte 14",
+   IGUI_MECANIX_Firearm_Quest_14_Desc = "Hola. Hay un nuevo pedido de un rifle HK 416A5 occidental. Requiere accesorios de color canela: Silenciador SureFire SOCOM556-RC2, empuñadura táctica Magpul RVG, mira holográfica EOTech EXPS3, empuñadura de pistola Magpul MOE, culata Magpul UBR GEN2, módulo táctico LA-5B/PEQ y un cargador con una capacidad mínima de 30 cartuchos. Ergonomía superior a 60, suma de retroceso inferior a 300, peso de 4 kilos o inferior. Como en las Fuerzas Especiales, ¿no? Ah, y trata de encontrar un rifle que no esté destrozado, el estado técnico debe ser de al menos el 80%",
+   IGUI_MECANIX_Firearm_Quest_14_part1 = "Hola. Hay un nuevo pedido de un rifle HK 416A5 occidental",
+   IGUI_MECANIX_Firearm_Quest_14_part2 = "Requiere accesorios de color canela: Silenciador SureFire SOCOM556-RC2, empuñadura táctica Magpul RVG, mira holográfica EOTech EXPS3, empuñadura de pistola Magpul MOE,",
+   IGUI_MECANIX_Firearm_Quest_14_part3 = "Culata Magpul UBR GEN2, módulo táctico LA-5B/PEQ, y un cargador con capacidad para al menos 30 cartuchos. Ergonomía superior a 60, suma de retroceso inferior a 300, peso 4 kilos o inferior. Como en las Fuerzas Especiales, ¿no?", 
+   IGUI_MECANIX_Firearm_Quest_14_part4 = "Ah, y trata de encontrar un rifle que no esté destrozado, el estado técnico debe ser de al menos el 80%.", 
+
+   IGUI_MECANIX_Firearm_Quest_15_Name = "Armero Mecanix - Parte 15",
+   IGUI_MECANIX_Firearm_Quest_15_Desc = "Mientras estaba ocupado con la red, empecé a preguntarme en qué nos diferenciamos de ella, y cuando podemos reemplazar nuestros cerebros efímeros con ese tipo de sistemas. ¿Qué opina, llegará ese momento algún día? Creo que sí, muy pronto. Ya no sabemos qué procesos ocurren dentro de las redes neuronales, sólo hay una señal de entrada y el resultado de sus acciones, y cómo ha aprendido con sus propias reglas internas, cableando sus propios enlaces neuronales dentro de sí mismo. ¿En qué se diferencia de nosotros? ¿Te encantaría vivir en un mundo en el que tus acciones sólo estuvieran limitadas por tu mente y tu imaginación? La verdad es que, en mi opinión, vivir en un mundo así no sería mejor que en el nuestro si no hay una meta. Y de dónde puede venir una meta si eres inmortal y omnipotente... Esta vez necesitamos una culata AS VAL. GL-SHOCK, dispositivo táctico AN/PEQ-15, visor nocturno NSPU-M y un cargador de 30 balas. Ergonomía superior a 33 y suma de retroceso inferior a 220",
+   IGUI_MECANIX_Firearm_Quest_15_part1 = "Mientras estaba ocupado con la red, empecé a preguntarme en qué nos diferenciamos de ella, y cuándo podremos sustituir nuestros efímeros cerebros por ese tipo de sistemas",
+   IGUI_MECANIX_Firearm_Quest_15_part2 = "¿Qué piensas, llegará ese momento algún día? Yo creo que sí, muy pronto. Ya no sabemos qué procesos ocurren dentro de las redes neuronales, sólo hay una señal de entrada y el resultado de sus acciones, y cómo ha aprendido con sus propias reglas internas, cableando sus propios enlaces neuronales dentro de sí misma."
+   IGUI_MECANIX_Firearm_Quest_15_part3 = "¿En qué se diferencia de nosotros? ¿Te encantaría vivir en un mundo en el que tus acciones sólo estuvieran limitadas por tu mente y tu imaginación? La verdad es que, creo, vivir en un mundo así no sería mejor que en el nuestro si no hay una meta", 
+   IGUI_MECANIX_Firearm_Quest_15_part4 = "¿Y de dónde puede venir una meta si eres inmortal y omnipotente... Esta vez necesitamos un AS VAL. GL-SHOCK, un dispositivo táctico AN/PEQ-15, una mira nocturna NSPU-M y un cargador de 30 balas", 
+   IGUI_MECANIX_Firearm_Quest_15_part5 = "Ergonomía superior a 33 y suma de retroceso inferior a 220", 
+
+   IGUI_MECANIX_Firearm_Quest_16_Name = "Armero Mecanix - Parte 16",
+   IGUI_MECANIX_Firearm_Quest_16_Desc = " He dicho demasiado la última vez. Me pasa cuando estoy un rato a solas con mis pensamientos. Se me ocurren muchas cosas mientras estoy aquí sentado calibrando las miras. Esa M4 resultó espléndida, me la quitaron de las manos en un momento. Un OSO se dejó caer por aquí hace poco, se hace llamar Sniper o algo así. Necesita un rifle de francotirador Lobaev DVL, con mira y dispositivo multi-láser. Con suma de retroceso inferior a 450, ergonomía superior a 40, y peso inferior a 6,7 kg. Dijo que tiene que ser un tiro 2000m. El tío va en serio, así que haced todo lo posible por hacer una construcción sólida",
+   IGUI_MECANIX_Firearm_Quest_16_part1 = "He dicho demasiado la última vez. Me pasa cuando estoy un rato a solas con mis pensamientos",
+   IGUI_MECANIX_Firearm_Quest_16_part2 = "Se me ocurren muchas cosas mientras estoy aquí sentado calibrando las miras. Esa M4 quedó espléndida, me la quitaron de las manos en un momento",
+   IGUI_MECANIX_Firearm_Quest_16_part3 = "Un OSO se dejó caer por aquí hace poco, se hace llamar Francotirador o algo así. Necesita un rifle de francotirador Lobaev DVL, con mira telescópica y dispositivo multi-láser",
+   IGUI_MECANIX_Firearm_Quest_16_part4 = "Con suma de retroceso inferior a 450, ergonomía superior a 40, y peso inferior a 6,7 kg. Dijo que tiene que ser un tiro 2000m. El tipo es serio, así que haz todo lo posible para hacer una construcción sólida",
+
+   IGUI_MECANIX_Firearm_Quest_17_Name = "Armero Mecanix - Parte 17",
+   IGUI_MECANIX_Firearm_Quest_17_Desc = "Hace mucho tiempo, una vez conocí al dueño de KIBA Arms, incluso fuimos juntos a una sauna, aunque yo no soy particularmente aficionado. Aquel día incluso se rompió una pierna intentando saltar desde el muelle. Jolly siempre soñaba con montar un campo de airsoft. Parece que su deseo se hizo realidad en Tarkov, el mejor y más grande campo de airsoft del mundo, con una pequeña diferencia: aquí, mueres y lo pierdes todo por una sola bala perdida. Monta un AK-102, con un dispositivo de reducción de conmoción Ferfrans CRD, empuñadura táctica Magpul AFG OD, linterna Zenit Klesch-2U, tubo tampón RPK-16 y el cargador Circle 10. La ergonomía debe ser superior a 70, la suma de retroceso inferior a 250, el alcance de la mira 800 o más. Asegúrate de que no ocupe más de 8 ranuras",
+   IGUI_MECANIX_Firearm_Quest_17_part1 = "Hace mucho tiempo, una vez conocí al dueño de KIBA Arms, incluso fuimos a una sauna juntos, aunque yo no soy particularmente aficionado a eso",
+   IGUI_MECANIX_Firearm_Quest_17_part2 = "Incluso se rompió la pierna tratando de saltar desde el muelle ese día. Jolly siempre soñó con montar un campo de airsoft. Parece que su deseo se hizo realidad en Tarkov, el mejor y más grande campo de airsoft del mundo, con una pequeña diferencia:",
+   IGUI_MECANIX_Firearm_Quest_17_part3 = "Aquí, mueres y pierdes todo por una sola bala perdida. Monta un AK-102, con un dispositivo de reducción de contusiones Ferfrans CRD, empuñadura táctica Magpul AFG OD, linterna Zenit Klesch-2U, tubo tampón RPK-16 y el cargador Circle 10",
+   IGUI_MECANIX_Firearm_Quest_17_part4 = "La ergonomía debe ser superior a 70, la suma de retroceso inferior a 250, el rango de visión 800 o más. Asegúrate de que no ocupa más de 8 ranuras",
+
+   IGUI_MECANIX_Firearm_Quest_18_Name = "Armero Mecanix - Parte 18",
+   IGUI_MECANIX_Firearm_Quest_18_Desc = " Quiero tratar de enseñar a Lusya para saber si alguien está mintiendo, si el resultado será al menos el 90% de precisión, será interesante escuchar a todos esos políticos y las ballenas TerraGroup, que han estado exagerando sobre sus ideales y objetivos nobles justo ayer, aseguró de los beneficios de nuestra zona económica y un futuro brillante por delante. ¿Cuánto de esto era una mentira concentrada? Creo que todo. Hay una solicitud de una edición Magpul AKMN. Es decir, el guardamanos, la culata y la empuñadura de la pistola tienen que ser Magpul. Todo en negro. Además, un freno de boca Rotor 43, empuñadura Magpul M-LOK AFG Tactical negra, y mira híbrida EOTech HHS-1. Suma de retroceso inferior a 350, ergonomía superior a 50, y peso de 5 kg o menos con alcance de mira de 500.",
+   IGUI_MECANIX_Firearm_Quest_18_part1 = "Quiero intentar enseñarle a Lusya a distinguir si alguien miente, si el resultado será al menos un 90% exacto, será interesante escuchar a todos esos políticos y ballenas de TerraGroup, que ayer mismo han estado exagerando sobre sus ideales y nobles objetivos, asegurando los beneficios de nuestra zona económica y un futuro brillante por delante",
+   IGUI_MECANIX_Firearm_Quest_18_part2 = "¿Cuánto de esto era una mentira concentrada? Creo que todo. Hay una solicitud de una edición Magpul AKMN. Es decir, el guardamanos, la culata y la empuñadura de la pistola tienen que ser Magpul",
+   IGUI_MECANIX_Firearm_Quest_18_part3 = "Todo en negro. Además, un freno de boca Rotor 43, empuñadura Magpul M-LOK AFG Tactical negra, y mira híbrida EOTech HHS-1. Suma de retroceso inferior a 350, ergonomía superior a 50, y peso de 5 kg o menos con alcance de mira de 500.",
+
+   IGUI_MECANIX_Firearm_Quest_19_Name = "Mecanix Armero - Parte 19",
+   IGUI_MECANIX_Firearm_Quest_19_Desc = "Hola, tengo un trabajo para ti. Necesito un SVDS con la siguiente configuración: culata Magpul UBR GEN2 negra, chasis SAG MK1, empuñadura de pistola Magpul MOE negra, visor March Tactical 3-24x42 FFP y un supresor. La ergonomía debe ser de al menos 15 y la suma de retroceso no superior a 500",
+   IGUI_MECANIX_Firearm_Quest_19_part1 = "Hola, tengo un trabajo para ti.",
+   IGUI_MECANIX_Firearm_Quest_19_part2 = "Necesito un SVDS con la siguiente configuración: culata Magpul UBR GEN2 negra, chasis SAG MK1, empuñadura Magpul MOE negra, visor March Tactical 3-24x42 FFP y un supresor.",
+   IGUI_MECANIX_Firearm_Quest_19_part3 = "La ergonomía debe ser de al menos 15 y la suma de retroceso no superior a 500",
+
+   IGUI_MECANIX_Firearm_Quest_20_Name = "Armero Mecanix - Parte 20",
+   IGUI_MECANIX_Firearm_Quest_20_Desc = "Esta es para Sniper, parece que está a punto de partir hacia algún bosque para cazar villanos durante una semana. A juzgar por el hecho de que empacÃ³ un infierno de una mochila con un MRE, firesteel, baterÃas y agua. La dejó en mi casa por ahora. Necesita una M1A, equipada con una montura UltiMAK M8 Forward Optic, visor Nightforce ATACR 7-35x56, mira reflex Micro T-1, dispositivo táctico Holosun LS321 y un cargador de 20 balas. Ergonomía superior a 20, suma de retroceso inferior a 400 y un peso total de 7,3 kg o inferior",
+   IGUI_MECANIX_Firearm_Quest_20_part1 = "Esta es para Sniper, parece que está a punto de salir al bosque a cazar villanos durante una semana",
+   IGUI_MECANIX_Firearm_Quest_20_part2 = "A juzgar por el hecho de que empacó un infierno de una mochila con un MRE, firesteel, baterías, y el agua ",
+   IGUI_MECANIX_Firearm_Quest_20_part3 = "Lo dejó en mi casa por ahora. Necesita una M1A, equipada con una montura UltiMAK M8 Forward Optic, mira Nightforce ATACR 7-35x56, mira reflex Micro T-1, dispositivo táctico Holosun LS321 y un cargador de 20 balas. Ergonomía superior a 20, suma de retroceso inferior a 400, y un peso total de 7,3 kg o inferior", 
 
 
 
