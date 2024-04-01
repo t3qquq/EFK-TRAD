@@ -18,11 +18,7 @@ ItemName_FR = {
         ItemName_Base.AI2Painkiller = "Medkit Painkiller",
         ItemName_Base.AI2Antibiotics = "Medkit Antibiotics",
         ItemName_Base.AI2Instructions = "Medkit Instructions",
-        ItemName_Base.ArmyBandage = "Army Bandage",
-        ItemName_Base.ArmyBandageDirty = "Bandage militaire sale",
-        ItemName_Base.ArmyAlcoholBandage = "Bandage stérile de l'armée",   
-        ItemName_Base.SterilizedBandage = "Bandage stérile",
-        ItemName_Base.SterilizedBandageDirty = "Bandage stérile sale",
+        ItemName_Base.EFK_AsepticBandage = "Bandage Sterile",
 
         ItemName_Base.9mmDrum = "9x19 Mag 50 rounds",
         ItemName_Base.9mmExtClip = "9x19 Mag 30 rounds",
@@ -78,7 +74,7 @@ ItemName_FR = {
         ItemName_Base.EFK_P1X42 = "VOMZ Pilad P1x42 Weaver reflex sight",
         ItemName_Base.EFK_MRS = "Walther MRS reflex sight",
         ItemName_Base.EFK_BurrisFF3 = "Burris FastFire 3 reflex sight",
-        ItemName_Base.EFK_Leapers_UTG = 'Leapers UTG reflex sight',
+        ItemName_Base.EFK_Leapers_UTG = "Leapers UTG reflex sight",
         ItemName_Base.EFK_HS401G5 = "Holosun HS401G5 reflex sight",
         ItemName_Base.EFK_ROMEO8T = "SIG Sauer ROMEO8T reflex sight",
         ItemName_Base.EFK_OKP-7_arrondi = "OKP-7 reflex sight (Dovetail)",
@@ -703,4 +699,25 @@ ItemName_FR = {
         ItemName_Base.EFK_SVDS_MK1 = "Arme à feu personnalisée SVDS MK1",
         ItemName_Base.EFK_M1A_MK1 = "Arme à feu personnalisée M1A MK1",
 
+   /**********************************************
+               01/04/24
+               EDIT
+   ***********************************************/
+
+        ItemName_Base.ArmyBandage = "Bandage Militaire",
+
+   /**********************************************
+               01/04/24
+               NEW
+   ***********************************************/
+
+        ItemName_Base.EFK_AsepticBandage = "Bandage Souillé",
+        ItemName_Base.EFK_Tourniquet = "Garrot Tourniquet",
+
 }
+
+
+
+
+
+
