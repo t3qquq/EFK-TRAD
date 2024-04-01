@@ -71,7 +71,6 @@ Recipes_EN = {
      Recipe_Sell_Glock_18C_9x19_machine_pistol = "Sell Glock 18C 9x19 machine pistol (154)",
      Recipe_Sell_Can_of_white_saltl_Pistol_Lebedev_PL-15 = "Sell Lebedev PL-15 9x19 pistol (93)",
      Recipe_Sell_SIG_MCX_.300_Blackout_assault_rifle = "Sell SIG MCX .300 Blackout assault rifle (460)",
-     Recipe_Sell_TOZ_Simonov_SKS_7.62x39_carbine = "Sell TOZ Simonov SKS 7.62x39 carbine (192)",
      Recipe_Sell_FN_Five-seveN_MK2_5.7x28_pistol = "Sell FN Five-seveN MK2 5.7x28 pistol (146)",
      Recipe_Sell_Glock_17_9x19_pistol = "Sell Glock 17 9x19 pistol (77)",
      Recipe_Sell_Glock_19X_9x19_pistol = "Sell Glock 19X 9x19 pistol (107)",
@@ -442,7 +441,6 @@ Recipes_EN = {
      Recipe_Sell_Flat_Metal_cutting_scissors = "Sell Flat Metal cutting scissors (140)",
      Recipe_Sell_Flat_screwdriver = "Sell Flat screwdriver (88)",
      Recipe_Sell_Insulating_tape = "Sell Insulating tape (12)",
-     Recipe_Sell_Flat_screwdriver_(Long) = "Sell Flat screwdriver (Long) (207)",
      Recipe_Sell_Broken_GPhone_X_smartphone = "Sell Broken GPhone X smartphone (201)",
      Recipe_Sell_Geiger-Muller_counter = "Sell Geiger-Muller counter (105)",
      Recipe_Sell_Sewing_Kit = "Sell Sewing Kit (239)",
@@ -489,11 +487,46 @@ Recipes_EN = {
      Recipe_Create_a_Security_Lvl2_kit = "Create a Security Lvl2 kit",
      Recipe_Create_a_Illumination_Lvl1_kit = "Create a Illumination Lvl1 kit",
      Recipe_Create_a_Workbench_Lvl1_kit = "Create a Workbench Lvl1 kit",
-
      Recipe_Create_a_Nutrition_Lvl1_kit = "Create a Nutrition Lvl1 kit",
      Recipe_Craft_2_Iskra_ration_packs = "Craft 2 Iskra ration packs",
-     Recipe_Craft_2_Cans_of_beef_stew_(Small) = "Craft 2 Cans of beef stew (Small)",
      Recipe_Craft_2_Emergency_Water_Rations = "Craft 2 Emergency Water Rations",
      Recipe_Craft_4_Can_of_Max_Energy_energy_drink = "Craft 4 Can of Max Energy energy drink",
+
+   /**********************************************
+               28/03/24
+               EDIT
+   ***********************************************/
+
+     Recipe_Sell_Simonov_SKS_7.62x39_carbine = "Sell Simonov SKS 7.62x39 carbine (192)",
+
+   /**********************************************
+               28/03/24
+               NEW
+   ***********************************************/
+
+     Recipe_Create_a_custom_firearm_:_AKS-74N_MK1 = "Create a custom firearm : AKS-74N MK1",
+     Recipe_Create_a_custom_firearm_:_P226R_MK1 = "Create a custom firearm : P226R MK1",
+     Recipe_Create_a_custom_firearm_:_AK-105_MK1 = "Create a custom firearm : AK-105 MK1",
+     Recipe_Create_a_custom_firearm_:_KRISS_Vector_9x19_MK1 = "Create a custom firearm : KRISS Vector 9x19 MK1",
+     Recipe_Create_a_custom_firearm_:_MPX_MK1 = "Create a custom firearm : MPX MK1",
+     Recipe_Create_a_custom_firearm_:_RSASS_MK1 = "Create a custom firearm : RSASS MK1",
+     Recipe_Create_a_custom_firearm_:_HK416_MK1 = "Create a custom firearm : HK416 MK1",
+
+   /**********************************************
+               01/04/24
+               NEW
+   ***********************************************/
+
+     Recipe_Create_a_new_Skill_Journal = "Create a new Skill Journal",
+
+   /**********************************************
+               01/04/24
+               EDIT
+   ***********************************************/
+
+     Recipe_Sell_Long_Flat_screwdriver = "Sell Long Flat screwdriver (207)",
+     Recipe_Craft_2_small_cans_of_beef_stew_ = "Craft 2 small cans of beef stew",
+
+
 
 }

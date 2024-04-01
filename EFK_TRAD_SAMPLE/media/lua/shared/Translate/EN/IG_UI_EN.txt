@@ -17,10 +17,10 @@ IGUI_EN = {
    IGUI_EFK_Message_OnPlayerJoinInsertion_LakeCumberland = "I arrived in Lake Cumberland",
    IGUI_EFK_Message_OnPlayerJoinInsertion_Petroville = "I arrived in Petroville",
    IGUI_EFK_Message_OnPlayerJoinInsertion_Customs = "I arrived in Customs",
-   IGUI_EFK_Message_OnPlayerJoinInsertion_Usine = "I arrived in Factory",
+   IGUI_EFK_Message_OnPlayerJoinInsertion_Factory = "I arrived in Factory",
    IGUI_EFK_Message_OnPlayerJoinInsertion_Woods = "I arrived in Woods",
    IGUI_EFK_Message_OnPlayerJoinInsertion_Interchange = "I arrived in Interchange",
-   IGUI_EFK_Message_OnPlayerJoinInsertion_MilitaryBase = "I arrived in Reserve",
+   IGUI_EFK_Message_OnPlayerJoinInsertion_MilitaryBase = "I arrived in Military Base",
    IGUI_EFK_Message_OnPlayerJoinInsertion_Labo = "I arrived in Lab",
    IGUI_EFK_Message_OnPlayerJoinInsertion_MarchRidge = "I arrived in March Ridge",
 
@@ -36,9 +36,9 @@ IGUI_EN = {
    IGUI_EFK_contextMenu_areaName_Dirkerdam = "Dirkerdam",
    IGUI_EFK_contextMenu_areaName_LakeCumberland = "Lake cumberland",
    IGUI_EFK_contextMenu_areaName_Petroville = "Petroville",
-   IGUI_EFK_contextMenu_areaName_Customs = "Douanes",
-   IGUI_EFK_contextMenu_areaName_Usine = "Usine",
-   IGUI_EFK_contextMenu_areaName_Wood = "Bois",
+   IGUI_EFK_contextMenu_areaName_Customs = "Customs",
+   IGUI_EFK_contextMenu_areaName_Factory = "Factory",
+   IGUI_EFK_contextMenu_areaName_Woods = "Woods",
    IGUI_EFK_contextMenu_areaName_Interchange = "Echangeur",
    IGUI_EFK_contextMenu_areaName_MilitaryBase = "Base militaire",
    IGUI_EFK_contextMenu_areaName_Labo = "Labo",
@@ -63,8 +63,8 @@ IGUI_EN = {
    IGUI_EFK_tooltip_insertion_LakeCumberland = "Are you sure to start a Mission into LakeCumberland ? You need to Extract within 24 hours or you will die",
    IGUI_EFK_tooltip_insertion_Petroville = "Are you sure to start a Mission into Petroville ? You need to Extract within 24 hours or you will die",
    IGUI_EFK_tooltip_insertion_Customs = "Are you sure to start a Mission into Customs ? You need to Extract within 24 hours or you will die",
-   IGUI_EFK_tooltip_insertion_Usine = "Are you sure to start a Mission into Usine ? You need to Extract within 24 hours or you will die",
-   IGUI_EFK_tooltip_insertion_Bois = "Are you sure to start a Mission into Wood ? You need to Extract within 24 hours or you will die",
+   IGUI_EFK_tooltip_insertion_Factory = "Are you sure to start a Mission into Usine ? You need to Extract within 24 hours or you will die",
+   IGUI_EFK_tooltip_insertion_Woods = "Are you sure to start a Mission into Wood ? You need to Extract within 24 hours or you will die",
    IGUI_EFK_tooltip_insertion_Interchange = "Are you sure to start a Mission into Riverside ? You need to Extract within 24 hours or you will die",
    IGUI_EFK_tooltip_insertion_MilitaryBase = "Are you sure to start a Mission into MilitaryBase ? You need to Extract within 24 hours or you will die",
    IGUI_EFK_tooltip_insertion_Labo = "Are you sure to start a Mission into Labo ? You need to Extract within 24 hours or you will die",
@@ -462,7 +462,6 @@ IGUI_EN = {
    IGUI_TOUBIB_Quest_10_part5 = "As I was told, they have been idle for too long and need batteries and spark plugs. Even fuel is not necessary. I will make a proper list of the items we need. Can you bring them?",
 
    IGUI_TOUBIB_Task_Talk_Toubib = "Talk to Therapist",
-   IGUI_TOUBIB_Task_q1_t2 = "Deliver 3 Car first aid kits (You must convert this items into kits before returning its)",
    IGUI_TOUBIB_Task_q2_t2 = "Deliver a gas analyzer kit (You must convert this item into kit before returning it)",
    IGUI_TOUBIB_Task_q3_t2 = "Deliver 2 gas analyzer kits (You must convert this items into kits before returning its)",
    IGUI_TOUBIB_Task_q4_t2 = "Reach the court house of Rosewood",
@@ -1271,7 +1270,12 @@ IGUI_EN = {
    IGUI_MECANIX_Firearm_Quest_20_part2 = "Judging from the fact that he packed one hell of a backpack with an MRE, firesteel, batteries, and water.",
    IGUI_MECANIX_Firearm_Quest_20_part3 = "Left it at my place for now. He needs an M1A, fitted with an UltiMAK M8 Forward Optic mount, Nightforce ATACR 7-35x56 scope, Micro T-1 reflex sight, Holosun LS321 tactical device, and a 20-round mag. Ergonomics above 20, recoil sum below 400, and a total weight of 7.3 kg or less.", 
 
+   /**********************************************
+               30/03/24
+               EDIT
+   ***********************************************/
 
+   IGUI_TOUBIB_Task_q1_t2 = "Deliver 3 Salewa first aid kits (You must convert this items into Packs before returning its)",
 
    
 }
