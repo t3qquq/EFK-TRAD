@@ -684,7 +684,7 @@ ContextMenu_FR = {
     ContextMenu_speech_HitByPlayer26 = "",
     ContextMenu_speech_HitByPlayer27 = "",
     ContextMenu_speech_HitByPlayer28 = "",
-    ContextMenu_speech_HitByPlayer29 = ""  
+    ContextMenu_speech_HitByPlayer29 = "",  
     ContextMenu_speech_SeenFirstZombie1 = "",
     ContextMenu_speech_SeenFirstZombie2 = "",
     ContextMenu_speech_SeenFirstZombie3 = "",
@@ -2149,6 +2149,19 @@ ContextMenu_FR = {
     ContextMenu_SD_IGoGuard = "",
     ContextMenu_SD_IGoBackBase = "",
     ContextMenu_SD_NoWoodHere = "",
+
+   /**********************************************
+               29/03/24
+               NEW
+   ***********************************************/
+
+ContextMenu_Use_Bandage = "Soigner les petites blessures avec une petite trousse médicale", 
+
+
+
+
+
+
 
 
 
