@@ -221,8 +221,8 @@ ContextMenu_FR = {
     ContextMenu_SD_DesperateforHumanContact = "Désespéré par le contact humain",
     ContextMenu_SD_VeryFriendly = "Très amical",
     ContextMenu_SD_Friendly = "Amical", 
-    ContextMenu_SD_Mean = "Moyenne",
-    ContextMenu_SD_VeryMean = "Très moyen",
+    ContextMenu_SD_Mean = "Hostile",
+    ContextMenu_SD_VeryMean = "Très hostile",
 
     ContextMenu_SD_SurvivorInfoName_Before = "",
     ContextMenu_SD_SurvivorInfoName_After = "",

@@ -462,9 +462,8 @@ IGUI_FR = {
    IGUI_TOUBIB_Quest_10_part5 = "Comme on me l'a dit, ils sont restés trop longtemps à l'arrêt et ont besoin de batteries et de bougies. Même le carburant n'est pas nécessaire. Je vais dresser une liste des articles dont nous avons besoin. Pouvez-vous les apporter ?",
 
    IGUI_TOUBIB_Task_Talk_Toubib = "Parler au Toubib",
-   IGUI_TOUBIB_Task_q1_t2 = "Trouver 3 kits médicaux d'urgence Salewa",
-   IGUI_TOUBIB_Task_q2_t2 = "Trouver un analyseur de gaz",
-   IGUI_TOUBIB_Task_q3_t2 = "Trouver 2 analyseurs de gaz",
+   IGUI_TOUBIB_Task_q2_t2 = "Livrer un kit d'analyseur de gaz (Vous devez convertir cet article en kit avant de le renvoyer)",
+   IGUI_TOUBIB_Task_q3_t2 = "Livrer 2 kits d'analyseurs de gaz (Vous devez convertir ces articles en kits avant de les renvoyer)",
    IGUI_TOUBIB_Task_q4_t2 = "Atteindre le palais de justice de Rosewood",
    IGUI_TOUBIB_Task_q4_t3 = "Trouver la réserve d'eau",
    IGUI_TOUBIB_Task_q4_t4 = "Marquer la réserve d'eau",
@@ -1271,5 +1270,12 @@ IGUI_FR = {
    IGUI_MECANIX_Firearm_Quest_20_part2 = "A en juger par le fait qu'il a emballé un sac à dos d'enfer avec un MRE, un firesteel, des batteries et de l'eau",
    IGUI_MECANIX_Firearm_Quest_20_part3 = "Il l'a laissé chez moi pour l'instant. Il a besoin d'un M1A, équipé d'un UltiMAK M8 Forward Optic mount, d'une lunette Nightforce ATACR 7-35x56, d'une visée réflexe Micro T-1, d'un dispositif tactique Holosun LS321, et d'un chargeur de 20 cartouches. Ergonomie supérieure à 20, somme de recul inférieure à 400, et poids total de 7,3 kg ou moins", 
 
-}
+   /**********************************************
+               30/03/24
+               EDIT
+   ***********************************************/
 
+   IGUI_TOUBIB_Task_q1_t2 = "Livrer 3 kits de premiers secours Salewa (Vous devez convertir ces articles en Packs avant de les renvoyer)",
+
+   
+}
