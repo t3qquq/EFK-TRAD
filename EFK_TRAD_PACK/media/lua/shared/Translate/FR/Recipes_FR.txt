@@ -441,7 +441,6 @@ Recipes_FR = {
      Recipe_Sell_Flat_Metal_cutting_scissors = "Vendre des ciseaux de coupe en métal plat (140)",
      Recipe_Sell_Flat_screwdriver = "Vendre Tournevis plat (88)",
      Recipe_Sell_Insulating_tape = "Vendre Ruban isolant (12)",
-     Recipe_Sell_Flat_screwdriver_(Long) = "Vendre Tournevis plat (long) (207)",
      Recipe_Sell_Broken_GPhone_X_smartphone = "Vendre smartphone GPhone X cassé (201)",
      Recipe_Sell_Geiger-Muller_counter = "Vendre compteur Geiger-Muller (105)",
      Recipe_Sell_Sewing_Kit = "Vendre Kit de couture (239)",
@@ -488,10 +487,8 @@ Recipes_FR = {
      Recipe_Create_a_Security_Lvl2_kit = "Créer un kit de sécurité de niveau 2",
      Recipe_Create_a_Illumination_Lvl1_kit = "Créer un kit Illumination Lvl1",
      Recipe_Create_a_Workbench_Lvl1_kit = "Créer un kit Workbench Lvl1",
-
      Recipe_Create_a_Nutrition_Lvl1_kit = "Créer un kit Nutrition Lvl1",
      Recipe_Craft_2_Iskra_ration_packs = "Fabriquer 2 rations Iskra",
-     Recipe_Craft_2_Cans_of_beef_stew_(Small) = "Créer 2 boîtes de ragoût de bœuf (Small)",
      Recipe_Craft_2_Emergency_Water_Rations = "Fabriquer 2 rations d'eau d'urgence",
      Recipe_Craft_4_Can_of_Max_Energy_energy_drink = "Fabriquer 4 canettes de boisson énergétique Max Energy",
 
@@ -500,5 +497,36 @@ Recipes_FR = {
                EDIT
    ***********************************************/
 
-     Recipe_Sell_Simonov_SKS_7.62x39_carbine = "Vendre carabine Simonov SKS 7.62x39 (192)",
+     Recipe_Sell_Simonov_SKS_7.62x39_carbine = "Sell Simonov SKS 7.62x39 carbine (192)",
+
+   /**********************************************
+               28/03/24
+               NEW
+   ***********************************************/
+
+     Recipe_Create_a_custom_firearm_:_AKS-74N_MK1 = "Create a custom firearm : AKS-74N MK1",
+     Recipe_Create_a_custom_firearm_:_P226R_MK1 = "Create a custom firearm : P226R MK1",
+     Recipe_Create_a_custom_firearm_:_AK-105_MK1 = "Create a custom firearm : AK-105 MK1",
+     Recipe_Create_a_custom_firearm_:_KRISS_Vector_9x19_MK1 = "Create a custom firearm : KRISS Vector 9x19 MK1",
+     Recipe_Create_a_custom_firearm_:_MPX_MK1 = "Create a custom firearm : MPX MK1",
+     Recipe_Create_a_custom_firearm_:_RSASS_MK1 = "Create a custom firearm : RSASS MK1",
+     Recipe_Create_a_custom_firearm_:_HK416_MK1 = "Create a custom firearm : HK416 MK1",
+
+   /**********************************************
+               01/04/24
+               NEW
+   ***********************************************/
+
+     Recipe_Create_a_new_Skill_Journal = "Créer un nouveau journal des compétences",
+
+   /**********************************************
+               01/04/24
+               EDIT
+   ***********************************************/
+
+     Recipe_Sell_Long_Flat_screwdriver = "Vendre Tournevis plat long (207)",
+     Recipe_Craft_2_small_cans_of_beef_stew = "Craft 2 petites boîtes de ragoût de bœuf",
+
+
+
 }
