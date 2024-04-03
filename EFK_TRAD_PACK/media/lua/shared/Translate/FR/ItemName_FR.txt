@@ -18,11 +18,7 @@ ItemName_FR = {
         ItemName_Base.AI2Painkiller = "Medkit Painkiller",
         ItemName_Base.AI2Antibiotics = "Medkit Antibiotics",
         ItemName_Base.AI2Instructions = "Medkit Instructions",
-        ItemName_Base.ArmyBandage = "Army Bandage",
-        ItemName_Base.ArmyBandageDirty = "Bandage militaire sale",
-        ItemName_Base.ArmyAlcoholBandage = "Bandage stérile de l'armée",   
-        ItemName_Base.SterilizedBandage = "Bandage stérile",
-        ItemName_Base.SterilizedBandageDirty = "Bandage stérile sale",
+        ItemName_Base.EFK_AsepticBandage = "Bandage Sterile",
 
         ItemName_Base.9mmDrum = "9x19 Mag 50 rounds",
         ItemName_Base.9mmExtClip = "9x19 Mag 30 rounds",
@@ -78,7 +74,7 @@ ItemName_FR = {
         ItemName_Base.EFK_P1X42 = "VOMZ Pilad P1x42 Weaver reflex sight",
         ItemName_Base.EFK_MRS = "Walther MRS reflex sight",
         ItemName_Base.EFK_BurrisFF3 = "Burris FastFire 3 reflex sight",
-        ItemName_Base.EFK_Leapers_UTG = 'Leapers UTG reflex sight',
+        ItemName_Base.EFK_Leapers_UTG = "Leapers UTG reflex sight",
         ItemName_Base.EFK_HS401G5 = "Holosun HS401G5 reflex sight",
         ItemName_Base.EFK_ROMEO8T = "SIG Sauer ROMEO8T reflex sight",
         ItemName_Base.EFK_OKP-7_arrondi = "OKP-7 reflex sight (Dovetail)",
@@ -156,7 +152,7 @@ ItemName_FR = {
         ItemName_Base.EFK_TV-110 = "Wartech TV-110 plate carrier",
         ItemName_Base.EFK_Alpha = "ANA Tactical Alpha chest rig",
         ItemName_Base.EFK_BlackRock = "BlackRock chest rig",
-        Nom de l'article_Base.EFK_TV-104 = "Porte-bagages WARTECH MK3 TV-104",
+        ItemName_Base.EFK_TV-104 = "Porte-bagages WARTECH MK3 TV-104",
         ItemName_Base.EFK_Stich_Mk2 = "Stich Profi MK2 chest rig",
         ItemName_Base.EFK_Azimut = "Harnais de poitrine Azimut SS Zhuk",
         ItemName_Base.EFK_Commando = "Harnais de poitrine BlackHawk ! Commando",
@@ -662,7 +658,66 @@ ItemName_FR = {
 
         ItemName_Base.Pop2 = "Canette de soda RatCola",
         ItemName_Base.EFK_Salewa_kit = "Kit de premiers secours Salewa Pack",
+        ItemName_Base.EFK_HealDocumentation = "EFK Heal Documentation",
+        ItemName_Base.EFK_PraporInfo_Q2 = "Informations Prapor Quest 2",
+        ItemName_Base.EFK_PraporInfo_Q3 = "Informations Prapor Quest 3",
+        ItemName_Base.EFK_PraporInfo_Q4 = "Informations Prapor Quest 4",
+        ItemName_Base.EFK_PraporInfo_Q5 = "Informations Prapor Quest 5",
+        ItemName_Base.EFK_PraporInfo_Q7 = "Informations Prapor Quest 7",
+        ItemName_Base.EFK_PraporInfo_Q9 = "Informations Prapor Quest 9",
+        ItemName_Base.EFK_ToubibInfo_Q4 = "Informations Toubib Quest 4",
+        ItemName_Base.EFK_ToubibInfo_Q5 = "Informations Toubib Quest 5",
+        ItemName_Base.EFK_ToubibInfo_Q7 = "Informations Toubib Quest 7",
+        ItemName_Base.EFK_ToubibInfo_Q8 = "Informations Toubib Quest 8",
+        ItemName_Base.EFK_SkierInfo_Q2 = "Informations Skier Quest 2",
+        ItemName_Base.EFK_SkierInfo_Q3 = "Informations Skier Quest 3",
+        ItemName_Base.EFK_SkierInfo_Q5 = "Informations Skier Quest 5",
+        ItemName_Base.EFK_SkierInfo_Q6 = "Informations Skier Quest 6",
+        ItemName_Base.EFK_SkierInfo_Q7 = "Informations Skier Quest 7",
+        ItemName_Base.EFK_SkierInfo_Q8 = "Informations Skier Quest 8",
+        ItemName_Base.EFK_SkierInfo_Q9 = "Informations Skier Quest 9",
 
+   /**********************************************
+               28/03/24
+               NEW
+   ***********************************************/
 
+        ItemName_Base.EFK_TOZ106_SKIER = "TOZ-106 Fusil de chasse à verrou 20ga",
+        ItemName_Base.EFK_TOZ106_SKIER_Fold = "TOZ-106 Fusil de chasse à verrou 20ga (Replié)",
+
+        ItemName_Base.EFK_AKS-74N_MK1 = "Arme à feu personnalisée AKS-74N MK1",
+        ItemName_Base.EFK_P226R_MK1 = "Arme à feu personnalisée P226R MK1",
+        ItemName_Base.EFK_AK-105_MK1 = "Arme à feu personnalisée AK-105 MK1",
+        ItemName_Base.EFK_Vector_9x19_MK1 = "Arme à feu personnalisée Kriss Vector 9x19 MK1",
+        ItemName_Base.EFK_MPX_MK1 = "Arme à feu personnalisée MPX MK1",
+        ItemName_Base.EFK_RSASS_MK1 = "Arme à feu personnalisée RSASS MK1",
+        ItemName_Base.EFK_HK416A5_MK1 = "Arme à feu personnalisée HK 416A5 MK1",
+        ItemName_Base.EFK_ASVAL_MK1 = "Arme à feu personnalisée AS VAL MK1",
+        ItemName_Base.EFK_DVL_MK1 = "Arme à feu personnalisée DVL MK1",
+        ItemName_Base.EFK_AK-102_MK1 = "Arme à feu personnalisée AK-102 MK1",
+        ItemName_Base.EFK_AKMN_MK1 = "Arme à feu personnalisée AKMN MK1",
+        ItemName_Base.EFK_SVDS_MK1 = "Arme à feu personnalisée SVDS MK1",
+        ItemName_Base.EFK_M1A_MK1 = "Arme à feu personnalisée M1A MK1",
+
+   /**********************************************
+               01/04/24
+               EDIT
+   ***********************************************/
+
+        ItemName_Base.ArmyBandage = "Bandage Militaire",
+
+   /**********************************************
+               01/04/24
+               NEW
+   ***********************************************/
+
+        ItemName_Base.EFK_AsepticBandage = "Bandage Souillé",
+        ItemName_Base.EFK_Tourniquet = "Garrot Tourniquet",
 
 }
+
+
+
+
+
+

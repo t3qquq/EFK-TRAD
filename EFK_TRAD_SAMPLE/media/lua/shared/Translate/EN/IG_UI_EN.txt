@@ -16,11 +16,11 @@ IGUI_EN = {
    IGUI_EFK_Message_OnPlayerJoinInsertion_Florius = "I arrived in Florius",
    IGUI_EFK_Message_OnPlayerJoinInsertion_LakeCumberland = "I arrived in Lake Cumberland",
    IGUI_EFK_Message_OnPlayerJoinInsertion_Petroville = "I arrived in Petroville",
-   IGUI_EFK_Message_OnPlayerJoinInsertion_Douanes = "I arrived in Customs",
-   IGUI_EFK_Message_OnPlayerJoinInsertion_Usine = "I arrived in Factory",
-   IGUI_EFK_Message_OnPlayerJoinInsertion_Bois = "I arrived in Woods",
-   IGUI_EFK_Message_OnPlayerJoinInsertion_Echangeur = "I arrived in Interchange",
-   IGUI_EFK_Message_OnPlayerJoinInsertion_BaseMilitaire = "I arrived in Reserve",
+   IGUI_EFK_Message_OnPlayerJoinInsertion_Customs = "I arrived in Customs",
+   IGUI_EFK_Message_OnPlayerJoinInsertion_Factory = "I arrived in Factory",
+   IGUI_EFK_Message_OnPlayerJoinInsertion_Woods = "I arrived in Woods",
+   IGUI_EFK_Message_OnPlayerJoinInsertion_Interchange = "I arrived in Interchange",
+   IGUI_EFK_Message_OnPlayerJoinInsertion_MilitaryBase = "I arrived in Military Base",
    IGUI_EFK_Message_OnPlayerJoinInsertion_Labo = "I arrived in Lab",
    IGUI_EFK_Message_OnPlayerJoinInsertion_MarchRidge = "I arrived in March Ridge",
 
@@ -36,11 +36,11 @@ IGUI_EN = {
    IGUI_EFK_contextMenu_areaName_Dirkerdam = "Dirkerdam",
    IGUI_EFK_contextMenu_areaName_LakeCumberland = "Lake cumberland",
    IGUI_EFK_contextMenu_areaName_Petroville = "Petroville",
-   IGUI_EFK_contextMenu_areaName_Douanes = "Douanes",
-   IGUI_EFK_contextMenu_areaName_Usine = "Usine",
-   IGUI_EFK_contextMenu_areaName_Bois = "Bois",
-   IGUI_EFK_contextMenu_areaName_Echangeur = "Echangeur",
-   IGUI_EFK_contextMenu_areaName_BaseMilitaire = "Base militaire",
+   IGUI_EFK_contextMenu_areaName_Customs = "Customs",
+   IGUI_EFK_contextMenu_areaName_Factory = "Factory",
+   IGUI_EFK_contextMenu_areaName_Woods = "Woods",
+   IGUI_EFK_contextMenu_areaName_Interchange = "Echangeur",
+   IGUI_EFK_contextMenu_areaName_MilitaryBase = "Base militaire",
    IGUI_EFK_contextMenu_areaName_Labo = "Labo",
    IGUI_EFK_contextMenu_areaName_MarchRidge = "March Ridge",
 
@@ -62,12 +62,12 @@ IGUI_EN = {
    IGUI_EFK_tooltip_insertion_Florius = "Are you sure to start a Mission into Florius ? You need to Extract within 24 hours or you will die",
    IGUI_EFK_tooltip_insertion_LakeCumberland = "Are you sure to start a Mission into LakeCumberland ? You need to Extract within 24 hours or you will die",
    IGUI_EFK_tooltip_insertion_Petroville = "Are you sure to start a Mission into Petroville ? You need to Extract within 24 hours or you will die",
-   IGUI_EFK_tooltip_insertion_Douanes = "Are you sure to start a Mission into Riverside ? You need to Extract within 24 hours or you will die",
-   IGUI_EFK_tooltip_insertion_Usine = "Are you sure to start a Mission into Riverside ? You need to Extract within 24 hours or you will die",
-   IGUI_EFK_tooltip_insertion_Bois = "Are you sure to start a Mission into Riverside ? You need to Extract within 24 hours or you will die",
-   IGUI_EFK_tooltip_insertion_Echangeur = "Are you sure to start a Mission into Riverside ? You need to Extract within 24 hours or you will die",
-   IGUI_EFK_tooltip_insertion_BaseMilitaire = "Are you sure to start a Mission into Riverside ? You need to Extract within 24 hours or you will die",
-   IGUI_EFK_tooltip_insertion_Labo = "Are you sure to start a Mission into Riverside ? You need to Extract within 24 hours or you will die",
+   IGUI_EFK_tooltip_insertion_Customs = "Are you sure to start a Mission into Customs ? You need to Extract within 24 hours or you will die",
+   IGUI_EFK_tooltip_insertion_Factory = "Are you sure to start a Mission into Usine ? You need to Extract within 24 hours or you will die",
+   IGUI_EFK_tooltip_insertion_Woods = "Are you sure to start a Mission into Wood ? You need to Extract within 24 hours or you will die",
+   IGUI_EFK_tooltip_insertion_Interchange = "Are you sure to start a Mission into Riverside ? You need to Extract within 24 hours or you will die",
+   IGUI_EFK_tooltip_insertion_MilitaryBase = "Are you sure to start a Mission into MilitaryBase ? You need to Extract within 24 hours or you will die",
+   IGUI_EFK_tooltip_insertion_Labo = "Are you sure to start a Mission into Labo ? You need to Extract within 24 hours or you will die",
 
    IGUI_Identity = "Identity : ",
    IGUI_Reputation = "Reputation : ",
@@ -462,7 +462,6 @@ IGUI_EN = {
    IGUI_TOUBIB_Quest_10_part5 = "As I was told, they have been idle for too long and need batteries and spark plugs. Even fuel is not necessary. I will make a proper list of the items we need. Can you bring them?",
 
    IGUI_TOUBIB_Task_Talk_Toubib = "Talk to Therapist",
-   IGUI_TOUBIB_Task_q1_t2 = "Deliver 3 Car first aid kits (You must convert this items into kits before returning its)",
    IGUI_TOUBIB_Task_q2_t2 = "Deliver a gas analyzer kit (You must convert this item into kit before returning it)",
    IGUI_TOUBIB_Task_q3_t2 = "Deliver 2 gas analyzer kits (You must convert this items into kits before returning its)",
    IGUI_TOUBIB_Task_q4_t2 = "Reach the court house of Rosewood",
@@ -1176,9 +1175,107 @@ IGUI_EN = {
    IGUI_TOUBIB_Task_q7_t2 = "Reach Therapist's pharmacy - Center of the West sector of the city",
    IGUI_TOUBIB_Task_q8_t2 = "Reach Muldraugh's military outpost",
 
+   /**********************************************
+               28/03/24
+               NEW
+   ***********************************************/
+
+   IGUI_PLAYER_TWO_Hours_BeforeDead = "I have 2 hours to get out of this place.",
 
 
+   IGUI_MECANIX_Firearm_Quest_8_Name = "Mecanix Gunsmith - Part 8",
+   IGUI_MECANIX_Firearm_Quest_8_Desc = "I have two neural networks, one scans the faces on the cameras and compares them with the database, and the other one monitors cryptocurrency trading and reacts to it. Today I've decided to create one more, which will monitor the temperature, humidity, pressure, and other parameters of my hideout, and among other things — respond to my mood. Let's see how it turns out when I'm done. There is an order for AKS-74N with Zenit parts. Ergonomics should be over 65, recoil sum less than 275, and the gun should be taking up no more than 10 slots. And most importantly, with an B-30 handguard with B-31S upper handguard rail, RK-0 tactical foregrip, AK-12 magazine, Klesch-2IKS, and DTK-1, Zenit all around. Perhaps, a gift for a former Saint Petersburg citizen.",
+   IGUI_MECANIX_Firearm_Quest_8_part1 = "I have two neural networks, one scans the faces on the cameras and compares them with the database, and the other one monitors cryptocurrency trading and reacts to it.",
+   IGUI_MECANIX_Firearm_Quest_8_part2 = "Today I've decided to create one more, which will monitor the temperature, humidity, pressure, and other parameters of my hideout, and among other things — respond to my mood.",
+   IGUI_MECANIX_Firearm_Quest_8_part3 = "Let's see how it turns out when I'm done. There is an order for AKS-74N with Zenit parts. Ergonomics should be over 65, recoil sum less than 275, and the gun should be taking up no more than 10 slots.",
+   IGUI_MECANIX_Firearm_Quest_8_part4 = "And most importantly, with an B-30 handguard with B-31S upper handguard rail, RK-0 tactical foregrip, AK-12 magazine, Klesch-2IKS, and DTK-1, Zenit all around. Perhaps, a gift for a former Saint Petersburg citizen.",
 
+   IGUI_MECANIX_Firearm_Quest_9_Name = "Mecanix Gunsmith - Part 9",
+   IGUI_MECANIX_Firearm_Quest_9_Desc = "Oh, hey. There's an unusual matter that has come up. I don't often get orders for pistols, but this is a special occasion. We need a SIG P226R, Stainless Elite Wooden grip, Stainless Elite slide, extended magazine and a flashlight. Ergonomics not below 80, recoil sum not above 610. A weapon for true enthusiasts.",
+   IGUI_MECANIX_Firearm_Quest_9_part1 = "Oh, hey. There's an unusual matter that has come up.",
+   IGUI_MECANIX_Firearm_Quest_9_part2 = "I don't often get orders for pistols, but this is a special occasion. We need a SIG P226R, Stainless Elite Wooden grip, Stainless Elite slide, extended magazine and a flashlight.",
+   IGUI_MECANIX_Firearm_Quest_9_part3 = "Ergonomics not below 80, recoil sum not above 610. A weapon for true enthusiasts.",
+
+   IGUI_MECANIX_Firearm_Quest_10_Name = "Mecanix Gunsmith - Part 10",
+   IGUI_MECANIX_Firearm_Quest_10_Desc = "I called her Lusya - the neural network, I mean. So, when I keep silent, it does well and even reminds me to get some sleep when necessary, but as soon as I start talking to myself, it attempts to distract me, putting on music or something like that. However, I trained it with movies and phrases from them. Apparently, such a reaction is presented to us in the movies as the most appropriate, but not for me. I'll have to think about what stimuli are the best to mimic real people, rather than society and its stereotypes. But I digress, assemble an AK-105 now, with a silencer and 60-round mag. As for parameters: sighting range over 800, ergonomics above 38, recoil sum less than 500, weight 4.8 kg or less. And compact, as always, 8 slots or so.",
+   IGUI_MECANIX_Firearm_Quest_10_part1 = "I called her Lusya - the neural network, I mean. So, when I keep silent, it does well and even reminds me to get some sleep when necessary, but as soon as I start talking to myself, it attempts to distract me, putting on music or something like that.",
+   IGUI_MECANIX_Firearm_Quest_10_part2 = "However, I trained it with movies and phrases from them. Apparently, such a reaction is presented to us in the movies as the most appropriate, but not for me.",
+   IGUI_MECANIX_Firearm_Quest_10_part3 = "I'll have to think about what stimuli are the best to mimic real people, rather than society and its stereotypes. But I digress, assemble an AK-105 now, with a silencer and 60-round mag.",
+   IGUI_MECANIX_Firearm_Quest_10_part4 = "As for parameters: sighting range over 800, ergonomics above 38, recoil sum less than 500, weight 4.8 kg or less. And compact, as always, 8 slots or so.",
+
+   IGUI_MECANIX_Firearm_Quest_11_Name = "Mecanix Gunsmith - Part 11",
+   IGUI_MECANIX_Firearm_Quest_11_Desc = "Perfect timing, friend. If you have time, help me out with some gun customization. A major customer has placed an order for a KRISS Vector 9x19 submachine gun. He wants it to be equipped with an Mk.5 Modular Rail mount, Tactical Dynamics Skeletonized Foregrip, some iron sights or a scope with at least 300 meter sighting range, magazine with at least 33 rounds, and a silencer. Ergonomics over 50 and recoil under 230. Thanks!",
+   IGUI_MECANIX_Firearm_Quest_11_part1 = "Perfect timing, friend. If you have time, help me out with some gun customization.",
+   IGUI_MECANIX_Firearm_Quest_11_part2 = "A major customer has placed an order for a KRISS Vector 9x19 submachine gun.",
+   IGUI_MECANIX_Firearm_Quest_11_part3 = "He wants it to be equipped with an Mk.5 Modular Rail mount, Tactical Dynamics Skeletonized Foregrip, some iron sights or a scope with at least 300 meter sighting range, magazine with at least 33 rounds, and a silencer. Ergonomics over 50 and recoil under 230. Thanks!",
+
+   IGUI_MECANIX_Firearm_Quest_12_Name = "Mecanix Gunsmith - Part 12",
+   IGUI_MECANIX_Firearm_Quest_12_Desc = "Okay, we have an urgent order here, don't have much time. Some guy stopped by, said wants to sort it out with Reshala, who is operating somewhere around dorms together with folks from the factory. Build him an MPX, with the Tactical Dynamics Skeletonized pistol grip, Annihilator flash hider, and Steiner LAS/TAC 2 tactical flashlight. Aim for a sighting range of 300 or more, ergonomics above 52, weight less than 4 kg, the less than 225 recoil sum. And don't tell anyone why you need this gun. If Reshala hears about it, he won't be too happy, and his guys are quite a mean bunch, all served in the military before working at the factory.",
+   IGUI_MECANIX_Firearm_Quest_12_part1 = "Okay, we have an urgent order here, don't have much time.",
+   IGUI_MECANIX_Firearm_Quest_12_part2 = "Some guy stopped by, said wants to sort it out with Reshala, who is operating somewhere around dorms together with folks from the factory.",
+   IGUI_MECANIX_Firearm_Quest_12_part3 = "Build him an MPX, with the Tactical Dynamics Skeletonized pistol grip, Annihilator flash hider, and Steiner LAS/TAC 2 tactical flashlight. Aim for a sighting range of 300 or more, ergonomics above 52, weight less than 4 kg, the less than 225 recoil sum.",
+   IGUI_MECANIX_Firearm_Quest_12_part3 = "And don't tell anyone why you need this gun. If Reshala hears about it, he won't be too happy, and his guys are quite a mean bunch, all served in the military before working at the factory.", 
+
+   IGUI_MECANIX_Firearm_Quest_13_Name = "Mecanix Gunsmith - Part 13",
+   IGUI_MECANIX_Firearm_Quest_13_Desc = "Are you good at hiding? Not good enough for Sniper not to find you, I think. I don't envy the guy, what’s his name, Brendan I think. Interesting, all those heroes of the past who we admired so much, where have they all gone? Why has everybody become so empty? Why now, with this chaos around, such folk as Sniper became heroes for us? Why have we been ignoring such war dogs, and now we’re looking forward to being friends with them? What do you think? I have another order, for an R11 RSASS. With a sighting range of 1500 or above. Weight 6.7 kg or less. Also needs a silencer, ergonomics more than 26, and recoil sum less than 300.",
+   IGUI_MECANIX_Firearm_Quest_13_part1 = "Are you good at hiding? Not good enough for Sniper not to find you, I think.",
+   IGUI_MECANIX_Firearm_Quest_13_part2 = "I don't envy the guy, what’s his name, Brendan I think. Interesting, all those heroes of the past who we admired so much, where have they all gone? Why has everybody become so empty?",
+   IGUI_MECANIX_Firearm_Quest_13_part3 = "Why now, with this chaos around, such folk as Sniper became heroes for us? Why have we been ignoring such war dogs, and now we’re looking forward to being friends with them? What do you think?", 
+   IGUI_MECANIX_Firearm_Quest_13_part4 = "I have another order, for an R11 RSASS. With a sighting range of 1500 or above. Weight 6.7 kg or less. Also needs a silencer, ergonomics more than 26, and recoil sum less than 300.", 
+
+   IGUI_MECANIX_Firearm_Quest_14_Name = "Mecanix Gunsmith - Part 14",
+   IGUI_MECANIX_Firearm_Quest_14_Desc = "Hello. There is a new order for a Western HK 416A5 rifle. Requires tan-colored attachments: SureFire SOCOM556-RC2 silencer, Magpul RVG tactical grip, EOTech EXPS3 holographic sight, Magpul MOE pistol grip, Magpul UBR GEN2 stock, LA-5B/PEQ tactical module, and a mag with at least 30 round capacity. Ergonomics over 60, recoil sum under 300, weight 4 kilos or lower. Just like in Special Forces, right? Oh, and try to find a rifle that isn't thrashed, technical condition must be at least 80%.",
+   IGUI_MECANIX_Firearm_Quest_14_part1 = "Hello. There is a new order for a Western HK 416A5 rifle.",
+   IGUI_MECANIX_Firearm_Quest_14_part2 = "Requires tan-colored attachments: SureFire SOCOM556-RC2 silencer, Magpul RVG tactical grip, EOTech EXPS3 holographic sight, Magpul MOE pistol grip,",
+   IGUI_MECANIX_Firearm_Quest_14_part3 = "Magpul UBR GEN2 stock, LA-5B/PEQ tactical module, and a mag with at least 30 round capacity. Ergonomics over 60, recoil sum under 300, weight 4 kilos or lower. Just like in Special Forces, right?", 
+   IGUI_MECANIX_Firearm_Quest_14_part4 = "Oh, and try to find a rifle that isn't thrashed, technical condition must be at least 80%.", 
+
+   IGUI_MECANIX_Firearm_Quest_15_Name = "Mecanix Gunsmith - Part 15",
+   IGUI_MECANIX_Firearm_Quest_15_Desc = "While I was busy with the network, I started to wonder how are we different from it, and when we can replace our short-lived brains with those kinds of systems. What do you think, will this time come someday? I think it will, very soon. We already don't know what processes occur inside neural networks, there is only an entry signal and the result of its actions, and how it has learned with its own internal rules, wiring up its own neural links inside itself. How is it different from us? Would you love living in a world where your actions get limited only by your mind and imagination? The truth is, I think, living in such a world would be no better than in our own if there is no goal. And where can a goal come from if you're immortal and omnipotent... This time we need an AS VAL. GL-SHOCK buttstock, AN/PEQ-15 tactical device, NSPU-M night scope, and a 30-round magazine. Ergonomics above 33 and recoil sum less than 220.",
+   IGUI_MECANIX_Firearm_Quest_15_part1 = "While I was busy with the network, I started to wonder how are we different from it, and when we can replace our short-lived brains with those kinds of systems.",
+   IGUI_MECANIX_Firearm_Quest_15_part2 = "What do you think, will this time come someday? I think it will, very soon. We already don't know what processes occur inside neural networks, there is only an entry signal and the result of its actions, and how it has learned with its own internal rules, wiring up its own neural links inside itself.",
+   IGUI_MECANIX_Firearm_Quest_15_part3 = "How is it different from us? Would you love living in a world where your actions get limited only by your mind and imagination? The truth is, I think, living in such a world would be no better than in our own if there is no goal.", 
+   IGUI_MECANIX_Firearm_Quest_15_part4 = "And where can a goal come from if you're immortal and omnipotent... This time we need an AS VAL. GL-SHOCK buttstock, AN/PEQ-15 tactical device, NSPU-M night scope, and a 30-round magazine.", 
+   IGUI_MECANIX_Firearm_Quest_15_part5 = "Ergonomics above 33 and recoil sum less than 220.", 
+
+   IGUI_MECANIX_Firearm_Quest_16_Name = "Mecanix Gunsmith - Part 16",
+   IGUI_MECANIX_Firearm_Quest_16_Desc = "	I've said too much last time. It happens when I'm alone with my thoughts for a while. A lot of stuff comes to mind while I sit here calibrating the sights. That M4 turned out splendid, got taken off my hands in a moment. A BEAR dropped by recently, goes by the name of Sniper or something. He needs a Lobaev DVL sniper rifle, with a scope and multi-laser device. With recoil sum less than 450, ergonomics above 40, and weight below 6.7 kg. He said it needs to be a 2000m shot. The guy is serious, so do your best to make a solid build.",
+   IGUI_MECANIX_Firearm_Quest_16_part1 = "I've said too much last time. It happens when I'm alone with my thoughts for a while.",
+   IGUI_MECANIX_Firearm_Quest_16_part2 = "A lot of stuff comes to mind while I sit here calibrating the sights. That M4 turned out splendid, got taken off my hands in a moment.",
+   IGUI_MECANIX_Firearm_Quest_16_part3 = "A BEAR dropped by recently, goes by the name of Sniper or something. He needs a Lobaev DVL sniper rifle, with a scope and multi-laser device.",
+   IGUI_MECANIX_Firearm_Quest_16_part4 = "With recoil sum less than 450, ergonomics above 40, and weight below 6.7 kg. He said it needs to be a 2000m shot. The guy is serious, so do your best to make a solid build.",
+
+   IGUI_MECANIX_Firearm_Quest_17_Name = "Mecanix Gunsmith - Part 17",
+   IGUI_MECANIX_Firearm_Quest_17_Desc = "Quite long ago, I once met the owner of KIBA Arms, we even went to a sauna together then, though I'm not particularly into it. He even broke his leg trying to jump-dive from the pier that day. Jolly fellow dreamt of setting up an airsoft field all the time. It seems his wish came true in Tarkov, the best and largest airsoft field in the world, with an only minor difference: here, you die and lose everything from a single stray bullet. Put together an AK-102, with a Ferfrans CRD Concussion Reduction Device, Magpul AFG OD tactical grip, Zenit Klesch-2U flashlight, RPK-16 buffer tube, and the Circle 10 magazine. Ergonomics should be over 70, recoil sum less than 250, sighting range 800 or more. Make sure it doesn't take up more than 8 slots.",
+   IGUI_MECANIX_Firearm_Quest_17_part1 = "Quite long ago, I once met the owner of KIBA Arms, we even went to a sauna together then, though I'm not particularly into it.",
+   IGUI_MECANIX_Firearm_Quest_17_part2 = "He even broke his leg trying to jump-dive from the pier that day. Jolly fellow dreamt of setting up an airsoft field all the time. It seems his wish came true in Tarkov, the best and largest airsoft field in the world, with an only minor difference:",
+   IGUI_MECANIX_Firearm_Quest_17_part3 = "Here, you die and lose everything from a single stray bullet. Put together an AK-102, with a Ferfrans CRD Concussion Reduction Device, Magpul AFG OD tactical grip, Zenit Klesch-2U flashlight, RPK-16 buffer tube, and the Circle 10 magazine.",
+   IGUI_MECANIX_Firearm_Quest_17_part4 = "Ergonomics should be over 70, recoil sum less than 250, sighting range 800 or more. Make sure it doesn't take up more than 8 slots.",
+
+   IGUI_MECANIX_Firearm_Quest_18_Name = "Mecanix Gunsmith - Part 18",
+   IGUI_MECANIX_Firearm_Quest_18_Desc = "	I want to try teaching Lusya to tell if someone's lying, if the result will be at least 90% accurate, it will be interesting to listen to all those politicians and TerraGroup whales, who've been expatiating upon their ideals and noble goals just yesterday, assured of the benefits of our economic zone and a bright future ahead. How much of this was a concentrated lie? I think, all of it. There's a request for a Magpul edition AKMN. I.e. the handguard, stock, and pistol grip have to be Magpul. All in black. Additionally, a Rotor 43 muzzle brake, black Magpul M-LOK AFG Tactical grip, and EOTech HHS-1 hybrid sight. Recoil sum lower than 350, ergonomics above 50, and weight of 5 kg or less with sighting range of 500.",
+   IGUI_MECANIX_Firearm_Quest_18_part1 = "I want to try teaching Lusya to tell if someone's lying, if the result will be at least 90% accurate, it will be interesting to listen to all those politicians and TerraGroup whales, who've been expatiating upon their ideals and noble goals just yesterday, assured of the benefits of our economic zone and a bright future ahead.",
+   IGUI_MECANIX_Firearm_Quest_18_part2 = "How much of this was a concentrated lie? I think, all of it. There's a request for a Magpul edition AKMN. I.e. the handguard, stock, and pistol grip have to be Magpul.",
+   IGUI_MECANIX_Firearm_Quest_18_part3 = "All in black. Additionally, a Rotor 43 muzzle brake, black Magpul M-LOK AFG Tactical grip, and EOTech HHS-1 hybrid sight. Recoil sum lower than 350, ergonomics above 50, and weight of 5 kg or less with sighting range of 500.",
+
+   IGUI_MECANIX_Firearm_Quest_19_Name = "Mecanix Gunsmith - Part 19",
+   IGUI_MECANIX_Firearm_Quest_19_Desc = "Hi, I have a job for you. I need an SVDS in the following config: black Magpul UBR GEN2 buttstock, SAG MK1 chassis, black Magpul MOE pistol grip, March Tactical 3-24x42 FFP scope and a suppressor. Ergonomics should be at least 15 and the recoil sum no higher than 500.",
+   IGUI_MECANIX_Firearm_Quest_19_part1 = "Hi, I have a job for you.",
+   IGUI_MECANIX_Firearm_Quest_19_part2 = "I need an SVDS in the following config: black Magpul UBR GEN2 buttstock, SAG MK1 chassis, black Magpul MOE pistol grip, March Tactical 3-24x42 FFP scope and a suppressor.",
+   IGUI_MECANIX_Firearm_Quest_19_part3 = "Ergonomics should be at least 15 and the recoil sum no higher than 500.",
+
+   IGUI_MECANIX_Firearm_Quest_20_Name = "Mecanix Gunsmith - Part 20",
+   IGUI_MECANIX_Firearm_Quest_20_Desc = "This one is for Sniper, it seems that he’s about to set out to the woods somewhere to hunt down villains for a week. Judging from the fact that he packed one hell of a backpack with an MRE, firesteel, batteries, and water. Left it at my place for now. He needs an M1A, fitted with an UltiMAK M8 Forward Optic mount, Nightforce ATACR 7-35x56 scope, Micro T-1 reflex sight, Holosun LS321 tactical device, and a 20-round mag. Ergonomics above 20, recoil sum below 400, and a total weight of 7.3 kg or less.",
+   IGUI_MECANIX_Firearm_Quest_20_part1 = "This one is for Sniper, it seems that he’s about to set out to the woods somewhere to hunt down villains for a week.",
+   IGUI_MECANIX_Firearm_Quest_20_part2 = "Judging from the fact that he packed one hell of a backpack with an MRE, firesteel, batteries, and water.",
+   IGUI_MECANIX_Firearm_Quest_20_part3 = "Left it at my place for now. He needs an M1A, fitted with an UltiMAK M8 Forward Optic mount, Nightforce ATACR 7-35x56 scope, Micro T-1 reflex sight, Holosun LS321 tactical device, and a 20-round mag. Ergonomics above 20, recoil sum below 400, and a total weight of 7.3 kg or less.", 
+
+   /**********************************************
+               30/03/24
+               EDIT
+   ***********************************************/
+
+   IGUI_TOUBIB_Task_q1_t2 = "Deliver 3 Salewa first aid kits (You must convert this items into Packs before returning its)",
 
    
 }

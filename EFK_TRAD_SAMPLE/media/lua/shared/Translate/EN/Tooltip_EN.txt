@@ -129,4 +129,20 @@ Tooltip_EN = {
     Tooltip_EFK_ImmoSplint = "Heal 1 Fracture wound",
     Tooltip_EFK_AluSplint = "Heal 5 Fracture wounds",
     Tooltip_EFK_Grizzly = "Heal 18 Standard wounds",
+
+   /**********************************************
+               29/03/24
+               NEW
+   ***********************************************/
+
+    Tooltip_EFK_Powder = "Heal 3 Small wounds",
+    Tooltip_EFK_Aseptic = "Heal 1 Small wound",
+    Tooltip_EFK_ArmyBandage = "Heal 2 Small wounds",
+
+   /**********************************************
+               01/04/24
+               NEW
+   ***********************************************/
+
+	Tooltip_EFK_Tourniquet = "Heal 1 Small wound",
 }

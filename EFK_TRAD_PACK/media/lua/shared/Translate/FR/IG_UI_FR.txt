@@ -16,11 +16,11 @@ IGUI_FR = {
    IGUI_EFK_Message_OnPlayerJoinInsertion_Florius = "Je suis arrivé à Florius",
    IGUI_EFK_Message_OnPlayerJoinInsertion_LakeCumberland = "Je suis arrivé au Lac Cumberland",
    IGUI_EFK_Message_OnPlayerJoinInsertion_Petroville = "Je suis arrivé à Petroville",
-   IGUI_EFK_Message_OnPlayerJoinInsertion_Douanes = "Je suis arrivé à la Douane",
-   IGUI_EFK_Message_OnPlayerJoinInsertion_Usine = "Je suis arrivé à Factory",
-   IGUI_EFK_Message_OnPlayerJoinInsertion_Bois = "Je suis arrivé dans les Bois",
-   IGUI_EFK_Message_OnPlayerJoinInsertion_Echangeur = "Je suis arrivé à Interchange",
-   IGUI_EFK_Message_OnPlayerJoinInsertion_BaseMilitaire = "Je suis arrivé en Réserve",
+   IGUI_EFK_Message_OnPlayerJoinInsertion_Customs = "Je suis arrivé à la Douane",
+   IGUI_EFK_Message_OnPlayerJoinInsertion_Factory = "Je suis arrivé à l'usine",
+   IGUI_EFK_Message_OnPlayerJoinInsertion_Woods = "Je suis arrivé dans les Bois",
+   IGUI_EFK_Message_OnPlayerJoinInsertion_Interchange = "Je suis arrivé à Interchange",
+   IGUI_EFK_Message_OnPlayerJoinInsertion_MilitaryBase = "Je suis arrivé à la Base Militaire",
    IGUI_EFK_Message_OnPlayerJoinInsertion_Labo = "Je suis arrivé au Laboratoire",
    IGUI_EFK_Message_OnPlayerJoinInsertion_MarchRidge = "Je suis arrivé à March Ridge",
 
@@ -36,11 +36,11 @@ IGUI_FR = {
    IGUI_EFK_contextMenu_areaName_Dirkerdam = "Dirkerdam",
    IGUI_EFK_contextMenu_areaName_LakeCumberland = "Lake cumberland",
    IGUI_EFK_contextMenu_areaName_Petroville = "Petroville",
-   IGUI_EFK_contextMenu_areaName_Douanes = "Douanes",
-   IGUI_EFK_contextMenu_areaName_Usine = "Usine",
-   IGUI_EFK_contextMenu_areaName_Bois = "Bois",
-   IGUI_EFK_contextMenu_areaName_Echangeur = "Echangeur",
-   IGUI_EFK_contextMenu_areaName_BaseMilitaire = "Base militaire",
+   IGUI_EFK_contextMenu_areaName_Customs = "Douanes",
+   IGUI_EFK_contextMenu_areaName_Factory = "Usine",
+   IGUI_EFK_contextMenu_areaName_Woods = "Bois",
+   IGUI_EFK_contextMenu_areaName_Interchange = "Echangeur",
+   IGUI_EFK_contextMenu_areaName_MilitaryBase = "Base militaire",
    IGUI_EFK_contextMenu_areaName_Labo = "Labo",
    IGUI_EFK_contextMenu_areaName_MarchRidge = "March Ridge",
 
@@ -62,12 +62,12 @@ IGUI_FR = {
    IGUI_EFK_tooltip_insertion_Florius = "Êtes-vous sûr de commencer une mission à Florius ? Vous devez vous extraire dans les 24 heures ou vous mourrez",
    IGUI_EFK_tooltip_insertion_LakeCumberland = "Êtes-vous sûr de commencer une mission au LakeCumberland ? Vous devez vous extraire dans les 24 heures ou vous mourrez",
    IGUI_EFK_tooltip_insertion_Petroville = "Êtes-vous sûr de commencer une mission à Petroville ? Vous devez vous extraire dans les 24 heures ou vous mourrez",
-   IGUI_EFK_tooltip_insertion_Douanes = "Êtes-vous sûr de commencer une mission à Riverside ? Vous devez vous extraire dans les 24 heures ou vous mourrez",
-   IGUI_EFK_tooltip_insertion_Usine = "Êtes-vous sûr de commencer une mission en Riverside ? Vous devez vous extraire dans les 24 heures ou vous mourrez",
-   IGUI_EFK_tooltip_insertion_Bois = "Êtes-vous sûr de commencer une mission en Riverside ? Vous devez vous extraire dans les 24 heures ou vous mourrez",
-   IGUI_EFK_tooltip_insertion_Echangeur = "Êtes-vous sûr de commencer une mission à Riverside ? Vous devez vous extraire dans les 24 heures ou vous mourrez",
-   IGUI_EFK_tooltip_insertion_BaseMilitaire = "Êtes-vous sûr de commencer une mission en Riverside ? Vous devez l'extraire dans les 24 heures ou vous mourrez",
-   IGUI_EFK_tooltip_insertion_Labo = "Êtes-vous sûr de commencer une mission à Riverside ? Vous devez vous extraire dans les 24 heures ou vous mourrez",
+   IGUI_EFK_tooltip_insertion_Customs = "Êtes-vous sûr de commencer une mission à la Douane ? Vous devez vous extraire dans les 24 heures ou vous mourrez",
+   IGUI_EFK_tooltip_insertion_Factory = "Êtes-vous sûr de commencer une mission à l'Usine ? Vous devez vous extraire dans les 24 heures ou vous mourrez",
+   IGUI_EFK_tooltip_insertion_Woods = "Êtes-vous sûr de commencer une mission dans les Bois ? Vous devez vous extraire dans les 24 heures ou vous mourrez",
+   IGUI_EFK_tooltip_insertion_Interchange = "Êtes-vous sûr de commencer une mission à l'Echangeur ? Vous devez vous extraire dans les 24 heures ou vous mourrez",
+   IGUI_EFK_tooltip_insertion_MilitaryBase = "Êtes-vous sûr de commencer une mission à la Base Militaire ? Vous devez l'extraire dans les 24 heures ou vous mourrez",
+   IGUI_EFK_tooltip_insertion_Labo = "Êtes-vous sûr de commencer une mission au Labo ? Vous devez vous extraire dans les 24 heures ou vous mourrez",
 
    IGUI_Identity = "Identité : ",
    IGUI_Reputation = "Réputation : ",
@@ -462,9 +462,8 @@ IGUI_FR = {
    IGUI_TOUBIB_Quest_10_part5 = "Comme on me l'a dit, ils sont restés trop longtemps à l'arrêt et ont besoin de batteries et de bougies. Même le carburant n'est pas nécessaire. Je vais dresser une liste des articles dont nous avons besoin. Pouvez-vous les apporter ?",
 
    IGUI_TOUBIB_Task_Talk_Toubib = "Parler au Toubib",
-   IGUI_TOUBIB_Task_q1_t2 = "Trouver 3 kits médicaux d'urgence Salewa",
-   IGUI_TOUBIB_Task_q2_t2 = "Trouver un analyseur de gaz",
-   IGUI_TOUBIB_Task_q3_t2 = "Trouver 2 analyseurs de gaz",
+   IGUI_TOUBIB_Task_q2_t2 = "Livrer un kit d'analyseur de gaz (Vous devez convertir cet article en kit avant de le renvoyer)",
+   IGUI_TOUBIB_Task_q3_t2 = "Livrer 2 kits d'analyseurs de gaz (Vous devez convertir ces articles en kits avant de les renvoyer)",
    IGUI_TOUBIB_Task_q4_t2 = "Atteindre le palais de justice de Rosewood",
    IGUI_TOUBIB_Task_q4_t3 = "Trouver la réserve d'eau",
    IGUI_TOUBIB_Task_q4_t4 = "Marquer la réserve d'eau",
@@ -1176,9 +1175,107 @@ IGUI_FR = {
    IGUI_TOUBIB_Task_q7_t2 = "Atteindre la pharmacie du thérapeute - Centre du secteur Ouest de la ville",
    IGUI_TOUBIB_Task_q8_t2 = "Atteindre l'avant-poste militaire de Muldraugh",
 
+   /**********************************************
+               28/03/24
+               NEW
+   ***********************************************/
+
+   IGUI_PLAYER_TWO_Hours_BeforeDead = "J'ai deux heures pour quitter cet endroit.",
 
 
+   IGUI_MECANIX_Firearm_Quest_8_Name = "Mecanix Gunsmith - Part 8",
+   IGUI_MECANIX_Firearm_Quest_8_Desc = "J'ai deux réseaux neuronaux, l'un scanne les visages sur les caméras et les compare avec la base de données, et l'autre surveille les échanges de crypto-monnaies et y réagit. Aujourd'hui, j'ai décidé d'en créer un autre, qui surveillera la température, l'humidité, la pression et d'autres paramètres de ma cachette et, entre autres, réagira à mon humeur. Voyons ce que cela donnera lorsque j'aurai terminé. Il y a une commande d'AKS-74N avec des pièces Zenit. L'ergonomie doit être supérieure à 65, le recul inférieur à 275 et l'arme ne doit pas occuper plus de 10 emplacements. Et surtout, avec un garde-main B-30 et un rail de garde-main supérieur B-31S, une poignée avant tactique RK-0, un chargeur AK-12, un Klesch-2IKS et un DTK-1, tout est de marque Zenit. Peut-être un cadeau pour un ancien citoyen de Saint-Pétersbourg",
+   IGUI_MECANIX_Firearm_Quest_8_part1 = "J'ai deux réseaux neuronaux, l'un scanne les visages sur les caméras et les compare avec la base de données, et l'autre surveille les échanges de crypto-monnaies et y réagit",
+   IGUI_MECANIX_Firearm_Quest_8_part2 = "Aujourd'hui, j'ai décidé d'en créer un autre, qui surveillera la température, l'humidité, la pression et d'autres paramètres de ma cachette et, entre autres, réagira à mon humeur.",
+   IGUI_MECANIX_Firearm_Quest_8_part3 = "Voyons ce que ça donne quand j'ai fini. Il y a une commande d'AKS-74N avec des pièces Zenit. L'ergonomie doit être supérieure à 65, le recul inférieur à 275, et l'arme ne doit pas occuper plus de 10 emplacements",
+   IGUI_MECANIX_Firearm_Quest_8_part4 = "Et surtout, avec un garde-main B-30 avec un rail de garde-main supérieur B-31S, une poignée avant tactique RK-0, un chargeur AK-12, un Klesch-2IKS, et un DTK-1, du Zenit partout. Peut-être un cadeau pour un ancien citoyen de Saint-Pétersbourg",
 
+   IGUI_MECANIX_Firearm_Quest_9_Name = "Mecanix Gunsmith - Part 9",
+   IGUI_MECANIX_Firearm_Quest_9_Desc = "Oh, hey. Il y a un problème inhabituel qui s'est présenté. Je ne reçois pas souvent de commandes de pistolets, mais c'est une occasion spéciale. Nous avons besoin d'un SIG P226R, d'une poignée en bois Stainless Elite, d'une glissière Stainless Elite, d'un chargeur allongé et d'une lampe de poche. Ergonomie pas en dessous de 80, somme de recul pas au-dessus de 610. Une arme pour les vrais passionnés",
+   IGUI_MECANIX_Firearm_Quest_9_part1 = "Oh, hey. Il y a un problème inhabituel qui s'est présenté.",
+   IGUI_MECANIX_Firearm_Quest_9_part2 = "Je ne reçois pas souvent de commandes de pistolets, mais c'est une occasion spéciale. Nous avons besoin d'un SIG P226R, d'une crosse en bois Stainless Elite, d'une glissière Stainless Elite, d'un chargeur allongé et d'une lampe de poche.",
+   IGUI_MECANIX_Firearm_Quest_9_part3 = "Ergonomie pas en dessous de 80, somme de recul pas au-dessus de 610. Une arme pour les vrais passionnés",
+
+   IGUI_MECANIX_Firearm_Quest_10_Name = "Mecanix Gunsmith - Part 10",
+   IGUI_MECANIX_Firearm_Quest_10_Desc = "Je l'ai appelée Lusya - le réseau neuronal, je veux dire. Donc, quand je me tais, il se débrouille bien et me rappelle même de dormir quand c'est nécessaire, mais dès que je commence à parler tout seul, il essaie de me distraire, en mettant de la musique ou quelque chose comme ça. Cependant, je l'ai entraîné avec des films et des phrases tirées de ces films. Apparemment, une telle réaction nous est présentée dans les films comme la plus appropriée, mais pas pour moi. Je vais devoir réfléchir aux stimuli les plus appropriés pour imiter des personnes réelles, plutôt que la société et ses stéréotypes. Mais je m'égare, assemblez maintenant un AK-105, avec un silencieux et un chargeur de 60 cartouches. En ce qui concerne les paramètres : distance de visée supérieure à 800, ergonomie supérieure à 38, somme de recul inférieure à 500, poids de 4,8 kg ou moins. Et compact, comme toujours, 8 emplacements environ",
+   IGUI_MECANIX_Firearm_Quest_10_part1 = "Je l'ai appelée Lusya - le réseau neuronal, je veux dire. Donc, quand je me tais, il se débrouille bien et me rappelle même de dormir quand c'est nécessaire, mais dès que je commence à parler tout seul, il essaie de me distraire, en mettant de la musique ou quelque chose comme ça",
+   IGUI_MECANIX_Firearm_Quest_10_part2 = "Cependant, je l'ai entraîné avec des films et des phrases tirées de ces films. Apparemment, une telle réaction nous est présentée dans les films comme la plus appropriée, mais pas pour moi.",
+   IGUI_MECANIX_Firearm_Quest_10_part3 = "Je vais devoir réfléchir aux stimuli les plus appropriés pour imiter des personnes réelles, plutôt que la société et ses stéréotypes. Mais je m'égare, assemblez un AK-105 maintenant, avec un silencieux et un chargeur de 60 cartouches",
+   IGUI_MECANIX_Firearm_Quest_10_part4 = "En ce qui concerne les paramètres : distance de visée supérieure à 800, ergonomie supérieure à 38, somme de recul inférieure à 500, poids inférieur ou égal à 4,8 kg. Et compact, comme toujours, 8 emplacements environ",
+
+   IGUI_MECANIX_Firearm_Quest_11_Name = "Mecanix Gunsmith - Part 11",
+   IGUI_MECANIX_Firearm_Quest_11_Desc = "Un timing parfait, mon ami. Si tu as le temps, aide-moi à personnaliser mon arme. Un client important a passé commande d'une mitraillette KRISS Vector 9x19. Il souhaite qu'elle soit équipée d'un rail modulaire Mk.5, d'une poignée avant Skeletonized Tactical Dynamics, d'une lunette de visée ou d'un viseur d'une portée d'au moins 300 mètres, d'un chargeur d'au moins 33 cartouches et d'un silencieux. Ergonomie supérieure à 50 et recul inférieur à 230. Merci !",
+   IGUI_MECANIX_Firearm_Quest_11_part1 = "Parfait timing, mon ami. Si tu as le temps, aide-moi à personnaliser mon arme",
+   IGUI_MECANIX_Firearm_Quest_11_part2 = "Un client important a passé commande d'une mitraillette KRISS Vector 9x19.", IGUI_MECANIX_Firearm_Quest_11_part2 = "Un client important a passé commande d'une mitraillette KRISS Vector 9x19.",
+   IGUI_MECANIX_Firearm_Quest_11_part3 = "Il souhaite qu'elle soit équipée d'un rail modulaire Mk.5, d'une poignée avant Skeletonized Tactical Dynamics, d'une mire ou d'une lunette avec une portée d'au moins 300 mètres, d'un chargeur d'au moins 33 cartouches et d'un silencieux. Ergonomie supérieure à 50 et recul inférieur à 230. Merci !",
+
+   IGUI_MECANIX_Firearm_Quest_12_Name = "Mecanix Gunsmith - Part 12",
+   IGUI_MECANIX_Firearm_Quest_12_Desc = "Ok, nous avons une commande urgente, nous n'avons pas beaucoup de temps. Un type est passé, il a dit qu'il voulait régler ça avec Reshala, qui opère quelque part autour des dortoirs avec des gens de l'usine. Construisez-lui un MPX, avec la poignée de pistolet Skeletonized de Tactical Dynamics, le cache-flamme Annihilator et la lampe de poche tactique Steiner LAS/TAC 2. Visez une distance de visée de 300 ou plus, une ergonomie supérieure à 52, un poids inférieur à 4 kg et une somme de recul inférieure à 225. Et ne dites à personne pourquoi vous avez besoin de cette arme. Si Reshala l'apprend, il ne sera pas très content, et ses gars sont plutôt méchants, ils ont tous servi dans l'armée avant de travailler à l'usine",
+   IGUI_MECANIX_Firearm_Quest_12_part1 = "Ok, nous avons une commande urgente, nous n'avons pas beaucoup de temps",
+   IGUI_MECANIX_Firearm_Quest_12_part2 = "Un type est passé, il a dit qu'il voulait régler ça avec Reshala, qui opère quelque part autour des dortoirs avec des gens de l'usine.",
+   IGUI_MECANIX_Firearm_Quest_12_part3 = "Construisez-lui un MPX, avec la poignée de pistolet Skeletonized de Tactical Dynamics, le cache-flamme Annihilator et la lampe de poche tactique Steiner LAS/TAC 2. Visez une distance de visée de 300 ou plus, une ergonomie supérieure à 52, un poids inférieur à 4 kg, une somme de recul inférieure à 225",
+   IGUI_MECANIX_Firearm_Quest_12_part3 = "Et ne dis à personne pourquoi tu as besoin de cette arme. Si Reshala l'apprend, il ne sera pas très content, et ses gars sont plutôt méchants, ils ont tous servi dans l'armée avant de travailler à l'usine.", 
+
+   IGUI_MECANIX_Firearm_Quest_13_Name = "Mecanix Gunsmith - Part 13",
+   IGUI_MECANIX_Firearm_Quest_13_Desc = "Êtes-vous doué pour vous cacher ? Pas assez pour que Sniper ne te trouve pas, je pense. Je n'envie pas ce type, comment s'appelle-t-il, Brendan je crois. Intéressant, tous ces héros du passé que nous admirions tant, où sont-ils passés ? Pourquoi tout le monde est-il devenu si vide ? Pourquoi maintenant, avec ce chaos ambiant, des gens comme Sniper sont-ils devenus des héros pour nous ? Pourquoi avons-nous ignoré ces chiens de guerre, et maintenant nous avons hâte d'être amis avec eux ? Qu'en pensez-vous ? J'ai une autre commande, pour un R11 RSASS. Avec une portée de visée de 1500 ou plus. Un poids de 6,7 kg ou moins. Il faut aussi un silencieux, une ergonomie supérieure à 26, et un recul inférieur à 300",
+   IGUI_MECANIX_Firearm_Quest_13_part1 = "Êtes-vous doué pour vous cacher ? Pas assez pour que le sniper ne vous trouve pas, je pense.",
+   IGUI_MECANIX_Firearm_Quest_13_part2 = "Je n'envie pas ce type, comment s'appelle-t-il, Brendan je crois. Intéressant, tous ces héros du passé que nous admirions tant, où sont-ils passés ? Pourquoi tout le monde est-il devenu si vide ?",
+   IGUI_MECANIX_Firearm_Quest_13_part3 = "Pourquoi maintenant, avec ce chaos ambiant, des gens comme Sniper sont-ils devenus des héros pour nous ? Pourquoi avons-nous ignoré ces chiens de guerre, et maintenant nous nous réjouissons d'être amis avec eux ? Qu'en pensez-vous ?", 
+   IGUI_MECANIX_Firearm_Quest_13_part4 = "J'ai une autre commande, pour un R11 RSASS. Avec une portée de visée de 1500 ou plus. Poids 6,7 kg ou moins. Il faut aussi un silencieux, une ergonomie supérieure à 26, et un recul inférieur à 300.", 
+
+   IGUI_MECANIX_Firearm_Quest_14_Name = "Mecanix Gunsmith - Part 14",
+   IGUI_MECANIX_Firearm_Quest_14_Desc = "Bonjour. Il y a une nouvelle commande pour un fusil Western HK 416A5. Nécessite des accessoires de couleur havane : SureFire SOCOM556-RC2 silencieux, Magpul RVG poignée tactique, EOTech EXPS3 viseur holographique, Magpul MOE poignée pistolet, Magpul UBR GEN2 crosse, LA-5B/PEQ module tactique, et un magasin avec une capacité d'au moins 30 rondes. Ergonomie supérieure à 60, somme de recul inférieure à 300, poids inférieur ou égal à 4 kilos. Comme dans les forces spéciales, n'est-ce pas ? Oh, et essayez de trouver un fusil qui n'est pas défoncé, l'état technique doit être d'au moins 80%",
+   IGUI_MECANIX_Firearm_Quest_14_part1 = "Bonjour. Il y a une nouvelle commande pour un fusil Western HK 416A5.",
+   IGUI_MECANIX_Firearm_Quest_14_part2 = "Nécessite des accessoires de couleur beige : SureFire SOCOM556-RC2 silencieux, Magpul RVG tactical grip, EOTech EXPS3 holographic sight, Magpul MOE pistol grip,",
+   IGUI_MECANIX_Firearm_Quest_14_part3 = "Crosse Magpul UBR GEN2, module tactique LA-5B/PEQ, et un chargeur d'une capacité d'au moins 30 balles. Ergonomie supérieure à 60, somme de recul inférieure à 300, poids de 4 kilos ou moins. Comme dans les forces spéciales, n'est-ce pas ? 
+   IGUI_MECANIX_Firearm_Quest_14_part4 = "Oh, et essayez de trouver un fusil qui n'est pas détruit, l'état technique doit être d'au moins 80%.", 
+
+   IGUI_MECANIX_Firearm_Quest_15_Name = "Mecanix Gunsmith - Part 15",
+   IGUI_MECANIX_Firearm_Quest_15_Desc = "Pendant que j'étais occupé avec le réseau, j'ai commencé à me demander en quoi nous sommes différents de lui, et quand nous pourrons remplacer nos cerveaux éphémères par ce genre de systèmes. Qu'en pensez-vous ? Ce temps viendra-t-il un jour ? Je pense que oui, très bientôt. Nous ne savons pas encore quels processus se déroulent à l'intérieur des réseaux neuronaux, il n'y a qu'un signal d'entrée et le résultat de ses actions, et comment il a appris avec ses propres règles internes, en câblant ses propres liens neuronaux à l'intérieur de lui-même. En quoi est-il différent de nous ? Aimeriez-vous vivre dans un monde où vos actions ne seraient limitées que par votre esprit et votre imagination ? En réalité, je pense que vivre dans un tel monde ne serait pas mieux que dans le nôtre s'il n'y a pas de but. Et d'où peut venir un but quand on est immortel et omnipotent... Cette fois-ci, nous avons besoin d'une crosse AS VAL. GL-SHOCK, d'un dispositif tactique AN/PEQ-15, d'une lunette de visée NSPU-M et d'un chargeur de 30 cartouches. Ergonomie supérieure à 33 et somme de recul inférieure à 220",
+   IGUI_MECANIX_Firearm_Quest_15_part1 = "Pendant que j'étais occupé avec le réseau, j'ai commencé à me demander en quoi nous sommes différents de lui, et quand nous pourrons remplacer nos cerveaux éphémères par ce genre de systèmes.", IGUI_MECANIX_Firearm_Quest_15_part2 = "Je ne sais pas ce que je vais faire, mais je ne sais pas ce que je vais faire,
+   IGUI_MECANIX_Firearm_Quest_15_part2 = "Qu'en pensez-vous, ce temps viendra-t-il un jour ? Je pense que oui, très bientôt. Nous ne savons pas encore quels processus se déroulent à l'intérieur des réseaux neuronaux, il n'y a qu'un signal d'entrée et le résultat de ses actions, et comment il a appris avec ses propres règles internes, en câblant ses propres liens neuronaux à l'intérieur de lui-même.",
+   IGUI_MECANIX_Firearm_Quest_15_part3 = "En quoi est-il différent de nous ? Aimeriez-vous vivre dans un monde où vos actions ne seraient limitées que par votre esprit et votre imagination ? En vérité, je pense que vivre dans un tel monde ne serait pas mieux que dans le nôtre s'il n'y a pas de but.", 
+   IGUI_MECANIX_Firearm_Quest_15_part4 = "Et d'où peut venir un but si vous êtes immortel et omnipotent... Cette fois, nous avons besoin d'une crosse AS VAL. GL-SHOCK, d'un dispositif tactique AN/PEQ-15, d'une lunette de visée NSPU-M et d'un chargeur de 30 cartouches", 
+   IGUI_MECANIX_Firearm_Quest_15_part5 = "Ergonomie supérieure à 33 et somme de recul inférieure à 220.", 
+
+   IGUI_MECANIX_Firearm_Quest_16_Name = "Mecanix Gunsmith - Part 16",
+   IGUI_MECANIX_Firearm_Quest_16_Desc = " J'en ai trop dit la dernière fois. Cela arrive quand je suis seul avec mes pensées pendant un certain temps. Beaucoup de choses me viennent à l'esprit pendant que je suis assis ici à calibrer la mire. Ce M4 s'est avéré splendide, il m'a été enlevé en un instant. Un ours est passé récemment, il s'appelle Sniper ou quelque chose comme ça. Il a besoin d'un fusil de sniper Lobaev DVL, avec une lunette et un dispositif multi-laser. Avec un recul inférieur à 450, une ergonomie supérieure à 40 et un poids inférieur à 6,7 kg. Il a précisé qu'il devait être capable de tirer à 2000 mètres. Le gars est sérieux, alors faites de votre mieux pour faire une construction solide",
+   IGUI_MECANIX_Firearm_Quest_16_part1 = "J'en ai trop dit la dernière fois. Cela arrive quand je suis seul avec mes pensées pendant un certain temps.",
+   IGUI_MECANIX_Firearm_Quest_16_part2 = "Beaucoup de choses me viennent à l'esprit pendant que je suis assis ici à calibrer le viseur. Ce M4 s'est avéré splendide, il m'a été enlevé des mains en un instant.",
+   IGUI_MECANIX_Firearm_Quest_16_part3 = "Un ours est passé récemment, il s'appelle Sniper ou quelque chose comme ça. Il a besoin d'un fusil de sniper Lobaev DVL, avec une lunette et un dispositif multi-laser.",
+   IGUI_MECANIX_Firearm_Quest_16_part4 = "Avec un recul inférieur à 450, une ergonomie supérieure à 40, et un poids inférieur à 6,7 kg. Il a dit qu'il devait être capable de tirer à 2000m. Le gars est sérieux, alors faites de votre mieux pour faire une construction solide",
+
+   IGUI_MECANIX_Firearm_Quest_17_Name = "Mecanix Gunsmith - Part 17",
+   IGUI_MECANIX_Firearm_Quest_17_Desc = "Il y a bien longtemps, j'ai rencontré le propriétaire de KIBA Arms, nous sommes même allés dans un sauna ensemble, bien que je n'aime pas particulièrement ça. Il s'est même cassé la jambe en essayant de sauter en apnée depuis la jetée ce jour-là. Il rêvait d'installer un terrain d'airsoft. Il semble que son souhait se soit réalisé à Tarkov, le meilleur et le plus grand terrain d'airsoft du monde, avec une seule petite différence : ici, on meurt et on perd tout d'une seule balle perdue. Assemblez un AK-102, avec un Ferfrans CRD Concussion Reduction Device, une poignée tactique Magpul AFG OD, une lampe de poche Zenit Klesch-2U, un tube tampon RPK-16 et un chargeur Circle 10. L'ergonomie doit être supérieure à 70, le recul inférieur à 250, la distance de visée de 800 ou plus. Veillez à ce qu'il n'occupe pas plus de 8 emplacements",
+   IGUI_MECANIX_Firearm_Quest_17_part1 = "Il y a bien longtemps, j'ai rencontré le propriétaire de KIBA Arms, nous sommes même allés au sauna ensemble, bien que je n'aime pas particulièrement ça",
+   IGUI_MECANIX_Firearm_Quest_17_part2 = "Il s'est même cassé la jambe en essayant de sauter de la jetée ce jour-là. Jolly fellow rêvait d'installer un terrain d'airsoft. Il semble que son souhait se soit réalisé à Tarkov, le meilleur et le plus grand terrain d'airsoft du monde, à une petite différence près :",
+   IGUI_MECANIX_Firearm_Quest_17_part3 = "Ici, on meurt et on perd tout à cause d'une seule balle perdue. Assemblez un AK-102, avec un Ferfrans CRD Concussion Reduction Device, une poignée tactique Magpul AFG OD, une lampe de poche Zenit Klesch-2U, un tube tampon RPK-16 et le chargeur Circle 10.",
+   IGUI_MECANIX_Firearm_Quest_17_part4 = "L'ergonomie doit être supérieure à 70, le recul inférieur à 250, la distance de visée de 800 ou plus. Veillez à ce qu'elle ne prenne pas plus de 8 emplacements",
+
+   IGUI_MECANIX_Firearm_Quest_18_Name = "Mecanix Gunsmith - Part 18",
+   IGUI_MECANIX_Firearm_Quest_18_Desc = " Je veux essayer d'apprendre à Lusya à dire si quelqu'un ment, si le résultat est au moins 90% précis, il sera intéressant d'écouter tous ces politiciens et ces baleines de TerraGroup, qui ont exposé leurs idéaux et leurs nobles objectifs hier encore, assurés des avantages de notre zone économique et d'un avenir radieux. Dans quelle mesure tout cela n'était-il qu'un tissu de mensonges ? Je pense que c'est la totalité. Il y a une demande pour une édition Magpul de l'AKMN. C'est-à-dire que le garde-main, la crosse et la poignée de pistolet doivent être Magpul. Le tout en noir. En outre, un frein de bouche Rotor 43, une poignée tactique Magpul M-LOK noire et un viseur hybride EOTech HHS-1. Somme de recul inférieure à 350, ergonomie supérieure à 50, et poids de 5 kg ou moins avec une portée de visée de 500",
+   IGUI_MECANIX_Firearm_Quest_18_part1 = "Je veux essayer d'apprendre à Lusya à dire si quelqu'un ment, si le résultat est au moins 90% précis, ce sera intéressant d'écouter tous ces politiciens et ces baleines de TerraGroup, qui hier encore ont exposé leurs idéaux et leurs nobles objectifs, assurés des avantages de notre zone économique et d'un avenir radieux",
+   IGUI_MECANIX_Firearm_Quest_18_part2 = "Quelle part de tout cela était un mensonge concentré ? Je pense que c'est la totalité. Il y a une demande pour une édition Magpul de l'AKMN. C'est-à-dire que le garde-main, la crosse et la poignée de pistolet doivent être Magpul",
+   IGUI_MECANIX_Firearm_Quest_18_part3 = "Tout en noir. En outre, un frein de bouche Rotor 43, une poignée tactique Magpul M-LOK noire et un viseur hybride EOTech HHS-1. Somme de recul inférieure à 350, ergonomie supérieure à 50, et poids de 5 kg ou moins avec une portée de visée de 500.",
+
+   IGUI_MECANIX_Firearm_Quest_19_Name = "Mecanix Gunsmith - Part 19",
+   IGUI_MECANIX_Firearm_Quest_19_Desc = "Bonjour, j'ai un travail pour vous. J'ai besoin d'un SVDS dans la configuration suivante : crosse Magpul UBR GEN2 noire, châssis SAG MK1, poignée pistolet Magpul MOE noire, lunette March Tactical 3-24x42 FFP et un suppresseur. L'ergonomie doit être d'au moins 15 et le recul ne doit pas dépasser 500",
+   IGUI_MECANIX_Firearm_Quest_19_part1 = "Bonjour, j'ai un travail pour vous",
+   IGUI_MECANIX_Firearm_Quest_19_part2 = "J'ai besoin d'un SVDS dans la configuration suivante : crosse Magpul UBR GEN2 noire, châssis SAG MK1, poignée pistolet Magpul MOE noire, lunette March Tactical 3-24x42 FFP et un suppresseur",
+   IGUI_MECANIX_Firearm_Quest_19_part3 = "L'ergonomie doit être d'au moins 15 et la somme de recul ne doit pas être supérieure à 500",
+
+   IGUI_MECANIX_Firearm_Quest_20_Name = "Mecanix Gunsmith - Part 20",
+   IGUI_MECANIX_Firearm_Quest_20_Desc = "Celle-ci est pour Sniper, il semble qu'il soit sur le point de partir dans les bois quelque part pour chasser les méchants pendant une semaine. A en juger par le fait qu'il a préparé un sac à dos d'enfer avec un MRE, un firesteel, des batteries et de l'eau. Il l'a laissé chez moi pour l'instant. Il a besoin d'un M1A, équipé d'un UltiMAK M8 Forward Optic mount, d'une lunette Nightforce ATACR 7-35x56, d'une visée réflexe Micro T-1, d'un dispositif tactique Holosun LS321 et d'un chargeur de 20 cartouches. Ergonomie supérieure à 20, somme de recul inférieure à 400 et poids total inférieur ou égal à 7,3 kg",
+   IGUI_MECANIX_Firearm_Quest_20_part1 = "Celle-ci est pour Sniper, il semble qu'il soit sur le point de partir dans les bois quelque part pour chasser les méchants pendant une semaine.",
+   IGUI_MECANIX_Firearm_Quest_20_part2 = "A en juger par le fait qu'il a emballé un sac à dos d'enfer avec un MRE, un firesteel, des batteries et de l'eau",
+   IGUI_MECANIX_Firearm_Quest_20_part3 = "Il l'a laissé chez moi pour l'instant. Il a besoin d'un M1A, équipé d'un UltiMAK M8 Forward Optic mount, d'une lunette Nightforce ATACR 7-35x56, d'une visée réflexe Micro T-1, d'un dispositif tactique Holosun LS321, et d'un chargeur de 20 cartouches. Ergonomie supérieure à 20, somme de recul inférieure à 400, et poids total de 7,3 kg ou moins", 
+
+   /**********************************************
+               30/03/24
+               EDIT
+   ***********************************************/
+
+   IGUI_TOUBIB_Task_q1_t2 = "Livrer 3 kits de premiers secours Salewa (Vous devez convertir ces articles en Packs avant de les renvoyer)",
 
    
 }

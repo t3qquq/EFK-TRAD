@@ -662,7 +662,31 @@ ItemName_DE = {
 
         ItemName_Base.Pop2 = "Dose RatCola Limonade",
         ItemName_Base.EFK_Salewa_kit = "Salewa Erste-Hilfe-Paket",
+        ItemName_Base.EFK_HealDocumentation = "EFK Heal Dokumentation",
+        ItemName_Base.EFK_PraporInfo_Q2 = "Informationen Prapor Quest 2",
+        ItemName_Base.EFK_PraporInfo_Q3 = "Informationen Prapor Quest 3",
+        ItemName_Base.EFK_PraporInfo_Q4 = "Informationen Prapor Quest 4",
+        ItemName_Base.EFK_PraporInfo_Q5 = "Informationen Prapor Quest 5",
+        ItemName_Base.EFK_PraporInfo_Q7 = "Informationen Prapor Quest 7",
+        ItemName_Base.EFK_PraporInfo_Q9 = "Informationen Prapor Quest 9",
+        ItemName_Base.EFK_ToubibInfo_Q4 = "Informationen Toubib Quest 4",
+        ItemName_Base.EFK_ToubibInfo_Q5 = "Informationen Toubib Quest 5",
+        ItemName_Base.EFK_ToubibInfo_Q7 = "Informationen Toubib Quest 7",
+        ItemName_Base.EFK_ToubibInfo_Q8 = "Informationen Toubib Quest 8",
+        ItemName_Base.EFK_SkierInfo_Q2 = "Informationen Skier Quest 2",
+        ItemName_Base.EFK_SkierInfo_Q3 = "Informationen Skier Quest 3",
+        ItemName_Base.EFK_SkierInfo_Q5 = "Informationen Skier Quest 5",
+        ItemName_Base.EFK_SkierInfo_Q6 = "Informationen Skier Quest 6",
+        ItemName_Base.EFK_SkierInfo_Q7 = "Informationen Skier Quest 7",
+        ItemName_Base.EFK_SkierInfo_Q8 = "Informationen Skier Quest 8",
+        ItemName_Base.EFK_SkierInfo_Q9 = "Informationen Skier Quest 9",
 
+   /**********************************************
+               28/03/24
+               NEW
+   ***********************************************/
 
+        ItemName_Base.EFK_TOZ106_SKIER = "TOZ-106 20ga Repetierflinte",
+        ItemName_Base.EFK_TOZ106_SKIER_Fold = "TOZ-106 20ga Repetierflinte (Zusammengeklappt)",
 
 }

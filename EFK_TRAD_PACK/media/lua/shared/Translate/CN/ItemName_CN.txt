@@ -256,7 +256,7 @@ ItemName_CN = {
         ItemName_Base.EFK_MK18 = "SWORD International Mk-18 .338 LM 神射步枪",
         ItemName_Base.EFK_MK18_Melee = "SWORD International Mk-18 .338 LM 狙击步枪（近战）",
         ItemName_Base.EFK_MP43 = "MP-43-1C 12ga 双管霰弹枪",
-        项目名称_Base.EFK_MP153 = "MP-153 12 加仑半自动霰弹枪",
+        ItemName_Base.EFK_MP153 = "MP-153 12 加仑半自动霰弹枪",
         ItemName_Base.EFK_MP155 = "MP-155 12ga 半自动霰弹枪",
         ItemName_Base.EFK_PP19 = "PP-19-01 Vityaz 9x19 冲锋枪",
         ItemName_Base.EEFK_PP19_Fold = "PP-19-01 Vityaz 9x19 冲锋枪（折叠式）",
@@ -662,7 +662,31 @@ ItemName_CN = {
 
         ItemName_Base.Pop2 = "一罐 RatCola 汽水",
         ItemName_Base.EFK_Salewa_kit = "Salewa 急救箱包",
+        ItemName_Base.EFK_HealDocumentation = "EFK Heal Documentation",
+        ItemName_Base.EFK_PraporInfo_Q2 = "Informations Prapor Quest 2",
+        ItemName_Base.EFK_PraporInfo_Q3 = "Informations Prapor Quest 3",
+        ItemName_Base.EFK_PraporInfo_Q4 = "Informations Prapor Quest 4",
+        ItemName_Base.EFK_PraporInfo_Q5 = "Informations Prapor Quest 5",
+        ItemName_Base.EFK_PraporInfo_Q7 = "Informations Prapor Quest 7",
+        ItemName_Base.EFK_PraporInfo_Q9 = "Informations Prapor Quest 9",
+        ItemName_Base.EFK_ToubibInfo_Q4 = "Informations Toubib Quest 4",
+        ItemName_Base.EFK_ToubibInfo_Q5 = "Informations Toubib Quest 5",
+        ItemName_Base.EFK_ToubibInfo_Q7 = "Informations Toubib Quest 7",
+        ItemName_Base.EFK_ToubibInfo_Q8 = "Informations Toubib Quest 8",
+        ItemName_Base.EFK_SkierInfo_Q2 = "Informations Skier Quest 2",
+        ItemName_Base.EFK_SkierInfo_Q3 = "Informations Skier Quest 3",
+        ItemName_Base.EFK_SkierInfo_Q5 = "Informations Skier Quest 5",
+        ItemName_Base.EFK_SkierInfo_Q6 = "Informations Skier Quest 6",
+        ItemName_Base.EFK_SkierInfo_Q7 = "Informations Skier Quest 7",
+        ItemName_Base.EFK_SkierInfo_Q8 = "Informations Skier Quest 8",
+        ItemName_Base.EFK_SkierInfo_Q9 = "Informations Skier Quest 9",
 
+   /**********************************************
+               28/03/24
+               NEW
+   ***********************************************/
 
+        ItemName_Base.EFK_TOZ106_SKIER = "TOZ-106 20ga bolt-action shotgun",
+        ItemName_Base.EFK_TOZ106_SKIER_Fold = "TOZ-106 20ga bolt-action shotgun (Folded)",
 
 }

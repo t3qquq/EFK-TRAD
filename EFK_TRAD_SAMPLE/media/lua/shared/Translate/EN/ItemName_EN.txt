@@ -18,11 +18,7 @@ ItemName_EN = {
         ItemName_Base.AI2Painkiller = "Medkit Painkiller",
         ItemName_Base.AI2Antibiotics = "Medkit Antibiotics",
         ItemName_Base.AI2Instructions = "Medkit Instructions",
-        ItemName_Base.ArmyBandage = "Army Bandage",
-        ItemName_Base.ArmyBandageDirty = "Dirty Army Bandage",
-        ItemName_Base.ArmyAlcoholBandage = "Sterile Army Bandage ",   
-        ItemName_Base.SterilizedBandage = "Sterile Bandage",
-        ItemName_Base.SterilizedBandageDirty = "Dirty Sterile Bandage",
+        ItemName_Base.EFK_AsepticBandage = "Sterile Bandage",
 
         ItemName_Base.9mmDrum = "9x19 Mag 50 rounds",
         ItemName_Base.9mmExtClip = "9x19 Mag 30 rounds",
@@ -577,7 +573,7 @@ ItemName_EN = {
         ItemName_Base.EFK_MetalCuttingScissors = "Metal cutting scissors",
         ItemName_Base.EFK_flat_screwdriver = "Flat screwdriver",
         ItemName_Base.EFK_Insulating_tape = "Insulating tape",
-        ItemName_Base.EFK_long_screwdriver = "Flat screwdriver (Long)",
+        ItemName_Base.EFK_long_screwdriver = "Long Flat screwdriver",
         ItemName_Base.EFK_BrokenGPhoneSmartphoneX = "Broken GPhone X smartphone",
         ItemName_Base.EFK_Geiger = "Geiger-Muller counter",
         ItemName_Base.EFK_Schaman = "Schaman shampoo",
@@ -662,7 +658,66 @@ ItemName_EN = {
 
         ItemName_Base.Pop2 = "Can of RatCola soda",
         ItemName_Base.EFK_Salewa_kit = "Salewa first aid kit Pack",
+        ItemName_Base.EFK_HealDocumentation = "EFK Heal Documentation",
+        ItemName_Base.EFK_PraporInfo_Q2 = "Informations Prapor Quest 2",
+        ItemName_Base.EFK_PraporInfo_Q3 = "Informations Prapor Quest 3",
+        ItemName_Base.EFK_PraporInfo_Q4 = "Informations Prapor Quest 4",
+        ItemName_Base.EFK_PraporInfo_Q5 = "Informations Prapor Quest 5",
+        ItemName_Base.EFK_PraporInfo_Q7 = "Informations Prapor Quest 7",
+        ItemName_Base.EFK_PraporInfo_Q9 = "Informations Prapor Quest 9",
+        ItemName_Base.EFK_ToubibInfo_Q4 = "Informations Toubib Quest 4",
+        ItemName_Base.EFK_ToubibInfo_Q5 = "Informations Toubib Quest 5",
+        ItemName_Base.EFK_ToubibInfo_Q7 = "Informations Toubib Quest 7",
+        ItemName_Base.EFK_ToubibInfo_Q8 = "Informations Toubib Quest 8",
+        ItemName_Base.EFK_SkierInfo_Q2 = "Informations Skier Quest 2",
+        ItemName_Base.EFK_SkierInfo_Q3 = "Informations Skier Quest 3",
+        ItemName_Base.EFK_SkierInfo_Q5 = "Informations Skier Quest 5",
+        ItemName_Base.EFK_SkierInfo_Q6 = "Informations Skier Quest 6",
+        ItemName_Base.EFK_SkierInfo_Q7 = "Informations Skier Quest 7",
+        ItemName_Base.EFK_SkierInfo_Q8 = "Informations Skier Quest 8",
+        ItemName_Base.EFK_SkierInfo_Q9 = "Informations Skier Quest 9",
 
+   /**********************************************
+               28/03/24
+               NEW
+   ***********************************************/
 
+        ItemName_Base.EFK_TOZ106_SKIER = "TOZ-106 20ga bolt-action shotgun",
+        ItemName_Base.EFK_TOZ106_SKIER_Fold = "TOZ-106 20ga bolt-action shotgun (Folded)",
+
+        ItemName_Base.EFK_AKS-74N_MK1 = "Custom Firearm AKS-74N MK1",
+        ItemName_Base.EFK_P226R_MK1 = "Custom Firearm P226R MK1",
+        ItemName_Base.EFK_AK-105_MK1 = "Custom Firearm AK-105 MK1",
+        ItemName_Base.EFK_Vector_9x19_MK1 = "Custom Firearm Kriss Vector  9x19 MK1",
+        ItemName_Base.EFK_MPX_MK1 = "Custom Firearm MPX MK1",
+        ItemName_Base.EFK_RSASS_MK1 = "Custom Firearm RSASS MK1",
+        ItemName_Base.EFK_HK416A5_MK1 = "Custom Firearm HK 416A5 MK1",
+        ItemName_Base.EFK_ASVAL_MK1 = "Custom Firearm AS VAL MK1",
+        ItemName_Base.EFK_DVL_MK1 = "Custom Firearm DVL MK1",
+        ItemName_Base.EFK_AK-102_MK1 = "Custom Firearm AK-102 MK1",
+        ItemName_Base.EFK_AKMN_MK1 = "Custom Firearm AKMN MK1",
+        ItemName_Base.EFK_SVDS_MK1 = "Custom Firearm SVDS MK1",
+        ItemName_Base.EFK_M1A_MK1 = "Custom Firearm M1A MK1",
+
+   /**********************************************
+               01/04/24
+               EDIT
+   ***********************************************/
+
+        ItemName_Base.ArmyBandage = "Army Bandage",
+
+   /**********************************************
+               01/04/24
+               NEW
+   ***********************************************/
+
+        ItemName_Base.EFK_AsepticBandage = "Sterile Bandage",
+        ItemName_Base.EFK_Tourniquet = "Tourniquet",
 
 }
+
+
+
+
+
+
