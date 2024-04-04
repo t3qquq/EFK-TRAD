@@ -378,7 +378,7 @@ IGUI_ES = {
    IGUI_TOUBIB_Quest_Decline_Reaction = "Bien. Vuelve si cambias de opinión",
    IGUI_TOUBIB_Quest_Good_Work = "Buen trabajo",
    IGUI_TOUBIB_Quest_No_More_Quest = "No tengo más trabajo para ti. Vuelve a verme más tarde",
-   IGUI_TOUBIB_Quest_Trade = "¡Compra lo que quieras, pero ten cuidado de no abusar!
+   IGUI_TOUBIB_Quest_Trade = "¡Compra lo que quieras, pero ten cuidado de no abusar!",
    IGUI_TOUBIB_Quest_Exit = "No hay problema, lo entiendo",
 
    IGUI_TOUBIB_Quest_1_Name = "Medic 1 - Escasez",

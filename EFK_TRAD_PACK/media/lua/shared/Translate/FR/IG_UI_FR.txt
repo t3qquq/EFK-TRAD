@@ -378,7 +378,7 @@ IGUI_FR = {
    IGUI_TOUBIB_Quest_Decline_Reaction = "Très bien. Revenez si vous changez d'avis",
    IGUI_TOUBIB_Quest_Good_Work = "Bon travail",
    IGUI_TOUBIB_Quest_No_More_Quest = "Je n'ai plus de travail pour vous. Revenez me voir plus tard",
-   IGUI_TOUBIB_Quest_Trade = "Achète ce que tu veux, mais fais attention à ne pas en abuser !
+   IGUI_TOUBIB_Quest_Trade = "Achète ce que tu veux, mais fais attention à ne pas en abuser !",
    IGUI_TOUBIB_Quest_Exit = "Pas de problème, je comprends",
 
    IGUI_TOUBIB_Quest_1_Name = "Toubib 1 - Pénurie",
