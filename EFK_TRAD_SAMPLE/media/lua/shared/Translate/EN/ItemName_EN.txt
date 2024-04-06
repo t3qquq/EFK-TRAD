@@ -775,7 +775,7 @@ ItemName_EN = {
         ItemName_Base.EFK_Body_armor_repair_kit = "Body armor repair kit",
         ItemName_Base.Cleaning = "Weapon repair kit",
 
-
-
+        ItemName_Base.EFK_WD40 = "WD-40 100ml",
+        ItemName_Base.EFK_WD40_400 = "WD-40 400ml",
 
 }
