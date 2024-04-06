@@ -168,7 +168,7 @@ ContextMenu_FR = {
     ContextMenu_SD_High = "Haut",
     ContextMenu_SD_VeryHigh = "Très élevé",
     ContextMenu_SD_ExtremelyHigh = "Extrêmement élevé",
-    ContextMenu_SD_UltraHigh = "Ultra High",
+    ContextMenu_SD_UltraHigh = "Ultra élevé",
     ContextMenu_SD_Off = "Off",
     ContextMenu_SD_On = "On",
 

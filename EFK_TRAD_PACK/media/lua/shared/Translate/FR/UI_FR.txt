@@ -6,8 +6,6 @@ UI_FR = {
     UI_profdesc_usec = "Entreprise para-militaire privée américaine",
     UI_profdesc_bear = "Entreprise para-militaire privée russe",
 
-    UI_optionscreen_binding_Call_Closest_Group_Member = "Appeler le membre du groupe le plus proche",
-    UI_optionscreen_binding_Call_Closest_Non-Group_Member = "Appeler le membre du groupe le plus proche",
     UI_optionscreen_binding_Ask_Closest_Group_Member_to_Follow = "Demander au membre du groupe le plus proche de suivre",
     UI_optionscreen_binding_Spawn_Wild_Survivor = "Faire apparaître un autre Survivant",
     UI_optionscreen_binding_Toggle_Group_Window = "Basculer la fenêtre du groupe",
@@ -17,5 +15,18 @@ UI_FR = {
     UI_optionscreen_binding_SSHotkey_2 = "Directive SSHotkey 2",
     UI_optionscreen_binding_SSHotkey_3 = "Directive SSHotkey 3",
     UI_optionscreen_binding_SSHotkey_4 = "Directive SSHotkey 4",
+
+       /**********************************************
+               30/03/24
+               EDIT
+   ***********************************************/
+
+    UI_optionscreen_binding_Call_Closest_Group_Member = "Appeler le membre du groupe le plus proche",
+    UI_optionscreen_binding_Call_Closest_Non-Group_Member = "Appeler le membre isolé le plus proche",
+
+
+
+
+
 
 }

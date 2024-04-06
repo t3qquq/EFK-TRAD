@@ -524,9 +524,54 @@ Recipes_FR = {
                EDIT
    ***********************************************/
 
-     Recipe_Sell_Long_Flat_screwdriver = "Vendre Tournevis plat long (207)",
-     Recipe_Craft_2_small_cans_of_beef_stew = "Craft 2 petites boîtes de ragoût de bœuf",
+     Recipe_Sell_Long_Flat_screwdriver = "Vendre un tournevis plat long (207)",
+     Recipe_Craft_2_small_cans_of_beef_stew = "Fabriquer 2 petites boîtes de ragoût de bœuf",
 
+   /**********************************************
+               02/04/24
+               NEW
+   ***********************************************/
+
+     Recipe_Sell_Schaman_shampoo = "Vendre le shampooing Schaman (44)",
+     Recipe_Sell_UHF_RFID_Reader = "Vendre lecteur RFID UHF (302)",
+     Recipe_Sell_Intelligence_folder = "Vendre dossier de renseignement (341)",
+     Recipe_Sell_Military_flash_drive = "Vendre clé USB militaire (296)",
+     Recipe_Sell_VPX_Flash_Storage_Module = "Vendre module de stockage flash VPX (960)",
+     Recipe_Sell_Military_COFDM_Wireless_Signal Transmitter = "Vendre Émetteur de signaux sans fil COFDM militaire (916)",
+     Recipe_Sell_Virtex_programmable_processor = "Vendre processeur programmable Virtex (756)",
+     Recipe_Sell_Digital_secure_DSP_radio = "Vendre radio DSP numérique sécurisée (5600)",
+     Recipe_Sell_Topographic_survey_maps = "Vendre des cartes topographiques (356)",
+     Recipe_Sell_Clin_window_cleaner = "Vendre Clin nettoyeur de vitres (44)",
+     Recipe_Sell_Silicone_tube = "Vendre Tube silicone (119)",
+     Recipe_Sell_Fleece_fabric = "Vendre Tissu polaire (25)", Recipe_Sell_Fleece_fabric = "Vendre Tissu polaire (25)",
+     Recipe_Sell_Printer_paper = "Vendre Papier pour imprimante (14)",
+     Recipe_Sell_Physical_Bitcoin = "Vendre du bitcoin physique (9254)",
+     Recipe_Sell_Bottle_of_Fierce_Hatchling_moonshine = "Vendre une bouteille de liqueur de l'éclosion féroce (1260)",
+     Recipe_Sell_Military_power_filter = "Vendre filtre d'alimentation militaire (346)",
+     Recipe_Sell_Advanced_current_converter = "Vendre convertisseur de courant avancé (1890)",
+     Recipe_Sell_Phased_array_element = "Vendre Élément de réseau phasé (1045)", Recipe_Sell_Phased_array_element = "Vendre Élément de réseau phasé (1045)",
+     Recipe_Sell_Chainlet = "Vendre Chaînette (45)",
+     Recipe_Sell_Diary = "Vendre Journal intime (287)",
+     Recipe_Sell_Slim_diary = "Vendre Agenda minceur (351)", Recipe_Sell_Slim_diary = "Vendre Agenda minceur (351)",
+     Recipe_Sell_Bottle_of_Norvinskiy_Yadreniy_premium_kvass = "Vendre Bouteille de Norvinskiy Yadreniy premium kvass (97)",
+     Recipe_Sell_Emelya_rye_croutons = "Vente de croûtons de seigle Emelya (18)",
+     Recipe_Sell_Emergency_Water_Ration = "Vendre la ration d'eau d'urgence (108)",
+     Recipe_Sell_Can_of_beef_stew_Large = "Vendre Boîte de ragoût de bœuf Large (103)",
+     Recipe_Sell_Rye_croutons = "Vendre des croûtons de seigle (19)",
+     Recipe_Sell_BakeEzy_cook_book = "Vendre le livre de cuisine BakeEzy (287)",
+     Recipe_Sell_Can_of_Max_Energy_energy_drink = "Vendre la canette de boisson énergétique Max Energy (56)",
+
+     Recipe_Craft_1_BNTI_Module-3M_body_armor = "Fabriquer 1 armure BNTI Module-3M",
+     Recipe_Craft_2_Corrugated_hose = "Fabriquer 2 tuyaux ondulés",
+     Recipe_Craft_1_Scav_backpack = "Fabriquer 1 sac à dos Scav",
+     Recipe_Craft_6_Soaps = "Fabriquer 6 savons",
+     Recipe_Craft_1_Cordura_polyamide_fabric = "Fabriquer 1 Tissu en polyamide Cordura",
+     Recipe_Craft_2_Aramid_fiber_fabric = "Fabriquer 2 Tissu en fibre d'aramide",
+     Recipe_Craft_6_Aseptic_bandages = "Fabriquer 6 Pansement Stérile",
+     Recipe_Craft_2_Toilet_paper = "Fabriquer 2 Rouleaux de papier toilette",
+     Recipe_Craft_2_Army_bandage = "Fabriquer 2 Bandages militaires",
+     Recipe_Create_a_Stash_Lvl1_kit = "Créer un kit Stash Lvl1",
 
 
 }
+
