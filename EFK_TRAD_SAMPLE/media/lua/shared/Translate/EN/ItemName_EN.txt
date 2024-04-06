@@ -18,7 +18,6 @@ ItemName_EN = {
         ItemName_Base.AI2Painkiller = "Medkit Painkiller",
         ItemName_Base.AI2Antibiotics = "Medkit Antibiotics",
         ItemName_Base.AI2Instructions = "Medkit Instructions",
-        ItemName_Base.EFK_AsepticBandage = "Sterile Bandage",
 
         ItemName_Base.9mmDrum = "9x19 Mag 50 rounds",
         ItemName_Base.9mmExtClip = "9x19 Mag 30 rounds",
@@ -84,7 +83,7 @@ ItemName_EN = {
         ItemName_Base.EFK_PK-AA = "BelOMO PK-AA dovetail reflex sight",
         ItemName_Base.EFK_TargetRing = "VOMZ Pilad TargetRing reflex sight",
         ItemName_Base.EFK_HAMR = "Leupold Mark 4 HAMR 4x24 DeltaPoint hybrid assault scope",
-        ItemName_Base.EFK_Pilad4x32 = "VOMZ Pilad 4х32 riflescope",
+        ItemName_Base.EFK_Pilad4x32 = "VOMZ Pilad 4x32 riflescope",
         ItemName_Base.EFK_prism_2x32 = "Monstrum Tactical Compact Prism Scope 2x32",
         ItemName_Base.EFK_PM_IIx56 = "Schmidt & Bender PM II 5-25x56 34mm riflescope",
         ItemName_Base.EFK_PM_IIx50 = "Schmidt & Bender PM II 3-12x50 34mm riflescope",
@@ -178,7 +177,7 @@ ItemName_EN = {
 
         ItemName_Base.EFK_PACA = "PACA Soft Armor",
         ItemName_Base.EFK_3MAmor = "BNTI Module-3M body armor",
-        ItemName_Base.EFK_6B2 = "6B2 body armor (Flora)",
+        ItemName_Base.EFK_6B2 = "6B2 body armor Flora",
         ItemName_Base.EFK_6B5-16 = "6B5-16 Zh-86 Uley armored rig",
         ItemName_Base.EFK_Kirasa = "BNTI Kirasa-N body armor",
         ItemName_Base.EFK_6B23 = "6B23-1 body armor",
@@ -186,7 +185,7 @@ ItemName_EN = {
         ItemName_Base.EFK_6B23-2 = "6B23-2 armor",
         ItemName_Base.EFK_Redut-M = "FORT Redut-M body armor",
         ItemName_Base.EFK_NFM-THOR = "NFM THOR Concealable Vest body armor",
-        ItemName_Base.EFK_OTV = "Interceptor OTV body armor (UCP)",
+        ItemName_Base.EFK_OTV = "Interceptor OTV body armor UCP",
         ItemName_Base.EFK_NFM-THOR-Inte = "NFM THOR Integrated Carrier body armor",
 
         ItemName_Base.EFK_SacMBSS = "Flyye MBSS backpack",
@@ -267,8 +266,6 @@ ItemName_EN = {
         ItemName_Base.EFK_T5000 = "ORSIS T-5000M 7.62x51 bolt-action sniper rifle",
         ItemName_Base.EFK_VPO_209 = "Molot VPO-209 .366 TKM carbine",
         ItemName_Base.EFK_VPO_209_Melee = "Molot VPO-209 .366 TKM carbine (Melee)",
-        ItemName_Base.EFK_VPO_136 = "Molot VPO-209 .366 TKM carbine",
-        ItemName_Base.EFK_VPO_136_Melee = "Molot VPO-209 .366 TKM carbine (Melee)",
         ItemName_Base.EFK_APS = "Stechkin APS 9x18PM machine pistol",
         ItemName_Base.EFK_APS_Fold = "Stechkin APS 9x18PM machine pistol (Folded)",
         ItemName_Base.EFK_Makarov380 = "PM 9x18PM pistol (With thread)",
@@ -506,7 +503,6 @@ ItemName_EN = {
         ItemName_Base.EFK_TECHNOLOGYMag = "TECHNOLOGY Magazine",
         ItemName_Base.EFK_DEFENSEMag = "DEFENSE Magazine",
 
-        ItemName_Base.scav_box = "Lucky Scav Junk box",
         ItemName_Base.EFK_Pile_of_Meds = "Pile of meds",
         ItemName_Base.EFK_ConstructionMeasuringTape = "Construction measuring tape",
         ItemName_Base.EFK_PhaseControlRelay = "Phase control relay",
@@ -714,10 +710,72 @@ ItemName_EN = {
         ItemName_Base.EFK_AsepticBandage = "Sterile Bandage",
         ItemName_Base.EFK_Tourniquet = "Tourniquet",
 
+   /**********************************************
+               02/04/24
+               EDIT
+   ***********************************************/
+
+        ItemName_tactorgsol.scav_box = "Lucky Scav Junk box",
+
+   /**********************************************
+               02/04/24
+               NEW
+   ***********************************************/     
+
+        ItemName_EFK_stash_lvl1_kit = "Stash Level 1 Kit",
+
+   /**********************************************
+               05/04/24
+               EDIT
+   ***********************************************/
+
+        ItemName_Base.EFK_VPO_136 = "Molot Arms VPO-136 "Vepr-KM" 7.62x39 carbine",
+        ItemName_Base.EFK_VPO_136_Melee = "Molot Arms VPO-136 "Vepr-KM" 7.62x39 carbine (Melee)",
+
+   /**********************************************
+               06/04/24
+               NEW
+   ***********************************************/
+
+        ItemName_Base.EFK_Eberlestock_F5 = "Eberlestock F5 Switchblade backpack Dry Earth",
+        ItemName_Base.EFK_T30 = "Gruppa 99 T30 backpack",
+        ItemName_Base.EFK_6Sh118 = "6Sh118 raid backpack Digital Flora",
+        ItemName_Base.EFK_LBT_2670 = "LBT-2670 Slim Field Med Pack Black",
+        ItemName_Base.EFK_Ranch_Blackjack = "Mystery Ranch Blackjack 50 backpack MultiCam",
+        ItemName_Base.EFK_Attack_2 = "SSO Attack 2 raid backpack Khaki",
+        ItemName_Base.EFK_COMM_BVS = "Mystery Ranch NICE COMM 3 BVS frame system Coyote",
+        ItemName_Base.EFK_LBT_8005A = "LBT-8005A Day Pack backpack MultiCam Black",
+        ItemName_Base.EFK_LBT_1476A = "LBT-1476A 3Day Pack Woodland",
+        ItemName_Base.EFK_Dragon_Egg_Mark_II = "Direct Action Dragon Egg Mark II backpack Black",
+        ItemName_Base.EFK_RK_PT_25 = "Tehinkom RK-PT-25 patrol backpack Digital Flora",
+        ItemName_Base.EFK_3V_Gear_Paratus = "3V Gear Paratus 3-Day Operator's Tactical backpack Foliage Grey",
+        ItemName_Base.EFK_Pilgrim = "Pilgrim tourist backpack",
+        ItemName_Base.EFK_SATL_Bridger = "Mystery Ranch SATL Bridger Assault Pack Foliage",
+
+        ItemName_Base.EFK_TFO_Trooper = "HighCom Trooper TFO body armor MultiCam",
+        ItemName_Base.EFK_Zabralo = "6B43 Zabralo-Sh body armor Digital Flora",
+        ItemName_Base.EFK_Korund_VM = "NPP KlASS Korund-VM body armor Black",
+        ItemName_Base.EFK_Gzhel = "BNTI Gzhel-K body armor",
+        ItemName_Base.EFK_BNTI_Zhuk = "BNTI Zhuk body armor Digital Flora",
+        ItemName_Base.EFK_Slick = "LBT-6094A Slick Plate Carrier",
+        ItemName_Base.EFK_Tactical_Hexgrid = "5.11 Tactical Hexgrid plate carrier",
+        ItemName_Base.EFK_FORT_Redut_T5 = "FORT Redut-T5 body armor Smog",
+        ItemName_Base.EFK_IOTV_Full_Protect = "IOTV Gen4 body armor Full Protection Kit MultiCam",
+        ItemName_Base.EFK_Defender_2 = "FORT Defender-2 body armor",
+        ItemName_Base.EFK_IOTV_Assault = "IOTV Gen4 body armor Assault Kit MultiCam",
+        ItemName_Base.EFK_IOTV_Mobility = "IOTV Gen4 body armor High Mobility Kit MultiCam",
+        ItemName_Base.EFK_Hexatac_HPC = "Hexatac HPC Plate Carrier Multicam Black",
+        ItemName_Base.EFK_MF_UNTAR = "MF-UNTAR body armor",
+        ItemName_Base.EFK_KlASS_Kora_Kulon = "NPP KlASS Kora-Kulon body armor",
+        ItemName_Base.EFK_BNTI_Zhuk_Press = "BNTI Zhuk body armor Press",
+
+        ItemName_Base.EFK_Small_Armor_Plate = "Small Armor Plate",
+        ItemName_Base.EFK_Medium_Armor_Plate = "Medium Armor Plate",
+        ItemName_Base.EFK_Big_Armor_Plate = "Big Armor Plate",
+        ItemName_Base.EFK_Body_armor_repair_kit = "Body armor repair kit",
+        ItemName_Base.Cleaning = "Weapon repair kit",
+
+
+
+
 }
-
-
-
-
-
-
