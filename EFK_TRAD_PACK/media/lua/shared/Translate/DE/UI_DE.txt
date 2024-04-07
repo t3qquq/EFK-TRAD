@@ -6,9 +6,7 @@ UI_DE = {
     UI_profdesc_usec = "US-amerikanisches privates para-militärisches Unternehmen",
     UI_profdesc_bear = "Russisches privates para-militärisches Unternehmen",
 
-    UI_optionscreen_binding_Call_Closest_Group_Member = "Rufen Sie das nächstgelegene Gruppenmitglied an",
-    UI_optionscreen_binding_Call_Closest_Non-Group_Member = "Rufen Sie das Mitglied der nächstgelegenen Gruppe an",
-    UI_optionscreen_binding_Ask_Closest_Group_Member_to_Follow = "Das nächstgelegene Gruppenmitglied zum Mitgehen auffordern",
+    UI_optionscreen_binding_Ask_Closest_Group_Member_to_Follow = "Rufen Sie das nächstgelegene Gruppenmitglied an",
     UI_optionscreen_binding_Spawn_Wild_Survivor = "Einen anderen Überlebenden erscheinen lassen",
     UI_optionscreen_binding_Toggle_Group_Window = "Das Gruppenfenster kippen",
     UI_optionscreen_binding_Lower_Follow_Distance = "Geringere Verfolgungsdistanz",
@@ -17,5 +15,18 @@ UI_DE = {
     UI_optionscreen_binding_SSHotkey_2 = "SSHotkey-Richtlinie 2",
     UI_optionscreen_binding_SSHotkey_3 = "SSHotkey-Richtlinie 3",
     UI_optionscreen_binding_SSHotkey_4 = "SSHotkey-Richtlinie 4",
+
+   /**********************************************
+               30/03/24
+               EDIT
+   ***********************************************/
+
+    UI_optionscreen_binding_Call_Closest_Group_Member = "Nächstes Gruppenmitglied anrufen",
+    UI_optionscreen_binding_Call_Closest_Non-Group_Member = "Nächstes Nicht-Gruppenmitglied anrufen",
+
+
+
+
+
 
 }

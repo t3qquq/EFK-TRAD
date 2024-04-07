@@ -18,11 +18,6 @@ ItemName_DE = {
         ItemName_Base.AI2Painkiller = "Medkit Painkiller",
         ItemName_Base.AI2Antibiotics = "Medkit Antibiotics",
         ItemName_Base.AI2Instructions = "Medkit Instructions",
-        ItemName_Base.ArmyBandage = "Army Bandage",
-        ItemName_Base.ArmyBandageDirty = "Schmutzige Militärbandage",
-        ItemName_Base.ArmyAlcoholBandage = "Sterile Army-Bandage",   
-        ItemName_Base.SterilizedBandage = "Sterile Bandage",
-        ItemName_Base.SterilizedBandageDirty = "Schmutzige sterile Bandage",
 
         ItemName_Base.9mmDrum = "9x19 Mag 50 rounds",
         ItemName_Base.9mmExtClip = "9x19 Mag 30 rounds",
@@ -81,7 +76,7 @@ ItemName_DE = {
         ItemName_Base.EFK_Leapers_UTG = "Leapers UTG reflex sight",
         ItemName_Base.EFK_HS401G5 = "Holosun HS401G5 reflex sight",
         ItemName_Base.EFK_ROMEO8T = "SIG Sauer ROMEO8T reflex sight",
-        ItemName_Base.EFK_OKP-7_abgerundet = "OKP-7 reflex sight (Dovetail)",
+        ItemName_Base.EFK_OKP-7_arrondi = "OKP-7 reflex sight (Dovetail)",
         ItemName_Base.EFK_Micro_H-2 = "Aimpoint Micro H-2 Reflexvisier",
         ItemName_Base.EFK_XPS3-0 = "EOTech XPS3-0 holographic sight",
         ItemName_Base.EFK_PK-06 = "BelOMO PK-06 reflex sight",
@@ -124,7 +119,7 @@ ItemName_DE = {
         ItemName_Base.EFK_RK-1 = "Taktischer Griff Zenit RK-1",
         ItemName_Base.EFK_KAC = "Vertikaler Pistolengriff KAC",
         ItemName_Base.EFK_Magpul = "Magpul RVG-Griff",
-        ItemName_Base.EFK_Dynamics_Skelett = "TD Aluminium skeletonized vertical grip",
+        ItemName_Base.EFK_Dynamics_squelette = "TD Aluminium skeletonized vertical grip",
         ItemName_Base.EFK_SIG = "Sig Sauer Vertical Foregrip Keymod Black",
         ItemName_Base.EFK_GUNFIGHTER_MOD3 = "Vertikaler Griff BCM GUNFIGHTER MOD 3",
         ItemName_Base.EFK_Monstrum = "Monstrum Tactical Vertical Fore Grip KeyMod",
@@ -137,12 +132,12 @@ ItemName_DE = {
         ItemName_Base.EFK_6B47 = "Helm 6B47 Ratnik-BSh",
         ItemName_Base.EFK_NVG18_ON = "Nachtsichtfernglas GPNVG-18 (ON)",
         ItemName_Base.EFK_NVG18_OFF = "Nachtsichtfernglas GPNVG-18 (OFF)",
-        ItemName_Base.EFK_NVG18_Geschirr_ON = "GPNVG-18 Nachtsichtfernglas mit Geschirr (ON)",
-        ItemName_Base.EFK_NVG18_Harness_OFF = "GPNVG-18 Nachtsichtfernglas mit Harnisch (OFF)",
+        ItemName_Base.EFK_NVG18_Harnais_ON = "GPNVG-18 Nachtsichtfernglas mit Geschirr (ON)",
+        ItemName_Base.EFK_NVG18_Harnais_OFF = "GPNVG-18 Nachtsichtfernglas mit Harnisch (OFF)",
         ItemName_Base.EFK_N15_ON = "Armasight N-15 Nachtsichtfernglas (EIN)",
         ItemName_Base.EFK_N15_OFF = "Nachtsichtfernglas Armasight N-15 (OFF)",
-        ItemName_Base.EFK_N15_Geschirr_ON = "Armasight N-15 Nachtsichtfernglas mit Geschirr (ON)",
-        ItemName_Base.EFK_N15_Harness_OFF = "Armasight N-15 Nachtsichtfernglas mit Harnisch (OFF)",
+        ItemName_Base.EFK_N15_Harnais_ON = "Armasight N-15 Nachtsichtfernglas mit Geschirr (ON)",
+        ItemName_Base.EFK_N15_Harnais_OFF = "Armasight N-15 Nachtsichtfernglas mit Harnisch (OFF)",
         ItemName_Base.EFK_PNV10T_ON = "Nachtsichtfernglas PNV-10T mit Gurt (ON)",
         ItemName_Base.EFK_PNV10T_OFF = "PNV-10T Nachtsichtfernglas mit Gurt (OFF)",
 
@@ -156,7 +151,7 @@ ItemName_DE = {
         ItemName_Base.EFK_TV-110 = "Wartech TV-110 plate carrier",
         ItemName_Base.EFK_Alpha = "ANA Tactical Alpha chest rig",
         ItemName_Base.EFK_BlackRock = "BlackRock chest rig",
-        Artikelname_Base.EFK_TV-104 = "Gepäckträger WARTECH MK3 TV-104",
+        ItemName_Base.EFK_TV-104 = "Gepäckträger WARTECH MK3 TV-104",
         ItemName_Base.EFK_Stich_Mk2 = "Stich Profi MK2 chest rig",
         ItemName_Base.EFK_Azimut = "Azimut SS Zhuk Brustgeschirr",
         ItemName_Base.EFK_Commando = "Brustgeschirr BlackHawk! Commando",
@@ -194,15 +189,15 @@ ItemName_DE = {
         ItemName_Base.EFK_NFM-THOR-Inte = "NFM THOR Integrated Carrier body armor" (NFM THOR Integrierte Trägerkörperpanzerung)",
 
         ItemName_Base.EFK_SacMBSS = "Flyye MBSS Rucksack",
-        ItemName_Base.EFK_Rucksack = "Transformer Rucksack",
-        ItemName_Base.EFK_Sporttasche = "Duffle bag",
+        ItemName_Base.EFK_Saccoursier = "Transformer Rucksack",
+        ItemName_Base.EFK_Sacsport = "Duffle bag",
         ItemName_Base.EFK_LolKek = "LolKek 3F Transfer tourist backpack",
         ItemName_Base.EFK_SanitarSack = "Paramedizinische Tasche",
         ItemName_Base.EFK_VKBO = "VKBO-Armeetasche",
         ItemName_Base.EFK_ScavBackPack = "Scav-Rucksack",
         ItemName_Base.EFK_Pillbox = "Rucksack Hazard 4 Pillbox",
         ItemName_Base.EFK_Berkut = "WARTECH Berkut BB-102 backpack",
-        ItemName_Base.EFK_Tactical = "Tactical sling bag",
+        ItemName_Base.EFK_Tactique = "Tactical sling bag",
         ItemName_Base.EFK_T20 = "Rucksack Gruppa 99 T20",
         ItemName_Base.EFK_DRAWBRIDGE = "Rucksack Hazard 4 Drawbridge",
         ItemName_Base.EFK_TAKEDOWN = "Rucksack Hazard 4 Takedown sling",
@@ -271,10 +266,8 @@ ItemName_DE = {
         ItemName_Base.EFK_T5000 = "ORSIS T-5000M 7.62x51 bolt-action sniper rifle" (Scharfschützengewehr)",
         ItemName_Base.EFK_VPO_209 = "Molot VPO-209 .366 TKM carbine",
         ItemName_Base.EFK_VPO_209_Melee = "Molot VPO-209 .366 TKM carbine (Melee)",
-        ItemName_Base.EFK_VPO_136 = "Molot VPO-209 .366 TKM carbine",
-        ItemName_Base.EFK_VPO_136_Melee = "Molot VPO-209 .366 TKM carbine (Melee)",
-        ItemName_Base.EFK_APS = "Maschinenpistole Stechkin APS 9x18PM",
-        ItemName_Base.EFK_APS_Fold = "Stechkin APS 9x18PM Maschinenpistole (Zusammengeklappt)",
+        ItemName_Base.EFK_APS = "Stechkin APS 9x18PM machine pistol",
+        ItemName_Base.EFK_APS_Fold = "Stechkin APS 9x18PM machine pistol (Folded)",
         ItemName_Base.EFK_Makarov380 = "Pistole PM 9x18PM (Mit Draht)",
         ItemName_Base.EFK_PB = "Pistole PM 9x18PM (Integrierter Unterdrücker)",
         ItemName_Base.EFK_UMP45_Stock = "HK UMP .45 ACP submachine gun",
@@ -440,12 +433,12 @@ ItemName_DE = {
 
         ItemName_Base.EFK_OutilsSCAV = "Scav-Werkzeuggürtel",
         ItemName_Base.EFK_MedTact = "Tactical Medical Belt" (Taktischer medizinischer Gürtel)",
-        ItemName_Base.EFK_Taktischer Gürtel = "Taktischer Gürtel",
-        ItemName_Base.EFK_Kampfgürtel = "Kampfgürtel",
+        ItemName_Base.EFK_Tactical_belt = "Taktischer Gürtel",
+        ItemName_Base.EFK_CombatBelt = "Kampfgürtel",
 
-        ItemName_Base.EFK_mk1_Taschen = "Zusätzliche taktische MK1-Taschen",
-        ItemName_Base.EFK_Taschen_mk2 = "Zusätzliche taktische MK2-Taschen",
-        ItemName_Base.EFK_poches_mk3 = "Zusätzliche taktische Taschen MK3",
+        ItemName_Base.EFK_pockets_mk1 = "Zusätzliche taktische MK1-Taschen",
+        ItemName_Base.EFK_pockets_mk2 = "Zusätzliche taktische MK2-Taschen",
+        ItemName_Base.EFK_pockets_mk3 = "Zusätzliche taktische Taschen MK3",
 
         ItemName_Base.EFK_SupAPS9x18 = "Sound reducer 9x18 PM for APS",
         ItemName_Base.EFK_SupOsprey9x19 = "Schallreduzierer Osprey SilencerCo 9x19",
@@ -490,16 +483,16 @@ ItemName_DE = {
         ItemName_Base.EFK_SupSV98 = "Sound reducer 7.62 x 54 for SV-98",
         ItemName_Base.EFK_SupRotor762x54 = "Sound reducer Rotor 43 7.62 x 54",
 
-        ItemName_MapItem.Taktische_Karte_Rosewood = "Taktische Karte aus Rosenholz",
-        ItemName_MapItem.Taktische_Karte_Riverside = "Taktische Karte Riverside",
-        ItemName_MapItem.Taktische_Karte_Muldraugh = "Taktische Karte von Muldraugh",
-        ItemName_MapItem.Taktische_Karte_Westpoint = "Taktische Karte von Westpoint",
-        ItemName_MapItem.Taktische_Karte_Florius = "Taktische Karte von Florius",
-        ItemName_MapItem.Taktische_Karte_Cumberland = "Taktische Karte des Sees Cumberland",
-        ItemName_MapItem.Taktische_Karte_Petroville = "Taktische Karte von Petroville",
-        ItemName_MapItem.Taktische_Karte_Dirkerdam = "Taktische Karte Dirkerdam",
-        ItemName_MapItem.Taktische_Karte_PaulosHammer = "Taktische Karte von Paulos Hammer",
-        ItemName_MapItem.Taktische_Karte_MarchRidge = "Taktische Karte March Ridge",
+        ItemName_MapItem.Rosewood_Tactical_Map = "Taktische Karte aus Rosenholz",
+        ItemName_MapItem.Riverside_Tactical_Map = "Taktische Karte Riverside",
+        ItemName_MapItem.Muldraugh_Tactical_Map = "Taktische Karte von Muldraugh",
+        ItemName_MapItem.Westpoint_Tactical_Map = "Taktische Karte von Westpoint",
+        ItemName_MapItem.Florius_Tactical_Map = "Taktische Karte von Florius",
+        ItemName_MapItem.Cumberland_Tactical_Map = "Taktische Karte des Sees Cumberland",
+        ItemName_MapItem.Petroville_Tactical_Map = "Taktische Karte von Petroville",
+        ItemName_MapItem.Dirkerdam_Tactical_Map = "Taktische Karte Dirkerdam",
+        ItemName_MapItem.PaulosHammer_Tactical_Map = "Taktische Karte von Paulos Hammer",
+        ItemName_MapItem.MarchRidge_Tactical_Map = "Taktische Karte March Ridge",
 
         ItemName_Base.TancredTrader = "Verkaufsladen",
         ItemName_Base.KitTrader = "Werkstatt zur Erstellung von Kits",
@@ -510,7 +503,6 @@ ItemName_DE = {
         ItemName_Base.EFK_TECHNOLOGYMag = "Magazin für TECHNOLOGIE",
         ItemName_Base.EFK_DEFENSEMag = "Magazin für Verteidigung",
 
-        ItemName_Base.scav_box = "Lucky Scav Junk box",
         ItemName_Base.EFK_Pile_of_Meds = "Stapel von Medikamenten",
         ItemName_Base.EFK_ConstructionMeasuringTape = "Maßband für den Bau",
         ItemName_Base.EFK_PhaseControlRelay = "Phasensteuerungsrelais",
@@ -591,7 +583,7 @@ ItemName_DE = {
         ItemName_Base.EFK_DSP = "Digital secure DSP radio" (Digitales sicheres DSP-Funkgerät)",
         ItemName_Base.EFK_Maps_Topo = "Topografische Karten",
         ItemName_Base.EFK_Clin_window = "Clin window cleaner" (Fensterreiniger)",
-        ItemName_Base.EFK_Silikon = "Silikonschlauch",
+        ItemName_Base.EFK_Silicone = "Silikonschlauch",
         ItemName_Base.EFK_Fleece_fabric = "Fleece-Stoff",
         ItemName_Base.EFK_Printer_paper = "Druckerpapier",
         ItemName_Base.EFK_Bitcoin = "Physischer Bitcoin",
@@ -626,7 +618,7 @@ ItemName_DE = {
         ItemName_Base.EFK_Rechargeable_kit = "Wiederaufladbarer Batteriesatz",
         ItemName_Base.EFK_Power_Cord_kit = "Netzkabelset",
         ItemName_Base.EFK_T_ShapedPlug_kit = "T-förmiges Steckerset",
-        ItemName_Base.EFK_GasAnalizer_kit = "Gas-Analysator-Kit",
+        ItemName_Base.EFK_GazAnaliseur_kit = "Gas-Analysator-Kit",
 
         ItemName_Base.EFK_rest_place_lvl1_kit = "Rest Place Level 1 Kit",
         ItemName_Base.EFK_heating_lvl1_kit = "Heizungskit Level 1",
@@ -686,7 +678,104 @@ ItemName_DE = {
                NEW
    ***********************************************/
 
-        ItemName_Base.EFK_TOZ106_SKIER = "TOZ-106 20ga Repetierflinte",
-        ItemName_Base.EFK_TOZ106_SKIER_Fold = "TOZ-106 20ga Repetierflinte (Zusammengeklappt)",
+        ItemName_Base.EFK_TOZ106_SKIER = "TOZ-106 20ga bolt-action shotgun",
+        ItemName_Base.EFK_TOZ106_SKIER_Fold = "TOZ-106 20ga bolt-action shotgun (Folded)",
+
+        ItemName_Base.EFK_AKS-74N_MK1 = "Custom Firearm AKS-74N MK1",
+        ItemName_Base.EFK_P226R_MK1 = "Custom Firearm P226R MK1",
+        ItemName_Base.EFK_AK-105_MK1 = "Custom Firearm AK-105 MK1",
+        ItemName_Base.EFK_Vector_9x19_MK1 = "Custom Firearm Kriss Vector  9x19 MK1",
+        ItemName_Base.EFK_MPX_MK1 = "Custom Firearm MPX MK1",
+        ItemName_Base.EFK_RSASS_MK1 = "Custom Firearm RSASS MK1",
+        ItemName_Base.EFK_HK416A5_MK1 = "Custom Firearm HK 416A5 MK1",
+        ItemName_Base.EFK_ASVAL_MK1 = "Custom Firearm AS VAL MK1",
+        ItemName_Base.EFK_DVL_MK1 = "Custom Firearm DVL MK1",
+        ItemName_Base.EFK_AK-102_MK1 = "Custom Firearm AK-102 MK1",
+        ItemName_Base.EFK_AKMN_MK1 = "Custom Firearm AKMN MK1",
+        ItemName_Base.EFK_SVDS_MK1 = "Custom Firearm SVDS MK1",
+        ItemName_Base.EFK_M1A_MK1 = "Custom Firearm M1A MK1",
+
+   /**********************************************
+               01/04/24
+               EDIT
+   ***********************************************/
+
+        ItemName_Base.ArmyBandage = "Armee-Bandage",
+
+   /**********************************************
+               01/04/24
+               NEU
+   ***********************************************/
+
+        ItemName_Base.EFK_AsepticBandage = "Sterile Bandage",
+        ItemName_Base.EFK_Tourniquet = "Tourniquet",
+
+   /**********************************************
+               02/04/24
+               EDIT
+   ***********************************************/
+
+        ItemName_tactorgsol.scav_box = "Lucky Scav Junk box",
+
+   /**********************************************
+               02/04/24
+               NEU
+   ***********************************************/     
+
+        ItemName_EFK_stash_lvl1_kit = "Stash Level 1 Kit",
+
+   /**********************************************
+               05/04/24
+               EDIT
+   ***********************************************/
+
+        ItemName_Base.EFK_VPO_136 = "Molot Arms VPO-136 "Vepr-KM" 7.62x39 Karabiner",
+        ItemName_Base.EFK_VPO_136_Melee = "Molot Arms VPO-136 "Vepr-KM" 7.62x39 Karabiner (Melee)",
+
+   /**********************************************
+               06/04/24
+               NEU
+   ***********************************************/
+
+        ItemName_Base.EFK_Eberlestock_F5 = "Eberlestock F5 Switchblade Rucksack Dry Earth",
+        ItemName_Base.EFK_T30 = "Gruppa 99 T30 Rucksack",
+        ItemName_Base.EFK_6Sh118 = "6Sh118 Überfall-Rucksack Digital Flora",
+        ItemName_Base.EFK_LBT_2670 = "LBT-2670 Slim Field Med Pack Schwarz",
+        ItemName_Base.EFK_Ranch_Blackjack = "Mystery Ranch Blackjack 50 Rucksack MultiCam",
+        ItemName_Base.EFK_Attack_2 = "SSO Attack 2 Überfall-Rucksack Khaki",
+        ItemName_Base.EFK_COMM_BVS = "Mystery Ranch NICE COMM 3 BVS Rahmensystem Coyote",
+        ItemName_Base.EFK_LBT_8005A = "LBT-8005A Day Pack Rucksack MultiCam Schwarz",
+        ItemName_Base.EFK_LBT_1476A = "LBT-1476A 3Day Pack Woodland",
+        ItemName_Base.EFK_Dragon_Egg_Mark_II = "Direct Action Dragon Egg Mark II Rucksack Schwarz",
+        ItemName_Base.EFK_RK_PT_25 = "Tehinkom RK-PT-25 Patrouillen-Rucksack Digital Flora",
+        ItemName_Base.EFK_3V_Gear_Paratus = "3V Gear Paratus 3-Day Operator's Tactical Rucksack Foliage Grey",
+        ItemName_Base.EFK_Pilgrim = "Pilgrim Touristenrucksack",
+        ItemName_Base.EFK_SATL_Bridger = "Mystery Ranch SATL Bridger Assault Pack Foliage",
+
+        ItemName_Base.EFK_TFO_Trooper = "HighCom Trooper TFO Körperpanzer MultiCam",
+        ItemName_Base.EFK_Zabralo = "6B43 Zabralo-Sh Körperpanzer Digital Flora",
+        ItemName_Base.EFK_Korund_VM = "NPP KlASS Korund-VM Schutzweste Schwarz",
+        ItemName_Base.EFK_Gzhel = "BNTI Gzhel-K Körperpanzer",
+        ItemName_Base.EFK_BNTI_Zhuk = "BNTI Zhuk Körperpanzer Digital Flora",
+        ItemName_Base.EFK_Slick = "LBT-6094A Slick Plate Carrier",
+        ItemName_Base.EFK_Tactical_Hexgrid = "5.11 Tactical Hexgrid Plattenträger",
+        ItemName_Base.EFK_FORT_Redut_T5 = "FORT Redut-T5 Körperpanzer Smog",
+        ItemName_Base.EFK_IOTV_Full_Protect = "IOTV Gen4 Schutzweste Full Protection Kit MultiCam",
+        ItemName_Base.EFK_Defender_2 = "FORT Defender-2 Körperpanzerung",
+        ItemName_Base.EFK_IOTV_Assault = "IOTV Gen4 Körperpanzerung Assault Kit MultiCam",
+        ItemName_Base.EFK_IOTV_Mobility = "IOTV Gen4 Körperpanzer High Mobility Kit MultiCam",
+        ItemName_Base.EFK_Hexatac_HPC = "Hexatac HPC Plattenträger Multicam Schwarz",
+        ItemName_Base.EFK_MF_UNTAR = "MF-UNTAR Körperpanzerung",
+        ItemName_Base.EFK_KlASS_Kora_Kulon = "NPP KlASS Kora-Kulon Schutzweste",
+        ItemName_Base.EFK_BNTI_Zhuk_Press = "BNTI Zhuk Körperpanzer Presse",
+
+        ItemName_Base.EFK_Small_Armor_Plate = "Kleine Rüstungsplatte",
+        ItemName_Base.EFK_Medium_Armor_Plate = "Mittlere Rüstungsplatte",
+        ItemName_Base.EFK_Big_Armor_Plate = "Großer Rüstungspanzer",
+        ItemName_Base.EFK_Body_armor_repair_kit = "Reparatursatz für Körperpanzer",
+        ItemName_Base.Cleaning = "Waffenreparatursatz",
+
+        ItemName_Base.EFK_WD40 = "WD-40 100ml",
+        ItemName_Base.EFK_WD40_400 = "WD-40 400ml",
 
 }
