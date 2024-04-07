@@ -1,0 +1,32 @@
+UI_KO = {
+    
+    UI_prof_usec = "USEC",
+    UI_prof_bear = "BEAR",
+
+    UI_profdesc_usec = "미국 민간 군사 계약자",
+    UI_profdesc_bear = "러시아 민간 군사 계약자",
+
+    UI_optionscreen_binding_Ask_Closest_Group_Member_to_Follow = "가장 가까운 그룹 멤버에게 팔로우 요청",
+    UI_optionscreen_binding_Spawn_Wild_Survivor = "야생 생존자 스폰",
+    UI_optionscreen_binding_Toggle_Group_Window =  "그룹 창 토글",
+    UI_optionscreen_binding_Lower_Follow_Distance = "팔로우 거리 낮추기",
+    UI_optionscreen_binding_Raise_Follow_Distance = "팔로우 거리 올리기",
+    UI_optionscreen_binding_SSHotkey_1 = "SSHotkey 1 지시어",
+    UI_optionscreen_binding_SSHotkey_2 = "SSHotkey 2 지시어",
+    UI_optionscreen_binding_SSHotkey_3 = "SSHotkey 3 지시어",
+    UI_optionscreen_binding_SSHotkey_4 = "SSHotkey 4 지시어",
+
+   /**********************************************
+               30/03/24
+               EDIT
+   ***********************************************/
+
+    UI_optionscreen_binding_Call_Closest_Group_Member = "가장 가까운 그룹 멤버에게 전화",
+    UI_optionscreen_binding_Call_Closest_Non-Group_Member = "가장 가까운 비그룹 멤버에게 전화",
+
+
+
+
+
+
+}
