@@ -6,8 +6,6 @@ UI_RU = {
     UI_profdesc_usec = "Американская частная военизированная компания",
     UI_profdesc_bear = "Российская частная военизированная компания",
 
-    UI_optionscreen_binding_Call_Closest_Group_Member = "Позвонить ближайшему члену группы",
-    UI_optionscreen_binding_Call_Closest_Non-Group_Member = "Позвонить ближайшему члену группы",
     UI_optionscreen_binding_Ask_Closest_Group_Member_to_Follow = "Попросить ближайшего члена группы следовать за ним",
     UI_optionscreen_binding_Spawn_Wild_Survivor = "Заставить появиться еще одного выжившего",
     UI_optionscreen_binding_Toggle_Group_Window = "Переключить окно группы",
@@ -17,5 +15,18 @@ UI_RU = {
     UI_optionscreen_binding_SSHotkey_2 = "Директива SSHotkey 2",
     UI_optionscreen_binding_SSHotkey_3 = "Директива SSHotkey 3",
     UI_optionscreen_binding_SSHotkey_4 = "Директива SSHotkey 4",
+
+   /**********************************************
+               30/03/24
+               EDIT
+   ***********************************************/
+
+    UI_optionscreen_binding_Call_Closest_Group_Member = "Позвонить ближайшему члену группы",
+    UI_optionscreen_binding_Call_Closest_Non-Group_Member = "Позвонить ближайшему члену негрупповой группы",
+
+
+
+
+
 
 }
