@@ -441,7 +441,6 @@ Recipes_ES = {
      Recipe_Sell_Flat_Metal_cutting_scissors = "Vender Flat Metal cutting scissors (140)",
      Recipe_Sell_Flat_screwdriver = "Vender Flat screwdriver (88)",
      Recipe_Sell_Insulating_tape = "Vender Insulating tape (12)",
-     Recipe_Sell_Flat_screwdriver_(Long) = "Vender Flat screwdriver (Long) (207)",
      Recipe_Sell_Broken_GPhone_X_smartphone = "Vender Broken GPhone X smartphone (201)",
      Recipe_Sell_Geiger-Muller_counter = "Vender Geiger-Muller counter (105)",
      Recipe_Sell_Sewing_Kit = "Vender Sewing Kit (239)",
@@ -450,7 +449,7 @@ Recipes_ES = {
      Recipe_Sell_Makita_Chainsaw = "Vender Makita Chainsaw (86)",
      Recipe_Sell_WD-40_100_mL = "Vender WD-40 100 mL (43)",
 
- Recipe_Create_a_MP-133_kit = "Crear un kit MP-133",
+     Recipe_Create_a_MP-133_kit = "Crear un kit MP-133",
      Recipe_Create_a_5.45_Drum_Magazine_kit = "Crear un kit 5.45 Drum Magazine",
      Recipe_Create_a_Big_Canned_Tushonka_kit = "Crear un kit Big Canned Tushonka",
      Recipe_Create_a_Car_Battery_kit = "Crear un kit de Batería de Coche",
@@ -476,7 +475,7 @@ Recipes_ES = {
      Recipe_Create_a_custom_firearm_:_AKM_MK1 = "Crear un arma de fuego personalizada : AKM MK1",
      Recipe_Create_a_custom_firearm_:_M4A1_MK1 = "Crear un arma de fuego personalizada : M4A1 MK1",
 
-     Recipe_Create_a_Generator_Lvl1_kit = "Crea un kit Generador Lvl1",
+     Recipe_Create_a_Generator_Lvl1_kit = "Crear un kit Generador Lvl1",
      Recipe_Create_a_Rest_Place_Lvl1_kit = "Crear un kit de Lugar de Descanso Lvl1",
      Recipe_Create_a_Heating_Lvl1_kit = "Crear un kit Calefacción Lvl1",
      Recipe_Create_a_Medical_Bay_Lvl1_kit = "Crear un kit de Bahía Médica Lvl1",
@@ -487,17 +486,92 @@ Recipes_ES = {
      Recipe_Create_a_Security_Lvl1_kit = "Crear un kit de Seguridad Lvl1",
      Recipe_Create_a_Security_Lvl2_kit = "Crear un kit de Seguridad Lvl2",
      Recipe_Create_a_Illumination_Lvl1_kit = "Crear un kit de Iluminación Lvl1",
-     Recipe_Create_a_Workbench_Lvl1_kit = "Crea un kit Banco de trabajo Lvl1",
-
-     Recipe_Create_a_Nutrition_Lvl1_kit = "Crea un kit de Nutrición Lvl1",
-     Recipe_Craft_2_Iskra_ration_packs = "Crea 2 paquetes de raciones Iskra",
-     Recipe_Craft_2_Cans_of_beef_stew_(Small) = "Crea 2 latas de estofado de ternera (pequeñas)",
-     Recipe_Craft_2_Emergency_Water_Rations = "Crea 2 raciones de agua de emergencia",
+     Recipe_Create_a_Workbench_Lvl1_kit = "Crear un kit Banco de trabajo Lvl1",
+     Recipe_Create_a_Nutrition_Lvl1_kit = "Crear un kit de Nutrición Lvl1",
+     Recipe_Craft_2_Iskra_ration_packs = "Crear 2 paquetes de raciones Iskra",
+     Recipe_Craft_2_Emergency_Water_Rations = "Crear 2 raciones de agua de emergencia",
      Recipe_Craft_4_Can_of_Max_Energy_energy_drink = "Prepara 4 latas de bebida energética Max Energy",
+
    /**********************************************
                28/03/24
                EDIT
    ***********************************************/
 
-     Recipe_Sell_Simonov_SKS_7.62x39_carbine = "Vender Simonov SKS 7.62x39 carbine (192)",
+     Recipe_Sell_Simonov_SKS_7.62x39_carbine = "Vender Simonov SKS 7.62x39 carabina (192)",
+
+   /**********************************************
+               28/03/24
+               NEW
+   ***********************************************/
+
+     Recipe_Create_a_custom_firearm_:_AKS-74N_MK1 = "Crear un arma de fuego personalizada : AKS-74N MK1",
+     Recipe_Create_a_custom_firearm_:_P226R_MK1 = "Crear un arma de fuego personalizada : P226R MK1",
+     Recipe_Create_a_custom_firearm_:_AK-105_MK1 = "Crear un arma de fuego personalizada : AK-105 MK1",
+     Recipe_Create_a_custom_firearm_:_KRISS_Vector_9x19_MK1 = "Crear un arma de fuego personalizada : KRISS Vector 9x19 MK1",
+     Recipe_Create_a_custom_firearm_:_MPX_MK1 = "Crear un arma de fuego personalizada : MPX MK1",
+     Recipe_Create_a_custom_firearm_:_RSASS_MK1 = "Crear un arma de fuego personalizada : RSASS MK1",
+     Recipe_Create_a_custom_firearm_:_HK416_MK1 = "Crear un arma de fuego personalizada : HK416 MK1",
+
+   /**********************************************
+               01/04/24
+               NEW
+   ***********************************************/
+
+     Recipe_Create_a_new_Skill_Journal = "Crear un nuevo diario de habilidades",
+
+   /**********************************************
+               01/04/24
+               EDIT
+   ***********************************************/
+
+     Recipe_Sell_Long_Flat_screwdriver = "Vender Destornillador plano largo (207)",
+     Recipe_Craft_2_small_cans_of_beef_stew = "Crear 2 latas pequeñas de estofado de ternera",
+
+   /**********************************************
+               02/04/24
+               NEW
+   ***********************************************/
+
+     Recipe_Sell_Schaman_shampoo = "Vender champú Schaman (44)",
+     Recipe_Sell_UHF_RFID_Reader = "Vender Lector UHF RFID (302)",
+     Recipe_Sell_Intelligence_folder = "Vender carpeta de Inteligencia (341)",
+     Recipe_Sell_Military_flash_drive = "Venta de unidades flash militares (296)",
+     Recipe_Sell_VPX_Flash_Storage_Module = "Módulo de almacenamiento flash VPX (960)",
+     Recipe_Sell_Military_COFDM_Wireless_Signal Transmitter = "Venta de transmisor de señal inalámbrica COFDM militar (916)",
+     Recipe_Sell_Virtex_programmable_processor = "Venta de procesador programable Virtex (756)",
+     Recipe_Sell_Digital_secure_DSP_radio = "Venta de radio digital segura DSP (5600)",
+     Recipe_Sell_Topographic_survey_maps = "Venta de mapas topográficos (356)",
+     Recipe_Sell_Clin_window_cleaner = "Vender limpiacristales Clin (44)",
+     Recipe_Sell_Silicone_tube = "Venta Tubo de silicona (119)",
+     Recipe_Sell_Fleece_fabric = "Venta de tejido polar (25)",
+     Recipe_Sell_Printer_paper = "Vender Papel para impresora (14)",
+     Recipe_Sell_Physical_Bitcoin = "Vender Bitcoin físico (9254)",
+     Recipe_Sell_Bottle_of_Fierce_Hatchling_moonshine = "Vender botella de licor de luna Fierce Hatchling (1260)",
+     Recipe_Sell_Military_power_filter = "Venta Filtro de potencia militar (346)",
+     Recipe_Sell_Advanced_current_converter = "Venta Convertidor de corriente avanzado (1890)",
+     Recipe_Sell_Phased_array_element = "Venta Elemento phased array (1045)",
+     Recipe_Sell_Chainlet = "Vender cadenilla (45)",
+     Recipe_Sell_Diary = "Vender diario (287)",
+     Recipe_Sell_Slim_diary = "Vender diario Slim (351)",
+     Recipe_Sell_Bottle_of_Norvinskiy_Yadreniy_premium_kvass = "Venta de Botella de Norvinskiy Yadreniy premium kvass (97)",
+     Recipe_Sell_Emelya_rye_croutons = "Venta Emelya picatostes de centeno (18)",
+     Recipe_Sell_Emergency_Water_Ration = "Venta de raciones de agua de emergencia (108)",
+     Recipe_Sell_Can_of_beef_stew_Large = "Vender Lata de estofado de ternera Grande (103)",
+     Recipe_Sell_Rye_croutons = "Venta Picatostes de centeno (19)",
+     Recipe_Sell_BakeEzy_cook_book = "Vender el libro de cocina BakeEzy (287)",
+     Recipe_Sell_Can_of_Max_Energy_energy_drink = "Vender lata de bebida energética Max Energy (56)",
+
+     Recipe_Craft_1_BNTI_Module-3M_body_armor = "Crear 1 BNTI Módulo-3M chaleco antibalas",
+     Recipe_Craft_2_Corrugated_hose = "Crear 2 Manguera corrugada",
+     Recipe_Craft_1_Scav_backpack = "Crear 1 mochila Scav",
+     Recipe_Craft_6_Soaps = "Crear 6 Jabones",
+     Recipe_Craft_1_Cordura_polyamide_fabric = "Crear 1 Tejido de poliamida Cordura",
+     Recipe_Craft_2_Aramid_fiber_fabric = "Crear 2 Tejido de fibra de aramida",
+     Recipe_Craft_6_Aseptic_bandages = "Crear 6 Vendas asépticas",
+     Recipe_Craft_2_Toilet_paper = "Crear 2 Papel higiénico",
+     Recipe_Craft_2_Army_bandage = "Crear 2 Venda militar",
+     Recipe_Create_a_Stash_Lvl1_kit = "Create a Stash Lvl1 kit",
+
+
 }
+

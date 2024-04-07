@@ -2149,6 +2149,19 @@ ContextMenu_ES = {
     ContextMenu_SD_IGoGuard = "",
     ContextMenu_SD_IGoBackBase = "",
     ContextMenu_SD_NoWoodHere = "",
+    
+   /**********************************************
+               29/03/24
+               NEW
+   ***********************************************/
+
+ContextMenu_Use_Bandage = "Curar herida pequeña con botiquín pequeño", 
+
+
+
+
+
+
 
 
 

@@ -462,7 +462,6 @@ IGUI_ES = {
    IGUI_TOUBIB_Quest_10_part5 = "Según me han dicho, llevan demasiado tiempo parados y necesitan baterías y bujías. Ni siquiera hace falta combustible. Voy a elaborar una lista de los artículos que necesitamos. ¿Puedes traerlos?",
 
    IGUI_TOUBIB_Task_Talk_Toubib = "Habla con el Médico",
-   IGUI_TOUBIB_Task_q1_t2 = "Encuentra 3 botiquines de emergencia Salewa",
    IGUI_TOUBIB_Task_q2_t2 = "Encuentra un analizador de gases",
    IGUI_TOUBIB_Task_q3_t2 = "Encuentra 2 analizadores de gases",
    IGUI_TOUBIB_Task_q4_t2 = "Llegar al juzgado de Rosewood",
@@ -1271,7 +1270,12 @@ IGUI_ES = {
    IGUI_MECANIX_Firearm_Quest_20_part2 = "A juzgar por el hecho de que empacó un infierno de una mochila con un MRE, firesteel, baterías, y el agua ",
    IGUI_MECANIX_Firearm_Quest_20_part3 = "Lo dejó en mi casa por ahora. Necesita una M1A, equipada con una montura UltiMAK M8 Forward Optic, mira Nightforce ATACR 7-35x56, mira reflex Micro T-1, dispositivo táctico Holosun LS321 y un cargador de 20 balas. Ergonomía superior a 20, suma de retroceso inferior a 400, y un peso total de 7,3 kg o inferior", 
 
+   /**********************************************
+               30/03/24
+               EDIT
+   ***********************************************/
+
+   IGUI_TOUBIB_Task_q1_t2 = "Entregar 3 botiquines Salewa (Debe convertir estos artículos en Packs antes de devolverlos)",
 
 
-   
 }
