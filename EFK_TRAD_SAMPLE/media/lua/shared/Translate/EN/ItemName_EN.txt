@@ -729,8 +729,8 @@ ItemName_EN = {
                EDIT
    ***********************************************/
 
-        ItemName_Base.EFK_VPO_136 = "Molot Arms VPO-136 "Vepr-KM" 7.62x39 carbine",
-        ItemName_Base.EFK_VPO_136_Melee = "Molot Arms VPO-136 "Vepr-KM" 7.62x39 carbine (Melee)",
+        ItemName_Base.EFK_VPO_136 = "Molot Arms VPO-136 'Vepr-KM' 7.62x39 carbine",
+        ItemName_Base.EFK_VPO_136_Melee = "Molot Arms VPO-136 'Vepr-KM' 7.62x39 carbine (Melee)",
 
    /**********************************************
                06/04/24
