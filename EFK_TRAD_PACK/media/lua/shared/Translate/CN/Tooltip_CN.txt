@@ -129,4 +129,20 @@ Tooltip_CN = {
     Tooltip_EFK_ImmoSplint = "治疗 1 个骨折伤",
     Tooltip_EFK_AluSplint = "治疗 5 个骨折伤口",
     Tooltip_EFK_Grizzly = "治疗 18 处标准伤口",
+
+   /**********************************************
+               29/03/24
+               NEW
+   ***********************************************/
+
+    Tooltip_EFK_Powder = "治疗 3 个小伤口",
+    Tooltip_EFK_Aseptic = "治疗 1 个小伤口",
+    Tooltip_EFK_ArmyBandage = "治疗 2 个小伤口",
+
+   /**********************************************
+               01/04/24
+               NEW
+   ***********************************************/
+
+	Tooltip_EFK_Tourniquet = "治疗1个小伤口",
 }

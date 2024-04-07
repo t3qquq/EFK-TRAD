@@ -6,9 +6,7 @@ UI_CN = {
     UI_profdesc_usec = "美国私营准军事公司",
     UI_profdesc_bear = "俄罗斯私营准军事公司",
 
-    UI_optionscreen_binding_Call_Closest_Group_Member = "呼叫最近的小组成员",
-    UI_optionscreen_binding_Call_Closest_Non-Group_Member = "呼叫最近的小组成员",
-    UI_optionscreen_binding_Ask_Closest_Group_Member_too_Follow = "要求最近的组员跟随",
+    UI_optionscreen_binding_Ask_Closest_Group_Member = "呼叫最近的小组成员",
     UI_optionscreen_binding_Spawn_Wild_Survivor = "让另一个幸存者出现",
     UI_optionscreen_binding_Toggle_Group_Window = "切换群组窗口",
     UI_optionscreen_binding_Lower_Follow_Distance = "降低追踪距离",
@@ -17,5 +15,17 @@ UI_CN = {
     UI_optionscreen_binding_SSHotkey_2 = "SSHotkey 2 指令",
     UI_optionscreen_binding_SSHotkey_3 = "SSHotkey 3 指令",
     UI_optionscreen_binding_SSHotkey_4 = "SSHotkey 4 指令",
+   /**********************************************
+               30/03/24
+               EDIT
+   ***********************************************/
+
+    UI_optionscreen_binding_Call_Closest_Group_Member = "Call Closest Group Member"（呼叫最靠近的组员）",
+    UI_optionscreen_binding_Call_Closest_Non-Group_Member = "调用最近的非组成员",
+
+
+
+
+
 
 }

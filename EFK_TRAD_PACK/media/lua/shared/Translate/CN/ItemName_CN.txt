@@ -18,16 +18,11 @@ ItemName_CN = {
         ItemName_Base.AI2Painkiller = "医疗包止痛药",
         ItemName_Base.AI2Antibiotics = "Medkit Antibiotics",
         ItemName_Base.AI2Instructions = "Medkit Instructions",
-        ItemName_Base.ArmyBandage = "陆军绷带",
-        ItemName_Base.ArmyBandageDirty = "脏绷带",
-        ItemName_Base.ArmyAlcoholBandage = "无菌军用绷带",   
-        ItemName_Base.SterilizedBandage = "无菌绷带",
-        ItemName_Base.SterilizedBandageDirty = "脏的无菌绷带",
 
         ItemName_Base.9mmDrum = "9x19 Mag 50 rounds",
         ItemName_Base.9mmExtClip = "9x19 Mag 30 rounds",
         ItemName_Base.9mmSSExtClip = "9x19 Mag 20 rounds",
-        ItemName_Base.9mmExtClip = "9x19 Mag 15 rounds",
+        ItemName_Base.9mmClip = "9x19 Mag 15 rounds",
         ItemName_Base.9mmSSClip = "9x19 Mag 10 rounds",
 
         ItemName_Base.45Drum = "45ACP Mag 40 rounds",
@@ -88,7 +83,7 @@ ItemName_CN = {
         ItemName_Base.EFK_PK-AA = "BelOMO PK-AA 燕尾槽反射瞄准镜",
         ItemName_Base.EFK_TargetRing = "VOMZ Pilad TargetRing Reflex sight",
         ItemName_Base.EFK_HAMR = "Leupold Mark 4 HAMR 4x24 DeltaPoint 混合式突击瞄准镜",
-        ItemName_Base.EFK_Pilad4x32 = "VOMZ Pilad 4?
+        ItemName_Base.EFK_Pilad4x32 = "VOMZ Pilad x32 riflescope",
         ItemName_Base.EFK_prism_2x32 = "Monstrum Tactical Compact Prism Scope 2x32",
         ItemName_Base.EFK_PM_IIx56 = "Schmidt & Bender PM II 5-25x56 34 毫米步枪瞄准镜",
         ItemName_Base.EFK_PM_IIx50 = "Schmidt & Bender PM II 3-12x50 34 毫米步枪瞄准镜",
@@ -124,7 +119,7 @@ ItemName_CN = {
         ItemName_Base.EFK_RK-1 = "Zenit RK-1 战术手柄",
         ItemName_Base.EFK_KAC = "垂直手枪握把 KAC",
         ItemName_Base.EFK_Magpul = "Magpul RVG 手柄",
-        ItemName_Base.EFK_Dynamics_skeleton = "TD 铝质镂空垂直握把",
+        ItemName_Base.EFK_Dynamics_squelette = "TD 铝质镂空垂直握把",
         ItemName_Base.EFK_SIG = "Sig Sauer Vertical Foregrip Keymod Black",
         ItemName_Base.EFK_GUNFIGHTER_MOD3 = "BCM GUNFIGHTER MOD 3 垂直握把",
         ItemName_Base.EFK_Monstrum = "Monstrum Tactical Vertical Fore Grip KeyMod",
@@ -141,8 +136,8 @@ ItemName_CN = {
         ItemName_Base.EFK_NVG18_Harness_OFF = "GPNVG-18 夜视双筒望远镜，带背带（OFF）",
         ItemName_Base.EFK_N15_ON = "Armasight N-15 夜视双筒望远镜（开启）",
         ItemName_Base.EFK_N15_OFF = "Armasight N-15 夜视双筒望远镜（OFF）",
-        ItemName_Base.EFK_N15_Harness_ON = "Armasight N-15 夜视双筒望远镜，带背带 (ON)",
-        ItemName_Base.EFK_N15_Harness_OFF = "Armasight N-15 夜视双筒望远镜，带背带（OFF）",
+        ItemName_Base.EFK_N15_Harnais_ON = "Armasight N-15 夜视双筒望远镜，带背带 (ON)",
+        ItemName_Base.EFK_N15_Harnais_OFF = "Armasight N-15 夜视双筒望远镜，带背带（OFF）",
         ItemName_Base.EFK_PNV10T_ON = "带线束的 PNV-10T 夜视双筒望远镜（ON）",
         ItemName_Base.EFK_PNV10T_OFF = "带线束的 PNV-10T 夜视双筒望远镜（OFF）",
 
@@ -219,9 +214,9 @@ ItemName_CN = {
         ItemName_Base.Wallet2 = "钱包 2",
         ItemName_Base.Wallet3 = "钱包 3",
         ItemName_Base.Wallet4 = "钱包 4",
-        ItemName_Base.PackMarlboro = "一包万宝路香烟",
-        ItemName_Base.PackStrike = "一包 Strike 香烟",
-        ItemName_Base.WilstonPackage = "威尔斯顿香烟包装",
+        ItemName_Base.PaquetMarlboro = "一包万宝路香烟",
+        ItemName_Base.PaquetStrike = "一包 Strike 香烟",
+        ItemName_Base.PaquetWinston = "威尔斯顿香烟包装",
         ItemName_Base.CigarettesStrike = "Cigarettes Strike",
         ItemName_Base.CigarettesWinston = "威尔斯顿香烟",
         ItemName_Base.EFK_GazAnaliseur = "气体分析仪",
@@ -271,8 +266,6 @@ ItemName_CN = {
         ItemName_Base.EFK_T5000 = "ORSIS T-5000M 7.62x51 栓动式狙击步枪",
         ItemName_Base.EFK_VPO_209 = "Molot VPO-209 .366 TKM 卡宾枪",
         ItemName_Base.EFK_VPO_209_Melee = "Molot VPO-209 .366 TKM 卡宾枪（近战）",
-        ItemName_Base.EFK_VPO_136 = "Molot VPO-209 .366 TKM 卡宾枪",
-        ItemName_Base.EFK_VPO_136_Melee = "Molot VPO-209 .366 TKM 卡宾枪（近战）",
         ItemName_Base.EFK_APS = "Stechkin APS 9x18PM 机枪",
         ItemName_Base.EFK_APS_Fold = "Stechkin APS 9x18PM 机枪（折叠）",
         ItemName_Base.EFK_Makarov380 = "PM 手枪 9x18PM（带导线）",
@@ -440,12 +433,12 @@ ItemName_CN = {
 
         ItemName_Base.EFK_OutilsSCAV = "Scav 工具腰带",
         ItemName_Base.EFK_MedTact = "战术医疗腰带",
-        ItemName_Base.EFK_CeintureTactique = "战术腰带",
+        ItemName_Base.EFK_Tactical_belt = "战术腰带",
         ItemName_Base.EFK_CombatBelt = "战斗腰带",
 
         ItemName_Base.EFK_pockets_mk1 = "MK1 附加战术口袋",
         ItemName_Base.EFK_pockets_mk2 = "附加 MK2 战术口袋",
-        ItemName_Base.EFK_poches_mk3 = "附加 MK3 战术口袋",
+        ItemName_Base.EFK_pockets_mk3 = "附加 MK3 战术口袋",
 
         ItemName_Base.EFK_SupAPS9x18 = "Sound reducer 9x18 PM for APS",
         ItemName_Base.EFK_SupOsprey9x19 = "Osprey SilencerCo 9x19 消音器",
@@ -490,27 +483,26 @@ ItemName_CN = {
         ItemName_Base.EFK_SupSV98 = "SV-98 用 7.62 x 54 消音装置",
         ItemName_Base.EFK_SupRotor762x54 = "Sound reducer Rotor 43 7.62 x 54",
 
-        ItemName_MapItem.Carte_Tactique_Rosewood = "红木战术地图",
-        ItemName_MapItem.Riverside_Tactical_Card = "河畔战术卡",
-        ItemName_MapItem.Tactical_Map_Muldraugh = "Muldraugh 战术地图",
-        ItemName_MapItem.Westpoint_Tactical_Map = "Westpoint 战术地图",
-        ItemName_MapItem.Florius_Tactical_Map = "Florius 战术地图",
-        ItemName_MapItem.Carte_Tactique_Cumberland = "坎伯兰湖战术地图",
-        ItemName_MapItem.Tactical_Map_Petroville = "Petroville 战术地图",
-        ItemName_MapItem.Tactical_Map_Dirkerdam = "Dirkerdam 战术地图",
-        ItemName_MapItem.Tactical_Map_PaulosHammer = "保罗之锤战术地图",
-        ItemName_MapItem.Tactical_MapRidge = "March Ridge 战术地图",
+        ItemName_MapItem.Rosewood_Tactical_Map = " Rosewood 战术地图"",
+        ItemName_MapItem.Riverside_Tactical_Map = "Riverside 战术地图"",
+        ItemName_MapItem.Muldraugh_Tactical_Map = "Muldraugh 战术地图"",
+        ItemName_MapItem.Westpoint_Tactical_Map = "Westpoint 战术地图"",
+        ItemName_MapItem.Florius_Tactical_Map = "Florius 战术地图"",
+        ItemName_MapItem.Cumberland_Tactical_Map = "Cumberland 战术地图"",
+        ItemName_MapItem.Petroville_Tactical_Map = "Petroville 战术地图"",
+        ItemName_MapItem.Dirkerdam_Tactical_Map = "Dirkerdam 战术地图"",
+        ItemName_MapItem.PaulosHammer_Tactical_Map = "Paulo's Hammer 战术地图"",
+        ItemName_MapItem.MarchRidge_Tactical_Map = "March Ridge 战术地图"",
 
-        ItemName_Base.TancredTrader = "Tancred Trader",
+        ItemName_Base.TancredTrader = "销售商店",
         ItemName_Base.KitTrader = "套装制作工坊",
 
-        ItemName_Base.EFK_QolMag = "QUALITE DE VIE Magazine",
+        ItemName_Base.EFK_QolMag = "QUALITE DE VIE 杂志",
         ItemName_Base.EFK_CRAFTINGMag = "ARTISANAT 杂志",
-        ItemName_Base.EFK_LOGISTICMag = "物流杂志",
-        ItemName_Base.EFK_TECHNOLOGYMag = "技术杂志",
-        ItemName_Base.EFK_DEFENSEMag = "国防杂志",
+        ItemName_Base.EFK_LOGISTICMag = LOGISTIC 杂志",
+        ItemName_Base.EFK_TECHNOLOGYMag = "TECHNOLOGY 杂志",
+        ItemName_Base.EFK_DEFENSEMag = "DEFENSE 杂志",
 
-        ItemName_Base.scav_box = "Lucky Scav Junk box",
         ItemName_Base.EFK_Pile_of_Meds = "药品堆",
         ItemName_Base.EFK_ConstructionMeasuringTape = "建筑用卷尺",
         ItemName_Base.EFK_PhaseControlRelay = "相位控制继电器",
@@ -662,7 +654,7 @@ ItemName_CN = {
 
         ItemName_Base.Pop2 = "一罐 RatCola 汽水",
         ItemName_Base.EFK_Salewa_kit = "Salewa 急救箱包",
-        ItemName_Base.EFK_HealDocumentation = "EFK Heal Documentation",
+        ItemName_Base.EFK_HealDocumentation = "EFK 愈合文档",
         ItemName_Base.EFK_PraporInfo_Q2 = "Informations Prapor Quest 2",
         ItemName_Base.EFK_PraporInfo_Q3 = "Informations Prapor Quest 3",
         ItemName_Base.EFK_PraporInfo_Q4 = "Informations Prapor Quest 4",
@@ -688,5 +680,102 @@ ItemName_CN = {
 
         ItemName_Base.EFK_TOZ106_SKIER = "TOZ-106 20ga bolt-action shotgun",
         ItemName_Base.EFK_TOZ106_SKIER_Fold = "TOZ-106 20ga bolt-action shotgun (Folded)",
+
+        ItemName_Base.EFK_AKS-74N_MK1 = "定制枪械 AKS-74N MK1",
+        ItemName_Base.EFK_P226R_MK1 = "定制枪械 P226R MK1",
+        ItemName_Base.EFK_AK-105_MK1 = "定制枪械 AK-105 MK1",
+        ItemName_Base.EFK_Vector_9x19_MK1 = "定制枪械 Kriss Vector  9x19 MK1",
+        ItemName_Base.EFK_MPX_MK1 = "定制枪械 MPX MK1",
+        ItemName_Base.EFK_RSASS_MK1 = "定制枪械 RSASS MK1",
+        ItemName_Base.EFK_HK416A5_MK1 = "定制枪械 HK 416A5 MK1",
+        ItemName_Base.EFK_ASVAL_MK1 = "定制枪械 AS VAL MK1",
+        ItemName_Base.EFK_DVL_MK1 = "定制枪械 DVL MK1",
+        ItemName_Base.EFK_AK-102_MK1 = "定制枪械 AK-102 MK1",
+        ItemName_Base.EFK_AKMN_MK1 = "定制枪械 AKMN MK1",
+        ItemName_Base.EFK_SVDS_MK1 = "定制枪械 SVDS MK1",
+        ItemName_Base.EFK_M1A_MK1 = "定制枪械 M1A MK1",
+
+   /**********************************************
+               01/04/24
+               EDIT
+   ***********************************************/
+
+        ItemName_Base.ArmyBandage = "军用绷带",
+
+   /**********************************************
+               01/04/24
+               NEW
+   ***********************************************/
+
+        ItemName_Base.EFK_AsepticBandage = "无菌绷带",
+        ItemName_Base.EFK_Tourniquet = "止血带",
+
+   /**********************************************
+               02/04/24
+               EDIT
+   ***********************************************/
+
+        ItemName_tactorgsol.scav_box = "幸运 Scav 垃圾箱",
+
+   /**********************************************
+               02/04/24
+               NEW
+   ***********************************************/     
+
+        ItemName_EFK_stash_lvl1_kit = "藏匿 1 级套件",
+
+   /**********************************************
+               05/04/24
+               EDIT
+   ***********************************************/
+
+        ItemName_Base.EFK_VPO_136 = "莫洛特武器公司 VPO-136 'Vepr-KM' 7.62x39 卡宾枪",
+        ItemName_Base.EFK_VPO_136_Melee = "Molot Arms VPO-136 'Vepr-KM' 7.62x39 卡宾枪 (近战)",
+
+   /**********************************************
+               06/04/24
+               NEW
+   ***********************************************/
+
+        ItemName_Base.EFK_Eberlestock_F5 = "Eberlestock F5 Switchblade backpack Dry Earth",
+        ItemName_Base.EFK_T30 = "Gruppa 99 T30 backpack",
+        ItemName_Base.EFK_6Sh118 = "6Sh118 raid backpack Digital Flora",
+        ItemName_Base.EFK_LBT_2670 = "LBT-2670 Slim Field Med Pack Black",
+        ItemName_Base.EFK_Ranch_Blackjack = "Mystery Ranch Blackjack 50 backpack MultiCam",
+        ItemName_Base.EFK_Attack_2 = "SSO Attack 2 raid backpack Khaki",
+        ItemName_Base.EFK_COMM_BVS = "Mystery Ranch NICE COMM 3 BVS frame system Coyote",
+        ItemName_Base.EFK_LBT_8005A = "LBT-8005A Day Pack backpack MultiCam Black",
+        ItemName_Base.EFK_LBT_1476A = "LBT-1476A 3Day Pack Woodland",
+        ItemName_Base.EFK_Dragon_Egg_Mark_II = "Direct Action Dragon Egg Mark II backpack Black",
+        ItemName_Base.EFK_RK_PT_25 = "Tehinkom RK-PT-25 patrol backpack Digital Flora",
+        ItemName_Base.EFK_3V_Gear_Paratus = "3V Gear Paratus 3-Day Operator's Tactical backpack Foliage Grey",
+        ItemName_Base.EFK_Pilgrim = "Pilgrim tourist backpack",
+        ItemName_Base.EFK_SATL_Bridger = "Mystery Ranch SATL Bridger Assault Pack Foliage",
+
+        ItemName_Base.EFK_TFO_Trooper = "HighCom Trooper TFO body armor MultiCam",
+        ItemName_Base.EFK_Zabralo = "6B43 Zabralo-Sh body armor Digital Flora",
+        ItemName_Base.EFK_Korund_VM = "NPP KlASS Korund-VM body armor Black",
+        ItemName_Base.EFK_Gzhel = "BNTI Gzhel-K body armor",
+        ItemName_Base.EFK_BNTI_Zhuk = "BNTI Zhuk body armor Digital Flora",
+        ItemName_Base.EFK_Slick = "LBT-6094A Slick Plate Carrier",
+        ItemName_Base.EFK_Tactical_Hexgrid = "5.11 Tactical Hexgrid plate carrier",
+        ItemName_Base.EFK_FORT_Redut_T5 = "FORT Redut-T5 body armor Smog",
+        ItemName_Base.EFK_IOTV_Full_Protect = "IOTV Gen4 body armor Full Protection Kit MultiCam",
+        ItemName_Base.EFK_Defender_2 = "FORT Defender-2 body armor",
+        ItemName_Base.EFK_IOTV_Assault = "IOTV Gen4 body armor Assault Kit MultiCam",
+        ItemName_Base.EFK_IOTV_Mobility = "IOTV Gen4 body armor High Mobility Kit MultiCam",
+        ItemName_Base.EFK_Hexatac_HPC = "Hexatac HPC Plate Carrier Multicam Black",
+        ItemName_Base.EFK_MF_UNTAR = "MF-UNTAR body armor",
+        ItemName_Base.EFK_KlASS_Kora_Kulon = "NPP KlASS Kora-Kulon body armor",
+        ItemName_Base.EFK_BNTI_Zhuk_Press = "BNTI Zhuk body armor Press",
+
+        ItemName_Base.EFK_Small_Armor_Plate = "小型装甲板",
+        ItemName_Base.EFK_Medium_Armor_Plate = "中型装甲板",
+        ItemName_Base.EFK_Big_Armor_Plate = "大护甲板",
+        ItemName_Base.EFK_Body_armor_repair_kit = "护甲修理包",
+        ItemName_Base.Cleaning = "武器修理包",
+
+        ItemName_Base.EFK_WD40 = "WD-40 100ml",
+        ItemName_Base.EFK_WD40_400 = "WD-40 400ml",
 
 }

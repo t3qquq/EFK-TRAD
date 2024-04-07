@@ -71,7 +71,6 @@ Recipes_CN = {
      Recipe_Sell_Glock_18C_9x19_machine_pistol = "出售 Glock 18C 9x19 机关手枪 (154)",
      Recipe_Sell_Can_of_white_saltl_Pistol_Lebedev_PL-15 = "出售列别杰夫 PL-15 9x19 手枪 (93)",
      Recipe_Sell_SIG_MCX_.300_Blackout_assault_rifle = "出售 SIG MCX .300 Blackout 突击步枪 (460)",
-     Recipe_Sell_TOZ_Simonov_SKS_7.62x39_carbine = "出售 TOZ Simonov SKS 7.62x39 卡宾枪 (192)",
      Recipe_Sell_FN_Five-seveN_MK2_5.7x28_pistol = "出售 FN Five-seveN MK2 5.7x28 手枪 (146)",
      Recipe_Sell_Glock_17_9x19_pistol = "出售 Glock 17 9x19 (77) 手枪",
      Recipe_Sell_Glock_19X_9x19_pistol = "出售格洛克 19X 9x19 手枪 (107)",
@@ -151,7 +150,7 @@ Recipes_CN = {
      Recipe_Sell_Scope_Monstrum_Compact_prisme_2x32 = "出售 Monstrum Compact 棱镜 2x32 瞄准镜 (222)",
      Recipe_Sell_Scope_Schmidt_&_Bender_PM_II_5-25_x_56 = "出售 Schmidt & Bender PM II 5-25 x 56 望远镜 (570)",
      Recipe_Scope_Schmidt_&_Bender_PM_II_3-12_x_50 = "出售 Schmidt & Bender PM II 3-12 x 50 望远镜 (390)",
-     Recette_Sell_Scope_Nightforce_ATACR_7-35x56 = "出售 Nightforce ATACR 7-35x56 瞄准镜 (526)",
+     Recipe_Sell_Scope_Nightforce_ATACR_7-35x56 = "出售 Nightforce ATACR 7-35x56 瞄准镜 (526)",
      Recipe_Sell_Scope_March_Tactical_3-24x42_FFP = "出售 March Tactical 3-24x42 FFP 瞄准镜 (249)",
      Recipe_Sell_Scope_Kiba_Arms_Short_Prism_2,5x = "出售 Kiba Arms 短棱镜 2,5x 瞄准镜 (105)",
      Recipe_Sell_Scope_Zenit-Belomo_PSO_1M2_4x24 = "出售 Zenit-Belomo PSO 1M2 4x24 瞄准镜 (112)",
@@ -206,19 +205,19 @@ Recipes_CN = {
      Recipe_Sell_Sound_Suppressor_AAC_Illusion_9_9_x_19_mm = "Sell AAC Illusion 9 9 x 19 mm Sound Suppressor (184)",
      Recipe_Sell_Sound_Suppressor_KAC_QDC_5,56_x_45_mm = "出售 KAC QDC 5,56 x 45 mm 消声器 (397)",
      Recipe_Sell_Sound_Suppressor_Surefire_SOCOM556-RC2_5,56_x_45_mm = "Sell Surefire Sound Suppressor SOCOM556-RC2 5.56 x 45 mm (277)",
-     Recipe_Sell_Steyr_AUG_Sound_Suppressor_Ase_Utra_Series_SL7i_5,56_x_45_mm = "出售斯太尔 AUG 消声器 Ase Utra S 系列 SL7i 5,56 x 45 毫米 (330)",
+     Recipe_Sell_Steyr_AUG_Sound_Suppressor_Ase_Utra_S_Series_SL7i_5,56_x_45_mm = "出售斯太尔 AUG 消声器 Ase Utra S 系列 SL7i 5,56 x 45 毫米 (330)",
      Recipe_Sell_ASh-12_Sound_Suppressor_12,7_x_55_mm = "Sell ASh-12 Sound Suppressor 12,7 x 55 mm (200)",
      Recipe_Sell_Sound_Suppressor_SIG_Sauer_SRD762Ti_7,62_x_51_mm = "Sell Sauer SRD762Ti SIG Sound Suppressor 7,62 x 51 mm (291)",
      Recipe_Sell_Sound_Suppressor_Alpha_Dog_Alpha_9_9_x_19_mm = "Sell Alpha Dog Alpha 9 9 x 19 mm Sound Suppressor (205)",
      Recipe_Sell_AKS-74U_Sound_Suppressor_PBS-4_5,45_x_39_mm = "出售 AKS-74U PBS-4 5.45 x 39 mm 消声器 (184)",
      Recipe_Sell_Sound_Suppressor_Hexagon_12K = "出售 12K 六角形消声器 (129)",
      Recipe_Sell_Sound_Suppressor_KAC_QDSS_NT-4_5,56_x_45_mm_black = "出售黑色 KAC QDSS NT-4 5.56 x 45 mm 消声器 (267)",
-     Recipe_Sell_Sound_Suppressor_SilencerCo_Salvoo_12GA = "出售 Sound Suppressor SilencerCo Salvo 12GA (199)",
+     Recipe_Sell_Sound_Suppressor_SilencerCo_Salvo_12GA = "出售 Sound Suppressor SilencerCo Salvo 12GA (199)",
      Recipe_Sell_Mosin_Sound_Suppressor_Bramit_7,62_x_54R = "出售 Mosin Bramit Sound Suppressor 7,62 x 54R (231)",
      Recipe_Sell_AR-15_Sound_Suppressor_Griffin_Armament_M4SD-K_5,56_x_45_mm = "出售 AR-15 消声器 Griffin Armament M4SD-K 5,56 x 45 mm (431)",
      Recipe_Sell_Sound_Suppressor_SIG_Sauer_SRD9_9_x_19_mm = "Sell SIG Sound Suppressor Sauer SRD9 9 x 19 mm (160)",
      Recipe_Sell_Sound_Suppressor_SureFire_SOCOM556_MONSTER_5,56_x_45_mm = "Sell SureFire Sound Suppressor SOCOM556 MONSTER 5,56 x 45 mm (240)",
-     Recipe_Sell_Sound_Suppressor_KAC_PRS/QDC_7.62_x_51_mm = "Sell KAC PRS/QDC Sound Suppressor 7.62 x 51 mm (243)",
+     Recipe_Sell_Sound_Suppressor_KAC_PRS/QDC_7,62_x_51_mm = "Sell KAC PRS/QDC Sound Suppressor 7.62 x 51 mm (243)",
      Recipe_Sell_Sound_Suppressor_SIG_Sauer_SRD762-QD_7,62_x_51_mm = "Sell Sound Suppressor SIG Sauer SRD762-QD 7,62 x 51 mm (305)",
      Recipe_Sell_AK-74_Sound_Suppressor_Hexagon_5,45_x_39_mm = "出售 AK-74 六角形消音器 5.45 x 39 毫米 (220)",
      Recipe_Sell_Sound_Suppressor_KAC_QDSS_NT-4_5.56_x_45_mm_FDE = "出售 KAC QDSS NT-4 5.56 x 45 mm FDE 消声器 (253)",
@@ -242,14 +241,14 @@ Recipes_CN = {
      Recipe_Sell_Magazine_.45ACP_13_Rounds = "出售一个 13 发 .45 ACP 弹夹 (8)",
      Recipe_Sell_Magazine_.45ACP_15_Rounds = "出售一个 15 发 .45 ACP 弹夹 (11)",
      Recipe_Sell_Magazine_.45ACP_24_Rounds = "出售一个 24 发 .45ACP 弹夹 (9)",     
-     Recipe_Sell_Magazine_5.45x39_30_Rounds = "出售一个 30 发 5.45x39 弹匣 (10)",
-     Recipe_Sell_Magazine_5.45x39_95_Rounds = "出售一个 95 发 5.45x39 弹夹 (200)",
-     Recipe_Sell_Magazine_5.56x45_30_Rounds = "出售一个装有 30 发子弹的 5.56x45 弹夹 (11)",
-     Recipe_Sell_Magazine_5.56x45_60_Rounds = "出售 5.56x45 60 发弹夹 (87)",
+     Recipe_Sell_Magazine_5,45x39_30_Rounds = "出售一个 30 发 5.45x39 弹匣 (10)",
+     Recipe_Sell_Magazine_5,45x39_95_Rounds = "出售一个 95 发 5.45x39 弹夹 (200)",
+     Recipe_Sell_Magazine_5,56x45_30_Rounds = "出售一个装有 30 发子弹的 5.56x45 弹夹 (11)",
+     Recipe_Sell_Magazine_5,56x45_60_Rounds = "出售 5.56x45 60 发弹夹 (87)",
      Recipe_Sell_Magazine_7,62x39_30_Rounds = "出售一个 7.62x39 30 发弹夹 (9)",
      Recipe_Sell_Magazine_7,62x39_75_Rounds = "出售一个 7.62x39 75 发弹夹 (144)",
-     Recipe_Sell_Magazine_7.62x51_10_Rounds = "出售一个 10 发 7.62x51 弹匣 (10)",
-     Recipe_Sell_Magazine_7.62x51_20_Rounds = "出售一个 20 发 7.62x51 弹夹 (13)",
+     Recipe_Sell_Magazine_7,62x51_10_Rounds = "出售一个 10 发 7.62x51 弹匣 (10)",
+     Recipe_Sell_Magazine_7,62x51_20_Rounds = "出售一个 20 发 7.62x51 弹夹 (13)",
      Recipe_Sell_Magazine_50_BMG_10_Rounds = "出售一个 10 发 50 BMG 弹夹 (76)",
 
      Recipe_Sell_GPNVG-18_Night_Vision_goggles = "出售 GPNVG-18 夜视镜 (870)",
@@ -270,7 +269,7 @@ Recipes_CN = {
      Recipe_Sell_Backpack_Tasmanian_Tiger_Trooper_35 = "出售 Tasmanian Tiger Trooper 35 背包 (513)",
      Recipe_Sell_Backpack_Eberlestock_G2_Gunslinger_II = "出售 Eberlestock G2 Gunslinger II 背包 (378)",
      Recipe_Sell_Backpack_Camelbak_Tri-Zip = "出售 Camelbak Tri-Zip 背包 (380)",
-     Recipe_Sell_PACA_Soft_Armor = "出售 PACA 软甲 (162)",、
+     Recipe_Sell_PACA_Soft_Armor = "出售 PACA 软甲 (162)",
      Recipe_Sell_Body_Armor_6B2_(Flora) = "出售防弹衣 6B2 (Flora) (111)",
      Recipe_Sell_Body_Armor_6B5-16 = "出售防弹衣 6B5-16 (316)",
      Recipe_Sell_Body_Armor_Kirasa = "出售 Kirasa 盔甲 (162)",
@@ -442,12 +441,11 @@ Recipes_CN = {
      Recipe_Sell_Flat_Metal_cutting_scissors = "出售扁平金属切割剪刀 (140)",
      Recipe_Sell_Flat_screwdriver = "出售扁平螺丝刀 (88)",
      Recipe_Sell_Insulating_tape = "销售绝缘胶带 (12)",
-     Recipe_Sell_Flat_screwdriver_(Long) = "出售扁平螺丝刀（长）(207)",
      Recipe_Sell_Broken_GPhone_X_smartphone = "出售损坏的 GPhone X 智能手机 (201)",
      Recipe_Sell_Geiger-Muller_counter = "出售盖革-穆勒计数器 (105)",
      Recipe_Sell_Sewing_Kit = "出售缝纫工具包 (239)",
-     Recipe_Sell_H460_Saw = "出售 H460 电锯 (86)",
-     Recipe_Sell_P21_Saw = "出售 P21 电锯 (86)",
+     Recipe_Sell_H460_Chainsaw = "出售 H460 电锯 (86)",
+     Recipe_Sell_P21_Chainsaw = "出售 P21 电锯 (86)",
      Recipe_Sell_Makita_Chainsaw = "出售 Makita 电锯 (86)",
      Recipe_Sell_WD-40_100_mL = "出售 WD-40 100 mL (43)",
 
@@ -464,7 +462,7 @@ Recipes_CN = {
      Recipe_Create_a_Printed_circuit_board_kit = "创建一个印刷电路板套件",
      Recipe_Create_a_Rechargeable_battery_kit = "创建一个充电电池套件",
      Recipe_Create_a_Power_cord_kit = "创建电源线套件",
-     Recipe_Create_a_T 形插头套件 = "创建一个 T 形插头套件",
+     Recipe_Create_a_T-Shaped_Plug_kit = "创建一个 T 形插头套件",
      Recipe_Create_a_Car_first_aid_kit_pack = "创建汽车急救包",
      Recipe_Create_a_Gaz_analizer_kit = "创建一个气体分析仪工具包",
      Recipe_Create_a_TOZ_kit = "创建一个 TOZ 工具包",
@@ -489,11 +487,91 @@ Recipes_CN = {
      Recipe_Create_a_Security_Lvl2_kit = "创建安全 Lvl2 套件",
      Recipe_Create_a_Illumination_Lvl1_kit = "创建照明 Lvl1 套件",
      Recipe_Create_a_Workbench_Lvl1_kit = "创建工作台 Lvl1 套件",
-
      Recipe_Create_a_Nutrition_Lvl1_kit = "创建一个营养 Lvl1 套件",
      Recipe_Craft_2_Iskra_ration_packs = "制作 2 个伊斯卡口粮",
      Recipe_Craft_2_Cans_of_beef_stew_(Small) = "制作 2 罐炖牛肉罐头（小号）",
-     Recipe_Craft_2_Emergency_Water_Rations = "制作 2 份应急口粮",
-     Recipe_Craft_4_Can_of_Max_Energy_drink = "制作 4 罐 Max Energy 饮料",
+     Recipe_Craft_4_Can_of_Max_Energy_energy_drink = "制作 4 罐 Max Energy 能量饮料",
+
+   /**********************************************
+               28/03/24
+               编辑
+   ***********************************************/
+
+     Recipe_Sell_Simonov_SKS_7.62x39_carbine = "出售 Simonov SKS 7.62x39 卡宾枪 (192)",
+
+   /**********************************************
+               28/03/24
+               新
+   ***********************************************/
+
+     Recipe_Create_a_custom_firearm_:_AKS-74N_MK1 = "创建自定义枪械：AKS-74N MK1",
+     Recipe_Create_a_custom_firearm_:_P226R_MK1 = "创建自定义枪械 : P226R MK1",
+     Recipe_Create_a_custom_firearm_:_AK-105_MK1 = "创建自定义枪械 : AK-105 MK1",
+     Recipe_Create_a_custom_firearm_:_KRISS_Vector_9x19_MK1 = "创建自定义枪械 : KRISS Vector 9x19 MK1",
+     Recipe_Create_a_custom_firearm_:_MPX_MK1 = "创建一把定制枪械：MPX MK1",
+     Recipe_Create_a_custom_firearm_:_RSASS_MK1 = "创建自定义枪械：RSASS MK1",
+     Recipe_Create_a_custom_firearm_:_HK416_MK1 = "创建自定义枪械 : HK416 MK1",
+
+   /**********************************************
+               01/04/24
+               新
+   ***********************************************/
+
+     Recipe_Create_a_new_Skill_Journal = "创建一个新的技能日志",
+
+   /**********************************************
+               01/04/24
+               编辑
+   ***********************************************/
+
+     Recipe_Sell_Long_Flat_screwdriver = "出售长扁平螺丝刀 (207)",
+     Recipe_Craft_2_small_cans_of_beef_stew = "制作 2 小罐炖牛肉",
+
+   /**********************************************
+               02/04/24
+               新内容
+   ***********************************************/
+
+     Recipe_Sell_Schaman_shampoo = "出售沙曼洗发水 (44)",
+     Recipe_Sell_UHF_RFID_Reader = "出售 UHF RFID 阅读器 (302)",
+     Recipe_Sell_Intelligence_folder = "出售 Intelligence 文件夹 (341)",
+     Recipe_Sell_Military_flash_drive = "出售军用闪存盘 (296)",
+     Recipe_Sell_VPX_Flash_Storage_Module = "出售 VPX 闪存模块 (960)",
+     Recipe_Sell_Military_COFDM_Wireless_Signal Transmitter = "出售军用 COFDM 无线信号发射器 (916)",
+     Recipe_Sell_Virtex_programmable_processor = "出售 Virtex 可编程处理器 (756)",
+     Recipe_Sell_Digital_secure_DSP_radio = "销售数字安全 DSP 无线电设备 (5600)",
+     Recipe_Sell_Topographic_survey_maps = "销售地形测量地图 (356)",
+     Recipe_Sell_Clin_window_cleaner = "销售 Clin 窗口清洁器 (44)",
+     Recipe_Sell_Silicone_tube = "出售硅胶管 (119)",
+     Recipe_Sell_Fleece_fabric = "销售羊毛织物 (25)",
+     Recipe_Sell_Printer_paper = "出售打印纸 (14)",
+     Recipe_Sell_Physical_Bitcoin = "出售比特币实物 (9254)",
+     Recipe_Sell_Bottle_of_Fierce_Hatchling_moonshine = "出售一瓶 Fierce Hatchling 月光酒 (1260)",
+     Recipe_Sell_Military_power_filter = "出售军用电源过滤器 (346)",
+     Recipe_Sell_Advanced_current_converter = "出售高级电流转换器 (1890)",
+     Recipe_Sell_Phased_array_element = "出售相控阵元件 (1045)",
+     Recipe_Sell_Chainlet = "出售小型链 (45)",
+     Recipe_Sell_Diary = "出售日记 (287)",
+     Recipe_Sell_Slim_diary = "出售瘦身日记 (351)",
+     Recipe_Sell_Bottle_of_Norvinskiy_Yadreniy_premium_kvass = "出售一瓶 Norvinskiy Yadreniy 优质苦艾酒 (97)",
+     Recipe_Sell_Emelya_rye_croutons = "出售 Emelya 黑麦面包丁 (18)",
+     Recipe_Sell_Emergency_Water_Ration = "出售紧急口粮水 (108)",
+     Recipe_Sell_Can_of_beef_stew_Large = "出售大号炖牛肉罐头 (103)",
+     Recipe_Sell_Rye_croutons = "出售黑麦面包丁 (19)",
+     Recipe_Sell_BakeEzy_cook_book = "出售 BakeEzy 烹饪书 (287)",
+     Recipe_Sell_Can_of_Max_Energy_energy_drink = "出售一罐 Max Energy 能量饮料 (56)",
+
+     Recipe_Craft_1_BNTI_Module-3M_body_armor = "制作 1 件 BNTI 模块-3M 防弹衣",
+     Recipe_Craft_2_Corrugated_hose = "制作 2 个波纹软管",
+     Recipe_Craft_1_Scav_backpack = "制作 1 个 Scav 背包",
+     Recipe_Craft_6_Soaps = "制作 6 块肥皂",
+     Recipe_Craft_1_Cordura_polyamide_fabric = "Craft 1 Cordura 聚酰胺织物",
+     Recipe_Craft_2_Aramid_fiber_fabric = "Craft 2 芳纶纤维织物",
+     Recipe_Craft_6_Aseptic_bandages = "Craft 6 无菌绷带",
+     Recipe_Craft_2_Toilet_paper = "Craft 2 卫生纸",
+     Recipe_Craft_2_Army_bandage = "工艺 2 军用绷带",
+     Recipe_Create_a_Stash_Lvl1_kit = "制作一个 Lvl1 级储藏包",
+
 
 }
+

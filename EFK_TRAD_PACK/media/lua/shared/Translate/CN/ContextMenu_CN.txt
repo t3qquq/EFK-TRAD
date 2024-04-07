@@ -626,18 +626,18 @@ ContextMenu_CN = {
     ContextMenu_speech_Roger17 = "",
     ContextMenu_speech_Roger18 = "",
     ContextMenu_speech_Roger19 = "",
-    ContextMenu_speech_Roger20 = "", 
+    ContextMenu_speech_Roger20= "", 
     ContextMenu_speech_Roger21= ".", 
     ContextMenu_speech_Roger22= "", 
     ContextMenu_speech_Roger23= "", 
     ContextMenu_speech_Roger24= "", 
-    ContextMenu_speech_Roger25="", 
-    ContextMenu_speech_Roger26="", 
-    ContextMenu_speech_Roger27="", 
-    ContextMenu_speech_Roger28="", 
-    ContextMenu_speech_Roger29="", 
-    ContextMenu_speech_Roger30="",
-    ContextMenu_speech_No1= "",
+    ContextMenu_speech_Roger25= "", 
+    ContextMenu_speech_Roger26= "", 
+    ContextMenu_speech_Roger27= "", 
+    ContextMenu_speech_Roger28= "", 
+    ContextMenu_speech_Roger29= "", 
+    ContextMenu_speech_Roger30= "",
+    ContextMenu_speech_No1 = "",
     ContextMenu_speech_No2 = "",
     ContextMenu_speech_No3 = "",
     ContextMenu_speech_No4 = "",
@@ -684,7 +684,7 @@ ContextMenu_CN = {
     ContextMenu_speech_HitByPlayer26 = "",
     ContextMenu_speech_HitByPlayer27 = "",
     ContextMenu_speech_HitByPlayer28 = "",
-    ContextMenu_speech_HitByPlayer29 = ""。 
+    ContextMenu_speech_HitByPlayer29 = "", 
     ContextMenu_speech_SeenFirstZombie1 = "",
     ContextMenu_speech_SeenFirstZombie2 = "",
     ContextMenu_speech_SeenFirstZombie3 = "",
@@ -986,7 +986,7 @@ ContextMenu_CN = {
     ContextMenu_speech_FinalWords31 = "", 
     ContextMenu_speech_NameText1 = "",
     ContextMenu_speech_NameText2 = "",
-    ContextMenu_speech_NameText3 = "" 、
+    ContextMenu_speech_NameText3 = "",
     ContextMenu_speech_NameText4 = "",
     ContextMenu_speech_NameText5 = "",
     ContextMenu_speech_NameText6 = "",
@@ -1727,7 +1727,7 @@ ContextMenu_CN = {
     ContextMenu_Names374 = "",
     ContextMenu_Names375 = "",
     ContextMenu_Names376 = "",
-    ContextMenu_Names376 = "",
+    ContextMenu_Names377 = "",
     ContextMenu_Names378 = "",
     ContextMenu_Names379 = "",
     ContextMenu_Names380 = "",
@@ -2149,6 +2149,19 @@ ContextMenu_CN = {
     ContextMenu_SD_IGoGuard = "",
     ContextMenu_SD_IGoBackBase = "",
     ContextMenu_SD_NoWoodHere = "",
+
+   /**********************************************
+               29/03/24
+               NEW
+   ***********************************************/
+
+ContextMenu_Use_Bandage = "用小药箱治疗小伤口", 
+
+
+
+
+
+
 
 
 

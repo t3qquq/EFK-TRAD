@@ -1,6 +1,6 @@
 IGUI_CN = {
 
- IGUI_ContainerTitle_efk_desktop_computer = "EFK 台式电脑",
+   IGUI_ContainerTitle_efk_desktop_computer = "EFK 台式电脑",
 
    IGUI_EFK_Message_OnPlayerJoinHideout = "Finally ！我回到藏身处了!",
 
@@ -462,9 +462,8 @@ IGUI_CN = {
    IGUI_TOUBIB_Quest_10_part5 = "据我所知，它们已经静止太久了，需要电池和火花塞。甚至不需要燃料。我会列出我们需要的物品清单。你能带过来吗？",
 
    IGUI_TOUBIB_Task_Talk_Toubib = "与医疗兵对话",
-   IGUI_TOUBIB_Task_q1_t2 = "找到 3 个 Salewa 紧急医疗包",
-   IGUI_TOUBIB_Task_q2_t2 = "找到气体分析仪",
-   IGUI_TOUBIB_Task_q3_t2 = "找到 2 个气体分析仪",
+   IGUI_TOUBIB_Task_q2_t2 = "交付一个气体分析仪套件（您必须将此物品转换成套件后才能退回）。",
+   IGUI_TOUBIB_Task_q3_t2 = "交付 2 个气体分析仪套件（您必须将这些物品转换成套件后方可退货）",
    IGUI_TOUBIB_Task_q4_t2 = "到达紫檀法院",
    IGUI_TOUBIB_Task_q4_t3 = "找到水源",
    IGUI_TOUBIB_Task_q4_t4 = "标记水源保护区",
@@ -516,7 +515,7 @@ IGUI_CN = {
    IGUI_SKIER_Quest_3_part1 = "啊，又是你。你决定要抓着我不放，是不是？真聪明",
    IGUI_SKIER_Quest_3_part2 = "我必须让我们地区的事情有所进展。各种陌生人不断插手、射击、抢劫我手下的贵重物品、肆意殴打他们",
    IGUI_SKIER_Quest_3_part3 = "可以说，这让我很不高兴，而且这也不符合我的经营理念。要想让他们明白自己的处境很糟糕，就用枪打他们，让他们明白专业人士是有用的",
-   IGUI_SKIER_Quest_3_part4="好吧，去吧，把你的'经营者'们捞起来，我会支付每个人头的奖金，甚至还有额外的礼物。时局艰难，你们总得谋生，最好身体健康。",
+   IGUI_SKIER_Quest_3_part4 = "好吧，去吧，把你的'经营者'们捞起来，我会支付每个人头的奖金，甚至还有额外的礼物。时局艰难，你们总得谋生，最好身体健康。",
 
    IGUI_SKIER_Quest_4_Name = "Skier 4 - U 盘里有什么？",
    IGUI_SKIER_Quest_4_Desc = "嘿，'操作员'，过来。我有个可疑的工作给你。你这是什么表情？你不喜欢行话？是啊，我坐过牢，怎么了？为什么用邪恶的眼神看我？两次，第一次在少管所，第二次 因扰乱治安被关了两年。够了吗？够了吗？终于，我们可以不用那些优美的词藻了！听着，有个骗局 不是万无一失，但可能很有趣 有个酒鬼说过一个故事 在合同战争期间 他曾引导过几批不想和士兵或警察交涉的贵宾 我同意后者的说法。你总能和战犬打交道，正常人在他们中间并不罕见，但警察就没那么好对付了。最后，他经历了好几拨这样的人。哦，他这个白痴还有足够的理智，在喘气的时候把能偷的东西都偷了。今天，这个一无是处的家伙以他母亲的名义发誓，他在最后一次行动中偷了两个 U 盘。他不知道里面有什么，如果有的话。他已经昏昏沉沉了很久，什么都不记得了--没有地点，没有地标，什么都没有。总之，他说那里有一些安全大佬，所以也许值得一去。检查你能找到的所有营地。我知道这些路从那时起就被打得稀烂，但万一......",
@@ -621,7 +620,7 @@ IGUI_CN = {
    IGUI_JAEGER_Quest_1_Desc = "嗯，你好！我观察你很久了 - 我听说过你的善行和恶行。在这个艰难的时期，你很难再像以前一样--你必须选择立场。因此，我站在那些正在清除地球上各种垃圾的人一边，那些正在把我们进一步拖入黑暗深渊的人一边。如果你愿意加入我们，我很乐意提供帮助。机械师，告诉我你的背景，他说我们可以依靠你。在这种情况下，我再也不想对我们周围发生的事情置身事外了。起初，我觉得还是待在野外，待在我的保护区里比较好。但是，当地的强盗开始作恶，发生了那么多谋杀和抢劫，他们又对我们的小镇....。总之，我需要你的服务。首先，我需要你给我带些补给品。隐士的生活方式真的耗尽了我的供给",
    IGUI_JAEGER_Quest_1_part1 = "你好！",
    IGUI_JAEGER_Quest_1_part2 = "我注意你很久了--我听说过你的善行和恶行。在这个艰难的时期，你很难保持以前的样子 - 你必须做出选择",
-   IGUI_JAEGER_Quest_1_part3="所以，我站在了那些清除我们土地上的各种败类的一边，那些把我们进一步拖入黑暗深渊的人。如果你愿意加入我们，我很乐意效劳",
+   IGUI_JAEGER_Quest_1_part3 = "所以，我站在了那些清除我们土地上的各种败类的一边，那些把我们进一步拖入黑暗深渊的人。如果你愿意加入我们，我很乐意效劳",
    IGUI_JAEGER_Quest_1_part4 = "机械师告诉我你的背景，说你可以信赖。在这种情况下，我再也不想对我们周围发生的事情置身事外了。我首先想到的是，最好还是留在野外，留在我的保护区",
    IGUI_JAEGER_Quest_1_part5 = "但是，在当地的强盗开始作恶之后，在所有的谋杀和抢劫发生之后，在他们对我们的小镇....。总之，我肯定需要你的服务。首先，我需要你给我带些补给",
    IGUI_JAEGER_Quest_1_part6 = "隐士的生活方式确实耗尽了我的补给",
@@ -673,7 +672,7 @@ IGUI_CN = {
    IGUI_JAEGER_Quest_9_Desc = "我在某处读到人类的眼睛可以适应黑暗，所以我试着揭穿它，结果长话短说，差点在防风林里摔断腿。也许我太老了，不适合做这种事。总之，我需要你帮我做一件事。我有一本重要的订单要找 问题是它在法拉斯湖 罗斯伍德北部 开辆车，别忘了你的GPS 然后去这个天堂小角落中间的农场商店 你会在他们的纸盘里找到的，我肯定",
    IGUI_JAEGER_Quest_9_part1 = "我在某处读到人眼可以适应黑暗，所以我试着去揭穿它，结果长话短说，我差点在防风林里摔断腿",
    IGUI_JAEGER_Quest_9_part2 = "也许我太老了，不适合做这种事。无论如何，我需要你完成一项任务。我有一大本订单要检索。问题是，它在法拉斯湖，就在罗斯伍德北部。",
-   IGUI_JAEGER_Quest_9_part3="开一辆车，别忘了你的 GPS，然后去这个小天堂中间的农场商店。我敢肯定，你会在他们的纸盘里找到的",
+   IGUI_JAEGER_Quest_9_part3 = "开一辆车，别忘了你的 GPS，然后去这个小天堂中间的农场商店。我敢肯定，你会在他们的纸盘里找到的",
 
    IGUI_JAEGER_Quest_10_Name = "Jaeger 10 - Way of the Survivalist - Combat Medic",
    IGUI_JAEGER_Quest_10_Desc = "在担任游戏管理员期间，我看到了数不清的垃圾。许多不同的人在这片树林中迷路。有些人活着出来了，有些人则没有。有一把好枪可以帮助你成为前者。我需要你帮我把我的枪拿来 我把它藏在盐骑士教堂的纸箱里了 你不知道在哪儿吗？在通往路易斯维尔的桥南边，齐佩市场附近。你不会错过的",
@@ -799,7 +798,7 @@ IGUI_CN = {
    IGUI_MECANIX_Firearm_Quest_2_part4 = "是的，线索与此无关。希望你已经明白了一切。再见",
 
    IGUI_MECANIX_Firearm_Quest_3_Name = "Mecanix Gunsmith - Part 3",
-   IGUI_MECANIX_Firearm_Quest_3_Desc ="小时候，人们常说，重要的不是目的地，而是旅程本身。但如果目的地是你、你所知道的、你的反应能力有多强以及你弹夹里有多少发子弹呢？尤其是当你本该苟延残喘、咬牙坚持时，更是如此。所以，我们言归正传：我需要一把 MP5。50发弹夹、消音器、战术手电筒，射程超过200英里。 人体工学设计超过45英里，后坐力低于210英里。最大重量 4 公斤。您可以决定什么对您最重要，是旅程还是目的地",
+   IGUI_MECANIX_Firearm_Quest_3_Desc = "小时候，人们常说，重要的不是目的地，而是旅程本身。但如果目的地是你、你所知道的、你的反应能力有多强以及你弹夹里有多少发子弹呢？尤其是当你本该苟延残喘、咬牙坚持时，更是如此。所以，我们言归正传：我需要一把 MP5。50发弹夹、消音器、战术手电筒，射程超过200英里。 人体工学设计超过45英里，后坐力低于210英里。最大重量 4 公斤。您可以决定什么对您最重要，是旅程还是目的地",
    IGUI_MECANIX_Firearm_Quest_3_part1 = "小时候，我们常说，重要的不是目的地，而是旅程本身",
    IGUI_MECANIX_Firearm_Quest_3_part2 = "但如果目的地是你自己、你所知道的、你的反应能力和弹夹中的子弹数量呢？尤其是当你本该苟延残喘、咬牙坚持的时候。总之，我需要一把 MP5",
    IGUI_MECANIX_Firearm_Quest_3_part3 = "配备 50 发弹夹、消音器、战术手电筒，瞄准范围超过 200。 人体工学设计超过 45，后坐力低于 210。最大重量为 4 千克。您可以决定什么对您最重要，是旅程还是目的地",
@@ -817,14 +816,14 @@ IGUI_CN = {
    IGUI_MECANIX_Firearm_Quest_4_part3 = "我需要一支升级版西蒙诺夫步枪，带消音器和瞄准镜。弹夹容量大于等于 20 发，人体工程学设计大于 35，后坐力总和小于 350", 
 
    IGUI_MECANIX_Firearm_Quest_5_Name = "Mecanix Gunsmith - Part 5",
-   IGUI_MECANIX_Firearm_Quest_5_Desc ="就在我终于找到稳定的网络连接和电源时，政府加紧了行动，开始封锁一半的 IP 地址，这些 IP 地址负责处理流向塔尔科夫的大部分数据流。这一切都是因为 TerraGroup 涉嫌利用 Ebambium 互联网服务提供商进一步破坏塔尔科夫市的局势稳定并制造混乱。听起来像是在胡扯 "末日降临"，不是吗？说到胡言乱语和武器，一个脸上有闪电纹身的怪人要了一把雷明顿 870 霰弹枪。装有战术装置、Magpul MOE 护手和战术前握把。人体工学大于 60，后坐力小于 500",
+   IGUI_MECANIX_Firearm_Quest_5_Desc = "就在我终于找到稳定的网络连接和电源时，政府加紧了行动，开始封锁一半的 IP 地址，这些 IP 地址负责处理流向塔尔科夫的大部分数据流。这一切都是因为 TerraGroup 涉嫌利用 Ebambium 互联网服务提供商进一步破坏塔尔科夫市的局势稳定并制造混乱。听起来像是在胡扯 "末日降临"，不是吗？说到胡言乱语和武器，一个脸上有闪电纹身的怪人要了一把雷明顿 870 霰弹枪。装有战术装置、Magpul MOE 护手和战术前握把。人体工学大于 60，后坐力小于 500",
    IGUI_MECANIX_Firearm_Quest_5_part1 = "就在我终于找到稳定的互联网连接和电源时，政府开始封锁塔尔科夫处理大部分数据流的一半 IP 地址",
    IGUI_MECANIX_Firearm_Quest_5_part2 = "这一切据称都是因为 TerraGroup 利用 "Ebambium "互联网服务提供商来进一步破坏城市的稳定并制造混乱。这一切听起来都像是在胡言乱语，说什么 "末日审判 "即将来临，不是吗？",
    IGUI_MECANIX_Firearm_Quest_5_part3 = "说到胡言乱语和武器，一个脸上纹着闪电符号的怪人要了一把雷明顿 870 霰弹枪。配备战术装置、Magpul MOE 护手和战术前握把。" 
    IGUI_MECANIX_Firearm_Quest_5_part4 = "人体工学大于 60，后坐力总和小于 500", 
 
    IGUI_MECANIX_Firearm_Quest_6_Name = "Mecanix Gunsmith - Part 6",
-   IGUI_MECANIX_Firearm_Quest_6_Desc ="在你看来，我们城市居民遭受的所有苦难是社会行为的结果，还是一个受控制的过程，而这仅仅是个开始？在那个有闪电纹身的人死后，我一直在思考这个问题。我决定，即使这是某人的无形之手，也是我们的社会应得的。我们用自己的行动，用购买训练器甚至甜菜根沙拉的方式，支持那些建造实验室和工厂的人，然后用它们把我们推向深渊。好了，我说得太多了，还是言归正传吧。给我一把 AKM，配上 Fortis Shift 手柄、消音器和 30 发 Magpul 弹匣。人体工学优于 40，后坐力小于 400，瞄准距离 800 米或更远",
+   IGUI_MECANIX_Firearm_Quest_6_Desc = "在你看来，我们城市居民遭受的所有苦难是社会行为的结果，还是一个受控制的过程，而这仅仅是个开始？在那个有闪电纹身的人死后，我一直在思考这个问题。我决定，即使这是某人的无形之手，也是我们的社会应得的。我们用自己的行动，用购买训练器甚至甜菜根沙拉的方式，支持那些建造实验室和工厂的人，然后用它们把我们推向深渊。好了，我说得太多了，还是言归正传吧。给我一把 AKM，配上 Fortis Shift 手柄、消音器和 30 发 Magpul 弹匣。人体工学优于 40，后坐力小于 400，瞄准距离 800 米或更远",
    IGUI_MECANIX_Firearm_Quest_6_part1 = "你认为我们城市的人们所遭受的一切苦难是社会行为的结果，还是一个可控的过程，而这仅仅是一个开始？",
    IGUI_MECANIX_Firearm_Quest_6_part2 = "在那个有闪电纹身的家伙死后，我一直在想这个问题。但转念一想，即使这是别人的无形之手，也是我们的社会应得的。",
    IGUI_MECANIX_Firearm_Quest_6_part3 = "我们用自己的行动，通过购买训练器甚至甜菜根沙拉，支持了那些建造实验室和工厂的人，然后用它们把我们推向深渊。好了，我说得太多了，还是言归正传吧。给我一把 AKM，配上 Fortis Shift 手柄、消音器和 30 发 Magpul 弹匣、 
@@ -840,7 +839,7 @@ IGUI_CN = {
    IGUI_MECANIX_Firearm_Quest_7_part6 = "他们需要消音器、60 发弹匣、人体工学设计优于 47，后坐力小于 300。 注意重量，不超过 3.8 千克，瞄准镜射程 800 或更远", 
 
    IGUI_MECANIX_Task_q1_t2 = "到达机甲掩体（Rosewood 东部，树林中）",
-   IGUI_MECANIX_Task_q1_t3 ="保护碉堡",
+   IGUI_MECANIX_Task_q1_t3 = "保护碉堡",
    IGUI_MECANIX_Task_q1_t4 = "搜索机甲战士的加密信息",
    IGUI_MECANIX_Task_q1_t6 = "与 Mecanix 对话",
    IGUI_MECANIX_Task_q2_t2 = "到达 Dirkerdam 的工厂（GPS x=7937 y=3242）",
@@ -967,7 +966,7 @@ IGUI_CN = {
    IGUI_RAGMAN_Quest_5_Desc = "最近来了一个人，自称 Mecanix。他没有买任何东西，但他说他对一些燃料感兴趣：我们会帮他弄到，因为他给的钱很多。罗斯伍德，北部，正中间，你有一个大公司，满满一桶还完好无损。你没看见吗？就在足球场上面 在一个桶上做记号，我们稍后再去取剩下的",
    IGUI_RAGMAN_Quest_5_part_1 = "最近来了一个人，自称是 Mecanix",
    IGUI_RAGMAN_Quest_5_part_2 = "他什么都没买，但说他对燃料感兴趣。罗斯伍德，北部，就在中间，你有一个大公司，里面装满了桶，还完好无损。",
-   IGUI_RAGMAN_Quest_5_part_3="你没看见吗？就在足球场上面。在一个桶上做记号，我们稍后再去捡剩下的",
+   IGUI_RAGMAN_Quest_5_part_3 = "你没看见吗？就在足球场上面。在一个桶上做记号，我们稍后再去捡剩下的",
 
    IGUI_RAGMAN_Quest_6_Name = "Ragman 6 - Dressed to Kill",
    IGUI_RAGMAN_Quest_6_Desc = "今天天气真好！现在的人都很时尚，他们来这里要求和平时期也不太成功的东西。即使像纸一样被射中也无所谓，只要能从其他....，他们就会接受。看来，人们还是有自己的生活的，不管他们是想参加派对还是其他什么。去买那些好的老式牛仔帽吧，你知道在西部片里看到的那种",
@@ -1181,11 +1180,102 @@ IGUI_CN = {
                NEW
    ***********************************************/
 
-   IGUI_PLAYER_TWO_Hours_BeforeDead = "我有两个小时离开这个地方。",
+   IGUI_PLAYER_TWO_Hours_BeforeDead = "我有 2 个小时离开这个地方",
 
 
+   IGUI_MECANIX_Firearm_Quest_8_Name = "Mecanix Gunsmith - Part 8",
+   IGUI_MECANIX_Firearm_Quest_8_Desc = "我有两个神经网络，一个扫描摄像头上的人脸并与数据库进行比较，另一个监控加密货币交易并作出反应。今天，我决定再创建一个，它将监控我藏身处的温度、湿度、压力和其他参数，并对我的情绪做出反应。让我们拭目以待它完成后的效果吧。有一份订购 AKS-74N 的订单，其中包含 Zenit 部件。人体工学应该超过 65，后坐力总和小于 275，枪支占用的空间不超过 10 个。最重要的是，要配备带有 B-31S 上护手导轨的 B-30 护手、RK-0 战术前握把、AK-12 弹匣、Klesch-2IKS 和 DTK-1，全面采用泽尼特部件。也许，这是给一位前圣彼得堡市民的礼物",
+   IGUI_MECANIX_Firearm_Quest_8_part1 = "我有两个神经网络，一个扫描摄像头上的人脸并与数据库进行比较，另一个监控加密货币交易并作出反应。",
+   IGUI_MECANIX_Firearm_Quest_8_part2 = "今天我决定再创建一个，它将监控我藏身处的温度、湿度、压力和其他参数，除其他外--还能对我的情绪做出反应。",
+   IGUI_MECANIX_Firearm_Quest_8_part3 = "让我们看看我完成后的结果如何。有一份 AKS-74N 的订单，使用 Zenit 零件。人体工学应超过 65，后坐力总和应小于 275，枪支占用的插槽应不超过 10 个",
+   IGUI_MECANIX_Firearm_Quest_8_part4 = "最重要的是，B-30 护手与 B-31S 上护手导轨、RK-0 战术前握把、AK-12 弹匣、Klesch-2IKS 和 DTK-1，全部采用 Zenit 零部件。也许，这是给一位前圣彼得堡市民的礼物",
+
+   IGUI_MECANIX_Firearm_Quest_9_Name = "Mecanix Gunsmith - Part 9",
+   IGUI_MECANIX_Firearm_Quest_9_Desc = "哦，嘿。我遇到了一件不寻常的事。我不经常接到手枪订单，但这次情况特殊。我们需要一把 SIG P226R，不锈钢精英木质握把，不锈钢精英滑膛，加长弹夹和一个手电筒。人体工学不低于 80，后坐力总和不高于 610。真正爱好者的武器",
+   IGUI_MECANIX_Firearm_Quest_9_part1 = "哦，嘿。发生了一件不寻常的事。",
+   IGUI_MECANIX_Firearm_Quest_9_part2 = "我不经常接到手枪订单，但这次情况特殊。我们需要一把 SIG P226R，不锈钢精英木质握把，不锈钢精英滑膛，加长弹夹和一个手电筒。",
+   IGUI_MECANIX_Firearm_Quest_9_part3 = "人体工学不低于 80，后坐力总和不高于 610。真正爱好者的武器",
+
+   IGUI_MECANIX_Firearm_Quest_10_Name = "Mecanix Gunsmith - Part 10",
+   IGUI_MECANIX_Firearm_Quest_10_Desc = "我叫她露西亚 - 我是说神经网络。因此，当我保持沉默时，它表现得很好，甚至会在必要时提醒我去睡觉，但一旦我开始自言自语，它就会试图分散我的注意力，播放音乐或类似的东西。不过，我用电影和电影中的短语对它进行了训练。显然，这种反应在电影中是最合适的，但对我来说却不是。我得好好想想，什么样的刺激最适合模仿真人，而不是社会及其刻板印象。但我想说的是，现在就组装一把 AK-105，装上消音器和 60 发弹匣。至于参数：瞄准镜射程超过 800，人体工学高于 38，后坐力总和小于 500，重量在 4.8 千克或以下。结构紧凑，一如既往，8 个插槽左右",
+   IGUI_MECANIX_Firearm_Quest_10_part1 = "我叫她 Lusya - 我是说神经网络。因此，当我保持沉默时，它表现得很好，甚至会在必要时提醒我去睡觉，但一旦我开始自言自语，它就会试图分散我的注意力，播放音乐或类似的东西",
+   IGUI_MECANIX_Firearm_Quest_10_part2 = "不过，我用电影和电影中的短语对它进行了训练。显然，电影中的这种反应对我们来说是最合适的，但对我来说却不是",
+   IGUI_MECANIX_Firearm_Quest_10_part3 = "我得想想什么样的刺激最适合模仿真人，而不是社会及其刻板印象。但我想说的是，现在就组装一把 AK-105，装上消音器和 60 发弹匣。",
+   IGUI_MECANIX_Firearm_Quest_10_part4 = "至于参数：瞄准范围大于 800，人体工学高于 38，后坐力总和小于 500，重量在 4.8 千克或以下。结构紧凑，一如既往，8 个插槽左右",
+
+   IGUI_MECANIX_Firearm_Quest_11_Name = "Mecanix Gunsmith - Part 11",
+   IGUI_MECANIX_Firearm_Quest_11_Desc = "来得正是时候，朋友。如果你有时间，帮我定制一些枪支。一位大客户订购了一把 KRISS Vector 9x19 冲锋枪。他希望配备 Mk.5 模块化导轨支架、战术动力镂空前握把、铁制瞄准镜或瞄准距离至少 300 米的瞄准镜、至少 33 发子弹的弹夹和消音器。人体工学性能在 50 以上，后坐力在 230 以下。谢谢！",
+   IGUI_MECANIX_Firearm_Quest_11_part1 = "来得正好，朋友。如果你有时间，请帮我定制一些枪支。",
+   IGUI_MECANIX_Firearm_Quest_11_part2 = "一位大客户订购了一把 KRISS Vector 9x19 冲锋枪",
+   IGUI_MECANIX_Firearm_Quest_11_part3 = "他希望配备 Mk.5 模块化导轨支架、战术动力公司镂空前握把、一些铁制瞄准镜或瞄准距离至少 300 米的瞄准镜、至少 33 发子弹的弹匣和消音器。人体工学性能在 50 以上，后坐力在 230 以下。谢谢！",
+
+   IGUI_MECANIX_Firearm_Quest_12_Name = "Mecanix Gunsmith - Part 12",
+   IGUI_MECANIX_Firearm_Quest_12_Desc = "好的，我们有一个紧急订单，时间不多。有个人来找我们，说想和雷沙拉一起解决这个问题。给他造一把 MPX，配上战术动力公司的镂空手枪握把、歼灭者闪光灯和斯坦纳 LAS/TAC 2 战术手电筒。目标是瞄准距离达到 300 或更远，人体工程学性能高于 52，重量小于 4 千克，后坐力总和小于 225。不要告诉任何人你为什么需要这把枪。如果雷斯哈拉听到了，他会不太高兴的，他的手下都是很凶的一群人，在工厂工作之前都服过兵役。",
+   IGUI_MECANIX_Firearm_Quest_12_part1 = "好的，我们有一个紧急订单，时间不多了。",
+   IGUI_MECANIX_Firearm_Quest_12_part2 = "有个人路过，说想和雷沙拉解决这个问题，他正和工厂的人一起在宿舍附近的某个地方活动。",
+   IGUI_MECANIX_Firearm_Quest_12_part3 = "为他打造一把 MPX，配备战术动力公司的镂空手枪握把、歼灭者闪光器和斯坦纳 LAS/TAC 2 战术手电筒。目标瞄准距离 300 或更远，人体工程学设计高于 52，重量小于 4 千克，后坐力总和小于 225",
+   IGUI_MECANIX_Firearm_Quest_12_part3 = "不要告诉任何人你为什么需要这把枪。如果雷斯哈拉听到了，他会很不高兴的，他的手下都是一群相当卑鄙的人，在工厂工作之前都服过兵役。",
+
+   IGUI_MECANIX_Firearm_Quest_13_Name = "Mecanix Gunsmith - Part 13",
+   IGUI_MECANIX_Firearm_Quest_13_Desc = "你擅长隐藏吗？我觉得还不够狙击手找不到你。我不羡慕那个家伙，他叫什么来着，布兰登吧。有趣的是，过去那些我们崇拜的英雄们，他们都去哪儿了？为什么每个人都变得如此空虚？为什么现在周围一片混乱，像狙击手这样的人却成了我们心目中的英雄？为什么我们一直对这样的战狗视而不见，而现在却期待与他们成为朋友？你怎么看？我还有一个订单，是 R11 RSASS。瞄准范围在 1500 或以上。重量不超过 6.7 千克。还需要消音器，人体工程学设计大于 26，后坐力总和小于 300",
+   IGUI_MECANIX_Firearm_Quest_13_part1 = "你善于隐藏吗？我想，还不足以让狙击手找不到你。",
+   IGUI_MECANIX_Firearm_Quest_13_part2 = "我不羡慕那个家伙，他叫什么来着，布兰登吧。有趣的是，过去那些我们崇拜的英雄们，他们都去哪儿了？为什么每个人都变得如此空虚？
+   IGUI_MECANIX_Firearm_Quest_13_part3 = "为什么现在周围一片混乱，像狙击手这样的人却成了我们的英雄？为什么我们一直对这样的战狗视而不见，而现在我们却希望与他们成为朋友？你怎么看？"、 
+   IGUI_MECANIX_Firearm_Quest_13_part4 = "我还有一个订单，是 R11 RSASS。瞄准距离在 1500 或以上。重量不超过 6.7 千克。还需要消音器，人体工程学设计大于 26，后坐力总和小于 300。",
+
+   IGUI_MECANIX_Firearm_Quest_14_Name = "Mecanix Gunsmith - Part 14",
+   IGUI_MECANIX_Firearm_Quest_14_Desc = "你好。有一份西部 HK 416A5 步枪的新订单。需要棕褐色附件： SureFire SOCOM556-RC2 消音器、Magpul RVG 战术握把、EOTech EXPS3 全息瞄准镜、Magpul MOE 手枪握把、Magpul UBR GEN2 枪托、LA-5B/PEQ 战术模块和至少 30 发容量的弹匣。人体工学超过 60，后坐力总和低于 300，重量在 4 公斤或更轻。就像特种部队一样，对吗？对了，尽量找一把没被摔坏的步枪，技术状况必须至少达到 80%。",
+   IGUI_MECANIX_Firearm_Quest_14_part1 = "你好。有一份西部 HK 416A5 步枪的新订单。",
+   IGUI_MECANIX_Firearm_Quest_14_part2 = "需要棕褐色附件： SureFire SOCOM556-RC2 消音器、Magpul RVG 战术握把、EOTech EXPS3 全息瞄准镜、Magpul MOE 手枪握把",
+   IGUI_MECANIX_Firearm_Quest_14_part3 = "Magpul UBR GEN2 枪托、LA-5B/PEQ 战术模块和至少 30 发容量的弹匣。人体工学超过 60，后坐力总和低于 300，重量在 4 公斤或以下。就像特种部队一样，对吗？"、 
+   IGUI_MECANIX_Firearm_Quest_14_part4 = "哦，尽量找一把没有被摔坏的步枪，技术状况必须至少达到 80%。",
+
+   IGUI_MECANIX_Firearm_Quest_15_Name = "Mecanix Gunsmith - Part 15",
+   IGUI_MECANIX_Firearm_Quest_15_Desc = "当我忙着处理网络时，我开始思考我们与它有什么不同，我们什么时候才能用这类系统取代我们短暂的大脑。你怎么看，这一天会到来吗？我认为会的，很快。我们已经不知道神经网络内部发生了什么过程，只有一个入口信号和它的行动结果，以及它是如何通过自己的内部规则进行学习，在自己内部建立起自己的神经链接的。它与我们有什么不同？你会喜欢生活在一个你的行动只受限于你的头脑和想象力的世界吗？事实上，我认为，如果没有目标，生活在这样的世界里不会比我们自己的世界更好。而如果你是不朽的、万能的，目标又从何而来呢...... 这次我们需要一个 AS VAL. GL-SHOCK 枪托、AN/PEQ-15 战术装置、NSPU-M 夜视瞄准镜和 30 发弹匣。人体工学高于 33，后坐力总和小于 220",
+   IGUI_MECANIX_Firearm_Quest_15_part1 = "当我忙于网络时，我开始思考我们与它有什么不同，我们什么时候才能用这类系统取代我们短暂的大脑",
+   IGUI_MECANIX_Firearm_Quest_15_part2 = "你怎么看，这个时代会到来吗？我认为会的，很快。我们已经不知道神经网络内部发生了什么过程，只有一个入口信号和它的行动结果，以及它是如何通过自己的内部规则进行学习，在自己内部建立起自己的神经链接的。",
+   IGUI_MECANIX_Firearm_Quest_15_part3 = "它与我们有什么不同？你会喜欢生活在一个你的行动只受思维和想象力限制的世界吗？事实上，我认为，如果没有目标，生活在这样的世界里不会比我们的世界更好。"、 
+   IGUI_MECANIX_Firearm_Quest_15_part4 = "如果你是不朽的、万能的，目标又从何而来... 这次我们需要一个 AS VAL. GL-SHOCK 枪托、AN/PEQ-15 战术装置、NSPU-M 夜视瞄准镜和 30 发弹夹、 
+   IGUI_MECANIX_Firearm_Quest_15_part5 = "人体工学高于 33，后坐力总和小于 220",
+
+   IGUI_MECANIX_Firearm_Quest_16_Name = "Mecanix Gunsmith - Part 16",
+   IGUI_MECANIX_Firearm_Quest_16_Desc = " 上次我说得太多了。当我一个人思考的时候就会这样。当我坐在这里校准瞄准镜时，我想到了很多东西。那把 M4 结果很好，一下子就从我手里夺走了。最近来了一只熊，叫 "狙击手 "什么的。他需要一把洛巴耶夫 DVL 狙击步枪，带瞄准镜和多激光装置。后坐力总和小于 450，人体工程学设计大于 40，重量小于 6.7 千克。他说这把枪的射程要达到 2000 米。这家伙是认真的，所以你要尽最大努力做出一个可靠的产品",
+   IGUI_MECANIX_Firearm_Quest_16_part1 = "上次我说得太多了。当我一个人思考的时候就会这样。",
+   IGUI_MECANIX_Firearm_Quest_16_part2 = "当我坐在这里校准瞄准镜时，我想到了很多东西。那把 M4 结果很好，一下子就从我手中夺走了。",
+   IGUI_MECANIX_Firearm_Quest_16_part3 = "最近来了一只熊，名叫狙击手什么的。他需要一把洛巴耶夫 DVL 狙击步枪，配有瞄准镜和多激光装置。",
+   IGUI_MECANIX_Firearm_Quest_16_part4 = "后坐力总和小于 450，人体工程学设计大于 40，重量小于 6.7 千克。他说需要在 2000 米外射击。这家伙是认真的，所以要尽最大努力打造一把坚实的枪。",
+
+   IGUI_MECANIX_Firearm_Quest_17_Name = "Mecanix Gunsmith - Part 17",
+   IGUI_MECANIX_Firearm_Quest_17_Desc = "很久以前，我曾经见过 KIBA Arms 的老板，当时我们还一起去了桑拿房，虽然我不是特别喜欢。那天，他在码头跳水时还摔断了腿。这个快乐的家伙一直梦想着建立一个气枪射击场。看来他的愿望在塔尔科夫实现了，这里是世界上最好、最大的气枪射击场，唯一的区别是：在这里，一颗流弹就能让你死无葬身之地。将 AK-102 与 Ferfrans CRD 减震装置、Magpul AFG OD 战术握把、Zenit Klesch-2U 手电筒、RPK-16 缓冲管和 Circle 10 弹匣组装在一起。人体工学性能应在 70 以上，后坐力总和小于 250，瞄准范围在 800 或以上。确保不占用超过 8 个插槽",
+   IGUI_MECANIX_Firearm_Quest_17_part1 = "很久以前，我曾经见过 KIBA Arms 的老板，当时我们还一起去了桑拿房，虽然我不是特别喜欢",
+   IGUI_MECANIX_Firearm_Quest_17_part2 = "那天他从码头跳水时还摔断了腿。乔利一直梦想着建立一个气枪射击场。看来，他的愿望在塔尔科夫实现了，这里是世界上最好、最大的气枪射击场，只是略有不同：",
+   IGUI_MECANIX_Firearm_Quest_17_part3 = "在这里，一颗流弹就能让你死无葬身之地。将 AK-102 与 Ferfrans CRD 减震装置、Magpul AFG OD 战术握把、Zenit Klesch-2U 手电筒、RPK-16 缓冲管和 Circle 10 弹匣组装在一起",
+   IGUI_MECANIX_Firearm_Quest_17_part4 = "人体工学应超过 70，后坐力总和小于 250，瞄准范围 800 或更大。确保不占用超过 8 个插槽。",
+
+   IGUI_MECANIX_Firearm_Quest_18_Name = "Mecanix Gunsmith - Part 18",
+   IGUI_MECANIX_Firearm_Quest_18_Desc = " 我想试试教露莎辨别别人是否在说谎，如果结果至少有 90% 的准确率，那么听那些政客和 TerraGroup 鲸鱼们昨天还在大谈他们的理想和崇高目标，保证我们经济区的好处和光明的未来，将会很有趣。这其中有多少是弥天大谎？我想，全部都是。有人要求生产 Magpul 版 AKMN。即护手、枪托和手枪握把必须是 Magpul 的。全部为黑色。此外，还要有 Rotor 43 枪口制动器、黑色 Magpul M-LOK AFG 战术握把和 EOTech HHS-1 混合瞄准镜。后坐力总和低于 350，人体工程学性能高于 50，重量不超过 5 千克，瞄准范围 500",
+   IGUI_MECANIX_Firearm_Quest_18_part1 = "我想试试教 Lusya 如何辨别别人是否在说谎，如果结果至少有 90% 的准确率，那么听那些政客和 TerraGroup 鲸鱼们昨天还在阐述他们的理想和崇高目标，保证我们经济区的利益和未来的光明前景，将会很有趣。",
+   IGUI_MECANIX_Firearm_Quest_18_part2 = "这其中有多少是集中的谎言？我想，全部都是。有人要求生产 Magpul 版 AKMN。即护手、枪托和手枪握把必须是 Magpul 的。",
+   IGUI_MECANIX_Firearm_Quest_18_part3 = "全部为黑色。此外，还有 Rotor 43 枪口制动器、黑色 Magpul M-LOK AFG 战术握把和 EOTech HHS-1 混合瞄准镜。后坐力总和低于 350，人体工程学性能高于 50，重量不超过 5 千克，瞄准范围 500。",
+
+   IGUI_MECANIX_Firearm_Quest_19_Name = "Mecanix Gunsmith - Part 19",
+   IGUI_MECANIX_Firearm_Quest_19_Desc = "你好，我有个任务给你。我需要以下配置的 SVDS：黑色 Magpul UBR GEN2 枪托、SAG MK1 底盘、黑色 Magpul MOE 手枪握把、March Tactical 3-24x42 FFP 瞄准镜和抑制器。人体工学设计应至少达到 15，后坐力总和不高于 500",
+   IGUI_MECANIX_Firearm_Quest_19_part1 = "你好，我有个任务给你。",
+   IGUI_MECANIX_Firearm_Quest_19_part2 = "我需要以下配置的 SVDS：黑色 Magpul UBR GEN2 枪托、SAG MK1 底盘、黑色 Magpul MOE 手枪握把、March Tactical 3-24x42 FFP 瞄准镜和抑制器",
+   IGUI_MECANIX_Firearm_Quest_19_part3 = "人体工学应至少达到 15，后坐力总和不高于 500",
+
+   IGUI_MECANIX_Firearm_Quest_20_Name = "Mecanix Gunsmith - Part 20",
+   IGUI_MECANIX_Firearm_Quest_20_Desc = "这是给狙击手的，他似乎要去某个森林里追捕恶棍一周。他的背包里装满了 MRE、火钢、电池和水。暂时放在我家 他需要一把 M1A，装上 UltiMAK M8 前置光学镜架、Nightforce ATACR 7-35x56 瞄准镜、Micro T-1 反射式瞄准镜、Holosun LS321 战术装置和 20 发弹匣。人体工学高于 20，后坐力总和低于 400，总重量不超过 7.3 千克",
+   IGUI_MECANIX_Firearm_Quest_20_part1 = "这个是给狙击手的，他好像要去某个森林里追捕恶棍一周。",
+   IGUI_MECANIX_Firearm_Quest_20_part2 = "从他的背包里装满了 MRE、火力钢、电池和水这一事实来看。",
+   IGUI_MECANIX_Firearm_Quest_20_part3 = "暂时放在我家。他需要一把 M1A，配备 UltiMAK M8 前置光学镜架、Nightforce ATACR 7-35x56 瞄准镜、Micro T-1 反射式瞄准镜、Holosun LS321 战术装置和 20 发弹匣。人体工学高于 20，后坐力总和低于 400，总重量不超过 7.3 千克",
+
+   /**********************************************
+               30/03/24
+               EDIT
+   ***********************************************/
+
+   IGUI_TOUBIB_Task_q1_t2 = "运送 3 个 Salewa 急救包（在归还前必须将此物品转换为背包）",
 
 
-
-   
 }
