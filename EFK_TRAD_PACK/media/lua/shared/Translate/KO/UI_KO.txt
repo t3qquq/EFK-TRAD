@@ -3,26 +3,26 @@ UI_KO = {
     UI_prof_usec = "USEC",
     UI_prof_bear = "BEAR",
 
-    UI_profdesc_usec = "미국 민간 군사 계약자",
-    UI_profdesc_bear = "러시아 민간 군사 계약자",
+    UI_profdesc_usec = "USEC (미국 민간군사기업)",
+    UI_profdesc_bear = "BEAR (러시아 민간군사기업)",
 
-    UI_optionscreen_binding_Ask_Closest_Group_Member_to_Follow = "가장 가까운 그룹 멤버에게 팔로우 요청",
-    UI_optionscreen_binding_Spawn_Wild_Survivor = "야생 생존자 스폰",
-    UI_optionscreen_binding_Toggle_Group_Window =  "그룹 창 토글",
-    UI_optionscreen_binding_Lower_Follow_Distance = "팔로우 거리 낮추기",
-    UI_optionscreen_binding_Raise_Follow_Distance = "팔로우 거리 올리기",
-    UI_optionscreen_binding_SSHotkey_1 = "SSHotkey 1 지시어",
-    UI_optionscreen_binding_SSHotkey_2 = "SSHotkey 2 지시어",
-    UI_optionscreen_binding_SSHotkey_3 = "SSHotkey 3 지시어",
-    UI_optionscreen_binding_SSHotkey_4 = "SSHotkey 4 지시어",
+	UI_optionscreen_binding_Ask Closest Group Member to Follow = " 가장 가까운 그룹 멤버에게 따라오도록 명령",
+	UI_optionscreen_binding_Spawn Wild Survivor = "야생 생존자 소환",
+	UI_optionscreen_binding_Toggle Group Window = "그룹 창 Togggle",
+	UI_optionscreen_binding_Lower Follow Distance = "대열 간격 줄이기",
+	UI_optionscreen_binding_Raise Follow Distance = "대열 간격 늘리기",
+	UI_optionscreen_binding_SSHotkey_1 = "단축키 1 행동 지시",
+	UI_optionscreen_binding_SSHotkey_2 = "단축키 2 행동 지시",
+	UI_optionscreen_binding_SSHotkey_3 = "단축키 3 행동 지시",
+	UI_optionscreen_binding_SSHotkey_4 = "단축키 4 행동 지시",
 
    /**********************************************
                30/03/24
                EDIT
    ***********************************************/
 
-    UI_optionscreen_binding_Call_Closest_Group_Member = "가장 가까운 그룹 멤버에게 전화",
-    UI_optionscreen_binding_Call_Closest_Non-Group_Member = "가장 가까운 비그룹 멤버에게 전화",
+    UI_optionscreen_binding_Call_Closest_Group_Member = "가장 가까운 그룹 멤버 부르기",
+    UI_optionscreen_binding_Call_Closest_Non-Group_Member = "가장 가까운 비 그룹 멤버 부르기",
 
 
 
