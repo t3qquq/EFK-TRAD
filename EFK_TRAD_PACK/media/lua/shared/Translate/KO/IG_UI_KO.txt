@@ -95,8 +95,8 @@ IGUI_KO = {
    IGUI_PRAPOR_Task_q3_t2 = "로즈우드 건설현장 진입하기 (로즈우드 북부 남동쪽).",
    IGUI_PRAPOR_Task_q3_t3 = "회중시계가 보관되어 있는 건물에 진입하기",
    IGUI_PRAPOR_Task_q3_t4 = "회중시계 찾기",
-   IGUI_PRAPOR_Task_q4_t2 = "리버사이드 GIGA 마트의 NPC 무리에게 접근하기",
-   IGUI_PRAPOR_Task_q4_t3 = "NPC 무리 사살하기",
+   IGUI_PRAPOR_Task_q4_t2 = "리버사이드 GIGA 마트 근처 호드에 접근하기",
+   IGUI_PRAPOR_Task_q4_t3 = "호드 사살하기",
    IGUI_PRAPOR_Task_q4_t4 = "건물 확보하기",
    IGUI_PRAPOR_Task_q5_t2 = "로즈우드 경찰서 진입하기",
    IGUI_PRAPOR_Task_q5_t3 = "무기고 찾기",
@@ -217,16 +217,16 @@ IGUI_KO = {
    IGUI_AUD_Talk_Role_Answer = "나는 이 은신처를 좀 더 편안한 곳으로 만들기 위해 돕고 있어. 그러니 여길 업그레이드하고 싶다면 언제든지 말을 걸어줘.",
 
    IGUI_AUD_Task_Vents_q1_t2 = "AuD에게 250달러 전달",
-   IGUI_AUD_Task_Rest_q1_t2 = "Aud에게 휴식처 레벨1 키트 제작 후 전달",
-   IGUI_AUD_Task_Heating_q1_t2 = "Aud에게 보일러 Lv1 키트 제작 후 전달",
-   IGUI_AUD_Task_Security_q1_t2 = "Aud에게 보안 Lv1 키트 제작 후 전달",
-   IGUI_AUD_Task_Security_q2_t2 = "Aud에게 보안 Lv2 키트 제작 후 전달",
+   IGUI_AUD_Task_Rest_q1_t2 = "Aud에게 휴식 공간 레벨1 키트 제작 후 전달",
+   IGUI_AUD_Task_Heating_q1_t2 = "Aud에게 난방 시설 Lv1 키트 제작 후 전달",
+   IGUI_AUD_Task_Security_q1_t2 = "Aud에게 보안 시설 Lv1 키트 제작 후 전달",
+   IGUI_AUD_Task_Security_q2_t2 = "Aud에게 보안 시설 Lv2 키트 제작 후 전달",
    IGUI_AUD_Task_Generator_q1_t2 = "Aud에게 발전기 Lv1 키트 제작 후 전달",
-   IGUI_AUD_Task_Medicalbay_q1_t2 = "Aud에게 의무실 Lv1 키트 제작 후 전달",
+   IGUI_AUD_Task_Medicalbay_q1_t2 = "Aud에게 의료 시설 Lv1 키트 제작 후 전달",
    IGUI_AUD_Task_Illumination_q1_t2 = "Aud에게 100달러 전달",
    IGUI_AUD_Task_Lavatory_q1_t2 = "Aud에게 화장실 Lv1 키트 제작 후 전달",
    IGUI_AUD_Task_Lavatory_q2_t2 = "Aud에게 화장실 Lv2 키트 제작 후 전달",
-   IGUI_AUD_Task_Water_q1_t2 = "Aud에게 집수장치 Lv1 키트 제작 후 전달",
+   IGUI_AUD_Task_Water_q1_t2 = "Aud에게 물 공급 시설 Lv1 키트 제작 후 전달",
 
    IGUI_AUD_Talk_Hideout_Choice = "은신처 업그레이드",
    IGUI_AUD_Talk_Hideout_Answer = "오, 그래! 뭘 업그레이드하고 싶은데?",
@@ -462,13 +462,12 @@ IGUI_KO = {
    IGUI_TOUBIB_Quest_10_part5 = "그래서 차량 배터리와 점화 플러그가 필요합니다. 연료는 충분합니다. 4개의 배터리와 8개의 점화 플러그를 부탁드려요. 가져오실 수 있나요?",
 
    IGUI_TOUBIB_Task_Talk_Toubib = "테라피스트에게 말 걸기",
-   //IGUI_TOUBIB_Task_q1_t2 = "Deliver 3 Car first aid kits (전달하기 전에 아이템을 키트로 변환해야 합니다)",
    IGUI_TOUBIB_Task_q2_t2 = "가스 분석기 키트 전달하기 (전달하기 전에 아이템을 키트로 변환해야 합니다)",
    IGUI_TOUBIB_Task_q3_t2 = "가스 분석기 키트 2개 전달하기 (전달하기 전에 아이템을 키트로 변환해야 합니다)",
    IGUI_TOUBIB_Task_q4_t2 = "로즈우드 법원 진입하기",
    IGUI_TOUBIB_Task_q4_t3 = "식수 비축고 찾기",
    IGUI_TOUBIB_Task_q4_t4 = "식수 비축고에 표시 남기기",
-   IGUI_TOUBIB_Task_q5_t3 = "NPC 무리 사살하기",
+   IGUI_TOUBIB_Task_q5_t3 = "호드 사살하기",
    IGUI_TOUBIB_Task_q5_t4 = "건물 확보하기",
    IGUI_TOUBIB_Task_q6_t2 = "모르핀 주사기 4개 전달하기",
    IGUI_TOUBIB_Task_q7_t3 = "테라피스트의 사무실 찾기",
@@ -580,8 +579,8 @@ IGUI_KO = {
    IGUI_SKIER_Task_q2_t2 = "인쇄소 진입하기 (더커담 최남단 다리 옆 산업용 건물)",
    IGUI_SKIER_Task_q2_t3 = "관리사무소 진입하기",
    IGUI_SKIER_Task_q2_t4 = "보안 문서 찾기",
-   IGUI_SKIER_Task_q3_t2 = "로즈우드 회사 건물 근처 NPC 무리에 접근하기 (x=8220 y=11042)",
-   IGUI_SKIER_Task_q3_t3 = "NPC 무리 사살하기",
+   IGUI_SKIER_Task_q3_t2 = "로즈우드 회사 건물 근처 호드에 접근하기 (x=8220 y=11042)",
+   IGUI_SKIER_Task_q3_t3 = "호드 사살하기",
    IGUI_SKIER_Task_q3_t4 = "건물 확보하기",
    IGUI_SKIER_Task_q4_t1 = "보안 플래시 드라이브 2개 찾기",
    IGUI_SKIER_Task_q5_t2 = "Smokeys 레스토랑 진입하기 (멀드로우 최북단)",
@@ -684,19 +683,19 @@ IGUI_KO = {
 
    IGUI_JAEGER_Task_Talk_Jaeger = "예거에게 말 걸기",
    IGUI_JAEGER_Task_q1_t2 = "Iskra 전투식량 3개, 라멘 2개, 쇠고기 스튜 통조림 2개 탐색 (전달하기 전에 아이템을 키트로 변환해야 합니다)",
-   IGUI_JAEGER_Task_q2_t2 = "리버사이드 술집 근처 NPC 무리에 접근하기",
-   IGUI_JAEGER_Task_q2_t3 = "NPC 무리 사살하기",
+   IGUI_JAEGER_Task_q2_t2 = "리버사이드 술집 근처 호드에 접근하기",
+   IGUI_JAEGER_Task_q2_t3 = "호드 사살하기",
    IGUI_JAEGER_Task_q2_t4 = "리버사이드 술집 건물 확보하기",
-   IGUI_JAEGER_Task_q2_t5 = "리버사이드 교회 근처 NPC 무리에 접근하기",
-   IGUI_JAEGER_Task_q2_t6 = "NPC 무리 사살하기",
+   IGUI_JAEGER_Task_q2_t5 = "리버사이드 교회 근처 호드에 접근하기",
+   IGUI_JAEGER_Task_q2_t6 = "호드 사살하기",
    IGUI_JAEGER_Task_q2_t7 = "리버사이드 교회 건물 확보하기",
    IGUI_JAEGER_Task_q3_t2 = "피난민 전초기지 진입하기 (로즈우드 확장 북동쪽)",
    IGUI_JAEGER_Task_q3_t3 = "군용 텐트 찾기",
    IGUI_JAEGER_Task_q3_t4 = "침대 뒤에 전투식량 숨기기",
    IGUI_JAEGER_Task_q4_t2 = "더커담 술집 진입하기 (x=7851 y=3592)",
    IGUI_JAEGER_Task_q4_t3 = "Search for the Jaeger bottle",
-   IGUI_JAEGER_Task_q5_t2 = "멀드로우 레스토랑 근처 NPC 무리에게 접근하기",
-   IGUI_JAEGER_Task_q5_t3 = "NPC 무리 사살하기",
+   IGUI_JAEGER_Task_q5_t2 = "멀드로우 레스토랑 근처 호드에 접근하기",
+   IGUI_JAEGER_Task_q5_t3 = "호드 사살하기",
    IGUI_JAEGER_Task_q5_t4 = "멀더로우 레스토랑 건물 확보하기",
    IGUI_JAEGER_Task_q6_t2 = "플로리우스 Food Market 수색하기",
    IGUI_JAEGER_Task_q6_t3 = "플로리우스 Zippee Market 수색하기",
@@ -1000,8 +999,8 @@ IGUI_KO = {
    IGUI_RAGMAN_Quest_10_part_2 = "뭐, 당신 도움이 한번 더 필요하긴 하겠지만 말이야. 새로운 매장, 새로운 옷, 그리고 새로운 좀비들까지, 돈 필요할 일이 차고 넘치는데... 대충 알아듣지?",
    IGUI_RAGMAN_Quest_10_part_3 = "송트릿지에 기가막힌 기성품점이 하나 있는데. 시내 중앙 쪽, 치과 건너편 pizzeria 옆 건물이야... 본 적 있으려나? 허, 진짜 인간 GPS라니까. 아무튼 거기서 주식 장부 하나 찾아오면 돼.",
 
-   IGUI_RAGMAN_Task_q1_t2 = "플로리우스 중앙 L-Company 건물 근처의 NPC 무리에 접근하기",
-   IGUI_RAGMAN_Task_q1_t3 = "NPC 무리 사살하기",
+   IGUI_RAGMAN_Task_q1_t2 = "플로리우스 중앙 L-Company 건물 근처 호드에 접근하기",
+   IGUI_RAGMAN_Task_q1_t3 = "호드 사살하기",
    IGUI_RAGMAN_Task_q1_t4 = "건물 확보하기",
    IGUI_RAGMAN_Task_q1_t6 = "래그맨에게 말 걸기",
    IGUI_RAGMAN_Task_q2_t2 = "플로리우스 General Store 진입 및 확보하기",
@@ -1139,20 +1138,20 @@ IGUI_KO = {
                MAGASINES IMAGE FILENAME
    ***********************************************/
 
-   IGUI_EFK_Magazine_Vents = "Vents.png",
-   IGUI_EFK_Magazine_WaterCollector = "WaterCollector.png",
-   IGUI_EFK_Magazine_Stash = "Stash.png",
-   IGUI_EFK_Magazine_Workbench = "Workbench.png",
-   IGUI_EFK_Magazine_Generator = "Generator.png",
-   IGUI_EFK_Magazine_MedStation = "MedStation.png",
-   IGUI_EFK_Magazine_Heating = "Heating.png",
-   IGUI_EFK_Magazine_Lavatory = "Lavatory.png",
-   IGUI_EFK_Magazine_RestPlace = "RestPlace.png",
-   IGUI_EFK_Magazine_NutritionUnit = "NutritionUnit.png",
-   IGUI_EFK_Magazine_Security = "Security.png",
-   IGUI_EFK_Magazine_Illumination = "Illumination.png",
-   IGUI_EFK_Magazine_HealDocumentation = "EFK_heal.png",
-   IGUI_EFK_Magazine_HealDocumentation_text = "Documentation about the Healing system of EFK",
+   IGUI_EFK_Magazine_Vents = "Vents_KO.png",
+   IGUI_EFK_Magazine_WaterCollector = "WaterCollector_KO.png",
+   IGUI_EFK_Magazine_Stash = "Stash_KO.png",
+   IGUI_EFK_Magazine_Workbench = "Workbench_KO.png",
+   IGUI_EFK_Magazine_Generator = "Generator_KO.png",
+   IGUI_EFK_Magazine_MedStation = "MedStation_KO.png",
+   IGUI_EFK_Magazine_Heating = "Heating_KO.png",
+   IGUI_EFK_Magazine_Lavatory = "Lavatory_KO.png",
+   IGUI_EFK_Magazine_RestPlace = "RestPlace_KO.png",
+   IGUI_EFK_Magazine_NutritionUnit = "NutritionUnit_KO.png",
+   IGUI_EFK_Magazine_Security = "Security_KO.png",
+   IGUI_EFK_Magazine_Illumination = "Illumination_KO.png",
+   IGUI_EFK_Magazine_HealDocumentation = "EFK_heal_KO.png",
+   IGUI_EFK_Magazine_HealDocumentation_text = "EFK 치유 시스템 설명 문서",
 
    /**********************************************
                AFTER C44 RELEASE
@@ -1172,10 +1171,9 @@ IGUI_KO = {
    IGUI_PRAPOR_Task_q6_t2 = "두 번째 급유기에 표시남기기 (GPS 6856;2723)",
    IGUI_PRAPOR_Task_q6_t3 = "세 번째 급유기에 표시남기기 (GPS 7774;2732)",
    IGUI_PRAPOR_Task_q6_t4 = "네 번째 급유기에 표시남기기 (GPS 8276;4009)",
-   IGUI_TOUBIB_Task_q5_t2 = "더커담 Woke Wok 레스토랑 근처 NPC 무리에게 접근하기 (도시 남동 쪽 구역)",
+   IGUI_TOUBIB_Task_q5_t2 = "더커담 Woke Wok 레스토랑 근처 호드에 접근하기 (도시 남동 쪽 구역)",
    IGUI_TOUBIB_Task_q7_t2 = "테라피스트의 약국에 진입하기 (도시 서부)",
    IGUI_TOUBIB_Task_q8_t2 = "멀드로우 군사 주둔지 진입하기",
-
 
    /**********************************************
                28/03/24
@@ -1278,9 +1276,6 @@ IGUI_KO = {
    ***********************************************/
 
    IGUI_TOUBIB_Task_q1_t2 = "살레와 응급 치료 키트 3개 전달 (살레와 응급 치료 키트 팩으로 변환해야 합니다)",
-
-
-
 
    
 }
