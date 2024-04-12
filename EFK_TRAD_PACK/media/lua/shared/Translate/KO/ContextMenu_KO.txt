@@ -2155,6 +2155,6 @@ ContextMenu_KO = {
                NEW
    ***********************************************/
 
-ContextMenu_Use_Bandage = "경상 치료 (작은 의료용 키트)", 
+    ContextMenu_Use_Bandage = "경상 치료 (작은 의료용 키트)", 
 
 }
