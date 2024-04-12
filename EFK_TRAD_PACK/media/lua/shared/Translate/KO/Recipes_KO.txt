@@ -45,8 +45,8 @@ Recipes_KO = {
 	Recipe_Sell_Colt_M45A1_.45_ACP_pistol = "Colt M45A1 .45 ACP 권총 판매하기",
 	Recipe_Sell_SIG_P226R_9x19_pistol = "SIG P226R 9x19 권총 판매하기",
 	Recipe_Sell_Beretta_M9A3_9x19_pistol = "Beretta M9A3 9x19 권총 판매하기",
-	Recipe_Sell_Saiga-9_9x19_carbine = "Saiga-9 9x19 카빈 판매하기",
 	Recipe_Sell_Chiappa_Rhino_200DS_9x19_revolver = "Chiappa Rhino 200DS 9x19 리볼버 판매하기",
+	Recipe_Sell_Saiga-9_9x19_carbine = "Saiga-9 9x19 카빈 판매하기",
 	Recipe_Sell_Soyuz-TM_STM-9_Gen.2_9x19_carbine = "Soyuz-TM STM-9 Gen.2 9x19 카빈 판매하기",
 	Recipe_Sell_Yarygin_MP-443_"Grach"_9x19_pistol = "Yarygin MP-443 'Grach' 9x19 권총 판매하기",
 	Recipe_Sell_B&T_MP9_9x19_submachine_gun = "B&T MP9 9x19 기관단총 판매하기",
@@ -114,8 +114,8 @@ Recipes_KO = {
 	Recipe_Sell_7,62x39_Ammo_Box = "7.62x39 탄약 상자 판매하기",
 	Recipe_Sell_7,62x51_Ammo_Box = "7.62x51 탄약 상자 판매하기",
 	Recipe_Sell_7,62x54R_Ammo_Box = "7.62x54R 탄약 상자 판매하기",
-	Recipe_Sell_20GA_Ammo_Box = "20게이지 탄약 상자 판매하기",
 	Recipe_Sell_12GA_Ammo_Box = "12게이지 탄약 상자 판매하기",
+	Recipe_Sell_20GA_Ammo_Box = "20게이지 탄약 상자 판매하기",
 	Recipe_Sell_.357MAG_Ammo_Box = ".357MAG 탄약 상자 판매하기",
 	Recipe_Sell_50-BMG_Ammo_Box = "50-BMG 탄약 상자 판매하기",
 
@@ -525,7 +525,7 @@ Recipes_KO = {
    ***********************************************/
 
 	Recipe_Sell_Long_Flat_screwdriver = "긴 일자 드라이버 판매하기",
-	Recipe_Craft_2_small_cans_of_beef_stew_ = "쇠고기 스튜 통조림 (소형) 2개 제작하기",
+	Recipe_Craft_2_small_cans_of_beef_stew = "쇠고기 스튜 통조림 (소형) 2개 제작하기",
 
    /**********************************************
                02/04/24
@@ -572,6 +572,14 @@ Recipes_KO = {
 	Recipe_Craft_2_Army_bandage = "2개 제작하기 Army bandage",
 	Recipe_Create_a_Stash_Lvl1_kit = "창고 Lv1 키트 제작하기",
 
+   /**********************************************
+               10/04/24
+               NEW
+   ***********************************************/
+
+     Recipe_Sell_Weapon_repair_kit = "무기 수리 키트 판매 (560)",
+     Recipe_Sell_GSSh-01_active_headset = "GSSh-01 액티브 헤드셋 판매 (99)",
+     Recipe_Sell_Peltor_Tactical_Sport_headset = "펠터 택티컬 스포츠 헤드셋 판매 (275)",
 
 }
 

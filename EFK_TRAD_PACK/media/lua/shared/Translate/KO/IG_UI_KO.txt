@@ -16,11 +16,11 @@ IGUI_KO = {
    IGUI_EFK_Message_OnPlayerJoinInsertion_Florius = "플로리우스에 도착했다",
    IGUI_EFK_Message_OnPlayerJoinInsertion_LakeCumberland = "컴버랜드 호수에 도착했다",
    IGUI_EFK_Message_OnPlayerJoinInsertion_Petroville = "페트로빌에 도착했다",
-   IGUI_EFK_Message_OnPlayerJoinInsertion_Douanes = "세관에 도착했다",
-   IGUI_EFK_Message_OnPlayerJoinInsertion_Usine = "공장에 도착했다",
-   IGUI_EFK_Message_OnPlayerJoinInsertion_Bois = "삼림에 도착했다",
-   IGUI_EFK_Message_OnPlayerJoinInsertion_Echangeur = "나들목에 도착했다",
-   IGUI_EFK_Message_OnPlayerJoinInsertion_BaseMilitaire = "보급고에 도착했다",
+   IGUI_EFK_Message_OnPlayerJoinInsertion_Customs = "세관에 도착했다",
+   IGUI_EFK_Message_OnPlayerJoinInsertion_Factory = "공장에 도착했다",
+   IGUI_EFK_Message_OnPlayerJoinInsertion_Woods = "삼림에 도착했다",
+   IGUI_EFK_Message_OnPlayerJoinInsertion_Interchange = "나들목에 도착했다",
+   IGUI_EFK_Message_OnPlayerJoinInsertion_MilitaryBase = "보급고에 도착했다",
    IGUI_EFK_Message_OnPlayerJoinInsertion_Labo = "연구소에 도착했다",
    IGUI_EFK_Message_OnPlayerJoinInsertion_MarchRidge = "마치 릿지에 도착했다",
 
@@ -36,11 +36,11 @@ IGUI_KO = {
    IGUI_EFK_contextMenu_areaName_Dirkerdam = "더커담",
    IGUI_EFK_contextMenu_areaName_LakeCumberland = "컴버랜드 호수",
    IGUI_EFK_contextMenu_areaName_Petroville = "페트로빌",
-   IGUI_EFK_contextMenu_areaName_Douanes = "세관",
-   IGUI_EFK_contextMenu_areaName_Usine = "공장",
-   IGUI_EFK_contextMenu_areaName_Bois = "삼림",
-   IGUI_EFK_contextMenu_areaName_Echangeur = "인터체인지",
-   IGUI_EFK_contextMenu_areaName_BaseMilitaire = "리저브",
+   IGUI_EFK_contextMenu_areaName_Customs = "세관",
+   IGUI_EFK_contextMenu_areaName_Factory = "공장",
+   IGUI_EFK_contextMenu_areaName_Woods = "삼림",
+   IGUI_EFK_contextMenu_areaName_Interchange = "인터체인지",
+   IGUI_EFK_contextMenu_areaName_MilitaryBase = "리저브",
    IGUI_EFK_contextMenu_areaName_Labo = "연구소",
    IGUI_EFK_contextMenu_areaName_MarchRidge = "마치 릿지",
 
@@ -62,11 +62,11 @@ IGUI_KO = {
    IGUI_EFK_tooltip_insertion_Florius = "플로리우스에서 임무를 수행하시겠습니까? 24시간 이내에 탈출해야하며, 실패 시 사망합니다",
    IGUI_EFK_tooltip_insertion_LakeCumberland = "컴버랜드 호수에서 임무를 수행하시겠습니까? 24시간 이내에 탈출해야하며, 실패 시 사망합니다",
    IGUI_EFK_tooltip_insertion_Petroville = "페트로빌에서 임무를 수행하시겠습니까? 24시간 이내에 탈출해야하며, 실패 시 사망합니다",
-   IGUI_EFK_tooltip_insertion_Douanes = "세관에서 임무를 수행하시겠습니까? 24시간 이내에 탈출해야하며, 실패 시 사망합니다",
+   IGUI_EFK_tooltip_insertion_Customs = "세관에서 임무를 수행하시겠습니까? 24시간 이내에 탈출해야하며, 실패 시 사망합니다",
    IGUI_EFK_tooltip_insertion_Usine = "공장에서 임무를 수행하시겠습니까? 24시간 이내에 탈출해야하며, 실패 시 사망합니다",
-   IGUI_EFK_tooltip_insertion_Bois = "삼림에서 임무를 수행하시겠습니까? 24시간 이내에 탈출해야하며, 실패 시 사망합니다",
-   IGUI_EFK_tooltip_insertion_Echangeur = "나들목에서 임무를 수행하시겠습니까? 24시간 이내에 탈출해야하며, 실패 시 사망합니다",
-   IGUI_EFK_tooltip_insertion_BaseMilitaire = "보급고에서 임무를 수행하시겠습니까? 24시간 이내에 탈출해야하며, 실패 시 사망합니다",
+   IGUI_EFK_tooltip_insertion_Woods = "삼림에서 임무를 수행하시겠습니까? 24시간 이내에 탈출해야하며, 실패 시 사망합니다",
+   IGUI_EFK_tooltip_insertion_Interchange = "나들목에서 임무를 수행하시겠습니까? 24시간 이내에 탈출해야하며, 실패 시 사망합니다",
+   IGUI_EFK_tooltip_insertion_MilitaryBase = "보급고에서 임무를 수행하시겠습니까? 24시간 이내에 탈출해야하며, 실패 시 사망합니다",
    IGUI_EFK_tooltip_insertion_Labo = "연구소에서 임무를 수행하시겠습니까? 24시간 이내에 탈출해야하며, 실패 시 사망합니다",
 
    IGUI_Identity = "인물 : ",
@@ -859,23 +859,6 @@ IGUI_KO = {
    IGUI_MECANIX_Task_q6_t4 = "신호 재머 설치하기",
    IGUI_MECANIX_Task_q6_t6 = "메카닉에게 말 걸기",
 
-   IGUI_MECANIX_Task_firearm_q1_t2 = "MP-133을 요구조건에 맞게 모딩하기 (제작메뉴 "MP-133 MK1")",
-   IGUI_MECANIX_Task_firearm_q1_t3 = "메카닉에게 말 걸기",
-   IGUI_MECANIX_Task_firearm_q2_t2 = "AKS-74U을 요구조건에 맞게 모딩하기 (제작메뉴 "AKS-74U MK1")",
-   IGUI_MECANIX_Task_firearm_q2_t3 = "메카닉에게 말 걸기",
-   IGUI_MECANIX_Task_firearm_q3_t2 = "MP5-SD을 요구조건에 맞게 모딩하기 (제작메뉴 "MP5-SD MK1")",
-   IGUI_MECANIX_Task_firearm_q3_t3 = "메카닉에게 말 걸기",
-   IGUI_MECANIX_Task_firearm_q3_2_t2 = "프라퍼 평판 레벨 3 도달하기",
-   IGUI_MECANIX_Task_firearm_q3_2_t3 = "메카닉에게 말 걸기",
-   IGUI_MECANIX_Task_firearm_q4_t2 = "SKS을 요구조건에 맞게 모딩하기 (제작메뉴 "SKS MK1")",
-   IGUI_MECANIX_Task_firearm_q4_t3 = "메카닉에게 말 걸기",
-   IGUI_MECANIX_Task_firearm_q5_t2 = "M870을 요구조건에 맞게 모딩하기 (제작메뉴 "M870 MK1")",
-   IGUI_MECANIX_Task_firearm_q5_t3 = "메카닉에게 말 걸기",   
-   IGUI_MECANIX_Task_firearm_q6_t2 = "AKM을 요구조건에 맞게 모딩하기 (제작메뉴 "AKM MK1")",
-   IGUI_MECANIX_Task_firearm_q6_t3 = "메카닉에게 말 걸기", 
-   IGUI_MECANIX_Task_firearm_q7_t2 = "M4A1을 요구조건에 맞게 모딩하기 (제작메뉴 "M4A1 MK1")",
-   IGUI_MECANIX_Task_firearm_q7_t3 = "메카닉에게 말 걸기", 
-
    IGUI_MECANIX_Quest_Trade = "항상 최고의 장비만 취급하지.",
    IGUI_MECANIX_Quest_Exit = "문제 없네.",
    IGUI_MECANIX_Quest_No_More_Quest = "더 이상 줄 일이 없군. 나중에 오게.",
@@ -1277,5 +1260,45 @@ IGUI_KO = {
 
    IGUI_TOUBIB_Task_q1_t2 = "살레와 응급 치료 키트 3개 전달 (살레와 응급 치료 키트 팩으로 변환해야 합니다)",
 
-   
+   /**********************************************
+               09/04/24
+               EDIT
+   ***********************************************/
+
+   IGUI_MECANIX_Task_firearm_q1_t2 = "MP-133을 요구조건에 맞게 모딩하기 (제작메뉴 "MP-133 MK1")",
+   IGUI_MECANIX_Task_firearm_q1_t3 = "메카닉에게 말 걸기",
+   IGUI_MECANIX_Task_firearm_q2_t2 = "AKS-74U을 요구조건에 맞게 모딩하기 (제작메뉴 "AKS-74U MK1")",
+   IGUI_MECANIX_Task_firearm_q2_t3 = "메카닉에게 말 걸기",
+   IGUI_MECANIX_Task_firearm_q3_t2 = "MP5-SD을 요구조건에 맞게 모딩하기 (제작메뉴 "MP5-SD MK1")",
+   IGUI_MECANIX_Task_firearm_q3_t3 = "메카닉에게 말 걸기",
+   IGUI_MECANIX_Task_firearm_q3_2_t2 = "프라퍼 평판 레벨 3 도달하기",
+   IGUI_MECANIX_Task_firearm_q3_2_t3 = "메카닉에게 말 걸기",
+   IGUI_MECANIX_Task_firearm_q4_t2 = "SKS을 요구조건에 맞게 모딩하기 (제작메뉴 "SKS MK1")",
+   IGUI_MECANIX_Task_firearm_q4_t3 = "메카닉에게 말 걸기",
+   IGUI_MECANIX_Task_firearm_q5_t2 = "M870을 요구조건에 맞게 모딩하기 (제작메뉴 "M870 MK1")",
+   IGUI_MECANIX_Task_firearm_q5_t3 = "메카닉에게 말 걸기",   
+   IGUI_MECANIX_Task_firearm_q6_t2 = "AKM을 요구조건에 맞게 모딩하기 (제작메뉴 "AKM MK1")",
+   IGUI_MECANIX_Task_firearm_q6_t3 = "메카닉에게 말 걸기", 
+   IGUI_MECANIX_Task_firearm_q7_t2 = "M4A1을 요구조건에 맞게 모딩하기 (제작메뉴 "M4A1 MK1")",
+   IGUI_MECANIX_Task_firearm_q7_t3 = "메카닉에게 말 걸기", 
+
+   /**********************************************
+               12/04/24
+               NEW
+   ***********************************************/
+
+    IGUI_EFK_tooltip_extractionRestrictByMoveableInInv = "타일 오브젝트를 휴대하고 있습니다: 이동 금지",
+    IGUI_EFK_tooltip_insertion_cardNeeded_Labo = "LAB 맵에 액세스하려면 액세스 카드가 필요합니다",
+    IGUI_ItemToolTip_Card_Labo = "이 카드로 플레이어가 LAB 맵에 입장할 수 있습니다",
+
+    IGUI_EFK_ContextMenu_specialExtraction = "돈으로 특별 추출",
+    IGUI_EFK_tooltip_specialExtraction = "이 특별 추출에서 추출하려면 필요한 금액의 돈이 있어야 합니다",
+
+    IGUI_EFK_tooltip_specialExtractionRestrictByNeedMoney = "이 특별 추출에서 추출하는 데 필요한 금액이 필요합니다.", 
+    IGUI_EFK_tooltip_specialExtractionCost = "비용 : ",
+    IGUI_EFK_tooltip_titleName_specialExtractionrequired = "필수: ",
+    IGUI_EFK_travelDialog_toArea = "에 레이드를 진행하십시오.",
+    IGUI_EFK_travelDialog_toHideoute = "은신처로 돌아갑니다",
+    IGUI_EFK_travelDialog_toHideoute_byMoney = "은신처로 돌아가서 ",
+
 }

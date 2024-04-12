@@ -684,7 +684,7 @@ ContextMenu_KO = {
     ContextMenu_speech_HitByPlayer26 = "",
     ContextMenu_speech_HitByPlayer27 = "",
     ContextMenu_speech_HitByPlayer28 = "",
-    ContextMenu_speech_HitByPlayer29 = ""  
+    ContextMenu_speech_HitByPlayer29 = "",  
     ContextMenu_speech_SeenFirstZombie1 = "",
     ContextMenu_speech_SeenFirstZombie2 = "",
     ContextMenu_speech_SeenFirstZombie3 = "",
@@ -2156,5 +2156,13 @@ ContextMenu_KO = {
    ***********************************************/
 
     ContextMenu_Use_Bandage = "경상 치료 (작은 의료용 키트)", 
+
+   /**********************************************
+               12/04/24
+               NEW
+   ***********************************************/
+
+	ContextMenu_Examine = "검토",
+
 
 }

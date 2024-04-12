@@ -37,7 +37,7 @@ ItemName_KO = {
      ItemName_Base.Bullets380Box = "9x18mm 탄약 상자",
      ItemName_Base.Bullets45Box = ".45ACP 탄약 상자",
      ItemName_Base.Bullets9mmBox = "9x19mm 탄약 상자",
-     ItemName_Base.545x39Box = "5.45x39mm 탄약 상자"
+     ItemName_Base.545x39Box = "5.45x39mm 탄약 상자",
      ItemName_Base.556Box = "5.56x45mm 탄약 상자",
      ItemName_Base.762x39Box = "7.62x39mm 탄약 상자",
      ItemName_Base.762x51Box = "7.62x51mm 탄약 상자",
@@ -293,8 +293,6 @@ ItemName_KO = {
      ItemName_Base.EFK_Lebedev = "Lebedev PL-15 9x19mm 권총",
      ItemName_Base.EFK_Grenade_Fragmentation = "RGN 수류탄",
      ItemName_Base.EFK_HK_USP = "HK USP .45ACP 권총",
-     ItemName_Base.EFK_MP5_Stock = "HK MP5K 9x19mm 기관단총",
-     ItemName_Base.EFK_MP5_Fold = "HK MP5K 9x19mm 기관단총(접힘)",
      ItemName_Base.EFK_MP5SD6_Stock = "HK MP5 9x19mm 기관단총 (Navy 3점사)",
      ItemName_Base.EFK_MP5SD6_Fold = "HK MP5 9x19mm 기관단총 (Navy 3점사) (접힘)",
      ItemName_Base.EFK_M9A3 = "Beretta M9A3 9x19mm 권총",
@@ -433,12 +431,12 @@ ItemName_KO = {
 
      ItemName_Base.EFK_OutilsSCAV = "스캐브 도구벨트",
      ItemName_Base.EFK_MedTact = "의료용 전술벨트",
-     ItemName_Base.EFK_CeintureTactique = "전술벨트",
-     ItemName_Base.EFK_CeintureCombat = "야전벨트",
+     ItemName_Base.EFK_Tactical_belt = "전술벨트",
+     ItemName_Base.EFK_CombatBelt = "야전벨트",
 
-     ItemName_Base.EFK_poches_mk1 = "추가 MK1 전술포켓",
-     ItemName_Base.EFK_poches_mk2 = "추가 MK2 전술포켓",
-     ItemName_Base.EFK_poches_mk3 = "추가 MK3 전술포켓",
+     ItemName_Base.EFK_pockets_mk1 = "추가 MK1 전술포켓",
+     ItemName_Base.EFK_pockets_mk2 = "추가 MK2 전술포켓",
+     ItemName_Base.EFK_pockets_mk3 = "추가 MK3 전술포켓",
 
      ItemName_Base.EFK_SupAPS9x18 = "9x18 PM 소음기 (APS)",
      ItemName_Base.EFK_SupOsprey9x19 = "Osprey SilencerCo 9x19mm 소음기",
@@ -483,16 +481,16 @@ ItemName_KO = {
      ItemName_Base.EFK_SupSV98 = "7.62x54 소음기 (SV-98)",
      ItemName_Base.EFK_SupRotor762x54 = "Rotor 43 7.62x54 소음기",
 
-     ItemName_MapItem.Carte_Tactique_Rosewood = "로즈우드 전술지도",
-     ItemName_MapItem.Carte_Tactique_Riverside = "리버사이드 전술지도",
-     ItemName_MapItem.Carte_Tactique_Muldraugh = "멀드로우 전술지도",
-     ItemName_MapItem.Carte_Tactique_Westpoint = "웨스트포인트 전술지도",
-     ItemName_MapItem.Carte_Tactique_Florius = "플로리우스 전술지도",
-     ItemName_MapItem.Carte_Tactique_Cumberland = "컴버랜드 호수 전술지도",
-     ItemName_MapItem.Carte_Tactique_Petroville = "페트로빌 전술지도",
-     ItemName_MapItem.Carte_Tactique_Dirkerdam = "더커담 전술지도",
-     ItemName_MapItem.Carte_Tactique_PaulosHammer = "상파울로즈 해머 전술지도",
-     ItemName_MapItem.Carte_Tactique_MarchRidge = "마치 릿지 전술지도",
+     ItemName_MapItem.Rosewood_Tactical_Map = "로즈우드 전술지도",
+     ItemName_MapItem.Riverside_Tactical_Map = "리버사이드 전술지도",
+     ItemName_MapItem.Muldraugh_Tactical_Map = "멀드로우 전술지도",
+     ItemName_MapItem.Westpoint_Tactical_Map = "웨스트포인트 전술지도",
+     ItemName_MapItem.Florius_Tactical_Map = "플로리우스 전술지도",
+     ItemName_MapItem.Cumberland_Tactical_Map = "컴버랜드 호수 전술지도",
+     ItemName_MapItem.Petroville_Tactical_Map = "페트로빌 전술지도",
+     ItemName_MapItem.Dirkerdam_Tactical_Map = "더커담 전술지도",
+     ItemName_MapItem.PaulosHammer_Tactical_Map = "상파울로즈 해머 전술지도",
+     ItemName_MapItem.MarchRidge_Tactical_Map = "마치 릿지 전술지도",
 
      ItemName_Base.TancredTrader = "판매점",
      ItemName_Base.KitTrader = "키트제작자 작업대",
@@ -778,4 +776,19 @@ ItemName_KO = {
      ItemName_Base.EFK_WD40 = "WD-40 (100ml)",
      ItemName_Base.EFK_WD40_400 = "WD-40 (400ml)",
 
+   /**********************************************
+               10/04/24
+               NEW
+   ***********************************************/
+
+    ItemName_Base.EFK_GSSh_01 = "GSSh-01 활성 헤드셋",
+    ItemName_Base.EFK_Peltor_Sport = "펠터 택티컬 스포츠 헤드셋",
+
+   /**********************************************
+               12/04/24
+               EDIT
+   ***********************************************/
+
+     ItemName_Base.EFK_MP5_Stock = "HK MP5 9x19mm 기관단총",
+     ItemName_Base.EFK_MP5_Fold = "HK MP5 9x19mm 기관단총(접힘)",
 }
