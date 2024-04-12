@@ -1062,7 +1062,7 @@ IGUI_KO = {
    IGUI_TANCRED_MENU_Gameplay_Quests_Raids = "레이드 시작 방법은?",
    IGUI_TANCRED_MENU_Gameplay_Quests_Locations = "새로운 지역에서 레이드하는 방법은?",
    IGUI_TANCRED_MENU_Gameplay_Quests_Objectives = "퀘스트 내용은?",
-   IGUI_TANCRED_MENU_Gameplay = "",
+   IGUI_TANCRED_MENU_Gameplay = "뒤로",
 
    IGUI_TANCRED_MENU_Gameplay_Hideout_Place = "여긴 기지같은 곳인가?",
    IGUI_TANCRED_MENU_Gameplay_Hideout_Traders = "물건 거래 방법은?",
