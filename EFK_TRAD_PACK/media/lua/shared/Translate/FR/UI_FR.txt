@@ -3,13 +3,13 @@ UI_FR = {
     UI_prof_usec = "USEC",
     UI_prof_bear = "BEAR",
 
-    UI_profdesc_usec = "Entreprise para-militaire privée américaine",
-    UI_profdesc_bear = "Entreprise para-militaire privée russe",
+    UI_profdesc_usec = "Entreprise para-militaire privÃ©e amÃ©ricaine",
+    UI_profdesc_bear = "Entreprise para-militaire privÃ©e russe",
 
     UI_optionscreen_binding_Ask_Closest_Group_Member_to_Follow = "Demander au membre du groupe le plus proche de suivre",
-    UI_optionscreen_binding_Spawn_Wild_Survivor = "Faire apparaître un autre Survivant",
-    UI_optionscreen_binding_Toggle_Group_Window = "Basculer la fenêtre du groupe",
-    UI_optionscreen_binding_Lower_Follow_Distance = "Distance de suivi inférieure",
+    UI_optionscreen_binding_Spawn_Wild_Survivor = "Faire apparaÃ®tre un autre Survivant",
+    UI_optionscreen_binding_Toggle_Group_Window = "Basculer la fenÃªtre du groupe",
+    UI_optionscreen_binding_Lower_Follow_Distance = "Distance de suivi infÃ©rieure",
     UI_optionscreen_binding_Raise_Follow_Distance = "Augmenter la distance de suivi",
     UI_optionscreen_binding_SSHotkey_1 = "Directive SSHotkey 1",
     UI_optionscreen_binding_SSHotkey_2 = "Directive SSHotkey 2",
@@ -22,11 +22,22 @@ UI_FR = {
    ***********************************************/
 
     UI_optionscreen_binding_Call_Closest_Group_Member = "Appeler le membre du groupe le plus proche",
-    UI_optionscreen_binding_Call_Closest_Non-Group_Member = "Appeler le membre isolé le plus proche",
+    UI_optionscreen_binding_Call_Closest_Non-Group_Member = "Appeler le membre isolÃ© le plus proche",
 
+   /**********************************************
+               10/04/24
+               NEW
+   ***********************************************/
 
+    UI_trait_porte_casque_audio = "Porter un casque",
+    UI_trait_porte_casque_audio_description = "Le joueur porte un casque",
 
+   /**********************************************
+               12/04/24
+               NEW
+   ***********************************************/
 
+	UI_Text_ExamineTooltip = "Fermer (esc)"
 
 
 }
