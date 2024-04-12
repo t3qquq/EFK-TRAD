@@ -293,8 +293,6 @@ ItemName_EN = {
         ItemName_Base.EFK_Lebedev = "Lebedev PL-15 9x19 pistol",
         ItemName_Base.EFK_Grenade_Fragmentation = "RGN hand grenade",
         ItemName_Base.EFK_HK_USP = "HK USP .45 ACP pistol",
-        ItemName_Base.EFK_MP5_Stock = "HK MP5K 9x19 submachine gun",
-        ItemName_Base.EFK_MP5_Fold = "HK MP5K 9x19 submachine gun(Folded)",
         ItemName_Base.EFK_MP5SD6_Stock = "HK MP5 9x19 submachine gun (Navy 3 Round Burst)",
         ItemName_Base.EFK_MP5SD6_Fold = "HK MP5 9x19 submachine gun (Navy 3 Round Burst) (Folded)",
         ItemName_Base.EFK_M9A3 = "Beretta M9A3 9x19 pistol",
@@ -778,4 +776,25 @@ ItemName_EN = {
         ItemName_Base.EFK_WD40 = "WD-40 100ml",
         ItemName_Base.EFK_WD40_400 = "WD-40 400ml",
 
+   /**********************************************
+               10/04/24
+               NEW
+   ***********************************************/
+
+        ItemName_Base.EFK_GSSh_01 = "GSSh-01 active headset",
+        ItemName_Base.EFK_Peltor_Sport = "Peltor Tactical Sport headset",
+
+   /**********************************************
+               12/04/24
+               EDIT
+   ***********************************************/
+
+        ItemName_Base.EFK_MP5_Stock = "HK MP5 9x19 submachine gun",
+        ItemName_Base.EFK_MP5_Fold = "HK MP5 9x19 submachine gun(Folded)",
+        ItemName_Base.545StdClip = "5.45x39mm magazine",
+        ItemName_Base.545Drum = "5.45x39mm magazine",
+        ItemName_Base.556Clip = "5.56x45mm magazine",
+        ItemName_Base.556Drum = "5.56x45mm magazine",
+        ItemName_Base.AKClip = "7.62x39mm magazine",
+        ItemName_Base.762Drum = "7.62x39mm magazine",
 }

@@ -24,9 +24,20 @@ UI_EN = {
     UI_optionscreen_binding_Call_Closest_Group_Member = "Call Closest Group Member",
     UI_optionscreen_binding_Call_Closest_Non-Group_Member = "Call Closest Non-Group Member",
 
+   /**********************************************
+               10/04/24
+               NEW
+   ***********************************************/
 
+    UI_trait_porte_casque_audio = "Wearing Headset",
+    UI_trait_porte_casque_audio_description = "Player is wearing a headset device",
 
+   /**********************************************
+               12/04/24
+               NEW
+   ***********************************************/
 
+	UI_Text_ExamineTooltip = "Close (esc)"
 
 
 }

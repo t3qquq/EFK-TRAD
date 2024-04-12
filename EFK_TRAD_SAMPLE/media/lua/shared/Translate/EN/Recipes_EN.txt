@@ -572,6 +572,14 @@ Recipes_EN = {
      Recipe_Craft_2_Army_bandage = "Craft 2 Army bandage",
      Recipe_Create_a_Stash_Lvl1_kit = "Create a Stash Lvl1 kit",
 
+   /**********************************************
+               10/04/24
+               NEW
+   ***********************************************/
+
+     Recipe_Sell_Weapon_repair_kit = "Sell Weapon repair kit (560)",
+     Recipe_Sell_GSSh-01_active_headset = "Sell GSSh-01 active headset (99)",
+     Recipe_Sell_Peltor_Tactical_Sport_headset = "Sell Peltor Tactical Sport headset (275)",
 
 }
 

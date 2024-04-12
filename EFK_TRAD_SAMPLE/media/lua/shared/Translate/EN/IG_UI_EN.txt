@@ -859,23 +859,6 @@ IGUI_EN = {
    IGUI_MECANIX_Task_q6_t4 = "Place the Signal Jammer",
    IGUI_MECANIX_Task_q6_t6 = "Talk to Mechanic",
 
-   IGUI_MECANIX_Task_firearm_q1_t2 = "Modify a MP-133 to comply with the required specification ("MP-133 MK1" into the craft menu)",
-   IGUI_MECANIX_Task_firearm_q1_t3 = "Talk to Mechanic",
-   IGUI_MECANIX_Task_firearm_q2_t2 = "Modify an AKS-74U to comply with the required specification ("AKS-74U MK1" into the craft menu)",
-   IGUI_MECANIX_Task_firearm_q2_t3 = "Talk to Mechanic",
-   IGUI_MECANIX_Task_firearm_q3_t2 = "Modify a MP5-SD to comply with the required specification ("AKS-74U MK1" into the craft menu)",
-   IGUI_MECANIX_Task_firearm_q3_t3 = "Talk to Mechanic",
-   IGUI_MECANIX_Task_firearm_q3_2_t2 = "Reach level 3 Reputation with Prapor",
-   IGUI_MECANIX_Task_firearm_q3_2_t3 = "Talk to Mechanic",
-   IGUI_MECANIX_Task_firearm_q4_t2 = "Modify a SKS to comply with the required specification ("AKS-74U MK1" into the craft menu)",
-   IGUI_MECANIX_Task_firearm_q4_t3 = "Talk to Mechanic",
-   IGUI_MECANIX_Task_firearm_q5_t2 = "Modify a M870 to comply with the required specification ("AKS-74U MK1" into the craft menu)",
-   IGUI_MECANIX_Task_firearm_q5_t3 = "Talk to Mechanic",   
-   IGUI_MECANIX_Task_firearm_q6_t2 = "Modify an AKM to comply with the required specification ("AKS-74U MK1" into the craft menu)",
-   IGUI_MECANIX_Task_firearm_q6_t3 = "Talk to Mechanic", 
-   IGUI_MECANIX_Task_firearm_q7_t2 = "Modify an M4A1 to comply with the required specification ("AKS-74U MK1" into the craft menu)",
-   IGUI_MECANIX_Task_firearm_q7_t3 = "Talk to Mechanic", 
-
    IGUI_MECANIX_Quest_Trade = "Always the best equipment",
    IGUI_MECANIX_Quest_Exit = "No problem, i understand",
    IGUI_MECANIX_Quest_No_More_Quest = "I don't have any more work for you. Come back to me later.",
@@ -1277,5 +1260,45 @@ IGUI_EN = {
 
    IGUI_TOUBIB_Task_q1_t2 = "Deliver 3 Salewa first aid kits (You must convert this items into Packs before returning its)",
 
-   
+   /**********************************************
+               09/04/24
+               EDIT
+   ***********************************************/
+
+   IGUI_MECANIX_Task_firearm_q1_t2 = "Modify a MP-133 to comply with the required specification ("MP-133 MK1" into the craft menu)",
+   IGUI_MECANIX_Task_firearm_q1_t3 = "Talk to Mechanic",
+   IGUI_MECANIX_Task_firearm_q2_t2 = "Modify an AKS-74U to comply with the required specification ("AKS-74U MK1" into the craft menu)",
+   IGUI_MECANIX_Task_firearm_q2_t3 = "Talk to Mechanic",
+   IGUI_MECANIX_Task_firearm_q3_t2 = "Modify a MP5-SD to comply with the required specification ("MP5-SD MK1" into the craft menu)",
+   IGUI_MECANIX_Task_firearm_q3_t3 = "Talk to Mechanic",
+   IGUI_MECANIX_Task_firearm_q3_2_t2 = "Reach level 3 Reputation with Prapor",
+   IGUI_MECANIX_Task_firearm_q3_2_t3 = "Talk to Mechanic",
+   IGUI_MECANIX_Task_firearm_q4_t2 = "Modify a SKS to comply with the required specification ("SKS MK1" into the craft menu)",
+   IGUI_MECANIX_Task_firearm_q4_t3 = "Talk to Mechanic",
+   IGUI_MECANIX_Task_firearm_q5_t2 = "Modify a M870 to comply with the required specification ("M870 MK1" into the craft menu)",
+   IGUI_MECANIX_Task_firearm_q5_t3 = "Talk to Mechanic",   
+   IGUI_MECANIX_Task_firearm_q6_t2 = "Modify an AKM to comply with the required specification ("AKM MK1" into the craft menu)",
+   IGUI_MECANIX_Task_firearm_q6_t3 = "Talk to Mechanic", 
+   IGUI_MECANIX_Task_firearm_q7_t2 = "Modify an M4A1 to comply with the required specification ("M4A1 MK1" into the craft menu)",
+   IGUI_MECANIX_Task_firearm_q7_t3 = "Talk to Mechanic", 
+
+   /**********************************************
+               12/04/24
+               NEW
+   ***********************************************/
+
+    IGUI_EFK_tooltip_extractionRestrictByMoveableInInv = "You are carrying a tile object on you : travel prohibited",
+    IGUI_EFK_tooltip_insertion_cardNeeded_Labo = "You need an access card to access to the LAB Map",
+    IGUI_ItemToolTip_Card_Labo = "This card let player access to the LAB Map",
+
+    IGUI_EFK_ContextMenu_specialExtraction = "Special Extract with money",
+    IGUI_EFK_tooltip_specialExtraction = "You need to have got the required amount of money to extract from this special extraction",
+
+    IGUI_EFK_tooltip_specialExtractionRestrictByNeedMoney = "You need to have got the required amount of money to extract from this special extraction",
+    IGUI_EFK_tooltip_specialExtractionCost = "Cost : ",
+    IGUI_EFK_tooltip_titleName_specialExtractionrequired = "Required: ",
+    IGUI_EFK_travelDialog_toArea = "Go on a raid on ",
+    IGUI_EFK_travelDialog_toHideoute = "Go back to the hideout",
+    IGUI_EFK_travelDialog_toHideoute_byMoney = "Go back to the hideout to ",
+
 }
