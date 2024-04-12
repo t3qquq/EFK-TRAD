@@ -791,4 +791,10 @@ ItemName_KO = {
 
      ItemName_Base.EFK_MP5_Stock = "HK MP5 9x19mm 기관단총",
      ItemName_Base.EFK_MP5_Fold = "HK MP5 9x19mm 기관단총(접힘)",
+     ItemName_Base.545StdClip = "5.45x39mm 탄창 (30발)",
+     ItemName_Base.545Drum = "5.45x39mm 탄창 (95발)",
+     ItemName_Base.556Clip = "5.56x45mm 탄창 (30발)",
+     ItemName_Base.556Drum = "5.56x45mm 탄창 (60발)",
+     ItemName_Base.AKClip = "7.62x39mm 탄창 (30발)",
+     ItemName_Base.762Drum = "7.62x39mm 탄창 (75발)",
 }
