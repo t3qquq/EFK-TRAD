@@ -3,10 +3,10 @@ UI_ES = {
     UI_prof_usec = "USEC",
     UI_prof_bear = "BEAR",
 
-    UI_profdesc_usec = "Entreprise para-militaire privÈe amÈricaine",
-    UI_profdesc_bear = "Entreprise para-militaire privÈe russe",
+    UI_profdesc_usec = "Entreprise para-militaire priv√©e am√©ricaine",
+    UI_profdesc_bear = "Entreprise para-militaire priv√©e russe",
 
-    UI_optionscreen_binding_Ask_Closest_Group_Member = "Llamar al miembro del grupo m·s cercano",
+    UI_optionscreen_binding_Ask_Closest_Group_Member = "Llamar al miembro del grupo m√°s cercano",
     UI_optionscreen_binding_Spawn_Wild_Survivor = "Hacer aparecer otro Superviviente",
     UI_optionscreen_binding_Toggle_Group_Window = "Activar la ventana de grupo",
     UI_optionscreen_binding_Lower_Follow_Distance = "Reducir distancia de seguimiento",
@@ -21,12 +21,23 @@ UI_ES = {
                EDIT
    ***********************************************/
 
-    UI_optionscreen_binding_Call_Closest_Group_Member = "Llamar al miembro del grupo m·s cercano",
-    UI_optionscreen_binding_Call_Closest_Non-Group_Member = "Llamar al miembro m·s cercano que no pertenece al grupo",
+    UI_optionscreen_binding_Call_Closest_Group_Member = "Llamar al miembro del grupo m√°s cercano",
+    UI_optionscreen_binding_Call_Closest_Non-Group_Member = "Llamar al miembro m√°s cercano que no pertenece al grupo",
 
+   /**********************************************
+               10/04/24
+               NEW
+   ***********************************************/
 
+    UI_trait_porte_casque_audio = "Llevando auriculares",
+    UI_trait_porte_casque_audio_description = "El jugador lleva un dispositivo de auriculares",
 
+   /**********************************************
+               12/04/24
+               NEW
+   ***********************************************/
 
+	UI_Text_ExamineTooltip = "Cerrar (esc)"
 
 
 }
