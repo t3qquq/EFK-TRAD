@@ -1,6 +1,6 @@
 ContextMenu_KO = {
 
-    ContextMenu_Take_pills = "약 섭취",
+    ContextMenu_Take_pills = "약 복용",
     ContextMenu_EFK_Already_take = "재복용하려면 더 기다려야 해.", 
     ContextMenu_NVG_OFF = "야간투시 장비 비활성화",
     ContextMenu_NVG_ON = "야간투시 장비 활성화", 
@@ -11,7 +11,7 @@ ContextMenu_KO = {
     ContextMenu_Cap_Backwards = "모자 뒤로 착용하기",
     ContextMenu_Cap_Front = "모자 착용하기",
 
-    ContextMenu_Use_CMS = "총알 적출 (CMS 키트) ", 
+    ContextMenu_Use_CMS = "총알 적출 (의료용 키트)", 
     ContextMenu_Use_SURV = "총알 적출 (SURV12 키트)", 
     ContextMenu_Title  = "생존자",
     ContextMenu_SD_AidCheck = "의료 / 응급 처치 체크",
@@ -2155,14 +2155,14 @@ ContextMenu_KO = {
                NEW
    ***********************************************/
 
-    ContextMenu_Use_Bandage = "경상 치료 (작은 의료용 키트)", 
+    ContextMenu_Use_Bandage = "출혈 응급처치 (소형 의료용 키트)", 
 
    /**********************************************
                12/04/24
                NEW
    ***********************************************/
 
-	ContextMenu_Examine = "검토",
+	ContextMenu_Examine = "확인하기",
 
 
 }

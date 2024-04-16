@@ -1,7 +1,7 @@
 ItemName_KO = {
 
      ItemName_Base.Bag_ArmyMedkit = "의료용 가방",
-     ItemName_Base.EFK_Ai2 = "AI-2 응급 치료 키트",
+     ItemName_Base.EFK_Ai2 = "AI-2 응급치료키트",
      ItemName_Base.EFK_AluSplint = "알루미늄 부목",
      ItemName_Base.EFK_ImmoSplint = "고정식 부목",
      ItemName_Base.SURV12_Kit = "Surv12 야전 수술키트",
@@ -13,7 +13,7 @@ ItemName_KO = {
      ItemName_Base.EFK_BetaPillsV3 = "TEX-1 베타 차단 주사기",
      ItemName_Base.EFK_BetaPillsV4 = "Dress-U 베타 차단 주사기",
      ItemName_Base.EFK_vaseline = "바셀린",
-     ItemName_Base.EFK_MedGrizzly = "그리즐리 응급 치료 키트",   
+     ItemName_Base.EFK_MedGrizzly = "그리즐리 응급치료키트",   
 
      ItemName_Base.AI2Painkiller = "아날긴 진통제",
      ItemName_Base.AI2Antibiotics = "어그멘틴 항생제",
@@ -551,8 +551,8 @@ ItemName_KO = {
      ItemName_Base.EFK_HandDrill = "핸드 드릴",
      ItemName_Base.EFK_Bulbex = "Bulbex 케이블 절단기",
      ItemName_Base.EFK_IFAK = "IFAK 개인 전술 구급키트",
-     ItemName_Base.EFK_Salewa = "살레와 응급 치료 키트",
-     ItemName_Base.EFK_CarFirstAidKit = "차량용 응급 치료 키트",
+     ItemName_Base.EFK_Salewa = "살레와 응급치료키트",
+     ItemName_Base.EFK_CarFirstAidKit = "차량용 응급치료키트",
      ItemName_Base.EFK_Ripstop_fiber = "립스탑 원단",
      ItemName_Base.EFK_Cordura_fiber = "폴리아미드 원단",
      ItemName_Base.EFK_Aramid_fiber = "아라미드 원단",
@@ -594,22 +594,22 @@ ItemName_KO = {
 
      ItemName_Base.EFK_MP133_MK1 = "커스텀 MP-133 MK1",
      ItemName_Base.EFK_AKS74U_MK1 = "커스텀 AKS-74U MK1",
-     ItemName_Base.EFK_MP5SD_MK1 = "커스텀 MP5SD MK1",
+     ItemName_Base.EFK_MP5SD_MK1 = "커스텀 MP5-SD MK1",
      ItemName_Base.EFK_SKS_MK1 = "커스텀 SKS MK1",
      ItemName_Base.EFK_M870_MK1 = "커스텀 M870 MK1",
      ItemName_Base.EFK_AKM_MK1 = "커스텀 AKM MK1",
      ItemName_Base.EFK_M4A1_MK1 = "커스텀 M4A1 MK1",
 
-     ItemName_Base.EFK_3MAmor_kit = "Module-3M 키트",
-     ItemName_Base.EFK_TOZ_kit = "TOZ 키트",
+     ItemName_Base.EFK_3MAmor_kit = "Module-3M 방탄복 키트",
+     ItemName_Base.EFK_TOZ_kit = "TOZ-106 샷건 키트",
      ItemName_Base.EFK_MP133_kit = "MP-133 키트",
      ItemName_Base.EFK_545Drum_kit = "5.45 드럼 탄창 키트",
-     ItemName_Base.EFK_Big_CannedTushonka_kit = "큰 투숀카 캔 키트",
+     ItemName_Base.EFK_Big_CannedTushonka_kit = "쇠고기 스튜 통조림 (대형) 키트",
      ItemName_Base.EFK_CarBattery_kit = "자동차 배터리 키트",
      ItemName_Base.EFK_Spark_kit = "점화 플러그 키트",
      ItemName_Base.EFK_Iskra_kit = "Iskra 키트",
      ItemName_Base.EFK_Ramen_kit = "라멘 키트",
-     ItemName_Base.EFK_Tushonka_kit = "쇠고기 스튜 통조림 키트",
+     ItemName_Base.EFK_Tushonka_kit = "쇠고기 스튜 통조림 (소형) 키트",
      ItemName_Base.EFK_BrokenGPhoneSmartphone_kit = "부서진 GPhone 키트",
      ItemName_Base.EFK_PC_CPU_kit = "CPU 키트",
      ItemName_Base.EFK_PrintedCircuitBoard_kit = "인쇄 회로 기판 키트",
@@ -651,7 +651,7 @@ ItemName_KO = {
    ***********************************************/
 
      ItemName_Base.Pop2 = "RatCola 탄산음료",
-     ItemName_Base.EFK_Salewa_kit = "살레와 응급 치료 키트 팩",
+     ItemName_Base.EFK_Salewa_kit = "살레와 응급치료키트 팩",
      ItemName_Base.EFK_HealDocumentation = "EFK 치료 문서",
      ItemName_Base.EFK_PraporInfo_Q2 = "프라퍼 퀘스트2 정보",
      ItemName_Base.EFK_PraporInfo_Q3 = "프라퍼 퀘스트3 정보",
@@ -706,7 +706,7 @@ ItemName_KO = {
    ***********************************************/
 
      ItemName_Base.EFK_AsepticBandage = "무균 붕대",
-     ItemName_Base.EFK_Tourniquet = "지혈대",
+     ItemName_Base.EFK_Tourniquet = "에스마르히 지혈대",
 
    /**********************************************
                02/04/24
