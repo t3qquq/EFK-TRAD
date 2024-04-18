@@ -1,6 +1,6 @@
 Tooltip_EN = {
 	
-    Tooltip_EFK_ConditionReparation = "이 아이템을 판매하려면 완벽한 상태여야 합니다d",
+    Tooltip_EFK_ConditionReparation = "이 아이템을 판매하려면 완벽한 상태여야 합니다.",
     Tooltip_PillsBetablockerV2 = "3시간 동안 공황장애를 방지합니다",
     Tooltip_PillsBetablockerV3 = "5시간 동안 공황장애를 방지합니다",
     Tooltip_PillsBetablockerV4 = "10시간 동안 공황장애를 방지합니다",
@@ -112,7 +112,7 @@ Tooltip_EN = {
 	Tooltip_EFK_RK-0 = "무기 조작감을 개선합니다<br>재장전 시간 감소 (-2)<br>조준 시간 감소 (+3)<br>반동 감소 (-2)",
 	Tooltip_EFK_RK-5 = "무기 조작감을 개선합니다<br>재장전 시간 감소 (-3)<br>조준 시간 감소 (+4)<br>반동 감소 (-2)",
 	Tooltip_EFK_RK-1 = "무기 조작감을 개선합니다<br>재장전 시간 감소 (-1)<br>조준 시간 감소 (+1)<br>반동 감소 (-3)",
-	Tooltip_EFK_KAC = "무기 조작감을 개선합니다<br>재장전 시간 감소 (-4)<br>조준 시간 감소 (+5),
+	Tooltip_EFK_KAC = "무기 조작감을 개선합니다<br>재장전 시간 감소 (-4)<br>조준 시간 감소 (+5)",
 	Tooltip_EFK_Magpul = "무기 조작감을 개선합니다<br>재장전 시간 감소 (-4)<br>조준 시간 감소 (+5)<br>반동 감소 (-2)",
 	Tooltip_EFK_Dynamics_squelette = "무기 조작감을 개선합니다<br>재장전 시간 감소 (-3)<br>조준 시간 감소 (+5)<br>반동 감소 (-2)",
 	Tooltip_EFK_SIG = "무기 조작감을 개선합니다<br>재장전 시간 감소 (-3)<br>조준 시간 감소 (+4)<br>반동 감소 (-2)",
