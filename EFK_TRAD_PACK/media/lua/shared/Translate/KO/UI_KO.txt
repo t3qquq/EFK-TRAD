@@ -39,5 +39,10 @@ UI_KO = {
 
 	UI_Text_ExamineTooltip =  "닫기(esc)"
 
+   /**********************************************
+               TEST
+   ***********************************************/
+    UI_optionscreen_binding_HotkeyGPS = "GPS 단축키",
+    UI_optionscreen_binding_GPS_CheckBelt_key = "GPS 운용하기",
 
 }

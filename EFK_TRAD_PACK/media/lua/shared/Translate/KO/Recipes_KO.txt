@@ -581,5 +581,48 @@ Recipes_KO = {
      Recipe_Sell_GSSh-01_active_headset = "GSSh-01 액티브 헤드셋 판매",
      Recipe_Sell_Peltor_Tactical_Sport_headset = "펠터 택티컬 스포츠 헤드셋 판매",
 
+   /**********************************************
+               TEST
+   ***********************************************/
+
+     Recipe_Sell_Lebedev_PL-15_9x19_pistol = "Lebedev PL-15 9x19 권총 판매",
+     Recipe_Sell_Reflex_Sight_NPZ_PK1_"Obzor" = "NPZ PK1 Obzor 반사식 조준경 판매",
+     Recipe_Sell_Reflex_Sight_VOMZ_Pilad_P1X42_"WEAVER" = "VOMZ Pilad P1X42 WEAVER 반사식 조준경 판매",
+     Recipe_Sell_Soft_Armor_PACA = "PACA Soft 방탄복 판매",
+
+     Recipe_Transcribe_Journal = "일기장에 경험치 저장",
+     Recipe_Create_a_BNTI_Module-3M_body_armor_kit = "Moodule-3M 방탄복 키트 제작",
+     Recipe_Create_a_Cowboy_Hat_kit = "카우보이 모자 키트 제작",
+     Recipe_Create_a_Salewa_first_aid_kit_pack = "살레와 응급 치료 키트 팩 제작",
+     Recipe_Craft_2_Bottles_of_Norvinskiy_Yadreniy_premium_kvass_(0.6L) = "프리미엄 크바스 "노르빈스키 야드레니" 0.6L 제작",
+     Recipe_Craft_Box_of_20_shellfs_12ga = "12게이지 탄약 20발 제작",
+     Recipe_Craft_Box_of_60_rounds_-_9x18 = "9x18mm 탄약 60발 제작",
+     Recipe_Craft_Broken_GPhone_smartphone = "고장난 GPhone 제작",
+     Recipe_Craft_Broken_LCD = "부서진 LCD 제작",
+     Recipe_Craft_Bundle_of_wires = "전선 제작",
+     Recipe_Craft_CMS_surgical_kit = "CMS 수술키트 제작",
+     Recipe_Craft_Capacitors = "콘덴서 제작",
+     Recipe_Craft_Gas_analyzer = "가스 분석기 제작",
+     Recipe_Craft_Gas_mask_air_filter = "방독면 정화통 제작",
+     Recipe_Craft_Gunpowder_"Hawk" = ""Hawk" 화약 제작",
+     Recipe_Craft_Gunpowder_"Kite" = ""Kite" 화약 제작",
+     Recipe_Craft_Kalashnikov_AK-74N_5.45x39_assault_rifle = "AK-74 5.45x39mm 돌격소총 제작",
+     Recipe_Craft_Kalashnikov_AKM_7.62x39_assault_rifle = "AKM 7.62x39mm 돌격소총 제작",
+     Recipe_Craft_Magnet = "자석 제작",
+     Recipe_Craft_Power_cord = "전원 코드 제작",
+     Recipe_Craft_Printed_circuit_board = "인쇄 회로 기판 제작",
+     Recipe_Craft_Round_pliers = "원형 플라이어 제작",
+     Recipe_Craft_Weapon_parts = "무기 부품 제작",
+     Recipe_Sell_BNTI_Module-3M_body_armor = "Module-3M 방탄복 판매",
+     Recipe_Sell_Can_of_beef_stew_Small = "쇠고기 스튜 통조림 (소형) 판매",
+
+	 Recipe_Insert_Battery_Into_GPS = "GPS에 건전지 넣기",
+	 Recipe_Remove_Battery_From_GPS = "GPS에서 건전지 제거하기",
+	 Recipe_Dismantle_GPS = "GPS 분해하기",
+	 Recipe_stick_the_sticker_on_GPS = "GPS에 스티커 붙이기",
+	 Recipe_take_off_the_sticker_from_GPS = "GPS에서 스티커 떼기",
+	 Recipe_change_back_lighting_from_GPS = "GPS 백라이트 교체하기",
+	 Recipe_Repair_the_GPS = "GPS 수리하기",
+	 Recipe_Maintain_the_GPS = "GPS 관리하기",
 }
 
