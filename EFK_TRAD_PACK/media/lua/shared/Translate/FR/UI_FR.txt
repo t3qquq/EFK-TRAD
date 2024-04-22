@@ -29,8 +29,8 @@ UI_FR = {
                NEW
    ***********************************************/
 
-    UI_trait_porte_casque_audio = "Porter un casque",
-    UI_trait_porte_casque_audio_description = "Le joueur porte un casque",
+    UI_trait_porte_Headset = "Porter un casque électronique",
+    UI_trait_porte_Headset_description = "Le joueur porte un casque électronique",
 
    /**********************************************
                12/04/24
@@ -39,5 +39,12 @@ UI_FR = {
 
 	UI_Text_ExamineTooltip = "Fermer (esc)"
 
+   /**********************************************
+               13/04/24
+               NEW
+   ***********************************************/
+
+    UI_trait_porte_Helmet = "Porte un casque",
+    UI_trait_porte_Helmet_description = "Le joueur porte un casque",
 
 }
