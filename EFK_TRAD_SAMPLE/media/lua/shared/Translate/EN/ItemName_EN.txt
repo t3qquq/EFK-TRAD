@@ -125,11 +125,6 @@ ItemName_EN = {
         ItemName_Base.EFK_Monstrum = "Monstrum Tactical Vertical Fore Grip KeyMod",
         ItemName_Base.EFK_Cobra_tactical = "SI Cobra tactical tactical grip",
 
-        ItemName_Base.EFK_BNTI = "BNTI LShZ-2DTM helmet",
-        ItemName_Base.EFK_LSHZ = "LShZ light helmet",
-        ItemName_Base.EFK_ZSH = "ZSh-1-2M helmet",
-        ItemName_Base.EFK_ULACH = "Highcom Striker ULACH IIIA helmet",
-        ItemName_Base.EFK_6B47 = "6B47 Ratnik-BSh helmet",
         ItemName_Base.EFK_NVG18_ON = "GPNVG-18 night vision binoculars (ON)",
         ItemName_Base.EFK_NVG18_OFF = "GPNVG-18 night vision binoculars (OFF)",
         ItemName_Base.EFK_NVG18_Harnais_ON = "GPNVG-18 night vision binoculars with harness (ON)",
@@ -632,7 +627,7 @@ ItemName_EN = {
         ItemName_Base.EFK_illumination_lvl1_kit = "Illumination Level 1 Kit",
         ItemName_Base.EFK_workbench_lvl1_kit = "Workbench Level 1 Kit",
 
-        ItemName_Base.EFK_nutrition_lvl1_kit = "Nutrition Level 1 Kit",
+        ItemName_Base.EFK_NutritionTrader_lvl1_kit = "Nutrition Level 1 Kit",
         ItemName_Base.EFK_Max_Energy = "Can of Max Energy energy drink",
         ItemName_Base.EFK_BakeEzy = "BakeEzy cook book",
         ItemName_Base.EFK_Squash = "Can of squash spread",
@@ -797,4 +792,116 @@ ItemName_EN = {
         ItemName_Base.556Drum = "5.56x45mm magazine",
         ItemName_Base.AKClip = "7.62x39mm magazine",
         ItemName_Base.762Drum = "7.62x39mm magazine",
+
+   /**********************************************
+               16/04/24
+               NEW
+   ***********************************************/
+
+        ItemName_Base.EFK_TacKek_FASTMT = "Tac-Kek FAST MT helmet Replica",
+        ItemName_Base.EFK_TSh_4M_L = "TSh-4M-L soft tank crew helmet",
+        ItemName_Base.EFK_Kolpak = "Kolpak-1S riot helmet",
+        ItemName_Base.EFK_PSh_97_DJETA = "PSh-97 DJETA riot helmet",
+        ItemName_Base.EFK_ShPM_Firefighter = "ShPM Firefighter helmet",
+        ItemName_Base.EFK_NFM_HJELM = "NFM HJELM helmet Hellhound Grey",
+        ItemName_Base.EFK_Galvion_Caiman_Hybrid = "Galvion Caiman Hybrid helmet Grey",
+        ItemName_Base.EFK_Diamond_Age_NeoSteel = "Diamond Age NeoSteel High Cut helmet Black",
+        ItemName_Base.EFK_UNTAR_helmet = "UNTAR helmet",
+        ItemName_Base.EFK_SSh_68 = "SSh-68 steel helmet Olive Drab",
+        ItemName_Base.EFK_Kiver_M = "FORT Kiver-M bulletproof helmet",
+        ItemName_Base.EFK_KlASS_Tor2 = "NPP KlASS Tor-2 helmet Olive Drab",
+        ItemName_Base.EFK_SSSh_94 = "SSSh-94 SFERA-S helmet",
+        ItemName_Base.EFK_TC_2001 = "MSA ACH TC-2001 MICH Series helmet Olive Drab",
+        ItemName_Base.EFK_TC_2002 = "MSA ACH TC-2002 MICH Series helmet Olive Drab",
+        ItemName_Base.EFK_HighCom_Striker_ACHHC = "HighCom Striker ACHHC IIIA helmet",
+        ItemName_Base.EFK_TC_800 = "MSA Gallet TC 800 High Cut combat helmet Black",
+        ItemName_Base.EFK_Diamond_Age_Bastion = "Diamond Age Bastion helmet Black",
+        ItemName_Base.EFK_FAST_MT = "Ops-Core FAST MT Super High Cut helmet",
+        ItemName_Base.EFK_AirFrame = "Crye Precision AirFrame helmet Tan",
+        ItemName_Base.EFK_EXFIL = "Team Wendy EXFIL Ballistic Helmet",
+        ItemName_Base.EFK_Maska_1SCh = "Maska-1SCh bulletproof helmet",
+        ItemName_Base.EFK_Rys_T = "Rys-T bulletproof helmet Black",
+        ItemName_Base.EFK_Vulkan_5 = "Vulkan-5 LShZ-5 bulletproof helmet Black",
+        ItemName_Base.EFK_Altyn = "Altyn bulletproof helmet Olive Drab",
+
+        ItemName_Base.EFK_Tactical_M2 = "ANA Tactical M2 plate carrier Digital Flora",
+        ItemName_Base.EFK_Eagle_Allied_Industries = "Eagle Allied Industries MBSS plate carrier Coyote Brown",
+        ItemName_Base.EFK_Tiger_SK = "Tasmanian Tiger SK plate carrier MultiCam Black",
+        ItemName_Base.EFK_TV_115 = "WARTECH TV-115 plate carrier Olive Drab",
+        ItemName_Base.EFK_Industries_MMAC = "Eagle Industries MMAC plate carrier Ranger Green",
+        ItemName_Base.EFK_Tactical_Banshee = "Shellback Tactical Banshee plate carrier A-TACS AU",
+        ItemName_Base.EFK_Ars_Arma_A18 = "Ars Arma A18 Skanda plate carrier MultiCam",
+        ItemName_Base.EFK_ANA_Tactical_M1 = "ANA Tactical M1 plate carrier Olive Drab",
+        ItemName_Base.EFK_FirstSpear_Strandhogg = "FirstSpear Strandhogg plate carrier Ranger Green",
+        ItemName_Base.EFK_ECLiPSE_RBAV = "ECLiPSE RBAV-AF plate carrier Ranger Green",
+        ItemName_Base.EFK_Osprey_MK4A_Assault = "CQC Osprey MK4A plate carrier Assault MTP",
+        ItemName_Base.EFK_511_Tactical_TacTec = "5.11 Tactical TacTec plate carrier Ranger Green",
+        ItemName_Base.EFK_Arma_CPC_MOD1 = "Ars Arma CPC MOD.1 plate carrier A-TACS FG",
+        ItemName_Base.EFK_Precision_AVS = "Crye Precision AVS plate carrier Ranger Green",
+        ItemName_Base.EFK_KlASS_Bagariy = "NPP KlASS Bagariy plate carrier Digital Flora",
+        ItemName_Base.EFK_Osprey_MK4A = "CQC Osprey MK4A plate carrier Protection MTP",
+        ItemName_Base.EFK_6B3TM_01 = "6B3TM-01 armored rig Khaki",
+        ItemName_Base.EFK_6B5_15 = "6B5-15 Zh-86 Uley armored rig Flora",
+
+
+   /**********************************************
+               16/04/24
+               EDIT
+   ***********************************************/
+
+        ItemName_Base.EFK_BNTI = "BNTI LShZ-2DTM helmet Black",
+        ItemName_Base.EFK_LSHZ = "LShZ lightweight helmet Olive Drab",
+        ItemName_Base.EFK_ZSH = "ZSh-1-2M helmet",
+        ItemName_Base.EFK_ULACH = "HighCom Striker ULACH IIIA helmet",
+        ItemName_Base.EFK_6B47 = "6B47 Ratnik-BSh helmet",
+
+   /**********************************************
+               18/04/24
+               NEW
+   ***********************************************/
+
+        ItemName_Base.EFK_Scav_chest = "Scav Vest",
+        ItemName_Base.EFK_Security = "Security vest",
+        ItemName_Base.EFK_IDEA = "DIY IDEA chest rig",
+        ItemName_Base.EFK_SOE_Micro_Rig = "SOE Micro Rig MultiCam",
+        ItemName_Base.EFK_Type_56_Chicom = "Type 56 Chicom chest harness",
+        ItemName_Base.EFK_6Sh112 = "UMTBS 6Sh112 Scout-Sniper chest rig Digital Flora",
+        ItemName_Base.EFK_Khamelion = "Azimut SS Khamelion chest harness Olive",
+        ItemName_Base.EFK_Tarzan = "Splav Tarzan M22 chest rig Smog",
+        ItemName_Base.EFK_GC_BSS_MK1 = "Gear Craft GC-BSS-MK1 chest rig A-TACS FG",
+        ItemName_Base.EFK_M33_SET1 = "Umka M33-SET1 hunter vest Olive Drab",
+        ItemName_Base.EFK_LBT_1961A = "LBT-1961A Load Bearing Chest Rig MAS Grey",
+        ItemName_Base.EFK_Stich_Recon = "Stich Profi Chest Rig MK2 Recon A-TACS FG",
+        ItemName_Base.EFK_Poyas = "Poyas-A + Poyas-B gear rig",
+
+   /**********************************************
+               20/04/24
+               NEW
+   ***********************************************/
+
+          ItemName_Base.545x39Bullets = "5.45x39 ammunition",
+          ItemName_Base.556Bullets = "5.56x45 ammunition",
+          ItemName_Base.Bullets57 = "5.7x28 ammunition",
+          ItemName_Base.762x39Bullets = "7.62x39 ammunition",
+          ItemName_Base.762x51Bullets = "7.62x51 ammunition",
+          ItemName_Base.762x54rBullets = "7.62x54r ammunition",
+          ItemName_Base.50BMGBullets = "50 BMG ammunition",
+          ItemName_Base.M82Clip = "50-BMG Magazine",
+          ItemName_Base.EFK_PowderPackHemostatic = "CALOK-B hemostatic applicator",
+          ItemName_MoreMedical.SyretteHighGradePainkillers = "Morphine Injector",
+          ItemName_MoreMedical.SyretteAdrenalin = "Adrenalin Injector",
+          ItemName_Base.EFK_Spark = "Spark plug",
+          ItemName_Base.EFK_Hat_Cowboy_kit = "Cowboy hat kit",
+
+
+
+
+
+
+
+
+
+
+
+
 }

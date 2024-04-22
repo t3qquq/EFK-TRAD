@@ -69,7 +69,6 @@ Recipes_EN = {
      Recipe_Sell_Springfield_Armory_M1A_7.62x51_rifle = "Sell Springfield Armory M1A 7.62x51 rifle (384)",
      Recipe_Sell_Remington_Model_700_7.62x51_bolt-action_sniper_rifle = "Sell Remington Model 700 7.62x51 bolt-action sniper rifle (300)",
      Recipe_Sell_Glock_18C_9x19_machine_pistol = "Sell Glock 18C 9x19 machine pistol (154)",
-     Recipe_Sell_Can_of_white_saltl_Pistol_Lebedev_PL-15 = "Sell Lebedev PL-15 9x19 pistol (93)",
      Recipe_Sell_SIG_MCX_.300_Blackout_assault_rifle = "Sell SIG MCX .300 Blackout assault rifle (460)",
      Recipe_Sell_FN_Five-seveN_MK2_5.7x28_pistol = "Sell FN Five-seveN MK2 5.7x28 pistol (146)",
      Recipe_Sell_Glock_17_9x19_pistol = "Sell Glock 17 9x19 pistol (77)",
@@ -92,7 +91,7 @@ Recipes_EN = {
      Recipe_Sell_Molot_Arms_VPO-101_"Vepr-Hunter"_7.62x51_carbine = "Sell Molot Arms VPO-101 Vepr-Hunter 7.62x51 carbine (257)",
      Recipe_Sell_Molot_Arms_VPO-215_"Gornostay"_.366_TKM_bolt-action_rifle = "Sell Molot Arms VPO-215 "Gornostay" .366 TKM bolt-action rifle (99)",
      Recipe_Sell_ORSIS_T-5000M_7.62x51_bolt-action_sniper_rifle = "Sell ORSIS T-5000M 7.62x51 bolt-action sniper rifle (476)",
-     Recipe_Sell_HK_G28_7.62x51_marksman_rifle = "HK G28 7.62x51 marksman rifle (183)",
+
      Recipe_Sell_Knight's_Armament_Company_SR-25_7.62x51_marksman_rifle = "Sell Knight's Armament Company SR-25 7.62x51 marksman rifle (147)",
      Recipe_Sell_Remington_R11_RSASS_7.62x51_marksman_rifle = "Sell Remington R11 RSASS 7.62x51 marksman rifle (871)",
      Recipe_Sell_SVDS_7.62x54R_sniper_rifle = "Sell SVDS 7.62x54R sniper rifle (482)",
@@ -269,7 +268,6 @@ Recipes_EN = {
      Recipe_Sell_Backpack_Tasmanian_Tiger_Trooper_35 = "Sell Backpack Tasmanian Tiger Trooper 35 (513)",
      Recipe_Sell_Backpack_Eberlestock_G2_Gunslinger_II = "Sell Backpack Eberlestock G2 Gunslinger II (378)",
      Recipe_Sell_Backpack_Camelbak_Tri-Zip = "Sell Backpack Camelbak Tri-Zip (380)",
-     Recipe_Sell_PACA_Soft_Armor = "Sell PACA Soft Armor (162)",
      Recipe_Sell_Body_Armor_6B2_(Flora) = "Sell Body Armor 6B2 (Flora) (111)",
      Recipe_Sell_Body_Armor_6B5-16 = "Sell Body Armor 6B5-16 (316)",
      Recipe_Sell_Body_Armor_Kirasa = "Sell Body Armor Kirasa (162)",
@@ -297,11 +295,6 @@ Recipes_EN = {
      Recipe_Sell_Med_Tactical_Belt = "Sell Med Tactical Belt (62)",
      Recipe_Sell_Battlefield_Tactical_Belt = "Sell Battlefield Tactical Belt (95)",
      Recipe_Sell_Tactical_Belt = "Sell Tactical Belt (143)",
-     Recipe_Sell_Helmet_6B47 = "Sell Helmet 6B47 (222)",
-     Recipe_Sell_Helmet_LShZ = "Sell Helmet LShZ (199)",
-     Recipe_Sell_Helmet_ZSh-1-2M = "Sell Helmet ZSh-1-2M (276)",
-     Recipe_Sell_Helmet_BNTI_LShZ = "Sell Helmet BNTI LShZ (484)",
-     Recipe_Sell_Helmet_HighCom_Striker_ULACH = "Sell Helmet HighCom Striker ULACH (580)",
      Recipe_Sell_Digital_Headset_Walker's_Razor = "Sell Digital Headset Walker's Razor (217)",
      Recipe_Sell_Digital_Headset_MSA_Sordin_Supreme_PRO-X/L = "Sell Digital Headset MSA Sordin Supreme PRO-X/L (279)",
      Recipe_Sell_Digital_Headset_Peltor_ComTac_4_Hybrid = "Sell Digital Headset Peltor ComTac 4 Hybrid (491)",
@@ -343,7 +336,6 @@ Recipes_EN = {
      Recipe_Sell_Pack_of_sugar = "Sell Pack of sugar (135)",
      Recipe_Sell_MRE_Ration_Pack = "Sell MRE Ration Pack (107)",
      Recipe_Sell_Can_of_humpback_salmon = "Sell Can of humpback salmon (62)",
-     Recipe_Sell_Can_of_beef_stew_(Tushonka) = "Sell Can of beef stew (Tushonka) (89)",
      Recipe_Sell_Can_of_Majaica_coffee_beans = "Sell Can of Majaica coffee beans (94)",
      Recipe_Sell_Can_of_TarCola_soda = "Sell Can of TarCola soda (50)",
      Recipe_Sell_Can_of_Ice_Green_tea = "Sell Can of Ice Green tea (15)",
@@ -580,6 +572,92 @@ Recipes_EN = {
      Recipe_Sell_Weapon_repair_kit = "Sell Weapon repair kit (560)",
      Recipe_Sell_GSSh-01_active_headset = "Sell GSSh-01 active headset (99)",
      Recipe_Sell_Peltor_Tactical_Sport_headset = "Sell Peltor Tactical Sport headset (275)",
+
+   /**********************************************
+               16/04/24
+               NEW
+   ***********************************************/
+
+     Recipe_Sell_Tac-Kek_FAST_MT_helmet_Replica = "Sell Tac-Kek FAST MT helmet Replica (68)",
+     Recipe_Sell_TSh-4M-L_soft_tank_crew_helmet = "Sell TSh-4M-L soft tank crew helmet (37)",
+     Recipe_Sell_Kolpak-1S_riot_helmet = "Sell Kolpak-1S riot helmet (49)",
+     Recipe_Sell_PSh-97_DJETA_riot_helmet = "Sell PSh-97 DJETA riot helmet (63)",
+     Recipe_Sell_ShPM_Firefighter_helmet = "Sell ShPM Firefighter helmet (57)",
+     Recipe_Sell_NFM_HJELM_helmet = "Sell NFM HJELM helmet (360)",
+     Recipe_Sell_Galvion_Caiman_Hybrid_helmet = "Sell Galvion Caiman Hybrid helmet (318)",
+     Recipe_Sell_Diamond_Age_NeoSteel_High_Cut_helmet = "Sell Diamond Age NeoSteel High Cut helmet (403)",
+     Recipe_Sell_UNTAR_helmet = "Sell UNTAR helmet (175)",
+     Recipe_Sell_SSh-68_steel_helmet = "Sell SSh-68 steel helmet (162)",
+     Recipe_Sell_FORT_Kiver-M_bulletproof_helmet = "Sell FORT Kiver-M bulletproof helmet (192)",
+     Recipe_Sell_NPP_KlASS_Tor-2_helmet = "Sell NPP KlASS Tor-2 helmet (326)",
+     Recipe_Sell_SSSh-94_SFERA-S_helmet = "Sell SSSh-94 SFERA-S helmet (198)",
+     Recipe_Sell_MSA_ACH_TC-2001_MICH_Series_helmet = "Sell MSA ACH TC-2001 MICH Series helmet (323)",
+     Recipe_Sell_MSA_ACH_TC-2002_MICH_Series_helmet = "Sell MSA ACH TC-2002 MICH Series helmet (305)",
+     Recipe_Sell_HighCom_Striker_ACHHC_IIIA_helmet = "Sell HighCom Striker ACHHC IIIA helmet (323)",
+     Recipe_Sell_MSA_Gallet_TC_800_High_Cut_combat_helmet = "Sell MSA Gallet TC 800 High Cut combat helmet (335)",
+     Recipe_Sell_Diamond_Age_Bastion_helmet = "Sell Diamond Age Bastion helmet (369)",
+     Recipe_Sell_Ops-Core_FAST_MT_Super_High_Cut_helmet = "Sell Ops-Core FAST MT Super High Cut helmet (653)",
+     Recipe_Sell_Crye_Precision_AirFrame_helmet = "Sell Crye Precision AirFrame helmet (542)",
+     Recipe_Sell_Team_Wendy_EXFIL_Ballistic_Helmet = "Sell Team Wendy EXFIL Ballistic Helmet (701)",
+     Recipe_Sell_Maska-1SCh_bulletproof_helmet = "Sell Maska-1SCh bulletproof helmet (417)",
+     Recipe_Sell_Rys-T bulletproof helmet = "Sell Rys-T bulletproof helmet (1103)",
+     Recipe_Sell_Vulkan-5_LShZ-5_bulletproof_helmet = "Sell Vulkan-5 LShZ-5 bulletproof helmet (1026)",
+     Recipe_Sell_Altyn_bulletproof_helmet = "Sell Altyn bulletproof helmet (1041)",
+
+     Recipe_Transcribe_Journal = "Transcribe into Journal",
+     Recipe_Craft_Weapon_parts = "Craft Weapon parts",
+     Recipe_Create_a_Cowboy_Hat_kit = "Create a Cowboy Hat kit",
+     Recipe_Create_a_Salewa_first_aid_kit_pack = "Create a Salewa first aid kit pack",
+     Recipe_Craft_2_Bottles_of_Norvinskiy_Yadreniy_premium_kvass_0.6L = "Craft 2 Bottles of Norvinskiy Yadreniy premium kvass 0.6L",
+     Recipe_Craft_Box_of_20_shellfs_12ga = "Craft Box of 20 shellfs 12ga",
+     Recipe_Craft_Box_of_60_rounds_-_9x18 = "Craft Box of 60 rounds - 9x18",
+     Recipe_Craft_Broken_GPhone_smartphone = "Craft Broken GPhone smartphone",
+     Recipe_Craft_Broken_LCD = "Craft Broken LCD",
+     Recipe_Craft_Bundle_of_wires = "Craft Bundle of wires",
+     Recipe_Craft_CMS_surgical_kit = "Craft CMS surgical kit",
+     Recipe_Craft_6_Capacitors = "Craft 6 Capacitors",
+     Recipe_Craft_Gas_analyzer = "Craft Gas analyzer",
+     Recipe_Craft_Gas_mask_air_filter = "Craft Gas mask air filter",
+     Recipe_Craft_Gunpowder_Hawk = "Craft Gunpowder Hawk",
+     Recipe_Craft_Gunpowder_Kite = "Craft Gunpowder Kite",
+     Recipe_Craft_Kalashnikov_AK-74N_5.45x39_assault_rifle = "Craft Kalashnikov AK-74N 5.45x39 assault rifle",
+     Recipe_Craft_Kalashnikov_AKM_7.62x39_assault_rifle = "Craft Kalashnikov AKM 7.62x39 assault rifle",
+     Recipe_Craft_Magnet = "Craft Magnet",
+     Recipe_Craft_Power_cord = "Craft Power cord",
+     Recipe_Craft_Printed_circuit_board = "Craft Printed circuit board",
+     Recipe_Craft_Round_pliers = "Craft Round pliers",
+     Recipe_Craft_Weapon_parts = "Craft Weapon parts",
+     Recipe_Craft_Weapon_parts = "Craft Weapon parts",
+     Recipe_Create_a_BNTI_Module-3M_body_armor_kit = "Create a BNTI Module-3M body armor kit",
+     Recipe_Sell_BNTI_Module-3M_body_armor = "Sell BNTI Module-3M body armor (133)",
+     Recipe_Craft_AI-2_medikit = "Craft AI-2 medkit ",
+     Recipe_Craft_Salewa_first_aid_kit = "Craft Salewa first aid kit",
+
+
+   /**********************************************
+               16/04/24
+               EDIT
+   ***********************************************/
+
+     Recipe_Sell_Can_of_beef_stew_Small = "Sell Can of beef stew Small (89)",
+     Recipe_Sell_Lebedev_PL-15_9x19_pistol = "Sell Lebedev PL-15 9x19 pistol (93)",
+     Recipe_Sell_Soft_Armor_PACA = "Sell PACA Soft Armor (162)",
+
+   /**********************************************
+               21/04/24
+               EDIT
+   ***********************************************/
+
+     Recipe_Sell_HighCom_Striker_ULACH_IIIA_helmet = "Sell HighCom Striker ULACH IIIA helmet (580)",
+     Recipe_Sell_LShZ_lightweight_helmet_Olive_Drab = "Sell LShZ lightweight helmet Olive Drab (199)",
+     Recipe_Sell_HK_G28_7.62x51_marksman_rifle = "HK G28 7.62x51 marksman rifle (1587)",
+     Recipe_Sell_BNTI_LShZ-2DTM_helmet = "Sell BNTI LShZ-2DTM helmet (484)",
+     Recipe_Sell_ZSh-1-2M_helmet = "Sell ZSh-1-2M helmet (276)",
+     Recipe_Sell_6B47_Ratnik-BSh_helmet = "Sell 6B47 Ratnik-BSh helmet (222)",
+
+
+
+
 
 }
 

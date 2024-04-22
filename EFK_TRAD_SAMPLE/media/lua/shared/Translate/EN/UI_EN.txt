@@ -29,8 +29,8 @@ UI_EN = {
                NEW
    ***********************************************/
 
-    UI_trait_porte_casque_audio = "Wearing Headset",
-    UI_trait_porte_casque_audio_description = "Player is wearing a headset device",
+    UI_trait_porte_Headset = "Wearing Headset",
+    UI_trait_porte_Headset_description = "Player is wearing a headset device",
 
    /**********************************************
                12/04/24
@@ -38,6 +38,13 @@ UI_EN = {
    ***********************************************/
 
 	UI_Text_ExamineTooltip = "Close (esc)"
+    
+   /**********************************************
+               13/04/24
+               NEW
+   ***********************************************/
 
+    UI_trait_porte_Helmet = "Wearing Helmet",
+    UI_trait_porte_Helmet_description = "Player is wearing a Helmet",
 
 }
