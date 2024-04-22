@@ -38,6 +38,13 @@ UI_ES = {
    ***********************************************/
 
 	UI_Text_ExamineTooltip = "Cerrar (esc)"
+    
+   /**********************************************
+               13/04/24
+               NEW
+   ***********************************************/
 
+    UI_trait_porte_Helmet = "Uso del casco",
+    UI_trait_porte_Helmet_description = "El jugador lleva casco",
 
 }
