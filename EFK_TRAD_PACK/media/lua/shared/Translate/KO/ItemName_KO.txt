@@ -125,11 +125,6 @@ ItemName_KO = {
      ItemName_Base.EFK_Monstrum = "Monstrum Tactical KeyMod 전방손잡이",
      ItemName_Base.EFK_Cobra_tactical = "SI Cobra tactical 전방손잡이",
 
-     ItemName_Base.EFK_BNTI = "BNTI LSHZ-2DTM 헬멧",
-     ItemName_Base.EFK_LSHZ = "LZSh light 헬멧",
-     ItemName_Base.EFK_ZSH = "ZSh-1-2M 헬멧",
-     ItemName_Base.EFK_ULACH = "Highcom Striker ULACH IIIA 헬멧",
-     ItemName_Base.EFK_6B47 = "6B47 Ratnik-BSh 헬멧",
      ItemName_Base.EFK_NVG18_ON = "GPNVG-18 야간투시경 (켜짐)",
      ItemName_Base.EFK_NVG18_OFF = "GPNVG-18 야간투시경 (꺼짐)",
      ItemName_Base.EFK_NVG18_Harnais_ON = "GPNVG-18 야간투시경 하네스 (켜짐)",
@@ -177,12 +172,12 @@ ItemName_KO = {
 
      ItemName_Base.EFK_PACA = "PACA Soft 방탄복",
      ItemName_Base.EFK_3MAmor = "Module-3M 방탄복",
-     ItemName_Base.EFK_6B2 = "6B2 (flora) 방탄복",
+     ItemName_Base.EFK_6B2 = "6B2 방탄복 (플로라)",
      ItemName_Base.EFK_6B5-16 = "6B5-16 Zh -86 "Uley" 방탄 체스트리그",
      ItemName_Base.EFK_Kirasa = "BNTI Kirasa-N 방탄복",
-     ItemName_Base.EFK_6B23 = "6B23-1 (digital flora pattern) 방탄복",
+     ItemName_Base.EFK_6B23 = "6B23-1 방탄복 (디지털 플로라)",
      ItemName_Base.EFK_6B13 = "6B13 assault 방탄복",
-     ItemName_Base.EFK_6B23-2 = "6B23-2 (mountain flora pattern) 방탄복",
+     ItemName_Base.EFK_6B23-2 = "6B23-2 방탄복 (마운틴 플로라)",
      ItemName_Base.EFK_Redut-M = "FORT Redut-M 방탄복",
      ItemName_Base.EFK_NFM-THOR = "NFM THOR 방탄복",
      ItemName_Base.EFK_OTV = "Interceptor OTV (UCP) 방탄복",
@@ -191,10 +186,10 @@ ItemName_KO = {
      ItemName_Base.EFK_SacMBSS = "Flyye MBSS 배낭",
      ItemName_Base.EFK_Saccoursier = "Transformer 배낭",
      ItemName_Base.EFK_Sacsport = "더플백",
-     ItemName_Base.EFK_LolKek = "LolKek 3F Transfer tourist 배낭",
-     ItemName_Base.EFK_SacSanitar = "Paramedic's 배낭",
+     ItemName_Base.EFK_LolKek = "LolKek 3F Transfer 투어리스트 배낭",
+     ItemName_Base.EFK_SacSanitar = "구급대원 배낭",
      ItemName_Base.EFK_VKBO = "VKBO 군용배낭",
-     ItemName_Base.EFK_ScavBackPack = "Scav 배낭",
+     ItemName_Base.EFK_ScavBackPack = "스캐브 배낭",
      ItemName_Base.EFK_Pillbox = "Hazard 4 Pillbox 배낭",
      ItemName_Base.EFK_Berkut = "WARTECH Berkut BB-102 배낭",
      ItemName_Base.EFK_Tactique = "전술 슬링백",
@@ -632,7 +627,7 @@ ItemName_KO = {
      ItemName_Base.EFK_illumination_lvl1_kit = "조명 시설 레벨 1 키트",
      ItemName_Base.EFK_workbench_lvl1_kit = "작업대 레벨 1 키트",
 
-     ItemName_Base.EFK_nutrition_lvl1_kit = "조리 시설 레벨 1 키트",
+     ItemName_Base.EFK_NutritionTrader_lvl1_kit = "조리 시설 레벨 1 키트",
      ItemName_Base.EFK_Max_Energy = "맥스 에너지",
      ItemName_Base.EFK_BakeEzy = "BakeEzy 요리책",
      ItemName_Base.EFK_Squash = "호박 스프레드 통조림",
@@ -735,34 +730,34 @@ ItemName_KO = {
                NEW
    ***********************************************/
 
-     ItemName_Base.EFK_Eberlestock_F5 = "Eberlestock F5 Switchblade (Dry Earth) 배낭",
+     ItemName_Base.EFK_Eberlestock_F5 = "Eberlestock F5 Switchblade 배낭 (드라이어스)",
      ItemName_Base.EFK_T30 = "Gruppa 99 T30 배낭",
-     ItemName_Base.EFK_6Sh118 = "6Sh118 raid (Digital Flora) 배낭",
-     ItemName_Base.EFK_LBT_2670 = "LBT-2670 Slim Field Med Pack Black",
-     ItemName_Base.EFK_Ranch_Blackjack = "Mystery Ranch Blackjack 50 (MultiCam) 배낭",
-     ItemName_Base.EFK_Attack_2 = "SSO Attack 2 raid 배낭 (Khaki)",
+     ItemName_Base.EFK_6Sh118 = "6Sh118 raid 배낭 (디지털 플로라)",
+     ItemName_Base.EFK_LBT_2670 = "LBT-2670 Slim Field 메디팩 (검정)",
+     ItemName_Base.EFK_Ranch_Blackjack = "Mystery Ranch Blackjack 50 배낭 (멀티캠)",
+     ItemName_Base.EFK_Attack_2 = "SSO Attack 2 raid 배낭 (카키)",
      ItemName_Base.EFK_COMM_BVS = "Mystery Ranch NICE COMM 3 BVS frame system Coyote 배낭",
-     ItemName_Base.EFK_LBT_8005A = "LBT-8005A Day Pack (MultiCam Black) 배낭",
-     ItemName_Base.EFK_LBT_1476A = "LBT-1476A 3Day Pack Woodland",
-     ItemName_Base.EFK_Dragon_Egg_Mark_II = "Direct Action Dragon Egg Mark II (Black) 배낭",
-     ItemName_Base.EFK_RK_PT_25 = "Tehinkom RK-PT-25 patrol (Digital Flora) 배낭",
-     ItemName_Base.EFK_3V_Gear_Paratus = "3V Gear Paratus 3-Day Operator's Tactical (Foliage Grey) 배낭",
-     ItemName_Base.EFK_Pilgrim = "Pilgrim tourist 배낭",
+     ItemName_Base.EFK_LBT_8005A = "LBT-8005A Day Pack 배낭 (멀티캠 블랙)",
+     ItemName_Base.EFK_LBT_1476A = "LBT-1476A 3Day 팩 (위장)",
+     ItemName_Base.EFK_Dragon_Egg_Mark_II = "Direct Action Dragon Egg Mark II 배낭 (검정)",
+     ItemName_Base.EFK_RK_PT_25 = "Tehinkom RK-PT-25 patrol 배낭 (디지털 플로라)",
+     ItemName_Base.EFK_3V_Gear_Paratus = "3V Gear Paratus 3-Day Operator's Tactical 배낭 (단풍 회색)",
+     ItemName_Base.EFK_Pilgrim = "필그림 투어리스트 배낭",
      ItemName_Base.EFK_SATL_Bridger = "Mystery Ranch SATL Bridger Foliage 돌격배낭",
 
-     ItemName_Base.EFK_TFO_Trooper = "HighCom Trooper TFO (MultiCam) 방탄복",
-     ItemName_Base.EFK_Zabralo = "6B43 Zabralo-Sh (Digital Flora) 방탄복",
-     ItemName_Base.EFK_Korund_VM = "NPP KlASS Korund-VM (Black) 방탄복",
+     ItemName_Base.EFK_TFO_Trooper = "HighCom Trooper TFO 방탄복 (멀티캠)",
+     ItemName_Base.EFK_Zabralo = "6B43 Zabralo-Sh 방탄복 (디지털 플로라)",
+     ItemName_Base.EFK_Korund_VM = "NPP KlASS Korund-VM 방탄복 (검정)",
      ItemName_Base.EFK_Gzhel = "BNTI Gzhel-K 방탄복",
-     ItemName_Base.EFK_BNTI_Zhuk = "BNTI Zhuk (Digital Flora) 방탄복",
+     ItemName_Base.EFK_BNTI_Zhuk = "BNTI Zhuk 방탄복 (디지털 플로라)",
      ItemName_Base.EFK_Slick = "LBT-6094A Slick 플레이트 캐리어",
      ItemName_Base.EFK_Tactical_Hexgrid = "5.11 Tactical Hexgrid 플레이트 캐리어",
-     ItemName_Base.EFK_FORT_Redut_T5 = "FORT Redut-T5 (Smog) 방탄복",
-     ItemName_Base.EFK_IOTV_Full_Protect = "IOTV Gen4 (Full Protection Kit MultiCam) 방탄복",
+     ItemName_Base.EFK_FORT_Redut_T5 = "FORT Redut-T5 방탄복 (스모그)",
+     ItemName_Base.EFK_IOTV_Full_Protect = "IOTV Gen4 방탄복 (Full Protection Kit)",
      ItemName_Base.EFK_Defender_2 = "FORT Defender-2 방탄복",
-     ItemName_Base.EFK_IOTV_Assault = "IOTV Gen4 (Assault Kit MultiCam) 방탄복",
-     ItemName_Base.EFK_IOTV_Mobility = "IOTV Gen4 (High Mobility Kit MultiCam) 방탄복",
-     ItemName_Base.EFK_Hexatac_HPC = "Hexatac HPC (Multicam Black) 플레이트 캐리어",
+     ItemName_Base.EFK_IOTV_Assault = "IOTV Gen4 방탄복 (Assault Kit)",
+     ItemName_Base.EFK_IOTV_Mobility = "IOTV Gen4 방탄복 (High Mobility Kit)",
+     ItemName_Base.EFK_Hexatac_HPC = "Hexatac HPC 플레이트 캐리어 (멀티캠 블랙)",
      ItemName_Base.EFK_MF_UNTAR = "MF-UNTAR 방탄복",
      ItemName_Base.EFK_KlASS_Kora_Kulon = "NPP KlASS Kora-Kulon 방탄복",
      ItemName_Base.EFK_BNTI_Zhuk_Press = "BNTI Zhuk Press 방탄복",
@@ -797,4 +792,116 @@ ItemName_KO = {
      ItemName_Base.556Drum = "5.56x45mm 탄창 (60발)",
      ItemName_Base.AKClip = "7.62x39mm 탄창 (30발)",
      ItemName_Base.762Drum = "7.62x39mm 탄창 (75발)",
+
+   /**********************************************
+               16/04/24
+               NEW
+   ***********************************************/
+
+        ItemName_Base.EFK_TacKek_FASTMT = "Tac-Kek FAST MT 레플리카 헬멧",
+        ItemName_Base.EFK_TSh_4M_L = "TSh-4M-L 전차승무원 헬멧",
+        ItemName_Base.EFK_Kolpak = "Kolpak-1S 진압용 헬멧",
+        ItemName_Base.EFK_PSh_97_DJETA = "PSh-97 DJETA 진압용 헬멧",
+        ItemName_Base.EFK_ShPM_Firefighter = "ShPM 소방관 헬멧",
+        ItemName_Base.EFK_NFM_HJELM = "NFM HJELM Hellhound 헬멧 (회색)",
+        ItemName_Base.EFK_Galvion_Caiman_Hybrid = "Galvion Caiman 하이브리드 헬멧 (회색)",
+        ItemName_Base.EFK_Diamond_Age_NeoSteel = "Diamond Age NeoSteel High Cut 헬멧 (검정)",
+        ItemName_Base.EFK_UNTAR_helmet = "UNTAR 헬멧",
+        ItemName_Base.EFK_SSh_68 = "SSh-68 steel 헬멧 (국방색)",
+        ItemName_Base.EFK_Kiver_M = "FORT Kiver-M 방탄 헬멧",
+        ItemName_Base.EFK_KlASS_Tor2 = "NPP KlASS Tor-2 헬멧 (국방색)",
+        ItemName_Base.EFK_SSSh_94 = "SSSh-94 SFERA-S 헬멧",
+        ItemName_Base.EFK_TC_2001 = "MSA ACH TC-2001 MICH Series 헬멧 (국방색)",
+        ItemName_Base.EFK_TC_2002 = "MSA ACH TC-2002 MICH Series 헬멧 (국방색)",
+        ItemName_Base.EFK_HighCom_Striker_ACHHC = "HighCom Striker ACHHC IIIA 헬멧",
+        ItemName_Base.EFK_TC_800 = "MSA Gallet TC 800 High Cut combat 헬멧 (검정)",
+        ItemName_Base.EFK_Diamond_Age_Bastion = "Diamond Age Bastion 헬멧 (검정)",
+        ItemName_Base.EFK_FAST_MT = "Ops-Core FAST MT Super High Cut 헬멧",
+        ItemName_Base.EFK_AirFrame = "Crye Precision AirFrame Tan 헬멧",
+        ItemName_Base.EFK_EXFIL = "Team Wendy EXFIL Ballistic 헬멧",
+        ItemName_Base.EFK_Maska_1SCh = "Maska-1SCh 방탄 헬멧",
+        ItemName_Base.EFK_Rys_T = "Rys-T 방탄 헬멧 (검정)",
+        ItemName_Base.EFK_Vulkan_5 = "Vulkan-5 LShZ-5 방탄 헬멧 (검정)",
+        ItemName_Base.EFK_Altyn = "Altyn 방탄 헬멧 (국방색)",
+
+        ItemName_Base.EFK_Tactical_M2 = "ANA Tactical M2 플레이트 캐리어 (디지털 플로라)",
+        ItemName_Base.EFK_Eagle_Allied_Industries = "Eagle Allied Industries MBSS 플레이트 캐리어 (코요테 브라운)",
+        ItemName_Base.EFK_Tiger_SK = "Tasmanian Tiger SK 플레이트 캐리어 (멀티캠 블랙)",
+        ItemName_Base.EFK_TV_115 = "WARTECH TV-115 플레이트 캐리어 (국방색)",
+        ItemName_Base.EFK_Industries_MMAC = "Eagle Industries MMAC 플레이트 캐리어 (레인져 그린)",
+        ItemName_Base.EFK_Tactical_Banshee = "Shellback Tactical Banshee 플레이트 캐리어 A-TACS AU",
+        ItemName_Base.EFK_Ars_Arma_A18 = "Ars Arma A18 Skanda 플레이트 캐리어 (멀티캠)",
+        ItemName_Base.EFK_ANA_Tactical_M1 = "ANA Tactical M1 플레이트 캐리어 (국방색)",
+        ItemName_Base.EFK_FirstSpear_Strandhogg = "FirstSpear Strandhogg 플레이트 캐리어 (레인져 그린)",
+        ItemName_Base.EFK_ECLiPSE_RBAV = "ECLiPSE RBAV-AF 플레이트 캐리어 (레인져 그린)",
+        ItemName_Base.EFK_Osprey_MK4A_Assault = "CQC Osprey MK4A Assault MTP 플레이트 캐리어",
+        ItemName_Base.EFK_511_Tactical_TacTec = "5.11 Tactical TacTec 플레이트 캐리어 (레인져 그린)",
+        ItemName_Base.EFK_Arma_CPC_MOD1 = "Ars Arma CPC MOD.1 플레이트 캐리어 A-TACS FG",
+        ItemName_Base.EFK_Precision_AVS = "Crye Precision AVS 플레이트 캐리어 (레인져 그린)",
+        ItemName_Base.EFK_KlASS_Bagariy = "NPP KlASS Bagariy 플레이트 캐리어 (디지털 플로라)",
+        ItemName_Base.EFK_Osprey_MK4A = "CQC Osprey MK4A Protection MTP 플레이트 캐리어",
+        ItemName_Base.EFK_6B3TM_01 = "6B3TM-01 방탄 체스트리그 (카키)",
+        ItemName_Base.EFK_6B5_15 = "6B5-15 Zh-86 Uley 방탄 체스트리그 (플로라)",
+
+
+   /**********************************************
+               16/04/24
+               EDIT
+   ***********************************************/
+
+        ItemName_Base.EFK_BNTI = "BNTI LSHZ-2DTM 헬멧",
+        ItemName_Base.EFK_LSHZ = "LZSh light 헬멧",
+        ItemName_Base.EFK_ZSH = "ZSh-1-2M 헬멧",
+        ItemName_Base.EFK_ULACH = "Highcom Striker ULACH IIIA 헬멧",
+        ItemName_Base.EFK_6B47 = "6B47 Ratnik-BSh 헬멧",
+
+   /**********************************************
+               18/04/24
+               NEW
+   ***********************************************/
+
+        ItemName_Base.EFK_Scav_chest = "스캐브 조끼",
+        ItemName_Base.EFK_Security = "보안 조끼",
+        ItemName_Base.EFK_IDEA = "DIY IDEA 체스트리그",
+        ItemName_Base.EFK_SOE_Micro_Rig = "SOE Micro 체스트리그 (멀티캠)",
+        ItemName_Base.EFK_Type_56_Chicom = "Type 56 Chicom 하네스",
+        ItemName_Base.EFK_6Sh112 = "UMTBS 6Sh112 Scout-Sniper 체스트리그 (디지털 플로라)",
+        ItemName_Base.EFK_Khamelion = "Azimut SS Khamelion 하네스 (올리브)",
+        ItemName_Base.EFK_Tarzan = "Splav Tarzan M22 체스트리그 (스모그)",
+        ItemName_Base.EFK_GC_BSS_MK1 = "Gear Craft GC-BSS-MK1 A-TACS FG 체스트리그",
+        ItemName_Base.EFK_M33_SET1 = "Umka M33-SET1 사냥용 조끼 (국방색)",
+        ItemName_Base.EFK_LBT_1961A = "LBT-1961A Load Bearing MAS Grey 체스트리그",
+        ItemName_Base.EFK_Stich_Recon = "Stich Profi MK2 Recon A-TACS FG 체스트리그",
+        ItemName_Base.EFK_Poyas = "Poyas-A + Poyas-B 체스트리그",
+
+   /**********************************************
+               20/04/24
+               NEW
+   ***********************************************/
+
+          ItemName_Base.545x39Bullets = "5.45x39mm 탄약",
+          ItemName_Base.556Bullets = "5.56x45mm 탄약",
+          ItemName_Base.Bullets57 = "5.7x28mm 탄약",
+          ItemName_Base.762x39Bullets = "7.62x39mm 탄약",
+          ItemName_Base.762x51Bullets = "7.62x51mm 탄약",
+          ItemName_Base.762x54rBullets = "7.62x54mmR 탄약",
+          ItemName_Base.BMGBullets = ".50BMG 탄약",
+          ItemName_Base.M82Clip = ".50BMG 탄창",
+          ItemName_Base.EFK_PowderPackHemostatic = "CALOK-B 지혈제",
+          ItemName_MoreMedical.SyretteHighGradePainkillers = "모르핀 주사기",
+          ItemName_MoreMedical.SyretteAdrenalin = "아드레날린 주사기",
+          ItemName_Base.EFK_Spark = "점화 플러그",
+          ItemName_Base.EFK_Hat_Cowboy_kit = "카우보이 모자 키트",
+
+
+
+
+
+
+
+
+
+
+
+
 }

@@ -29,8 +29,8 @@ UI_KO = {
                NEW
    ***********************************************/
 
-    UI_trait_porte_casque_audio = "헤드셋 착용",
-    UI_trait_porte_casque_audio_description =  "플레이어가 헤드셋 장치를 착용하고 있습니다",
+    UI_trait_porte_Headset = "헤드셋 착용",
+    UI_trait_porte_Headset_description = "플레이어가 헤드셋을 착용하고 있음",
 
    /**********************************************
                12/04/24
@@ -39,5 +39,12 @@ UI_KO = {
 
 	UI_Text_ExamineTooltip =  "닫기(esc)"
 
+   /**********************************************
+               13/04/24
+               NEW
+   ***********************************************/
+
+    UI_trait_porte_Helmet = "헬멧 착용",
+    UI_trait_porte_Helmet_description = "플레이어가 헬멧을 착용하고 있음",
 
 }
