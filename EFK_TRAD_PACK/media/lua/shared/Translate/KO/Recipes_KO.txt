@@ -69,7 +69,6 @@ Recipes_KO = {
 	Recipe_Sell_Springfield_Armory_M1A_7.62x51_rifle = "Springfield Armory M1A 7.62x51 지정사수소총 판매",
 	Recipe_Sell_Remington_Model_700_7.62x51_bolt-action_sniper_rifle = "Remington Model 700 7.62x51 저격소총 판매",
 	Recipe_Sell_Glock_18C_9x19_machine_pistol = "Glock 18C 9x19 기관권총 판매",
-	Recipe_Sell_Can_of_white_saltl_Pistol_Lebedev_PL-15 = "Lebedev PL-15 9x19 권총 판매",
 	Recipe_Sell_SIG_MCX_.300_Blackout_assault_rifle = "SIG MCX .300 Blackout 돌격소총 판매",
 	Recipe_Sell_FN_Five-seveN_MK2_5.7x28_pistol = "FN Five-seveN MK2 5.7x28 권총 판매",
 	Recipe_Sell_Glock_17_9x19_pistol = "Glock 17 9x19 권총 판매",
@@ -92,7 +91,7 @@ Recipes_KO = {
 	Recipe_Sell_Molot_Arms_VPO-101_"Vepr-Hunter"_7.62x51_carbine = "Molot Arms VPO-101 Vepr-Hunter 7.62x51 카빈 판매",
 	Recipe_Sell_Molot_Arms_VPO-215_"Gornostay"_.366_TKM_bolt-action_rifle = "Molot Arms VPO-215 "Gornostay" .366 TKM 저격소총 판매",
 	Recipe_Sell_ORSIS_T-5000M_7.62x51_bolt-action_sniper_rifle = "ORSIS T-5000M 7.62x51 저격소총 판매",
-	Recipe_Sell_HK_G28_7.62x51_marksman_rifle = "HK G28 7.62x51 지정사수소총 판매",
+
 	Recipe_Sell_Knight's_Armament_Company_SR-25_7.62x51_marksman_rifle = "Knight's Armament Company SR-25 7.62x51 지정사수소총 판매",
 	Recipe_Sell_Remington_R11_RSASS_7.62x51_marksman_rifle = "Remington R11 RSASS 7.62x51 지정사수소총 판매",
 	Recipe_Sell_SVDS_7.62x54R_sniper_rifle = "SVDS 7.62x54R 저격소총 판매",
@@ -269,7 +268,6 @@ Recipes_KO = {
 	Recipe_Sell_Backpack_Tasmanian_Tiger_Trooper_35 = "Tasmanian Tiger Trooper 35 배낭 판매",
 	Recipe_Sell_Backpack_Eberlestock_G2_Gunslinger_II = "Eberlestock G2 Gunslinger II 배낭 판매",
 	Recipe_Sell_Backpack_Camelbak_Tri-Zip = "Camelbak Tri-Zip 배낭 판매",
-	Recipe_Sell_PACA_Soft_Armor = "PACA Soft 방탄복 판매",
 	Recipe_Sell_Body_Armor_6B2_(Flora) = "6B2 (Flora) 방탄복 판매",
 	Recipe_Sell_Body_Armor_6B5-16 = "6B5-16 방탄복 판매",
 	Recipe_Sell_Body_Armor_Kirasa = "Kirasa 방탄복 판매",
@@ -297,11 +295,6 @@ Recipes_KO = {
 	Recipe_Sell_Med_Tactical_Belt = "의료용 전술벨트 판매",
 	Recipe_Sell_Battlefield_Tactical_Belt = "야전벨트 판매",
 	Recipe_Sell_Tactical_Belt = "전술벨트 판매",
-	Recipe_Sell_Helmet_6B47 = "6B47 헬멧 판매",
-	Recipe_Sell_Helmet_LShZ = "LShZ 헬멧 판매",
-	Recipe_Sell_Helmet_ZSh-1-2M = "ZSh-1-2M 헬멧 판매",
-	Recipe_Sell_Helmet_BNTI_LShZ = "BNTI LShZ 헬멧 판매",
-	Recipe_Sell_Helmet_HighCom_Striker_ULACH = "HighCom Striker ULACH 헬멧 판매",
 	Recipe_Sell_Digital_Headset_Walker's_Razor = "Walker's Razor 디지털 헤드셋 판매",
 	Recipe_Sell_Digital_Headset_MSA_Sordin_Supreme_PRO-X/L = "MSA Sordin Supreme PRO-X/L 디지털 헤드셋 판매",
 	Recipe_Sell_Digital_Headset_Peltor_ComTac_4_Hybrid = "Peltor ComTac 4 Hybrid 디지털 헤드셋 판매",
@@ -343,7 +336,6 @@ Recipes_KO = {
 	Recipe_Sell_Pack_of_sugar = "설탕 팩 판매",
 	Recipe_Sell_MRE_Ration_Pack = "MRE 전투식량 판매",
 	Recipe_Sell_Can_of_humpback_salmon = "곱사연어 통조림 판매",
-	Recipe_Sell_Can_of_beef_stew_(Tushonka) = "쇠고기 스튜 통조림 판매",
 	Recipe_Sell_Can_of_Majaica_coffee_beans = "마자이카 커피 판매",
 	Recipe_Sell_Can_of_TarCola_soda = "타르콜라 판매",
 	Recipe_Sell_Can_of_Ice_Green_tea = "시원한 녹차 판매",
@@ -581,5 +573,94 @@ Recipes_KO = {
      Recipe_Sell_GSSh-01_active_headset = "GSSh-01 액티브 헤드셋 판매",
      Recipe_Sell_Peltor_Tactical_Sport_headset = "펠터 택티컬 스포츠 헤드셋 판매",
 
+   /**********************************************
+               16/04/24
+               NEW
+   ***********************************************/
+
+     Recipe_Sell_Tac-Kek_FAST_MT_helmet_Replica = "Tac-Kek FAST MT 레플리카 헬멧 판매",
+     Recipe_Sell_TSh-4M-L_soft_tank_crew_helmet = "TSh-4M-L 전차승무원 헬멧 판매",
+     Recipe_Sell_Kolpak-1S_riot_helmet = "Kolpak-1S 진압용 헬멧 판매",
+     Recipe_Sell_PSh-97_DJETA_riot_helmet = "PSh-97 DJETA 진압용 헬멧 판매",
+     Recipe_Sell_ShPM_Firefighter_helmet = "ShPM 소방관 헬멧 판매",
+     Recipe_Sell_NFM_HJELM_helmet = "NFM HJELM Hellhound 헬멧 판매",
+     Recipe_Sell_Galvion_Caiman_Hybrid_helmet = "Galvion Caiman 하이브리드 헬멧 판매",
+     Recipe_Sell_Diamond_Age_NeoSteel_High_Cut_helmet = "Diamond Age NeoSteel High Cut 헬멧 판매",
+     Recipe_Sell_UNTAR_helmet = "UNTAR 헬멧 판매",
+     Recipe_Sell_SSh-68_steel_helmet = "SSh-68 steel 헬멧 판매",
+     Recipe_Sell_FORT_Kiver-M_bulletproof_helmet = "FORT Kiver-M 방탄 헬멧 판매",
+     Recipe_Sell_NPP_KlASS_Tor-2_helmet = "NPP KlASS Tor-2 헬멧 판매",
+     Recipe_Sell_SSSh-94_SFERA-S_helmet = "SSSh-94 SFERA-S 헬멧 판매",
+     Recipe_Sell_MSA_ACH_TC-2001_MICH_Series_helmet = "MSA ACH TC-2001 MICH Series 헬멧 판매",
+     Recipe_Sell_MSA_ACH_TC-2002_MICH_Series_helmet = "MSA ACH TC-2002 MICH Series 헬멧 판매",
+     Recipe_Sell_HighCom_Striker_ACHHC_IIIA_helmet = "HighCom Striker ACHHC IIIA 헬멧 판매",
+     Recipe_Sell_MSA_Gallet_TC_800_High_Cut_combat_helmet = "MSA Gallet TC 800 High Cut combat 헬멧 판매",
+     Recipe_Sell_Diamond_Age_Bastion_helmet = "Diamond Age Bastion 헬멧 판매",
+     Recipe_Sell_Ops-Core_FAST_MT_Super_High_Cut_helmet = "Ops-Core FAST MT Super High Cut 헬멧 판매",
+     Recipe_Sell_Crye_Precision_AirFrame_helmet = "Crye Precision AirFrame Tan 헬멧 판매",
+     Recipe_Sell_Team_Wendy_EXFIL_Ballistic_Helmet = "Team Wendy EXFIL Ballistic 헬멧 판매",
+     Recipe_Sell_Maska-1SCh_bulletproof_helmet = "Maska-1SCh 방탄 헬멧 판매",
+     Recipe_Sell_Rys-T bulletproof helmet = "Rys-T 방탄 헬멧 판매",
+     Recipe_Sell_Vulkan-5_LShZ-5_bulletproof_helmet = "Vulkan-5 LShZ-5 방탄 헬멧 판매",
+     Recipe_Sell_Altyn_bulletproof_helmet = "Altyn 방탄 헬멧 판매",
+
+     Recipe_Transcribe_Journal = "일기장에 경험치 저장",
+     Recipe_Craft_Weapon_parts = "무기 부품 제작",
+     Recipe_Create_a_Cowboy_Hat_kit = "카우보이 모자 키트 제작",
+     Recipe_Create_a_Salewa_first_aid_kit_pack = "살레와 응급 치료 키트 팩 제작",
+     Recipe_Craft_2_Bottles_of_Norvinskiy_Yadreniy_premium_kvass_0.6L = "프리미엄 크바스 "노르빈스키 야드레니" 0.6L 제작",
+     Recipe_Craft_Box_of_20_shellfs_12ga = "12게이지 탄약 20발 제작",
+     Recipe_Craft_Box_of_60_rounds_-_9x18 = "9x18mm 탄약 60발 제작",
+     Recipe_Craft_Broken_GPhone_smartphone = "고장난 GPhone 제작",
+     Recipe_Craft_Broken_LCD = "부서진 LCD 제작",
+     Recipe_Craft_Bundle_of_wires = "전선 제작",
+     Recipe_Craft_CMS_surgical_kit = "CMS 수술키트 제작",
+     Recipe_Craft_6_Capacitors = "콘덴서 제작",
+     Recipe_Craft_Gas_analyzer = "가스 분석기 제작",
+     Recipe_Craft_Gas_mask_air_filter = "방독면 정화통 제작",
+     Recipe_Craft_Gunpowder_Hawk = ""Hawk" 화약 제작",
+     Recipe_Craft_Gunpowder_Kite = ""Kite" 화약 제작",
+     Recipe_Craft_Kalashnikov_AK-74N_5.45x39_assault_rifle = "AK-74 5.45x39mm 돌격소총 제작",
+     Recipe_Craft_Kalashnikov_AKM_7.62x39_assault_rifle = "AKM 7.62x39mm 돌격소총 제작",
+     Recipe_Craft_Magnet = "자석 제작",
+     Recipe_Craft_Power_cord = "전원 코드 제작",
+     Recipe_Craft_Printed_circuit_board = "인쇄 회로 기판 제작",
+     Recipe_Craft_Round_pliers = "원형 플라이어 제작",
+     Recipe_Craft_Weapon_parts = "무기 부품 제작",
+     Recipe_Craft_Weapon_parts = "무기 부품 제작",
+     Recipe_Create_a_BNTI_Module-3M_body_armor_kit = "Moodule-3M 방탄복 키트 제작",
+     Recipe_Sell_BNTI_Module-3M_body_armor = "Module-3M 방탄복 판매",
+     Recipe_Craft_AI-2_medkit = "AI-2 응급치료키트 제작",
+     Recipe_Craft_Salewa_first_aid_kit = "살레와 응급치료키트 제작",
+
+
+   /**********************************************
+               16/04/24
+               EDIT
+   ***********************************************/
+
+     Recipe_Sell_Can_of_beef_stew_Small = "쇠고기 스튜 통조림 (소형) 판매",
+     Recipe_Sell_Lebedev_PL-15_9x19_pistol = "Lebedev PL-15 9x19 권총 판매",
+     Recipe_Sell_Soft_Armor_PACA = "PACA Soft 방탄복 판매",
+
+   /**********************************************
+               21/04/24
+               EDIT
+   ***********************************************/
+
+     Recipe_Sell_HighCom_Striker_ULACH_IIIA_helmet = "HighCom Striker ULACH IIIA 헬멧 판매 ",
+     Recipe_Sell_LShZ_lightweight_helmet_Olive_Drab = "LShZ lightweight 헬멧 판매",
+	 Recipe_Sell_HK_G28_7.62x51_marksman_rifle = "HK G28 7.62x51 지정사수소총 판매",
+     Recipe_Sell_BNTI_LShZ-2DTM_helmet = "BNTI LShZ-2DTM 헬멧 판매",
+     Recipe_Sell_ZSh-1-2M_helmet = "ZSh-1-2M 헬멧 판매",
+     Recipe_Sell_6B47_Ratnik-BSh_helmet = "6B47 Ratnik-BSh 헬멧 판매",
+
+
+
+
+
 }
+
+
+
 
