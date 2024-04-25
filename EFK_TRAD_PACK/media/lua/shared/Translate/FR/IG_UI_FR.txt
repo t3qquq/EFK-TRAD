@@ -846,10 +846,6 @@ IGUI_FR = {
    IGUI_MECANIX_Task_q2_t3 = "Réparer la première carte de contrôle",
    IGUI_MECANIX_Task_q2_t4 = "Fixer le deuxième tableau de contrôle",
    IGUI_MECANIX_Task_q2_t6 = "Parler à Mecanix",
-   IGUI_MECANIX_Task_q3_t2 = "Atteindre le lycée Riverside",
-   IGUI_MECANIX_Task_q3_t3 = "Atteindre le toit",
-   IGUI_MECANIX_Task_q3_t4 = "Approcher l'antenne",
-   IGUI_MECANIX_Task_q3_t6 = "Parler à Mecanix",
    IGUI_MECANIX_Task_q4_t2 = "Livrer 3 kits de circuits imprimés, 3 kit de téléphone cassé, 3 kit de batteries rechargeables et 3 kit d'unité centrale (Vous devez convertir ces articles en kits avant de les renvoyer)",
    IGUI_MECANIX_Task_q4_t3 = "Parler à Mecanix",
    IGUI_MECANIX_Task_q5_t2 = "Livrer 2 kits de circuits imprimés, 2 kit de cordon d'alimentation et 4 kit de prise torsadée (T-Shaped plug) (Vous devez convertir ces articles en kits avant de les retourner)",
@@ -1300,5 +1296,14 @@ IGUI_FR = {
     IGUI_EFK_travelDialog_toArea = "Partir en raid sur ",
     IGUI_EFK_travelDialog_toHideoute = "Retourner à la cachette",
     IGUI_EFK_travelDialog_toHideoute_byMoney = "Retourner à la cachette pour ",
+
+   /**********************************************
+               23/04/24
+               EDIT
+   ***********************************************/
+
+   IGUI_MECANIX_Task_q3_t2 = "Atteindre le toit du lycée Riverside",
+   IGUI_MECANIX_Task_q3_t3 = "Approcher l'antenne",
+   IGUI_MECANIX_Task_q3_t5 = "Parler au mécanicien",
 
 }

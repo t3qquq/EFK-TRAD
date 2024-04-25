@@ -893,9 +893,60 @@ ItemName_FR = {
           ItemName_Base.EFK_Spark = "Bougie d'allumage",
           ItemName_Base.EFK_Hat_Cowboy_kit = "Kit chapeau de cow-boy",
 
+   /**********************************************
+               22/04/24
+               NEW
+   ***********************************************/
 
-
-
+           ItemName_EFK_BNTI_Face_Shield = "BNTI LShZ-2DTM helmet with face shield",
+          ItemName_EFK_LSHZ_Face_Shield = "Casque léger LShZ avec écran facial",
+          ItemName_EFK_ZSH_Face_Shield = "ZSh-1-2M helmet with face shield",
+          ItemName_EFK_TacKek_FASTMT_Face_Shield = "Casque Tac-Kek FAST MT avec écran facial",
+          ItemName_EFK_Kolpak_Face_Shield = "Kolpak-1S riot helmet with face shield",
+          ItemName_EFK_PSh_97_DJETA_Face_Shield = "PSh-97 DJETA riot helmet with face shield",
+          ItemName_EFK_ShPM_Firefighter_Face_Shield = "ShPM Firefighter helmet with face shield",
+          ItemName_EFK_NFM_HJELM_Face_Shield = "NFM HJELM helmet with face shield",
+          ItemName_EFK_Galvion_Caiman_Hybrid_Face_Shield = "Casque Galvion Caiman Hybrid avec écran facial",
+          ItemName_EFK_Kiver_M_Face_Shield = "Casque pare-balles FORT Kiver-M avec écran facial",
+          ItemName_EFK_KlASS_Tor2_Face_Shield = "NPP KlASS Tor-2 helmet with face shield",
+          ItemName_EFK_TC_800_Face_Shield = "Casque de combat MSA Gallet TC 800 High Cut avec écran facial",
+          ItemName_EFK_FAST_MT_Face_Shield = "Ops-Core FAST MT Super High Cut helmet with face shield",
+          ItemName_EFK_AirFrame_Face_Shield = "Crye Precision AirFrame helmet with face shield",
+          ItemName_EFK_EXFIL_Face_Shield = "Casque balistique Team Wendy EXFIL avec écran facial",
+          ItemName_EFK_Maska_1SCh_Face_Shield = "Maska-1SCh bulletproof helmet with face shield",
+          ItemName_EFK_Rys_T_Face_Shield = "Casque pare-balles Rys-T avec écran facial",
+          ItemName_EFK_Vulkan_5_Face_Shield = "Casque pare-balles Vulkan-5 LShZ-5 avec écran facial",
+          ItemName_EFK_Altyn_Face_Shield = "Casque pare-balles Altyn avec écran facial",
+          ItemName_EFK_BNTI_Face_Shield_OPEN = "Casque BNTI LShZ-2DTM avec écran facial ouvert",
+          ItemName_EFK_LSHZ_Face_Shield_OPEN = "Casque léger LShZ avec écran facial ouvert",
+          ItemName_EFK_ZSH_Face_Shield_OPEN = "ZSh-1-2M helmet with face shield opened",
+          ItemName_EFK_TacKek_FASTMT_Face_Shield_OPEN = "Tac-Kek FAST MT helmet with face shield opened",
+          ItemName_EFK_Kolpak_Face_Shield_OPEN = "Kolpak-1S riot helmet with face shield opened",
+          ItemName_EFK_PSh_97_DJETA_Face_Shield_OPEN = "Casque anti-émeute PSh-97 DJETA avec écran facial ouvert",
+          ItemName_EFK_ShPM_Firefighter_Face_Shield_OPEN = "ShPM Firefighter helmet with face shield opened",
+          ItemName_EFK_NFM_HJELM_Face_Shield_OPEN = "NFM HJELM helmet with face shield opened",
+          ItemName_EFK_Galvion_Caiman_Hybrid_Face_Shield_OPEN = "Casque Galvion Caiman Hybrid avec écran facial ouvert",
+          ItemName_EFK_Kiver_M_Face_Shield_OPEN = "Casque pare-balles FORT Kiver-M avec écran facial ouvert",
+          ItemName_EFK_KlASS_Tor2_Face_Shield_OPEN = "NPP KlASS Tor-2 helmet with face shield opened",
+          ItemName_EFK_TC_800_Face_Shield_OPEN = "Casque de combat MSA Gallet TC 800 High Cut avec écran facial ouvert",
+          ItemName_EFK_FAST_MT_Face_Shield_OPEN = "Ops-Core FAST MT Super High Cut helmet with face shield opened",
+          ItemName_EFK_AirFrame_Face_Shield_OPEN = "Crye Precision AirFrame helmet with face shield opened",
+          ItemName_EFK_EXFIL_Face_Shield_OPEN = "Casque balistique Team Wendy EXFIL avec écran facial ouvert",
+          ItemName_EFK_Maska_1SCh_Face_Shield_OPEN = "Maska-1SCh bulletproof helmet with face shield opened",
+          ItemName_EFK_Rys_T_Face_Shield_OPEN = "Casque pare-balles Rys-T avec écran facial ouvert",
+          ItemName_EFK_Vulkan_5_Face_Shield_OPEN = "Casque pare-balles Vulkan-5 LShZ-5 avec écran facial ouvert",
+          ItemName_EFK_Altyn_Face_Shield_OPEN = "Casque pare-balles Altyn avec écran facial ouvert",
+          ItemName_EFK_Face_Shield_FAST = "Ops-Core FAST multi-hit ballistic face shield",
+          ItemName_EFK_Face_Shield_Altyn = "Écran facial du casque Altyn",
+          ItemName_EFK_Face_Shield_Rys = "Écran facial Rys-T",
+          ItemName_EFK_Face_Shield_Vulkan = "Ecran facial du casque Vulkan-5",
+          ItemName_EFK_Face_Shield_Maska = "Maska-1SCh face shield",
+          ItemName_EFK_Face_Shield_EXFIL = "Écran facial balistique Team Wendy EXFIL",
+          ItemName_EFK_Face_Shield_2DTM = "Écran facial LShZ-2DTM",
+          ItemName_EFK_Face_Shield_ZSh2M = "Écran facial ZSh-1-2M",
+          ItemName_EFK_Face_Shield_Tor2 = "NPP KlASS Tor-2 helmet face shield",
+          ItemName_EFK_Face_Shield_Kolpak = "Écran facial Kolpak-1S",
+          ItemName_EFK_Face_Shield_Kiver = "Écran facial Kiver-M",
 
 
 
