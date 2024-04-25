@@ -3,14 +3,14 @@ UI_DE = {
     UI_prof_usec = "USEC",
     UI_prof_bear = "BEAR",
 
-    UI_profdesc_usec = "US-amerikanisches privates para-milit‰risches Unternehmen",
-    UI_profdesc_bear = "Russisches privates para-milit‰risches Unternehmen",
+    UI_profdesc_usec = "US-amerikanisches privates para-milit√§risches Unternehmen",
+    UI_profdesc_bear = "Russisches privates para-milit√§risches Unternehmen",
 
-    UI_optionscreen_binding_Ask_Closest_Group_Member_to_Follow = "Rufen Sie das n‰chstgelegene Gruppenmitglied an",
-    UI_optionscreen_binding_Spawn_Wild_Survivor = "Einen anderen ‹berlebenden erscheinen lassen",
+    UI_optionscreen_binding_Ask_Closest_Group_Member_to_Follow = "Rufen Sie das n√§chstgelegene Gruppenmitglied an",
+    UI_optionscreen_binding_Spawn_Wild_Survivor = "Einen anderen √úberlebenden erscheinen lassen",
     UI_optionscreen_binding_Toggle_Group_Window = "Das Gruppenfenster kippen",
     UI_optionscreen_binding_Lower_Follow_Distance = "Geringere Verfolgungsdistanz",
-    UI_optionscreen_binding_Raise_Follow_Distance = "Vergrˆﬂern des Verfolgungsabstands",
+    UI_optionscreen_binding_Raise_Follow_Distance = "Vergr√∂√üern des Verfolgungsabstands",
     UI_optionscreen_binding_SSHotkey_1 = "SSHotkey-Richtlinie 1",
     UI_optionscreen_binding_SSHotkey_2 = "SSHotkey-Richtlinie 2",
     UI_optionscreen_binding_SSHotkey_3 = "SSHotkey-Richtlinie 3",
@@ -21,12 +21,30 @@ UI_DE = {
                EDIT
    ***********************************************/
 
-    UI_optionscreen_binding_Call_Closest_Group_Member = "N‰chstes Gruppenmitglied anrufen",
-    UI_optionscreen_binding_Call_Closest_Non-Group_Member = "N‰chstes Nicht-Gruppenmitglied anrufen",
+    UI_optionscreen_binding_Call_Closest_Group_Member = "N√§chstes Gruppenmitglied anrufen",
+    UI_optionscreen_binding_Call_Closest_Non-Group_Member = "N√§chstes Nicht-Gruppenmitglied anrufen",
 
+   /**********************************************
+               10/04/24
+               NEW
+   ***********************************************/
 
+    UI_trait_porte_Headset = "Der Spieler tr√§gt ein Headset",
+    UI_trait_porte_Headset_description = "Der Spieler tr√§gt ein Headset-Ger√§t",
 
+   /**********************************************
+               12/04/24
+               NEU
+   ***********************************************/
 
+	UI_Text_ExamineTooltip = "Schlie√üen (esc)"
+    
+   /**********************************************
+               13/04/24
+               NEU
+   ***********************************************/
 
+    UI_trait_porte_Helmet = "Der Spieler tr√§gt einen Helm",
+    UI_trait_porte_Helmet_description = "Spieler tr√§gt einen Helm",
 
 }
