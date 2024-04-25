@@ -711,13 +711,6 @@ ItemName_EN = {
         ItemName_tactorgsol.scav_box = "Lucky Scav Junk box",
 
    /**********************************************
-               02/04/24
-               NEW
-   ***********************************************/     
-
-        ItemName_EFK_stash_lvl1_kit = "Stash Level 1 Kit",
-
-   /**********************************************
                05/04/24
                EDIT
    ***********************************************/
@@ -893,14 +886,12 @@ ItemName_EN = {
           ItemName_Base.EFK_Spark = "Spark plug",
           ItemName_Base.EFK_Hat_Cowboy_kit = "Cowboy hat kit",
 
+   /**********************************************
+               25/04/24
+               EDIT
+   ***********************************************/ 
 
-
-
-
-
-
-
-
+		ItemName_Base.EFK_stash_lvl1_kit = "Stash Level 1 Kit",
 
 
 
