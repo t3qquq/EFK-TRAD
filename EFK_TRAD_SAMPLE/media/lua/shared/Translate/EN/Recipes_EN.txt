@@ -256,7 +256,7 @@ Recipes_EN = {
      Recipe_Sell_Backpack_Flyye_MBSS = "Sell Backpack Flyye MBSS (113)",
      Recipe_Sell_Transformer_Bag = "Sell Transformer Bag (55)",
      Recipe_Sell_Sport_Bag = "Sell Sports Bag (70)",
-     Recipe_Sell_Tourist_Backpack_LolKek_3F_Transfer = "Sell Tourist Backpack LolKek 3F Transfer (111)",
+
      Recipe_Sell_Military_Backpack_VKBO = "Sell Military Backpack VKBO (49)",
      Recipe_Sell_Scav_Backpack = "Sell Scav Backpack (124)",
      Recipe_Sell_Backpack_Hazard_4_Pillbox = "Sell Backpack Hazard 4 Pillbox (132)",
@@ -654,6 +654,79 @@ Recipes_EN = {
      Recipe_Sell_BNTI_LShZ-2DTM_helmet = "Sell BNTI LShZ-2DTM helmet (484)",
      Recipe_Sell_ZSh-1-2M_helmet = "Sell ZSh-1-2M helmet (276)",
      Recipe_Sell_6B47_Ratnik-BSh_helmet = "Sell 6B47 Ratnik-BSh helmet (222)",
+
+   /**********************************************
+               25/04/24
+               EDIT
+   ***********************************************/
+
+		Recipe_Sell_LolKek_3F_Transfer_tourist_backpack = "Sell LolKek 3F Transfer tourist backpack (111)",
+
+   /**********************************************
+               25/04/24
+               NEW
+   ***********************************************/
+
+		Recipe_Craft_1_BNTI_Zhuk_body_armor_Press = "Craft BNTI Zhuk body armor Press",
+
+    Recipe_Sell_3V_Gear_Paratus_3-Day_Operator's_Tactical_backpack_Foliage_Grey = "Sell 3V Gear Paratus 3-Day Operator's Tactical backpack Foliage Grey (365)",
+    Recipe_Sell_5.11_Tactical_Hexgrid_plate_carrier = "Sell 5.11 Tactical Hexgrid plate carrier (936)",
+    Recipe_Sell_6B43_Zabralo-Sh_body_armor_Digital_Flora3 = "Sell 6B43 Zabralo-Sh body armor Digital Flora (1593)",
+    Recipe_Sell_6Sh118_raid_backpack_Digital_Flora = "Sell 6Sh118 raid backpack Digital Flora (892)",
+    Recipe_Sell_Azimut_SS_Khamelion_chest_harness_Olive = "Sell Azimut SS Khamelion chest harness Olive (310)",
+    Recipe_Sell_BNTI_Gzhel-K_body_armor = "Sell BNTI Gzhel-K body armor (459)",
+    Recipe_Sell_BNTI_Zhuk_body_armor_Digital_Flora = "Sell BNTI Zhuk body armor Digital Flora (875)",
+    Recipe_Sell_BNTI_Zhuk_body_armor_Press = "Sell BNTI Zhuk body armor Press (101)",
+    Recipe_Sell_Camelbak_Tri-Zip_assault_backpack_Foliage = "Sell Camelbak Tri-Zip assault backpack Foliage (380)",
+    Recipe_Sell_DIY_IDEA_chest_rig = "Sell DIY IDEA chest rig (31)",
+    Recipe_Sell_Direct_Action_Dragon_Egg_Mark_II_backpack_Black = "Sell Direct Action Dragon Egg Mark II backpack Black (188)",
+    Recipe_Sell_Duffle_Bag = "Sell Duffle Bag (70)",
+    Recipe_Sell_Eberlestock_F4_Terminator_load_bearing_backpack_Tiger_Stripe = "Sell Eberlestock F4 Terminator load bearing backpack Tiger Stripe (560)",
+    Recipe_Sell_Eberlestock_F5_Switchblade_backpack_Dry_Earth = "Sell Eberlestock F5 Switchblade backpack Dry Earth (365)",
+    Recipe_Sell_Eberlestock_G2_Gunslinger_II_backpack_Dry_Earth = "Sell Eberlestock G2 Gunslinger II backpack Dry Earth (378)",
+    Recipe_Sell_FORT_Defender-2_body_armor = "Sell FORT Defender-2 body armor (499)",
+    Recipe_Sell_FORT_Redut-T5_body_armor_Smog = "Sell FORT Redut-T5 body armor Smog (910)",
+    Recipe_Sell_Flyye_MBSS_backpack_UCP = "Sell Flyye MBSS backpack UCP (113)",
+    Recipe_Sell_Gear_Craft_GC-BSS-MK1_chest_rig_A-TACS_FG = "Sell Gear Craft GC-BSS-MK1 chest rig A-TACS FG (186)",
+    Recipe_Sell_Gruppa_99_T20_backpack = "Sell Gruppa 99 T20 backpack (172)",
+    Recipe_Sell_Gruppa_99_T30_backpack = "Sell Gruppa 99 T30 backpack (402)",
+    Recipe_Sell_Hazard_4_Drawbridge_backpack_Coyote_Tan = "Sell Hazard 4 Drawbridge backpack Coyote Tan (186)",
+    Recipe_Sell_Hazard_4_Pillbox_backpack_Black = "Sell Hazard 4 Pillbox backpack Black (132)",
+    Recipe_Sell_Hazard_4_Takedown_sling_backpack = "Sell Hazard 4 Takedown sling backpack (168)",
+    Recipe_Sell_Hexatac_HPC_Plate_Carrier_Multicam_Black = "Sell Hexatac HPC Plate Carrier Multicam Black (337)",
+    Recipe_Sell_HighCom_Trooper_TFO_body_armor_MultiCam = "Sell HighCom Trooper TFO body armor MultiCam (469)",
+    Recipe_Sell_IOTV_Gen4_body_armor_Assault_Kit_MultiCam = "Sell IOTV Gen4 body armor Assault Kit MultiCam (537)",
+    Recipe_Sell_IOTV_Gen4_body_armor_Full_Protection_Kit_MultiCam = "Sell IOTV Gen4 body armor Full Protection Kit MultiCam (622)",
+    Recipe_Sell_IOTV_Gen4_body_armor_High_Mobility_Kit_MultiCam = "Sell IOTV Gen4 body armor High Mobility Kit MultiCam (516)",
+    Recipe_Sell_LBT-1476A_3Day_Pack_Woodland = "Sell LBT-1476A 3Day Pack Woodland (176)",
+    Recipe_Sell_LBT-1961A_Load_Bearing_Chest_Rig_MAS_Grey = "Sell LBT-1961A Load Bearing Chest Rig MAS Grey (237)",
+    Recipe_Sell_LBT-2670_Slim_Field_Med_Pack_Black = "Sell LBT-2670 Slim Field Med Pack Black (124)",
+    Recipe_Sell_LBT-6094A_Slick_Plate_Carrier6 = "Sell LBT-6094A Slick Plate Carrier (1576)",
+    Recipe_Sell_LBT-8005A_Day_Pack_backpack_MultiCam_Black = "Sell LBT-8005A Day Pack backpack MultiCam Black (140)",
+    Recipe_Sell_Lolkek_3F_Transfer_tourist_backpack = "Sell Lolkek 3F Transfer tourist backpack (111)",
+    Recipe_Sell_MF-UNTAR_body_armor = "Sell MF-UNTAR body armor (212)",
+    Recipe_Sell_Mystery_Ranch_Blackjack_50_backpack_MultiCam = "Sell Mystery Ranch Blackjack 50 backpack MultiCam (785)",
+    Recipe_Sell_Mystery_Ranch_NICE_COMM_3_BVS_frame_system_Coyote6 = "Sell Mystery Ranch NICE COMM 3 BVS frame system Coyote (1116)",
+    Recipe_Sell_Mystery_Ranch_SATL_Bridger_Assault_Pack_Foliage = "Sell Mystery Ranch SATL Bridger Assault Pack Foliage (558)",
+    Recipe_Sell_NPP_KIASS_Kora-Kulon_body_armor = "Sell NPP KIASS Kora-Kulon body armor (268)",
+    Recipe_Sell_NPP_KIASS_Korund-VM_body_armor_Black = "Sell NPP KIASS Korund-VM body armor Black (374)",
+    Recipe_Sell_Pilgrim_tourist_backpack = "Sell Pilgrim tourist backpack (489)",
+    Recipe_Sell_Poyas-A_+_Poyas-B_gear_rig = "Sell Poyas-A + Poyas-B gear rig (256)",
+    Recipe_Sell_SOE_Micro_Rig_MultiCam = "Sell SOE Micro Rig MultiCam (59)",
+    Recipe_Sell_SSO_Attack_2_raid_backpack_Khaki = "Sell SSO Attack 2 raid backpack Khaki (542)",
+    Recipe_Sell_Scav_Vest = "Sell Scav Vest (26)",
+    Recipe_Sell_Scav_backpack = "Sell Scav backpack (124)",
+    Recipe_Sell_Security_vest = "Sell Security vest (24)",
+    Recipe_Sell_Splav_Tarzan_M22_chest_rig_Smog = "Sell Splav Tarzan M22 chest rig Smog (119)",
+    Recipe_Sell_Stich_Profi_Chest_Rig_MK2_Recon_A-TACS_FG = "Sell Stich Profi Chest Rig MK2 Recon A-TACS FG (200)",
+    Recipe_Sell_Tactical_sling_bag_Khaki = "Sell Tactical sling bag Khaki (37)",
+    Recipe_Sell_Tasmanian_Tiger_Trooper_35_backpack_Khaki = "Sell Tasmanian Tiger Trooper 35 backpack Khaki (513)",
+    Recipe_Sell_Tehinkom_RK-PT-25_patrol_backpack_Digital_Flora = "Sell Tehinkom RK-PT-25 patrol backpack Digital Flora (169)",
+    Recipe_Sell_Type_56_Chicom_chest_harness = "Sell Type 56 Chicom chest harness (57)",
+    Recipe_Sell_UMTBS_6Sh112_Scout-Sniper_chest_rig_Digital_Flora = "Sell UMTBS 6Sh112 Scout-Sniper chest rig Digital Flora (132)",
+    Recipe_Sell_Umka_M33-SET1_hunter_vest_Olive_Drab = "Sell Umka M33-SET1 hunter vest Olive Drab (159)",
+    Recipe_Sell_VKBO_army_bag = "Sell VKBO army bag (49)",
+    Recipe_Sell_WARTECH_Berkut_BB-102_backpack_A-TACS_FG = "Sell WARTECH Berkut BB-102 backpack A-TACS FG (136)",
 
 
 
