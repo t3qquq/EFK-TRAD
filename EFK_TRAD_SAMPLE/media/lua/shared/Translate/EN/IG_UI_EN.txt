@@ -846,10 +846,6 @@ IGUI_EN = {
    IGUI_MECANIX_Task_q2_t3 = "Fix the first control board",
    IGUI_MECANIX_Task_q2_t4 = "Fix the second control board",
    IGUI_MECANIX_Task_q2_t6 = "Talk to Mechanic",
-   IGUI_MECANIX_Task_q3_t2 = "Reach the Riverside Highschool",
-   IGUI_MECANIX_Task_q3_t3 = "Reach the roof",
-   IGUI_MECANIX_Task_q3_t4 = "Approach the antenna",
-   IGUI_MECANIX_Task_q3_t6 = "Talk to Mechanic",
    IGUI_MECANIX_Task_q4_t2 = "Deliver 3 Printed circuit board kit, 3 Broken Gphone kit, 3 Rechargeable Batterie kit and 3 CPU kit (You must convert this items into kits before returning its)",
    IGUI_MECANIX_Task_q4_t3 = "Talk to Mechanic",
    IGUI_MECANIX_Task_q5_t2 = "Deliver 2 Printed circuit board kit, 2 Power cord kit and 4 T-Shaped plug kit (You must convert this items into kits before returning its)",
@@ -1300,5 +1296,14 @@ IGUI_EN = {
     IGUI_EFK_travelDialog_toArea = "Go on a raid on ",
     IGUI_EFK_travelDialog_toHideoute = "Go back to the hideout",
     IGUI_EFK_travelDialog_toHideoute_byMoney = "Go back to the hideout to ",
+
+   /**********************************************
+               23/04/24
+               EDIT
+   ***********************************************/
+
+   IGUI_MECANIX_Task_q3_t2 = "Reach the Riverside Highschool roof",
+   IGUI_MECANIX_Task_q3_t3 = "Approach the antenna",
+   IGUI_MECANIX_Task_q3_t5 = "Talk to Mechanic",
 
 }
