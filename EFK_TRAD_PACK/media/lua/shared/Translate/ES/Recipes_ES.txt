@@ -104,20 +104,6 @@ Recipes_ES = {
      Recipe_Sell_MP-133_12ga_pump-action_shotgun = "Vender MP-133 12ga pump-action shotgun (127)",
      Recipe_Sell_Mossberg_590A1_12ga_pump-action_shotgun = "Vender Mossberg 590A1 12ga pump-action shotgun (168)",
 
-     Recipe_Sell_9x18_Ammo_Box = "Vender 9x18 Ammo Box (22)",
-     Recipe_Sell_.45ACP_Ammo_Box = "Vender .45ACP Ammo Box (94)",
-     Recipe_Sell_9x19_Ammo_Box = "Vender 9x19 Ammo Box (74)",
-     Recipe_Sell_5,7x28_Ammo_Box = "Vender 5,7x28 Ammo Box (87)",
-     Recipe_Sell_5,45x39_Ammo_Box = "Vender 5,45x39 Ammo Box (126)",
-     Recipe_Sell_5,56x45_Ammo_Box = "Vender 5,56x45 Ammo Box (148)",
-     Recipe_Sell_7,62x39_Ammo_Box = "Vender 7,62x39 Ammo Box (154)",
-     Recipe_Sell_7,62x51_Ammo_Box = "Vender 7,62x51 Ammo Box (215)",
-     Recipe_Sell_7,62x54R_Ammo_Box = "Vender 7,62x54R Ammo Box (261)",
-     Recipe_Sell_12GA_Ammo_Box = "Vender 12GA Ammo Box (33)",
-     Recipe_Sell_20GA_Ammo_Box = "Vender 20GA Ammo Box (2)",
-     Recipe_Sell_.357MAG_Ammo_Box = "Vender .357MAG Ammo Box (29)",
-     Recipe_Sell_50-BMG_Ammo_Box = "Vender 50-BMG Ammo Box (55)",
-
      Recipe_Sell_Reflex_Sight_NPZ_PK1_Obzor = "Vender Reflex Sight NPZ PK1 Obzor (39)",
      Recipe_Sell_Reflex_Sight_Axion_Kobra_EKP-8-02_(Dovetail) = "Vender Reflex Sight Axion Kobra EKP-8-02 (Dovetail) (52)",
      Recipe_Sell_Scope_NPZ_1P78-1_2,8_x = "Vender Scope NPZ 1P78-1 2.8x (123)",
@@ -253,22 +239,7 @@ Recipes_ES = {
      Recipe_Sell_GPNVG-18_Night_Vision_goggles = "Vender GPNVG-18 Night Vision Goggles (870)",
      Recipe_Sell_Armasight_N-15_Night_Vision_goggles = "Vender Armasight N-15 Night Vision goggles (448)",
      Recipe_Sell_PNV-10T_Night_Vision_goggles = "Vender PNV-10T Night Vision goggles (168)",
-     Recipe_Sell_Backpack_Flyye_MBSS = "Vender Backpack Flyye MBSS (113)",
-     Recipe_Sell_Transformer_Bag = "Vender Transformer Bag (55)",
-     Recipe_Sell_Sport_Bag = "Vender Sports Bag (70)",
-     Recipe_Sell_Tourist_Backpack_LolKek_3F_Transfer = "Vender Tourist Backpack LolKek 3F Transfer (111)",
-     Recipe_Sell_Military_Backpack_VKBO = "Vender Military Backpack VKBO (49)",
-     Recipe_Sell_Scav_Backpack = "Vender Scav Backpack (124)",
-     Recipe_Sell_Backpack_Hazard_4_Pillbox = "Vender Backpack Hazard 4 Pillbox (132)",
-     Recipe_Sell_Tactical_Sling_Bag = "Vender Tactical Sling Bag (37)",
-     Recipe_Sell_Backpack_Wartech_Berkut = "Vender Backpack Wartech Berkut (136)",
-     Recipe_Sell_Backpack_Gruppa_99_T20 = "Vender Backpack Gruppa 99 T20 (172)",
-     Recipe_Sell_Backpack_Drawbridge_Hazard_4 = "Vender Backpack Drawbridge Hazard 4 (186)",
-     Recipe_Sell_Sling_Backpack_Hazard4_Takedown = "Vender Sling Backpack Hazard4 Takedown (168)",
-     Recipe_Sell_Backpack_Tasmanian_Tiger_Trooper_35 = "Vender Backpack Tasmanian Tiger Trooper 35 (513)",
-     Recipe_Sell_Backpack_Eberlestock_G2_Gunslinger_II = "Vender Backpack Eberlestock G2 Gunslinger II (378)",
-     Recipe_Sell_Backpack_Camelbak_Tri-Zip = "Vender Backpack Camelbak Tri-Zip (380)",
-     Recipe_Sell_Body_Armor_6B2_(Flora) = "Vender Body Armor 6B2 (Flora) (111)",
+     Recipe_Sell_Body_Armor_6B2_(Flora) = "Venta Body Armor 6B2 (Flora) (111)",
      Recipe_Sell_Body_Armor_6B5-16 = "Vender Body Armor 6B5-16 (316)",
      Recipe_Sell_Body_Armor_Kirasa = "Vender Body Armor Kirasa (162)",
      Recipe_Sell_Body_Armor_6B23-1 = "Vender Body Armor 6B23-1 (155)",
@@ -609,28 +580,27 @@ Recipes_ES = {
      Recipe_Create_a_Cowboy_Hat_kit = "Crea un kit de Sombrero de Vaquero",
      Recipe_Create_a_Salewa_first_aid_kit_pack = "Crea un kit de primeros auxilios Salewa",
      Recipe_Craft_2_Bottles_of_Norvinskiy_Yadreniy_premium_kvass_0.6L = "Crea 2 botellas de Norvinskiy Yadreniy premium kvass 0.6L",
-     Recipe_Craft_Box_of_20_shellfs_12ga = "Craft Caja de 20 shellfs 12ga",
+     Recipe_Craft_Box_of_20_shellfs_12ga = "Artesanía Caja de 20 shellfs 12ga",
      Recipe_Craft_Box_of_60_rounds_-_9x18 = "Caja artesanal de 60 cartuchos - 9x18",
      Recipe_Craft_Broken_GPhone_smartphone = "Artesanía GPhone smartphone roto",
      Recipe_Craft_Broken_LCD = "Artesanía LCD roto",
      Recipe_Craft_Bundle_of_wires = "Crea un manojo de cables",
-     Recipe_Craft_CMS_surgical_kit = "Craft CMS kit quirúrgico",
-     Recipe_Craft_6_Capacitors = "Craft 6 Condensadores",
-     Recipe_Craft_Gas_analyzer = "Craft Analizador de gases",
-     Recipe_Craft_Gas_mask_air_filter = "Craft Filtro de aire para máscara de gas",
+     Recipe_Craft_CMS_surgical_kit = "Artesanía CMS kit quirúrgico",
+     Recipe_Craft_6_Capacitors = "Artesanía 6 Condensadores",
+     Recipe_Craft_Gas_analyzer = "Artesanía Analizador de gases",
      Recipe_Craft_Gunpowder_Hawk = "Halcón de pólvora artesanal",
      Recipe_Craft_Gunpowder_Kite = "Cometa de pólvora artesanal",
      Recipe_Craft_Kalashnikov_AK-74N_5.45x39_assault_rifle = "Rifle de asalto Kalashnikov AK-74N 5.45x39",
      Recipe_Craft_Kalashnikov_AKM_7.62x39_assault_rifle = "Rifle de asalto Kalashnikov AKM 7.62x39",
      Recipe_Craft_Magnet = "Imán artesanal",
-     Recipe_Craft_Power_cord = "Craft Cable de alimentación",
+     Recipe_Craft_Power_cord = "Artesanía Cable de alimentación",
      Recipe_Craft_Printed_circuit_board = "Placa de circuito impreso Craft",
-     Recipe_Craft_Round_pliers = "Craft Alicates redondos",
+     Recipe_Craft_Round_pliers = "Artesanía Alicates redondos",
      Recipe_Craft_Weapon_parts = "Artesanía Piezas de armas",
      Recipe_Craft_Weapon_parts = "Crea piezas de armas",
      Recipe_Create_a_BNTI_Module-3M_body_armor_kit = "Crea un kit de armadura corporal BNTI Módulo-3M",
      Recipe_Sell_BNTI_Module-3M_body_armor = "Vender una armadura corporal BNTI Módulo-3M (133)",
-     Recipe_Craft_AI-2_medikit = "Craft AI-2 medkit",
+     Recipe_Craft_AI-2_medikit = "Artesanía AI-2 medkit",
      Recipe_Craft_Salewa_first_aid_kit = "Crear botiquín Salewa",
 
 
@@ -653,11 +623,111 @@ Recipes_ES = {
      Recipe_Sell_HK_G28_7.62x51_marksman_rifle = "Rifle HK G28 7.62x51 marksman (1587)",
      Recipe_Sell_BNTI_LShZ-2DTM_helmet = "Vender casco BNTI LShZ-2DTM (484)",
      Recipe_Sell_ZSh-1-2M_helmet = "Vender casco ZSh-1-2M (276)",
-     Recipe_Sell_6B47_Ratnik-BSh_helmet = "Vender casco 6B47 Ratnik-BSh (222)",
 
 
+   /**********************************************
+               23/04/24
+               EDITAR
+   ***********************************************/
 
+     Recipe_Sell_9x18_Ammo_Box = "Vender Caja de Munición 9x18 (17)",
+     Recipe_Sell_.45ACP_Ammo_Box = "Vender Caja de Munición .45ACP (31)",
+     Recipe_Sell_9x19_Ammo_Box = "Vender caja de munición 9x19 (21)",
+     Recipe_Sell_5,7x28_Ammo_Box = "Vender caja de munición 5,7x28 (50)",
+     Recipe_Sell_5,45x39_Ammo_Box = "Vender Caja de Munición 5,45x39 (46)",
+     Recipe_Sell_5,56x45_Ammo_Box = "Vender Caja de Munición 5,56x45 (60)",
+     Recipe_Sell_7,62x39_Ammo_Box = "Vender Caja de Munición 7,62x39 (80)",
+     Recipe_Sell_7,62x51_Ammo_Box = "Vender Caja de Munición 7,62x51 (87)",
+     Recipe_Sell_7,62x54R_Ammo_Box = "Vender Caja de Munición 7,62x54R (90)",
+     Recipe_Sell_12GA_Ammo_Box = "Vender Caja de Munición 12GA (5)",
+     Recipe_Sell_20GA_Ammo_Box = "Vender Caja de Munición 20GA (3)",
+     Recipe_Sell_.357MAG_Ammo_Box = "Vender Caja de Munición .357MAG (29)",
+     Recipe_Sell_50-BMG_Ammo_Box = "Vender Caja de Munición 50-BMG (228)",
 
+   /**********************************************
+               23/04/24
+               NUEVO
+   ***********************************************/
 
+     Recipe_Sell_Poyas-A_+_Poyas-B_gear_rig = "Vender equipo Poyas-A + Poyas-B (256)",
+     Recipe_Sell_Stich_Profi_Chest_Rig_MK2_Recon_A-TACS_FG = "Vende Stich Profi Chest Rig MK2 Recon A-TACS FG (200)",
+     Recipe_Sell_LBT-1961A_Load_Bearing_Chest_Rig_MAS_Grey = "Vender LBT-1961A Load Bearing Chest Rig MAS Gris (237)",
+     Recipe_Sell_Umka_M33-SET1_hunter_vest_Olive_Drab = "Vender Umka M33-SET1 chaleco cazador Oliva (159)",
+     Recipe_Sell_Gear_Craft_GC-BSS-MK1_chest_rig_A-TACS_FG = "Vender Gear Artesanía GC-BSS-MK1 chest rig A-TACS FG (186)",
+     Recipe_Sell_Splav_Tarzan_M22_chest_rig_Smog = "Vende aparejo de cofre Splav Tarzan M22 Smog (119)",
+     Recipe_Sell_Azimut_SS_Khamelion_chest_harness_Olive = "Vender Azimut SS Khamelion chest harness Olive (310)",
+     Recipe_Sell_UMTBS_6Sh112_Scout-Sniper_chest_rig_Digital_Flora = "Vender UMTBS 6Sh112 Scout-Sniper chest rig Digital Flora (132)",
+     Recipe_Sell_Type_56_Chicom_chest_harness = "Vende arnés pectoral Chicom Tipo 56 (57)",
+     Recipe_Sell_SOE_Micro_Rig_MultiCam = "Vender Micro Rig MultiCam SOE (59)",
+     Recipe_Sell_DIY_IDEA_chest_rig = "Vender arnés pectoral DIY IDEA (31)",
+     Recipe_Sell_Security_vest = "Vender Chaleco de seguridad (24)",
+     Recipe_Sell_Scav_vest = "Vender chaleco escavador (26)",
+     Recipe_Sell_BNTI_Zhuk_body_armor_Press = "Vender Armadura corporal BNTI Zhuk Press (101)",
+     Recipe_Sell_NPP_KlASS_Kora-Kulon_armadura_cuerpo = "Vender NPP KlASS Kora-Kulon armadura de cuerpo (268)",
+     Recipe_Sell_MF-UNTAR_body_armor = "Vender armadura MF-UNTAR (212)",
+     Recipe_Sell_Hexatac_HPC_Plate_Carrier_Multicam_Black = "Vender Hexatac HPC Plate Carrier Multicam Negro (337)",
+     Recipe_Sell_IOTV_Gen4_body_armor_High_Mobility_Kit_MultiCam = "Venta IOTV Gen4 body armor Kit Alta Movilidad MultiCam (516)",
+     Recipe_Sell_IOTV_Gen4_body_armor_Assault_Kit_MultiCam = "Vender IOTV Gen4 body armor Kit de Asalto MultiCam (537)",
+     Recipe_Sell_FORT_Defender-2_body_armor = "Vende armadura corporal FORT Defender-2 (499)",
+     Recipe_Sell_IOTV_Gen4_body_armor_Full_Protection_Kit_MultiCam = "Vender IOTV Gen4 body armor Kit de Protección Completa MultiCam (622)",
+     Recipe_Sell_FORT_Redut-T5_body_armor_Smog = "Venta FORT Redut-T5 armadura Smog (910)",
+     Recipe_Sell_5.11_Tactical_Hexgrid_plate_carrier = "Vender portaplacas 5.11 Tactical Hexgrid (936)",
+     Recipe_Sell_LBT-6094A_Slick_Plate_Carrier = "Vende portaplacas LBT-6094A Slick (1576)",
+     Recipe_Sell_BNTI_Zhuk_body_armor_Digital_Flora = "Vender BNTI Zhuk armadura Flora Digital (875)",
+     Recipe_Sell_BNTI_Gzhel-K_armadura_cuerpo = "Vender armadura corporal BNTI Gzhel-K (459)",
+     Recipe_Sell_NPP_KlASS_Korund-VM_body_armor_Black = "Vender NPP KlASS Korund-VM armadura negra (374)",
+     Recipe_Sell_6B43_Zabralo-Sh_body_armor_Digital_Flora = "Vender 6B43 Zabralo-Sh armadura Flora Digital (1593)",
+     Recipe_Sell_HighCom_Trooper_TFO_body_armor_MultiCam = "Vender HighCom Trooper TFO body armor MultiCam (469)",
+     Recipe_Sell_Mystery_Ranch_SATL_Bridger_Assault_Pack_Foliage = "Vender Mystery Ranch SATL Bridger Assault Pack Foliage (558)",
+     Recipe_Sell_Pilgrim_tourist_backpack =  "Vender mochila de turista Peregrina (489)",
+     Recipe_Sell_3V_Gear_Paratus_3-Day_Operator's_Tactical_backpack_Foliage_Grey = "Vender 3V Gear Paratus 3-Day Operator's Tactical backpack Foliage Grey (365)",
+     Recipe_Sell_Tehinkom_RK-PT-25_patrol_backpack_Digital_Flora = "Vender mochila de patrulla Tehinkom RK-PT-25 Flora Digital (169)",
+     Recipe_Sell_Direct_Action_Dragon_Egg_Mark_II_backpack_Black = "Venta Acción Directa Huevo de Dragón Mark II mochila Negro (188)",
+     Recipe_Sell_LBT-1476A_3Day_Pack_Woodland = "Vender LBT-1476A 3Day Pack Woodland (176)",
+     Recipe_Sell_LBT-8005A_Day_Packpack_MultiCam_Black = "Vender LBT-8005A Mochila Day Pack MultiCam Negra (140)",
+     Recipe_Sell_Mystery_Ranch_NICE_COMM_3_BVS_frame_system_Coyote = "Venta Mystery Ranch NICE COMM 3 BVS frame system Coyote (1116)",
+     Recipe_Sell_SSO_Attack_2_raid_backpack_Khaki = "Vende SSO Attack 2 raid backpack Khaki (542)",
+     Recipe_Sell_Mystery_Ranch_Blackjack_50_backpack_MultiCam =  "Vender Mystery Ranch Blackjack 50 mochila MultiCam (785)",
+     Recipe_Sell_LBT-2670_Slim_Field_Med_Pack_Black = "Vender LBT-2670 Slim Field Med Pack Negro (124)",
+     Recipe_Sell_6Sh118_raid_backpack_Digital_Flora = "Vender 6Sh118 mochila raid Flora Digital (892)",
+     Recipe_Sell_Gruppa_99_T30_backpack = "Vender Gruppa 99 T30 mochila (402)",
+     Recipe_Sell_Eberlestock_F5_Switchblade_backpack_Dry_Earth = "Vender Eberlestock F5 Switchblade mochila Tierra Seca (365)",
+
+   /**********************************************
+               24/04/24
+               EDITAR
+   ***********************************************/
+
+     Recipe_Sell_Flyye_MBSS_backpack_UCP = "Vender Flyye MBSS mochila UCP (113)",
+     Recipe_Sell_Transformer_Bag ="Vender Bolsa Transformador (55)",
+     Recipe_Sell_Duffle_Bag = "Vender Bolsa Duffle (70)",
+     Recipe_Sell_LolKek_3F_Transfer_tourist_backpack = "Vender mochila turística LolKek 3F Transfer (111)",
+     Recipe_Sell_VKBO_army_bag = "Vender VKBO bolsa de ejército (49)",
+     Recipe_Sell_Scav_backpack = "Vender mochila de carroñero (124)",
+     Recipe_Sell_Hazard_4_Pillbox_backpack_Black = "Vender Hazard 4 Pillbox mochila Negro (132)",
+     Recipe_Sell_Tactical_sling_bag_Khaki = "Vender Bolsa eslinga táctica Caqui (37)",
+     Recipe_Sell_WARTECH_Berkut_BB-102_backpack_A-TACS_FG = "Vender WARTECH Berkut BB-102 mochila A-TACS FG (136)",
+     Recipe_Sell_Gruppa_99_T20_backpack = "Vender Gruppa 99 T20 mochila (172)",
+     Recipe_Sell_Hazard_4_Drawbridge_backpack_Coyote_Tan = "Vender Hazard 4 Drawbridge mochila Coyote Tan (186)",
+     Recipe_Sell_Hazard_4_Takedown_sling_backpack = "Vender Hazard 4 Mochila eslinga Takedown (168)",
+     Recipe_Sell_Tasmanian_Tiger_Trooper_35_backpack_Khaki = "Vender mochila Tasmanian Tiger Trooper 35 Caqui (513)",
+     Recipe_Sell_Eberlestock_G2_Gunslinger_II_backpack_Dry_Earth = "Vender Eberlestock G2 Gunslinger II mochila Tierra_Seca (378)",
+     Recipe_Sell_Camelbak_Tri-Zip_assault_backpack_Foliage = "Vender Camelbak Tri-Zip mochila de asalto Foliage (380)",
+     Recipe_Sell_Eberlestock_F4_Terminator_load_bearing_backpack_Tiger_Stripe = "Vender Eberlestock F4 Terminator mochila de carga Tiger Stripe (560)",
+
+   /**********************************************
+               25/04/24
+               NUEVO
+   ***********************************************/
+
+     Recipe_Craft_2_Aluminum_splint ="Artesanía 2 férula de aluminio",
+     Recipe_Craft_1_6B23-2_body_armor_Mountain_Flora = "Artesanía 1 6B23-2 body armor Mountain Flora",
+
+   /**********************************************
+               25/04/24
+               EDITAR
+   ***********************************************/
+
+     Recipe_Craft_1_Gas_mask_air_filter = "Crea 1 filtro de aire para máscara de gas",
 }
 

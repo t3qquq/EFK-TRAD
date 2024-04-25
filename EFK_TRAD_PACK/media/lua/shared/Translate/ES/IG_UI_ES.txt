@@ -846,10 +846,6 @@ IGUI_ES = {
    IGUI_MECANIX_Task_q2_t3 = "Reparar la primera placa de control",
    IGUI_MECANIX_Task_q2_t4 = "Reparar la segunda placa de control",
    IGUI_MECANIX_Task_q2_t6 = "Hablar con Mecanix",
-   IGUI_MECANIX_Task_q3_t2 = "Llegar al instituto Riverside",
-   IGUI_MECANIX_Task_q3_t3 = "Llegar al tejado",
-   IGUI_MECANIX_Task_q3_t4 = "Acercarse a la antena",
-   IGUI_MECANIX_Task_q3_t6 = "Habla con Mecanix",
    IGUI_MECANIX_Task_q4_t2 = "Entrega 3 kits de PCB, 3 kits de teléfonos rotos, 3 kits de baterías recargables y 3 kits de CPU (Debes convertir estos artículos en kits antes de enviarlos de vuelta)",
    IGUI_MECANIX_Task_q4_t3 = "Habla con Mecanix",
    IGUI_MECANIX_Task_q5_t2 = "Entregar 2 kits de placa de circuito impreso, 2 kits de cable de alimentación y 4 kits de enchufe en forma de T (Debe convertir estos artículos en kits antes de devolverlos)",
@@ -1300,5 +1296,14 @@ IGUI_ES = {
     IGUI_EFK_travelDialog_toArea = "Ir a una incursión en ",
     IGUI_EFK_travelDialog_toHideoute = "Volver al escondite",
     IGUI_EFK_travelDialog_toHideoute_byMoney = "Volver al escondite para ",
+
+   /**********************************************
+               23/04/24
+               EDIT
+   ***********************************************/
+
+   IGUI_MECANIX_Task_q3_t2 = "Llegar al tejado del instituto Riverside",
+   IGUI_MECANIX_Task_q3_t3 = "Acércate a la antena",
+   IGUI_MECANIX_Task_q3_t5 = "Habla con el mecánico",
 
 }
