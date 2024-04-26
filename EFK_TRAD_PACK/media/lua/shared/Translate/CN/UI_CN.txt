@@ -23,9 +23,28 @@ UI_CN = {
     UI_optionscreen_binding_Call_Closest_Group_Member = "Call Closest Group Member"（呼叫最靠近的组员）",
     UI_optionscreen_binding_Call_Closest_Non-Group_Member = "调用最近的非组成员",
 
+/**********************************************
+               10/04/24
+               新
+   ***********************************************/
 
+    UI_trait_porte_Headset = "佩戴耳机",
+    UI_trait_porte_Headset_description = "玩家正在佩戴耳机设备",
 
+   /**********************************************
+               12/04/24
+               新
+   ***********************************************/
 
+	UI_Text_ExamineTooltip = "关闭（esc）"
+    
+   /**********************************************
+               13/04/24
+               新
+   ***********************************************/
 
+    UI_trait_porte_Helmet = "佩戴头盔",
+    UI_trait_porte_Helmet_description = "玩家佩戴头盔",
 
 }
+

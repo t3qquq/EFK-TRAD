@@ -6,8 +6,8 @@ ContextMenu_CN = {
     ContextMenu_NVG_ON = "升起夜视仪", 
     ContextMenu_RemonterManches = "卷起袖子",
     ContextMenu_DeroulerManches = "展开袖子", 
-    ContextMenu_RemonterPants = "下摆裤子",
-    ContextMenu_DeroulerPants = "展开裤子下摆", 
+    ContextMenu_RemonterPantalon = "下摆裤子",
+    ContextMenu_DeroulerPantalon = "展开裤子下摆", 
     ContextMenu_Cap_Backwards = "将帽子反戴
     ContextMenu_Cap_Front = "戴上帽子",
 
@@ -2157,13 +2157,12 @@ ContextMenu_CN = {
 
 ContextMenu_Use_Bandage = "用小药箱治疗小伤口", 
 
+   /**********************************************
+               12/04/24
+               NEW
+   ***********************************************/
 
-
-
-
-
-
-
+	ContextMenu_Examine = "检查",
 
 
 }

@@ -5,7 +5,7 @@ Recipes_CN = {
      Recipe_Group_200$ = "创建一捆 200 美元",
      Recipe_Group_500$ = "创建一捆 500 美元",
      Recipe_Group_2000$ = "创建一捆 2000 美元",
-     Recipe_Group_$10,000 = "创建一捆 10,000 美元",
+     Recipe_Group_10.000$ = "创建一捆 10,000 美元",
      Recipe_Group_100.000$ = "创建一捆 100.000 美元",
 
      Recipe_Split_10$ = "分割一捆 10 $",
@@ -69,7 +69,6 @@ Recipes_CN = {
      Recipe_Sell_Springfield_Armory_M1A_7.62x51_rifle = "出售 Springfield Armory M1A 7.62x51 步枪 (384)",
      Recipe_Sell_Remington_Model_700_7.62x51_bolt-action_sniper_rifle = "出售 Remington 700 型 7.62x51 栓动式狙击步枪 (300)",
      Recipe_Sell_Glock_18C_9x19_machine_pistol = "出售 Glock 18C 9x19 机关手枪 (154)",
-     Recipe_Sell_Can_of_white_saltl_Pistol_Lebedev_PL-15 = "出售列别杰夫 PL-15 9x19 手枪 (93)",
      Recipe_Sell_SIG_MCX_.300_Blackout_assault_rifle = "出售 SIG MCX .300 Blackout 突击步枪 (460)",
      Recipe_Sell_FN_Five-seveN_MK2_5.7x28_pistol = "出售 FN Five-seveN MK2 5.7x28 手枪 (146)",
      Recipe_Sell_Glock_17_9x19_pistol = "出售 Glock 17 9x19 (77) 手枪",
@@ -92,7 +91,7 @@ Recipes_CN = {
      Recipe_Sell_Molot_Arms_VPO-101_"Vepr-Hunter"_7.62x51_carbine = "出售 Molot Arms VPO-101 Vepr-Hunter 7.62x51 卡宾枪 (257)",
      Recipe_Sell_Molot_Arms_VPO-215_"Gornostay"_.366_TKM_bolt-action_rifle = "出售 Molot Arms VPO-215 "Gornostay" .366 TKM 栓动式步枪 (99)",
      Recipe_Sell_ORSIS_T-5000M_7.62x51_bolt-action_sniper_rifle = "出售 ORSIS T-5000M 7.62x51 栓动式狙击步枪 (476)",
-     Recipe_Sell_HK_G28_7.62x51_marksman_rifle = "HK G28 7.62x51 狙击步枪 (183)",
+
      Recipe_Sell_Knight's_Armament_Company_SR-25_7.62x51_marksman_rifle = "出售 Knight's Armament Company SR-25 7.62x51 神射手步枪 (147)",
      Recipe_Sell_Remington_R11_RSASS_7.62x51_marksman_rifle = "出售 Remington R11 RSASS 7.62x51 神枪手步枪 (871)",
      Recipe_Sell_SVDS_7.62x54R_sniper_rifle = "出售 SVDS 7.62x54R 狙击步枪 (482)",
@@ -104,21 +103,7 @@ Recipes_CN = {
      Recipe_Sell_Saiga-12K_ver.10_12ga_semi-automatic_shotgun = "出售 Saiga-12K ver.10 12ga 半自动霰弹枪 (136)",
      Recipe_Sell_MP-133_12ga_pump-action_shotgun = "出售 MP-133 12ga 泵动霰弹枪 (127)",
      Recipe_Sell_Mossberg_590A1_12ga_pump-action_shotgun = "出售 Mossberg 590A1 12ga 泵动霰弹枪 (168)",
-
-     Recipe_Sell_9x18_Ammo_Box = "出售一盒 9x18 子弹 (22)",
-     Recipe_Sell_.45ACP_Ammo_Box = "出售一盒 .45ACP 子弹 (94)",
-     Recipe_Sell_9x19_Ammo_Box = "出售一箱 9x19 子弹 (74)",
-     Recipe_Sell_5,7x28_Ammo_Box = "出售一盒 5,7x28 子弹 (87)",
-     Recipe_Sell_5,45x39_Ammo_Box = "出售一箱 5,45x39 弹药 (126)",
-     Recipe_Sell_5.56x45_Ammo_Box = "出售 5.56x45 弹药箱 (148)",
-     Recipe_Sell_7,62x39_Ammo_Box = "出售 7,62x39 弹药箱 (154)",
-     Recipe_Sell_7.62x51_Ammo_Box = "出售 7.62x51 弹药箱 (215)",
-     Recipe_Sell_7.62x54R_Ammo_Box = "出售 7.62x54R 弹药箱 (261)",
-     Recipe_Sell_12GA_Ammo_Box = "出售一箱 12GA 弹药 (33)",
-     Recipe_Sell_20GA_Ammo_Box = "出售一箱 20GA 弹药 (2)",
-     Recipe_Sell_.357MAG_Ammo_Box = "出售一盒 .357MAG 弹药 (29)",
-     Recipe_Sell_50-BMG_Ammo_Box = "出售一箱 50-BMG (55) 弹药",
-
+ 
      Recipe_Sell_Reflex_Sight_NPZ_PK1_Obzor = "出售反射瞄准镜 NPZ PK1 Obzor (39)",
      Recipe_Sell_Reflex_Sight_Axion_Kobra_EKP-8-02_(Dovetail) = "出售 Axion Kobra EKP-8-02 Reflex Sight (Dovetail) (52)",
      Recipe_Sell_Scope_NPZ_1P78-1_2,8_x = "出售 NPZ 1P78-1 2.8x 瞄准镜 (123)",
@@ -254,22 +239,6 @@ Recipes_CN = {
      Recipe_Sell_GPNVG-18_Night_Vision_goggles = "出售 GPNVG-18 夜视镜 (870)",
      Recipe_Sell_Armasight_N-15_Night_Vision_goggles = "出售 Armasight N-15 夜视镜 (448)",
      Recipe_Sell_PNV-10T_Night_Vision_goggles = "出售 PNV-10T 夜视镜 (168)",
-     Recipe_Sell_Backpack_Flyye_MBSS = "出售 Flyye MBSS 背包 (113)",
-     Recipe_Sell_Transformer_Bag = "出售变形包 (55)",
-     Recipe_Sell_Sport_Bag = "出售运动包 (70)",
-     Recipe_Sell_Tourist_Backpack_LolKek_3F_Transfer = "出售旅游背包 LolKek 3F 转移 (111)",
-     Recipe_Sell_Military_Backpack_VKBO = "出售军用背包 VKBO (49)",
-     Recipe_Sell_Scav_Backpack = "出售 Scav 背包 (124)",
-     Recipe_Sell_Backpack_Hazard_4_Pillbox = "出售 Hazard 4 药箱背包 (132)",
-     Recipe_Sell_Tactical_Sling_Bag = "出售战术背包 (37)",
-     Recipe_Sell_Backpack_Wartech_Berkut = "出售 Wartech Berkut 背包 (136)",
-     Recipe_Sell_Backpack_Gruppa_99_T20 = "出售 Gruppa 99 T20 背包 (172)",
-     Recipe_Sell_Backpack_Drawbridge_Hazard_4 = "出售 Drawbridge Hazard 4 背包 (186)",
-     Recipe_Sell_Sling_Backpack_Hazard4_Takedown = "出售 Sling Hazard4 Takedown 背包 (168)",
-     Recipe_Sell_Backpack_Tasmanian_Tiger_Trooper_35 = "出售 Tasmanian Tiger Trooper 35 背包 (513)",
-     Recipe_Sell_Backpack_Eberlestock_G2_Gunslinger_II = "出售 Eberlestock G2 Gunslinger II 背包 (378)",
-     Recipe_Sell_Backpack_Camelbak_Tri-Zip = "出售 Camelbak Tri-Zip 背包 (380)",
-     Recipe_Sell_PACA_Soft_Armor = "出售 PACA 软甲 (162)",
      Recipe_Sell_Body_Armor_6B2_(Flora) = "出售防弹衣 6B2 (Flora) (111)",
      Recipe_Sell_Body_Armor_6B5-16 = "出售防弹衣 6B5-16 (316)",
      Recipe_Sell_Body_Armor_Kirasa = "出售 Kirasa 盔甲 (162)",
@@ -297,11 +266,6 @@ Recipes_CN = {
      Recipe_Sell_Med_Tactical_Belt = "出售医疗战术腰带 (62)",
      Recipe_Sell_Battlefield_Tactical_Belt = "出售战场战术腰带 (95)",
      Recipe_Sell_Tactical_Belt = "出售战术腰带 (143)",
-     Recipe_Sell_Helmet_6B47 = "出售头盔 6B47 (222)",
-     Recipe_Sell_Helmet_LShZ = "出售头盔 LShZ (199)",
-     Recipe_Sell_Helmet_ZSh-1-2M = "出售 ZSh-1-2M 头盔 (276)",
-     Recipe_Sell_Helmet_BNTI_LShZ = "出售 BNTI LShZ 头盔 (484)",
-     Recipe_Sell_Helmet_HighCom_Striker_ULACH = "出售 HighCom Striker ULACH 头盔 (580)",
      Recipe_Sell_Digital_Headset_Walker's_Razor = "出售沃克剃刀数字耳机 (217)",
      Recipe_Sell_Digital_Headset_MSA_Sordin_Supreme_PRO-X/L = "销售 MSA Sordin Supreme PRO-X/L 数字耳机 (279)",
      Recipe_Sell_Digital_Headset_Peltor_ComTac_4_Hybrid = "销售 Peltor ComTac 4 Hybrid 数字头盔 (491)",
@@ -343,7 +307,6 @@ Recipes_CN = {
      Recipe_Sell_Pack_of_sugar = "出售一包糖 (135)",
      Recipe_Sell_MRE_Ration_Pack = "出售 MRE 口粮包 (107)",
      Recipe_Sell_Can_of_humpback_salmon = "出售一盒驼背鲑鱼 (62)",
-     Recipe_Sell_Can_of_beef_stew_(Tushonka) = "出售一盒炖牛肉（Tushonka）（89）",
      Recipe_Sell_Can_of_Majaica_coffee_beans = "出售一盒 Majaica 咖啡豆 (94)",
      Recipe_Sell_Can_of_TarCola_soda = "出售一罐 TarCola 汽水 (50)",
      Recipe_Sell_Can_of_Ice_Green_tea = "出售一罐冰绿茶 (15)",
@@ -572,6 +535,199 @@ Recipes_CN = {
      Recipe_Craft_2_Army_bandage = "工艺 2 军用绷带",
      Recipe_Create_a_Stash_Lvl1_kit = "制作一个 Lvl1 级储藏包",
 
+ /**********************************************
+               10/04/24
+               新
+   ***********************************************/
 
+     Recipe_Sell_Weapon_repair_kit = "出售武器修理包 (560)",
+     Recipe_Sell_GSSh-01_active_headset = "出售 GSSh-01 有源耳机 (99)",
+     Recipe_Sell_Peltor_Tactical_Sport_headset = "出售 Peltor Tactical Sport 耳机 (275)",
+
+   /**********************************************
+               16/04/24
+               新
+   ***********************************************/
+
+     Recipe_Sell_Tac-Kek_FAST_MT_helmet_Replica = "出售 Tac-Kek FAST MT 头盔复制品 (68)",
+     Recipe_Sell_TSh-4M-L_soft_tank_crew_helmet = "出售 TSh-4M-L 软质坦克乘员头盔 (37)",
+     Recipe_Sell_Kolpak-1S_riot_helmet = "出售 Kolpak-1S 防暴头盔 (49)",
+     Recipe_Sell_PSh-97_DJETA_riot_helmet = "出售 PSh-97 DJETA 防暴头盔 (63)",
+     Recipe_Sell_ShPM_Firefighter_helmet = "出售 ShPM 消防员头盔 (57)",
+     Recipe_Sell_NFM_HJELM_helmet = "出售 NFM HJELM 头盔 (360)",
+     Recipe_Sell_Galvion_Caiman_Hybrid_helmet = "出售 Galvion Caiman 混合头盔 (318)",
+     Recipe_Sell_Diamond_Age_NeoSteel_High_Cut_helmet = "出售 Diamond Age NeoSteel High Cut 头盔 (403)",
+     Recipe_Sell_UNTAR_helmet = "出售 UNTAR 头盔 (175)",
+     Recipe_Sell_SSh-68_steel_helmet = "出售 SSh-68 钢头盔 (162)",
+     Recipe_Sell_FORT_Kiver-M_bulletproof_helmet = "出售 FORT Kiver-M 防弹头盔 (192)",
+     Recipe_Sell_NPP_KlASS_Tor-2_helmet = "出售 NPP KlASS Tor-2 头盔 (326)",
+     Recipe_Sell_SSSh-94_SFERA-S_helmet = "出售 SSSh-94 SFERA-S 头盔 (198)",
+     Recipe_Sell_MSA_ACH_TC-2001_MICH_Series_helmet = "出售 MSA ACH TC-2001 MICH 系列头盔 (323)",
+     Recipe_Sell_MSA_ACH_TC-2002_MICH_Series_helmet = "出售 MSA ACH TC-2002 MICH 系列头盔 (305)",
+     Recipe_Sell_HighCom_Striker_ACHHC_IIIA_helmet = "出售 HighCom Striker ACHHC IIIA 头盔 (323)",
+     Recipe_Sell_MSA_Gallet_TC_800_High_Cut_combat_helmet = "出售 MSA Gallet TC 800 高切割战斗头盔 (335)",
+     Recipe_Sell_Diamond_Age_Bastion_helmet = "出售钻石时代堡垒头盔 (369)",
+     Recipe_Sell_Ops-Core_FAST_MT_Super_High_Cut_helmet = "出售 Ops-Core FAST MT 超高切割头盔 (653)",
+     Recipe_Sell_Crye_Precision_AirFrame_helmet = "出售 Crye Precision AirFrame 头盔 (542)",
+     Recipe_Sell_Team_Wendy_EXFIL_Ballistic_Helmet = "出售 Wendy EXFIL 防弹头盔 (701)",
+     Recipe_Sell_Maska-1SCh_bulletproof_helmet = "出售 Maska-1SCh 防弹头盔 (417)",
+     Recipe_Sell_Rys-T bulletproof helmet = "出售 Rys-T 防弹头盔 (1103)",
+     Recipe_Sell_Vulkan-5_LShZ-5_bulletproof_helmet = "出售 Vulkan-5 LShZ-5 防弹头盔 (1026)",
+     Recipe_Sell_Altyn_bulletproof_helmet = "出售 Altyn 防弹头盔 (1041)",
+
+     Recipe_Transcribe_Journal = "转录到日志中",
+     Recipe_Craft_Weapon_parts = "制作武器部件",
+     Recipe_Create_a_Cowboy_Hat_kit = "制作牛仔帽套件",
+     Recipe_Create_a_Salewa_first_aid_kit_pack = "制作一个 Salewa 急救包",
+     Recipe_Craft_2_Bottles_of_Norvinskiy_Yadreniy_premium_kvass_0.6L = "制作 2 瓶 0.6L 的 Norvinskiy Yadreniy 优质克瓦斯",
+     Recipe_Craft_Box_of_20_shellfs_12ga = "20 个 12ga 炮弹的工艺盒",
+     Recipe_Craft_Box_of_60_rounds_-_9x18 = "60发子弹的工艺盒 - 9x18",
+     Recipe_Craft_Broken_GPhone_smartphone = "制作破损的 GPhone 智能手机",
+     Recipe_Craft_Broken_LCD = "制作破损的 LCD",
+     Recipe_Craft_Bundle_of_wires = "制作一捆电线",
+     Recipe_Craft_CMS_surgical_kit = "Craft CMS 手术包",
+     Recipe_Craft_6_Capacitors = "制作 6 个电容器",
+     Recipe_Craft_Gas_analyzer = "工艺气体分析仪",
+     Recipe_Craft_Gunpowder_Hawk = "工艺火药鹰",
+     Recipe_Craft_Gunpowder_Kite = "工艺火药风筝",
+     Recipe_Craft_Kalashnikov_AK-74N_5.45x39_assault_rifle = "工艺卡拉什尼科夫 AK-74N 5.45x39 突击步枪",
+     Recipe_Craft_Kalashnikov_AKM_7.62x39_assault_rifle = "制作卡拉什尼科夫 AKM 7.62x39 突击步枪",
+     Recipe_Craft_Magnet = "制作磁铁",
+     Recipe_Craft_Power_cord = "工艺电源线",
+     Recipe_Craft_Printed_circuit_board = "工艺印刷电路板",
+     Recipe_Craft_Round_pliers = "工艺圆钳",
+     Recipe_Craft_Weapon_parts = "工艺武器部件",
+     Recipe_Craft_Weapon_parts = "制作武器部件",
+     Recipe_Create_a_BNTI_Module-3M_body_armor_kit = "创建 BNTI 模块-3M 防弹衣套件",
+     Recipe_Sell_BNTI_Module-3M_body_armor = "出售 BNTI 模块-3M 防弹衣 (133)",
+     Recipe_Craft_AI-2_medikit = "制作 AI-2 医疗包",
+     Recipe_Craft_Salewa_first_aid_kit = "制作 Salewa 急救包",
+
+
+   /**********************************************
+               16/04/24
+               编辑
+   ***********************************************/
+
+     Recipe_Sell_Can_of_beef_stew_Small = "出售小号炖牛肉罐头(89)",
+     Recipe_Sell_Lebedev_PL-15_9x19_pistol = "出售列别杰夫 PL-15 9x19 手枪 (93)",
+     Recipe_Sell_Soft_Armor_PACA = "出售 PACA 软甲 (162)",
+
+   /**********************************************
+               21/04/24
+               编辑
+   ***********************************************/
+
+     Recipe_Sell_HighCom_Striker_ULACH_IIIA_helmet = "出售 HighCom Striker ULACH IIIA 头盔 (580)",
+     Recipe_Sell_LShZ_lightweight_helmet_Olive_Drab = "出售 LShZ 轻质头盔橄榄色 (199)",
+     Recipe_Sell_HK_G28_7.62x51_marksman_rifle = "HK G28 7.62x51 marksman rifle (1587)",
+     Recipe_Sell_BNTI_LShZ-2DTM_helmet = "出售 BNTI LShZ-2DTM 头盔 (484)",
+     Recipe_Sell_ZSh-1-2M_helmet = "出售 ZSh-1-2M 头盔 (276)",
+     Recipe_Sell_6B47_Ratnik-BSh_helmet = "出售 6B47 Ratnik-BSh 头盔 (222)",
+
+   /**********************************************
+               23/04/24
+               编辑
+   ***********************************************/
+
+     Recipe_Sell_9x18_Ammo_Box = "出售 9x18 弹药箱 (17)",
+     Recipe_Sell_.45ACP_Ammo_Box = "出售 .45ACP 弹药箱 (31)",
+     Recipe_Sell_9x19_Ammo_Box = "出售 9x19 弹药箱 (21)",
+     Recipe_Sell_5,7x28_Ammo_Box = "出售 5,7x28 弹药盒 (50)",
+     Recipe_Sell_5,45x39_Ammo_Box = "出售 5,45x39 弹药盒 (46)",
+     Recipe_Sell_5,56x45_Ammo_Box = "出售 5,56x45 弹药箱 (60)",
+     Recipe_Sell_7,62x39_Ammo_Box = "出售 7,62x39 弹药箱 (80)",
+     Recipe_Sell_7,62x51_Ammo_Box = "出售 7,62x51 弹药箱 (87)",
+     Recipe_Sell_7,62x54R_Ammo_Box = "出售 7,62x54R 弹药箱 (90)",
+     Recipe_Sell_12GA_Ammo_Box = "出售 12GA 弹药箱 (5)",
+     Recipe_Sell_20GA_Ammo_Box = "出售 20GA 弹药箱 (3)",
+     Recipe_Sell_.357MAG_Ammo_Box = "出售 .357MAG 弹药箱 (29)",
+     Recipe_Sell_50-BMG_Ammo_Box = "出售 50-BMG 弹药箱 (228)",
+
+   /**********************************************
+               23/04/24
+               新
+   ***********************************************/
+
+     Recipe_Sell_Poyas-A_+_Poyas-B_gear_rig = "出售 Poyas-A + Poyas-B 装备 (256)",
+     Recipe_Sell_Stich_Profi_Chest_Rig_MK2_Recon_A-TACS_FG = "出售 Stich Profi 胸部装备 MK2 Recon A-TACS FG (200)",
+     Recipe_Sell_LBT-1961A_Load_Bearing_Chest_Rig_MAS_Grey = "出售 LBT-1961A 负载胸部固定装置 MAS 灰色 (237)",
+     Recipe_Sell_Umka_M33-SET1_hunter_vest_Olive_Drab = "出售 Umka M33-SET1 猎人背心橄榄色 (159)",
+     Recipe_Sell_Gear_Craft_GC-BSS-MK1_chest_rig_A-TACS_FG = "出售 Gear Craft GC-BSS-MK1 胸部装备 A-TACS FG (186)",
+     Recipe_Sell_Splav_Tarzan_M22_chest_rig_Smog = "出售 Splav Tarzan M22 胸甲 Smog (119)",
+     Recipe_Sell_Azimut_SS_Khamelion_chest_harness_Olive = "出售 Azimut SS Khamelion 胸部装备 Olive (310)",
+     Recipe_Sell_UMTBS_6Sh112_Scout-Sniper_chest_rig_Digital_Flora = "出售 UMTBS 6Sh112 Scout-Sniper 胸部装备 Digital Flora (132)",
+     Recipe_Sell_Type_56_Chicom_chest_harness = "出售 56 型 Chicom 胸甲 (57)",
+     Recipe_Sell_SOE_Micro_Rig_MultiCam = "出售 SOE Micro Rig MultiCam (59)",
+     Recipe_Sell_DIY_IDEA_chest_rig = "出售 DIY IDEA 胸部装备 (31)",
+     Recipe_Sell_Security_vest = "出售安全背心 (24)",
+     Recipe_Sell_Scav_vest = "出售防腐背心 (26)",
+     Recipe_Sell_BNTI_Zhuk_body_armor_Press = "出售 BNTI Zhuk 防弹背心 (101)",
+     Recipe_Sell_NPP_KlASS_Kora-Kulon_body_armor = "出售 NPP KlASS Kora-Kulon 盔甲 (268)",
+     Recipe_Sell_MF-UNTAR_body_armor = "出售 MF-UNTAR 防弹衣 (212)",
+     Recipe_Sell_Hexatac_HPC_Plate_Carrier_Multicam_Black = "出售 Hexatac HPC Plate Carrier Multicam Black (337)",
+     Recipe_Sell_IOTV_Gen4_body_armor_High_Mobility_Kit_MultiCam = "出售 IOTV Gen4 防弹衣高机动性套件 MultiCam (516)",
+     Recipe_Sell_IOTV_Gen4_body_armor_Assault_Kit_MultiCam = "出售 IOTV Gen4 盔甲突击套件多摄像头 (537)",
+     Recipe_Sell_FORT_Defender-2_body_armor = "出售 FORT Defender-2 防弹衣 (499)",
+     Recipe_Sell_IOTV_Gen4_body_armor_Full_Protection_Kit_MultiCam = "出售 IOTV Gen4 防弹衣全防护套件 MultiCam (622)",
+     Recipe_Sell_FORT_Redut-T5_body_armor_Smog = "出售 FORT Redut-T5 防弹衣 Smog (910)",
+     Recipe_Sell_5.11_Tactical_Hexgrid_plate_carrier = "出售 5.11 Tactical Hexgrid 装甲板 (936)",
+     Recipe_Sell_LBT-6094A_Slick_Plate_Carrier = "出售 LBT-6094A Slick 装甲板 (1576)",
+     Recipe_Sell_BNTI_Zhuk_body_armor_Digital_Flora = "出售 BNTI Zhuk 防弹衣数字植物 (875)",
+     Recipe_Sell_BNTI_Gzhel-K_body_armor = "出售 BNTI Gzhel-K 防弹衣 (459)",
+     Recipe_Sell_NPP_KlASS_Korund-VM_body_armor_Black = "出售 NPP KlASS Korund-VM 黑色护甲 (374)",
+     Recipe_Sell_6B43_Zabralo-Sh_body_armor_Digital_Flora = "出售 6B43 Zabralo-Sh 防弹背心的数字植物 (1593)",
+     Recipe_Sell_HighCom_Trooper_TFO_body_armor_MultiCam = "出售 HighCom Trooper TFO 盔甲 MultiCam (469)",
+     Recipe_Sell_Mystery_Ranch_SATL_Bridger_Assault_Pack_Foliage = "出售 Mystery Ranch SATL Bridger Assault Pack 叶子 (558)",
+     Recipe_Sell_Pilgrim_tourist_backpack = "出售朝圣者旅游背包 (489)",
+     Recipe_Sell_3V_Gear_Paratus_3-Day_Operator's_Tactical_backpack_Foliage_Grey = "出售 3V Gear Paratus 3-Day Operator's Tactical backpack Foliage Grey (365)",
+     Recipe_Sell_Tehinkom_RK-PT-25_patrol_backpack_Digital_Flora = "出售 Tehinkom RK-PT-25 巡逻背包数字花卉 (169)",
+     Recipe_Sell_Direct_Action_Dragon_Egg_Mark_II_backpack_Black = "出售 Direct Action Dragon Egg Mark II 背包黑色 (188)",
+     Recipe_Sell_LBT-1476A_3Day_Pack_Woodland = "出售 LBT-1476A 3Day Pack Woodland (176)",
+     Recipe_Sell_LBT-8005A_Day_Pack_backpack_MultiCam_Black = "出售 LBT-8005A Day Pack 背包 MultiCam Black (140)",
+     Recipe_Sell_Mystery_Ranch_NICE_COMM_3_BVS_frame_system_Coyote = "出售 Mystery Ranch NICE COMM 3 BVS 车架系统 Coyote (1116)",
+     Recipe_Sell_SSO_Attack_2_raid_backpack_Khaki = "出售 SSO Attack 2 突击背包卡其色 (542)",
+     Recipe_Sell_Mystery_Ranch_Blackjack_50_backpack_MultiCam = "出售 Mystery Ranch Blackjack 50 背包 MultiCam (785)",
+     Recipe_Sell_LBT-2670_Slim_Field_Med_Pack_Black = "出售黑色 LBT-2670 超薄野战医疗包 (124)",
+     Recipe_Sell_6Sh118_raid_backpack_Digital_Flora = "出售 6Sh118 突击背包数字花卉 (892)",
+     Recipe_Sell_Gruppa_99_T30_backpack = "出售 Gruppa 99 T30 背包 (402)",
+     Recipe_Sell_Eberlestock_F5_Switchblade_backpack_Dry_Earth = "出售 Eberlestock F5 Switchblade 背包干土 (365)",
+
+   /**********************************************
+               24/04/24
+               编辑
+   ***********************************************/
+
+     Recipe_Sell_Flyye_MBSS_backpack_UCP = "出售 Flyye MBSS 背包 UCP (113)",
+     Recipe_Sell_Transformer_Bag = "出售 Transformer Bag (55)",
+     Recipe_Sell_Duffle_Bag = "出售 Duffle Bag (70)",
+     Recipe_Sell_LolKek_3F_Transfer_tourist_backpack = "出售 LolKek 3F Transfer 旅游背包 (111)",
+     Recipe_Sell_VKBO_army_bag = "出售 VKBO 军用包 (49)",
+     Recipe_Sell_Scav_backpack = "出售 Scav 背包 (124)",
+     Recipe_Sell_Hazard_4_Pillbox_backpack_Black = "出售黑色 Hazard 4 药箱背包 (132)",
+     Recipe_Sell_Tactical_sling_bag_Khaki = "出售卡其色战术背包 (37)",
+     Recipe_Sell_WARTECH_Berkut_BB-102_backpack_A-TACS_FG = "出售 WARTECH Berkut BB-102 背包 A-TACS FG (136)",
+     Recipe_Sell_Gruppa_99_T20_backpack = "出售 Gruppa 99 T20 背包 (172)",
+     Recipe_Sell_Hazard_4_Drawbridge_backpack_Coyote_Tan = "出售 Hazard 4 Drawbridge 背包 Coyote Tan (186)",
+     Recipe_Sell_Hazard_4_Takedown_sling_backpack = "出售 Hazard 4 Takedown 斜肩背包 (168)",
+     Recipe_Sell_Tasmanian_Tiger_Trooper_35_backpack_Khaki = "出售卡其色 Tasmanian Tiger Trooper 35 背包 (513)",
+     Recipe_Sell_Eberlestock_G2_Gunslinger_II_backpack_Dry_Earth = "出售 Eberlestock G2 Gunslinger II 背包干土色 (378)",
+     Recipe_Sell_Camelbak_Tri-Zip_assault_backpack_Foliage = "出售 Camelbak Tri-Zip 突击背包 (380)",
+     Recipe_Sell_Eberlestock_F4_Terminator_load_bearing_backpack_Tiger_Stripe = "出售 Eberlestock F4 终结者虎纹承重背包 (560)",
+
+   /**********************************************
+               25/04/24
+               新
+   ***********************************************/
+
+     Recipe_Craft_2_Aluminum_splint ="Craft 2 Aluminum splint",
+     Recipe_Craft_1_6B23-2_body_armor_Mountain_Flora ="Craft 1 6B23-2 body armor Mountain Flora",
+
+   /**********************************************
+               25/04/24
+               编辑
+   ***********************************************/
+
+     Recipe_Craft_1_Gas_mask_air_filter = "制作 1 个防毒面具空气过滤器",
 }
 

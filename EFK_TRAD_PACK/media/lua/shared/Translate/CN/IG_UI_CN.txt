@@ -2,7 +2,7 @@ IGUI_CN = {
 
    IGUI_ContainerTitle_efk_desktop_computer = "EFK 台式电脑",
 
-   IGUI_EFK_Message_OnPlayerJoinHideout = "Finally ！我回到藏身处了!",
+   IGUI_EFK_Message_OnPlayerJoinHideout = "终于！我回到藏身处了",
 
    IGUI_EFK_Message_OnPlayerJoinInsertion_Riverside = "我到达了河滨",
    IGUI_EFK_Message_OnPlayerJoinInsertion_Rosewood = "我到达了罗斯伍德",
@@ -63,10 +63,10 @@ IGUI_CN = {
    IGUI_EFK_tooltip_insertion_LakeCumberland = "您确定要在 LakeCumberland 执行任务吗？您必须在 24 小时内撤离，否则将死亡",
    IGUI_EFK_tooltip_insertion_Petroville = "您确定要在佩特罗维尔执行任务吗？您必须在 24 小时内撤离，否则将死亡",
    IGUI_EFK_tooltip_insertion_Customs = "您确定要在里弗赛德执行任务吗？您必须在 24 小时内撤离，否则您将死亡",
-   IGUI_EFK_tooltip_insertion_Usine = "您确定要在里弗赛德执行任务吗？您必须在 24 小时内退出，否则将死亡",
-   IGUI_EFK_tooltip_insertion_Bois = "您确定要在里弗赛德执行任务吗？您必须在 24 小时内撤离，否则您将死亡",
-   IGUI_EFK_tooltip_insertion_Echange = "您确定要在里弗赛德执行任务吗？您必须在 24 小时内撤离，否则您将死亡",
-   IGUI_EFK_tooltip_insertion_BaseMilitaire = "您确定要在 Riverside 开始任务吗？您必须在 24 小时内撤出，否则将死亡",
+   IGUI_EFK_tooltip_insertion_Factory = "您确定要在里弗赛德执行任务吗？您必须在 24 小时内退出，否则将死亡",
+   IGUI_EFK_tooltip_insertion_Woods = "您确定要在里弗赛德执行任务吗？您必须在 24 小时内撤离，否则您将死亡",
+   IGUI_EFK_tooltip_insertion_Interchange = "您确定要在里弗赛德执行任务吗？您必须在 24 小时内撤离，否则您将死亡",
+   IGUI_EFK_tooltip_insertion_MilitaryBase = "您确定要在 Riverside 开始任务吗？您必须在 24 小时内撤出，否则将死亡",
    IGUI_EFK_tooltip_insertion_Labo = "您确定要在里弗赛德执行任务吗？您必须在 24 小时内撤出，否则将死亡",
 
    IGUI_Identity = "身份：",
@@ -188,7 +188,7 @@ IGUI_CN = {
    IGUI_PRAPOR_Quest_9_part1 = "祝您愉快，勇士",            
    IGUI_PRAPOR_Quest_9_part2 = "请进。如果你有兴趣的话，我有工作要做。我需要找到一坨屎，但我已经不知道怎么找了。长话短说，一个在该死的 Polikim 工作的工头拿到了一些非常重要的文件。",
    IGUI_PRAPOR_Quest_9_part3 = "你当然知道，每个人都在寻找 TerraGroup 及其同伙的证据？没错。但那些想从工头口中套出信息的人却紧张多过聪明",
-   IGUI_PRAPOR_Quest_9_part4="那家伙还没开始吐舌头，滴答声就停了。你能想象吗？真是白痴！你怎么能和这样的人做生意？好了，言归正传。于是他把文件拿走，藏在了某个地方",
+   IGUI_PRAPOR_Quest_9_part4 = "那家伙还没开始吐舌头，滴答声就停了。你能想象吗？真是白痴！你怎么能和这样的人做生意？好了，言归正传。于是他把文件拿走，藏在了某个地方",
    IGUI_PRAPOR_Quest_9_part5 = "他询问了以前与他合作过的人。一般来说，这种几率不是很大，但谁知道你能有多幸运呢？总而言之，这个工头在化疗车间工作。你看，这是最糟糕的糟糕",
    IGUI_PRAPOR_Quest_9_part6 = "在工厂的某个地方，他和他的伙伴们有自己的宿舍。他们在那里吃饭，在那里休息，当然也会邀请小鸡过来，总之，你懂的。我想他可能就藏在那里的某个地方",
    IGUI_PRAPOR_Quest_9_part7 = "如果不在那里，那我们就什么也找不到。总之，我要你们搜查海关仓库，把那些文件拿给我。我认为最好找那些上锁的",
@@ -846,35 +846,14 @@ IGUI_CN = {
    IGUI_MECANIX_Task_q2_t3 = "修复第一块控制板",
    IGUI_MECANIX_Task_q2_t4 = "修复第二块控制板",
    IGUI_MECANIX_Task_q2_t6 = "与 Mecanix 通信",
-   IGUI_MECANIX_Task_q3_t2 = "到达河滨高中",
-   IGUI_MECANIX_Task_q3_t3 = "到达屋顶",
-   IGUI_MECANIX_Task_q3_t4 = "接近天线",
-   IGUI_MECANIX_Task_q3_t6 = "与 Mecanix 交谈",
    IGUI_MECANIX_Task_q4_t2 = "交付 3 个 PCB 套件、3 个破损手机套件、3 个充电电池套件和 3 个 CPU 套件（您必须将这些物品转换成套件后再将其送回）",
    IGUI_MECANIX_Task_q4_t3 = "与 Mecanix 交谈",
-   IGUI_MECANIX_Task_q5_t2 ="交付 2 个印制电路板套件、2 个电源线套件和 4 个 T 形插头套件（您必须将这些物品转换成套件后才能将其退回）",
+   IGUI_MECANIX_Task_q5_t2 = "交付 2 个印制电路板套件、2 个电源线套件和 4 个 T 形插头套件（您必须将这些物品转换成套件后才能将其退回）",
    IGUI_MECANIX_Task_q5_t3 = "与 Mecanix 交谈",
    IGUI_MECANIX_Task_q6_t2 = "到达河滨高中",
    IGUI_MECANIX_Task_q6_t3 = "到达屋顶",
    IGUI_MECANIX_Task_q6_t4 = "放置信号干扰器",
    IGUI_MECANIX_Task_q6_t6 = "与 Mecanix 对话",
-
-   IGUI_MECANIX_Task_firearm_q1_t2 = "修改 MP-133 以满足所需规格（工艺菜单中的 "MP-133 MK1"）",
-   IGUI_MECANIX_Task_firearm_q1_t3 = "与 Mecanix 交谈",
-   IGUI_MECANIX_Task_firearm_q2_t2 = "修改 AKS-74U 以满足所需规格（工艺菜单中的 "AKS-74U MK1"）",
-   IGUI_MECANIX_Task_firearm_q2_t3 = "与 Mecanix 交谈",
-   IGUI_MECANIX_Task_firearm_q3_t2 = "修改 MP5-SD 以符合所需规格（工艺菜单中的 "AKS-74U MK1"）",
-   IGUI_MECANIX_Task_firearm_q3_t3 = "与 Mecanix 交谈",
-   IGUI_MECANIX_Task_firearm_q3_2_t2 = "在 Prapor 处获得 3 级声望",
-   IGUI_MECANIX_Task_firearm_q3_2_t3 = "与 Mecanix 对话",
-   IGUI_MECANIX_Task_firearm_q4_t2 = "改装 SKS 以满足所需规格（制作菜单中的 "AKS-74U MK1"）",
-   IGUI_MECANIX_Task_firearm_q4_t3 = "与 Mecanix 交谈",
-   IGUI_MECANIX_Task_firearm_q5_t2 = "修改 M870 以符合所需的规格（工艺菜单中的 "AKS-74U MK1"）",
-   IGUI_MECANIX_Task_firearm_q5_t3 = "与 Mecanix 交谈",   
-   IGUI_MECANIX_Task_firearm_q6_t2 = "修改 AKM 以符合所需规格（工艺菜单中的 "AKS-74U MK1"）",
-   IGUI_MECANIX_Task_firearm_q6_t3 = "与 Mecanix 交谈", 
-   IGUI_MECANIX_Task_firearm_q7_t2 = "改装 M4A1 以满足所需规格（工艺菜单中的 "AKS-74U MK1"）",
-   IGUI_MECANIX_Task_firearm_q7_t3 = "与 Mecanix 交谈", 
 
    IGUI_MECANIX_Quest_Trade = "总是最好的装备",
    IGUI_MECANIX_Quest_Exit = "没问题，我明白",
@@ -1220,21 +1199,21 @@ IGUI_CN = {
    IGUI_MECANIX_Firearm_Quest_13_Desc = "你擅长隐藏吗？我觉得还不够狙击手找不到你。我不羡慕那个家伙，他叫什么来着，布兰登吧。有趣的是，过去那些我们崇拜的英雄们，他们都去哪儿了？为什么每个人都变得如此空虚？为什么现在周围一片混乱，像狙击手这样的人却成了我们心目中的英雄？为什么我们一直对这样的战狗视而不见，而现在却期待与他们成为朋友？你怎么看？我还有一个订单，是 R11 RSASS。瞄准范围在 1500 或以上。重量不超过 6.7 千克。还需要消音器，人体工程学设计大于 26，后坐力总和小于 300",
    IGUI_MECANIX_Firearm_Quest_13_part1 = "你善于隐藏吗？我想，还不足以让狙击手找不到你。",
    IGUI_MECANIX_Firearm_Quest_13_part2 = "我不羡慕那个家伙，他叫什么来着，布兰登吧。有趣的是，过去那些我们崇拜的英雄们，他们都去哪儿了？为什么每个人都变得如此空虚？
-   IGUI_MECANIX_Firearm_Quest_13_part3 = "为什么现在周围一片混乱，像狙击手这样的人却成了我们的英雄？为什么我们一直对这样的战狗视而不见，而现在我们却希望与他们成为朋友？你怎么看？"、 
+   IGUI_MECANIX_Firearm_Quest_13_part3 = "为什么现在周围一片混乱，像狙击手这样的人却成了我们的英雄？为什么我们一直对这样的战狗视而不见，而现在我们却希望与他们成为朋友？你怎么看？", 
    IGUI_MECANIX_Firearm_Quest_13_part4 = "我还有一个订单，是 R11 RSASS。瞄准距离在 1500 或以上。重量不超过 6.7 千克。还需要消音器，人体工程学设计大于 26，后坐力总和小于 300。",
 
    IGUI_MECANIX_Firearm_Quest_14_Name = "Mecanix Gunsmith - Part 14",
    IGUI_MECANIX_Firearm_Quest_14_Desc = "你好。有一份西部 HK 416A5 步枪的新订单。需要棕褐色附件： SureFire SOCOM556-RC2 消音器、Magpul RVG 战术握把、EOTech EXPS3 全息瞄准镜、Magpul MOE 手枪握把、Magpul UBR GEN2 枪托、LA-5B/PEQ 战术模块和至少 30 发容量的弹匣。人体工学超过 60，后坐力总和低于 300，重量在 4 公斤或更轻。就像特种部队一样，对吗？对了，尽量找一把没被摔坏的步枪，技术状况必须至少达到 80%。",
    IGUI_MECANIX_Firearm_Quest_14_part1 = "你好。有一份西部 HK 416A5 步枪的新订单。",
    IGUI_MECANIX_Firearm_Quest_14_part2 = "需要棕褐色附件： SureFire SOCOM556-RC2 消音器、Magpul RVG 战术握把、EOTech EXPS3 全息瞄准镜、Magpul MOE 手枪握把",
-   IGUI_MECANIX_Firearm_Quest_14_part3 = "Magpul UBR GEN2 枪托、LA-5B/PEQ 战术模块和至少 30 发容量的弹匣。人体工学超过 60，后坐力总和低于 300，重量在 4 公斤或以下。就像特种部队一样，对吗？"、 
+   IGUI_MECANIX_Firearm_Quest_14_part3 = "Magpul UBR GEN2 枪托、LA-5B/PEQ 战术模块和至少 30 发容量的弹匣。人体工学超过 60，后坐力总和低于 300，重量在 4 公斤或以下。就像特种部队一样，对吗？", 
    IGUI_MECANIX_Firearm_Quest_14_part4 = "哦，尽量找一把没有被摔坏的步枪，技术状况必须至少达到 80%。",
 
    IGUI_MECANIX_Firearm_Quest_15_Name = "Mecanix Gunsmith - Part 15",
    IGUI_MECANIX_Firearm_Quest_15_Desc = "当我忙着处理网络时，我开始思考我们与它有什么不同，我们什么时候才能用这类系统取代我们短暂的大脑。你怎么看，这一天会到来吗？我认为会的，很快。我们已经不知道神经网络内部发生了什么过程，只有一个入口信号和它的行动结果，以及它是如何通过自己的内部规则进行学习，在自己内部建立起自己的神经链接的。它与我们有什么不同？你会喜欢生活在一个你的行动只受限于你的头脑和想象力的世界吗？事实上，我认为，如果没有目标，生活在这样的世界里不会比我们自己的世界更好。而如果你是不朽的、万能的，目标又从何而来呢...... 这次我们需要一个 AS VAL. GL-SHOCK 枪托、AN/PEQ-15 战术装置、NSPU-M 夜视瞄准镜和 30 发弹匣。人体工学高于 33，后坐力总和小于 220",
    IGUI_MECANIX_Firearm_Quest_15_part1 = "当我忙于网络时，我开始思考我们与它有什么不同，我们什么时候才能用这类系统取代我们短暂的大脑",
    IGUI_MECANIX_Firearm_Quest_15_part2 = "你怎么看，这个时代会到来吗？我认为会的，很快。我们已经不知道神经网络内部发生了什么过程，只有一个入口信号和它的行动结果，以及它是如何通过自己的内部规则进行学习，在自己内部建立起自己的神经链接的。",
-   IGUI_MECANIX_Firearm_Quest_15_part3 = "它与我们有什么不同？你会喜欢生活在一个你的行动只受思维和想象力限制的世界吗？事实上，我认为，如果没有目标，生活在这样的世界里不会比我们的世界更好。"、 
+   IGUI_MECANIX_Firearm_Quest_15_part3 = "它与我们有什么不同？你会喜欢生活在一个你的行动只受思维和想象力限制的世界吗？事实上，我认为，如果没有目标，生活在这样的世界里不会比我们的世界更好。", 
    IGUI_MECANIX_Firearm_Quest_15_part4 = "如果你是不朽的、万能的，目标又从何而来... 这次我们需要一个 AS VAL. GL-SHOCK 枪托、AN/PEQ-15 战术装置、NSPU-M 夜视瞄准镜和 30 发弹夹、 
    IGUI_MECANIX_Firearm_Quest_15_part5 = "人体工学高于 33，后坐力总和小于 220",
 
@@ -1277,5 +1256,54 @@ IGUI_CN = {
 
    IGUI_TOUBIB_Task_q1_t2 = "运送 3 个 Salewa 急救包（在归还前必须将此物品转换为背包）",
 
+/**********************************************
+               09/04/24
+               EDIT
+   ***********************************************/
+
+   IGUI_MECANIX_Task_firearm_q1_t2 = "修改 MP-133 以符合所需规格（"MP-133 MK1 "进入工艺菜单）",
+   IGUI_MECANIX_Task_firearm_q1_t3 = "与机械师交谈",
+   IGUI_MECANIX_Task_firearm_q2_t2 = "改装 AKS-74U 以符合所需规格（在工艺菜单中输入 "AKS-74U MK1"）",
+   IGUI_MECANIX_Task_firearm_q2_t3 = "与机械师交谈",
+   IGUI_MECANIX_Task_firearm_q3_t2 = "修改 MP5-SD 以符合所需规格（在工艺菜单中输入 "MP5-SD MK1"）",
+   IGUI_MECANIX_Task_firearm_q3_t3 = "与机械师交谈",
+   IGUI_MECANIX_Task_firearm_q3_2_t2 = "与 Prapor 到达 3 级声望",
+   IGUI_MECANIX_Task_firearm_q3_2_t3 = "与机械师交谈",
+   IGUI_MECANIX_Task_firearm_q4_t2 = "修改 SKS 以符合所需规格（在工艺菜单中输入 "SKS MK1"）",
+   IGUI_MECANIX_Task_firearm_q4_t3 = "与机械师交谈",
+   IGUI_MECANIX_Task_firearm_q5_t2 = "改装 M870 以符合所需规格（在工艺菜单中输入 "M870 MK1"）",
+   IGUI_MECANIX_Task_firearm_q5_t3 = "与机械师交谈",   
+   IGUI_MECANIX_Task_firearm_q6_t2 = "修改 AKM 以符合所需规格（在工艺菜单中输入 "AKM MK1"）",
+   IGUI_MECANIX_Task_firearm_q6_t3 = "与机械师交谈", 
+   IGUI_MECANIX_Task_firearm_q7_t2 = "改装 M4A1 以符合所需规格（在工艺菜单中输入 "M4A1 MK1"）",
+   IGUI_MECANIX_Task_firearm_q7_t3 = "与机械师交谈", 
+
+   /**********************************************
+               12/04/24
+               新
+   ***********************************************/
+
+    IGUI_EFK_tooltip_extractionRestrictByMoveableInInv = "您身上携带有瓦片物体：禁止旅行",
+    IGUI_EFK_tooltip_insertion_cardNeeded_Labo = "您需要访问卡才能访问 LAB 地图",
+    IGUI_ItemToolTip_Card_Labo = "此卡允许玩家访问 LAB 地图",
+
+    IGUI_EFK_ContextMenu_specialExtraction = "使用金钱进行特殊提取",
+    IGUI_EFK_tooltip_specialExtraction = "您需要获得所需的金额才能从该特殊提取中提取",
+
+    IGUI_EFK_tooltip_specialExtractionRestrictByNeedMoney = "您需要从该特殊提取中提取所需的金额",
+    IGUI_EFK_tooltip_specialExtractionCost = "成本 : ",
+    IGUI_EFK_tooltip_titleName_specialExtractionrequired = "需要： ",
+    IGUI_EFK_travelDialog_toArea = "前往 ",
+    IGUI_EFK_travelDialog_toHideoute = "返回藏身处",
+    IGUI_EFK_travelDialog_toHideoute_byMoney = "返回藏身处以",
+
+   /**********************************************
+               23/04/24
+               编辑
+   ***********************************************/
+
+   IGUI_MECANIX_Task_q3_t2 = "到达河畔高中屋顶",
+   IGUI_MECANIX_Task_q3_t3 = "接近天线",
+   IGUI_MECANIX_Task_q3_t5 = "与机械师交谈",
 
 }

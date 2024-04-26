@@ -125,15 +125,10 @@ ItemName_CN = {
         ItemName_Base.EFK_Monstrum = "Monstrum Tactical Vertical Fore Grip KeyMod",
         ItemName_Base.EFK_Cobra_tactical = "Tactical SI 眼镜蛇握把",
 
-        ItemName_Base.EFK_BNTI = "头盔 BNTI LShZ-2DTM",
-        ItemName_Base.EFK_LSHZ = "LShZ轻型头盔",
-        ItemName_Base.EFK_ZSH = "头盔 ZSh-1-2M",
-        ItemName_Base.EFK_ULACH = "Highcom Striker ULACH IIIA 头盔",
-        ItemName_Base.EFK_6B47 = "Helmet 6B47 Ratnik-BSH",
         ItemName_Base.EFK_NVG18_ON = "GPNVG-18 (ON) 夜视望远镜",
         ItemName_Base.EFK_NVG18_OFF = "GPNVG-18 (OFF) 夜视双筒望远镜",
-        ItemName_Base.EFK_NVG18_Harness_ON = "带背带的 GPNVG-18 夜视双筒望远镜（ON）",
-        ItemName_Base.EFK_NVG18_Harness_OFF = "GPNVG-18 夜视双筒望远镜，带背带（OFF）",
+        ItemName_Base.EFK_NVG18_Harnais_ON = "带背带的 GPNVG-18 夜视双筒望远镜（ON）",
+        ItemName_Base.EFK_NVG18_Harnais_OFF = "GPNVG-18 夜视双筒望远镜，带背带（OFF）",
         ItemName_Base.EFK_N15_ON = "Armasight N-15 夜视双筒望远镜（开启）",
         ItemName_Base.EFK_N15_OFF = "Armasight N-15 夜视双筒望远镜（OFF）",
         ItemName_Base.EFK_N15_Harnais_ON = "Armasight N-15 夜视双筒望远镜，带背带 (ON)",
@@ -293,8 +288,6 @@ ItemName_CN = {
         ItemName_Base.EFK_Lebedev = "Lebedev PL-15 9x19 pistol",
         ItemName_Base.EFK_Grenade_Fragmentation = "RGN 手榴弹",
         ItemName_Base.EFK_HK_USP = "HK USP .45 ACP 手枪",
-        ItemName_Base.EFK_MP5_Stock = "HK MP5K 9x19 冲锋枪",
-        ItemName_Base.EFK_MP5_Fold = "HK MP5K 9x19 冲锋枪（折叠式）",
         ItemName_Base.EFK_MP5SD6_Stock = "HK MP5 9x19 冲锋枪（海军型 3 发连发）",
         ItemName_Base.EFK_MP5SD6_Fold = "HK MP5 9x19 冲锋枪（海军蓝 3 发连发）（折叠）",
         ItemName_Base.EFK_M9A3 = "Beretta M9A3 9x19 手枪",
@@ -634,7 +627,7 @@ ItemName_CN = {
         ItemName_Base.EFK_illumination_lvl1_kit = "照明工具包 1 级",
         ItemName_Base.EFK_workbench_lvl1_kit = "工作台套件 1 级",
 
-        ItemName_Base.EFK_nutrition_lvl1_kit = "营养工具包 1 级",
+        ItemName_Base.EFK_NutritionTrader_lvl1_kit = "营养工具包 1 级",
         ItemName_Base.EFK_Max_Energy = "一罐 Max Energy 饮料",
         ItemName_Base.EFK_BakeEzy = "烘焙食谱",
         ItemName_Base.EFK_Squash = "一罐地瓜酱",
@@ -777,5 +770,189 @@ ItemName_CN = {
 
         ItemName_Base.EFK_WD40 = "WD-40 100ml",
         ItemName_Base.EFK_WD40_400 = "WD-40 400ml",
+
+  /**********************************************
+               10/04/24
+               新
+   ***********************************************/
+
+        ItemName_Base.EFK_GSSh_01 = "GSSh-01活动耳机",
+        ItemName_Base.EFK_Peltor_Sport = "Peltor Tactical Sport 耳机",
+
+   /**********************************************
+               12/04/24
+               编辑
+   ***********************************************/
+
+        ItemName_Base.EFK_MP5_Stock = "HK MP5 9x19 冲锋枪",
+        ItemName_Base.EFK_MP5_Fold = "HK MP5 9x19 冲锋枪(折叠)",
+        ItemName_Base.545StdClip = "5.45x39mm 弹匣",
+        ItemName_Base.545Drum = "5.45x39mm 弹匣",
+        ItemName_Base.556Clip = "5.56x45mm 弹匣",
+        ItemName_Base.556Drum = "5.56x45mm 弹匣",
+        ItemName_Base.AKClip = "7.62x39mm 弹匣",
+        ItemName_Base.762Drum = "7.62x39mm 弹匣",
+
+   /**********************************************
+               16/04/24
+               新
+   ***********************************************/
+
+        ItemName_Base.EFK_TacKek_FASTMT = "Tac-Kek FAST MT 头盔复制品",
+        ItemName_Base.EFK_TSh_4M_L = "TSh-4M-L 软式坦克乘员头盔",
+        ItemName_Base.EFK_Kolpak = "Kolpak-1S 防暴头盔",
+        ItemName_Base.EFK_PSh_97_DJETA = "PSh-97 DJETA 防暴头盔",
+        ItemName_Base.EFK_ShPM_Firefighter = "ShPM 消防员头盔",
+        ItemName_Base.EFK_NFM_HJELM = "NFM HJELM 头盔 地狱犬灰色",
+        ItemName_Base.EFK_Galvion_Caiman_Hybrid = "Galvion Caiman Hybrid 头盔 灰色",
+        ItemName_Base.EFK_Diamond_Age_NeoSteel = "Diamond Age NeoSteel High Cut 头盔黑色",
+        ItemName_Base.EFK_UNTAR_helmet = "UNTAR 头盔",
+        ItemName_Base.EFK_SSh_68 = "SSh-68 steel helmet Olive Drab",
+        ItemName_Base.EFK_Kiver_M = "FORT Kiver-M 防弹头盔",
+        ItemName_Base.EFK_KlASS_Tor2 = "NPP KlASS Tor-2 头盔橄榄色",
+        ItemName_Base.EFK_SSSh_94 = "SSSh-94 SFERA-S 头盔",
+        ItemName_Base.EFK_TC_2001 = "MSA ACH TC-2001 MICH Series helmet Olive Drab",
+        ItemName_Base.EFK_TC_2002 = "MSA ACH TC-2002 MICH 系列头盔橄榄色",
+        ItemName_Base.EFK_HighCom_Striker_ACHHC = "HighCom Striker ACHHC IIIA 头盔",
+        ItemName_Base.EFK_TC_800 = "MSA Gallet TC 800 High Cut 黑色战斗头盔",
+        ItemName_Base.EFK_Diamond_Age_Bastion = "Diamond Age Bastion 头盔（黑色）",
+        ItemName_Base.EFK_FAST_MT = "Ops-Core FAST MT Super High Cut 头盔",
+        ItemName_Base.EFK_AirFrame = "Crye Precision AirFrame 头盔（棕褐色）",
+        ItemName_Base.EFK_EXFIL = "Team Wendy EXFIL 防弹头盔",
+        ItemName_Base.EFK_Maska_1SCh = "Maska-1SCh 防弹头盔",
+        ItemName_Base.EFK_Rys_T = "Rys-T 黑色防弹头盔",
+        ItemName_Base.EFK_Vulkan_5 = "Vulkan-5 LShZ-5 黑色防弹头盔",
+        ItemName_Base.EFK_Altyn = "Altyn 防弹头盔橄榄色",
+
+        ItemName_Base.EFK_Tactical_M2 = "ANA Tactical M2 板式托架 Digital Flora",
+        ItemName_Base.EFK_Eagle_Allied_Industries = "Eagle Allied Industries MBSS 板式托架 土狼棕色",
+        ItemName_Base.EFK_Tiger_SK = "塔斯马尼亚虎 SK 多凸轮黑色平板运输车",
+        ItemName_Base.EFK_TV_115 = "WARTECH TV-115 护板托架橄榄色",
+        ItemName_Base.EFK_Industries_MMAC = "Eagle Industries MMAC 板式托架：游侠绿",
+        ItemName_Base.EFK_Tactical_Banshee = "Shellback Tactical Banshee plate carrier A-TACS AU",
+        ItemName_Base.EFK_Ars_Arma_A18 = "Ars Arma A18 Skanda MultiCam",
+        ItemName_Base.EFK_ANA_Tactical_M1 = "ANA Tactical M1 板式托架橄榄色",
+        ItemName_Base.EFK_FirstSpear_Strandhogg="FirstSpear Strandhogg Ranger Green "平板运输车、
+        ItemName_Base.EFK_ECLiPSE_RBAV = "ECLiPSE RBAV-AF Ranger Green",
+        ItemName_Base.EFK_Osprey_MK4A_Assault = "CQC Osprey MK4A 板式突击 MTP 载具",
+        ItemName_Base.EFK_511_Tactical_TacTec = "5.11 Tactical TacTec Ranger Green",
+        ItemName_Base.EFK_Arma_CPC_MOD1 = "Ars Arma CPC MOD.1 板载武器 A-TACS FG",
+        ItemName_Base.EFK_Precision_AVS = "Crye Precision AVS Ranger Green",
+        ItemName_Base.EFK_KlASS_Bagariy = "NPP KlASS Bagariy 板式载具 "数字花",
+        ItemName_Base.EFK_Osprey_MK4A = "CQC Osprey MK4A 保护 MTP 板式托架",
+        ItemName_Base.EFK_6B3TM_01 = "6B3TM-01 Armored rig Khaki",
+        ItemName_Base.EFK_6B5_15 = "6B5-15 Zh-86 Uley 装甲装备 Flora",
+
+
+   /**********************************************
+               16/04/24
+               编辑
+   ***********************************************/
+
+        ItemName_Base.EFK_BNTI = "BNTI LShZ-2DTM helmet Black",
+        ItemName_Base.EFK_LSHZ = "LShZ lightweight helmet Olive Drab",
+        ItemName_Base.EFK_ZSH = "ZSh-1-2M 头盔",
+        ItemName_Base.EFK_ULACH = "HighCom Striker ULACH IIIA 头盔",
+        ItemName_Base.EFK_6B47 = "6B47 Ratnik-BSh 头盔",
+
+   /**********************************************
+               18/04/24
+               新
+   ***********************************************/
+
+        ItemName_Base.EFK_Scav_chest = "Scav Vest",
+        ItemName_Base.EFK_Security = "安全背心",
+        ItemName_Base.EFK_IDEA = "DIY IDEA 胸甲",
+        ItemName_Base.EFK_SOE_Micro_Rig = "SOE Micro Rig MultiCam",
+        ItemName_Base.EFK_Type_56_Chicom = "Type 56 Chicom chest harness",
+        ItemName_Base.EFK_6Sh112 = "UMTBS 6Sh112 Scout-Sniper chest rig Digital Flora",
+        ItemName_Base.EFK_Khamelion = "Azimut SS Khamelion chest harness Olive",
+        ItemName_Base.EFK_Tarzan = "Splav Tarzan M22 chest rig Smog",
+        ItemName_Base.EFK_GC_BSS_MK1 = "Gear Craft GC-BSS-MK1 chest rig A-TACS FG",
+        ItemName_Base.EFK_M33_SET1 = "Umka M33-SET1 猎人背心橄榄色",
+        ItemName_Base.EFK_LBT_1961A = "LBT-1961A Load Bearing Chest Rig MAS Grey",
+        ItemName_Base.EFK_Stich_Recon = "Stich Profi Chest Rig MK2 Recon A-TACS FG",
+        ItemName_Base.EFK_Poyas = "Poyas-A + Poyas-B 装备支架",
+
+   /**********************************************
+               20/04/24
+               新
+   ***********************************************/
+
+          ItemName_Base.545x39Bullets = "5.45x39 ammunition",
+          ItemName_Base.556Bullets = "5.56x45 ammunition",
+          ItemName_Base.Bullets57 = "5.7x28 弹药",
+          ItemName_Base.762x39Bullets = "7.62x39 弹药",
+          ItemName_Base.762x51Bullets = "7.62x51 弹药",
+          ItemName_Base.762x54rBullets = "7.62x54r 弹药",
+          ItemName_Base.50BMGBullets = "50 BMG 弹药",
+          ItemName_Base.M82Clip = "50-BMG 弹夹",
+          ItemName_Base.EFK_PowderPackHemostatic = "CALOK-B 止血涂抹器",
+          ItemName_MoreMedical.SyretteHighGradePainkillers = "吗啡注射器",
+          ItemName_MoreMedical.SyretteAdrenalin = "肾上腺素注射器",
+          ItemName_Base.EFK_Spark = "火花塞",
+          ItemName_Base.EFK_Hat_Cowboy_kit = "牛仔帽套装",
+
+   /**********************************************
+               22/04/24
+               新
+   ***********************************************/
+
+          ItemName_EFK_BNTI_Face_Shield = "BNTI LShZ-2DTM 带面罩的头盔",
+          ItemName_EFK_LSHZ_Face_Shield = "带面罩的 LShZ 轻型头盔",
+          ItemName_EFK_ZSH_Face_Shield = "ZSh-1-2M 头盔（带面罩）",
+          ItemName_EFK_TacKek_FASTMT_Face_Shield = "Tac-Kek FAST MT 头盔（带面罩）",
+          ItemName_EFK_Kolpak_Face_Shield = "Kolpak-1S 防暴头盔（带面盾）",
+          ItemName_EFK_PSh_97_DJETA_Face_Shield = "PSh-97 DJETA 防暴头盔（带面盾）",
+          ItemName_EFK_ShPM_Firefighter_Face_Shield = "ShPM 消防员头盔（带面罩）",
+          ItemName_EFK_NFM_HJELM_Face_Shield = "NFM HJELM 头盔（带面罩）",
+          ItemName_EFK_Galvion_Caiman_Hybrid_Face_Shield = "Galvion Caiman Hybrid 头盔（带面罩）",
+          ItemName_EFK_Kiver_M_Face_Shield = "FORT Kiver-M 防弹头盔（带面盾）",
+          ItemName_EFK_KlASS_Tor2_Face_Shield = "NPP KlASS Tor-2 头盔（带面罩）",
+          ItemName_EFK_TC_800_Face_Shield = "MSA Gallet TC 800 高切割战斗头盔（带面罩）",
+          ItemName_EFK_FAST_MT_Face_Shield = "Ops-Core FAST MT Super High Cut 头盔（带面罩）",
+          ItemName_EFK_AirFrame_Face_Shield = "带面罩的 Crye Precision AirFrame 头盔",
+          ItemName_EFK_EXFIL_Face_Shield = "Team Wendy EXFIL 防弹头盔（带面罩）",
+          ItemName_EFK_Maska_1SCh_Face_Shield = "带面罩的 Maska-1SCh 防弹头盔",
+          ItemName_EFK_Rys_T_Face_Shield = "带面罩的 Rys-T 防弹头盔",
+          ItemName_EFK_Vulkan_5_Face_Shield = "带面罩的 Vulkan-5 LShZ-5 防弹头盔",
+          ItemName_EFK_Altyn_Face_Shield = "带面罩的 Altyn 防弹头盔",
+          ItemName_EFK_BNTI_Face_Shield_OPEN = "BNTI LShZ-2DTM 头盔，面罩已打开",
+          ItemName_EFK_LSHZ_Face_Shield_OPEN = "已打开面罩的 LShZ 轻型头盔",
+          ItemName_EFK_ZSH_Face_Shield_OPEN = "ZSh-1-2M头盔，面罩已打开",
+          ItemName_EFK_TacKek_FASTMT_Face_Shield_OPEN = "已打开面罩的 Tac-Kek FAST MT 头盔",
+          ItemName_EFK_Kolpak_Face_Shield_OPEN = "已打开面罩的 Kolpak-1S 防暴头盔",
+          ItemName_EFK_PSh_97_DJETA_Face_Shield_OPEN = "已打开面罩的 PSh-97 DJETA 防暴头盔",
+          ItemName_EFK_ShPM_Firefighter_Face_Shield_OPEN = "已打开面罩的 ShPM 消防员头盔",
+          ItemName_EFK_NFM_HJELM_Face_Shield_OPEN = "已打开面罩的 NFM HJELM 头盔",
+          ItemName_EFK_Galvion_Caiman_Hybrid_Face_Shield_OPEN = "已打开面罩的 Galvion Caiman 混合头盔",
+          ItemName_EFK_Kiver_M_Face_Shield_OPEN = "FORT Kiver-M 防弹头盔（面盾已打开）",
+          ItemName_EFK_KlASS_Tor2_Face_Shield_OPEN = "已打开面罩的 NPP KlASS Tor-2 头盔",
+          ItemName_EFK_TC_800_Face_Shield_OPEN = "MSA Gallet TC 800 High Cut 战斗头盔，面罩已打开",
+          ItemName_EFK_FAST_MT_Face_Shield_OPEN = "已打开面罩的 Ops-Core FAST MT Super High Cut 头盔",
+          ItemName_EFK_AirFrame_Face_Shield_OPEN = "已打开面罩的 Crye Precision AirFrame 头盔",
+          ItemName_EFK_EXFIL_Face_Shield_OPEN = "Team Wendy EXFIL 防弹头盔，面罩已打开",
+          ItemName_EFK_Maska_1SCh_Face_Shield_OPEN = "已打开面罩的 Maska-1SCh 防弹头盔",
+          ItemName_EFK_Rys_T_Face_Shield_OPEN = "已打开面罩的 Rys-T 防弹头盔",
+          ItemName_EFK_Vulkan_5_Face_Shield_OPEN = "已打开面罩的 Vulkan-5 LShZ-5 防弹头盔",
+          ItemName_EFK_Altyn_Face_Shield_OPEN = "已打开面罩的 Altyn 防弹头盔",
+          ItemName_EFK_Face_Shield_FAST = "Ops-Core FAST 多重打击防弹面罩",
+          ItemName_EFK_Face_Shield_Altyn = "Altyn 头盔面罩",
+          ItemName_EFK_Face_Shield_Rys = "Rys-T 面罩",
+          ItemName_EFK_Face_Shield_Vulkan = "Vulkan-5 头盔面罩",
+          ItemName_EFK_Face_Shield_Maska = "Maska-1SCh 面罩",
+          ItemName_EFK_Face_Shield_EXFIL = "Team Wendy EXFIL 防弹面罩",
+          ItemName_EFK_Face_Shield_2DTM = "LShZ-2DTM 面罩",
+          ItemName_EFK_Face_Shield_ZSh2M = "ZSh-1-2M 面罩",
+          ItemName_EFK_Face_Shield_Tor2 = "NPP KlASS Tor-2 头盔面罩",
+          ItemName_EFK_Face_Shield_Kolpak = "Kolpak-1S 面罩",
+          ItemName_EFK_Face_Shield_Kiver = "Kiver-M 面罩",
+
+
+
+
+
+
+
 
 }
