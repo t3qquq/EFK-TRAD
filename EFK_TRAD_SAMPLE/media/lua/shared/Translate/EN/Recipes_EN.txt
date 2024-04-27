@@ -571,7 +571,7 @@ Recipes_EN = {
      Recipe_Sell_Crye_Precision_AirFrame_helmet = "Sell Crye Precision AirFrame helmet (542)",
      Recipe_Sell_Team_Wendy_EXFIL_Ballistic_Helmet = "Sell Team Wendy EXFIL Ballistic Helmet (701)",
      Recipe_Sell_Maska-1SCh_bulletproof_helmet = "Sell Maska-1SCh bulletproof helmet (417)",
-     Recipe_Sell_Rys-T bulletproof helmet = "Sell Rys-T bulletproof helmet (1103)",
+     Recipe_Sell_Rys-T_bulletproof_helmet  = "Sell Rys-T bulletproof helmet (1103)",
      Recipe_Sell_Vulkan-5_LShZ-5_bulletproof_helmet = "Sell Vulkan-5 LShZ-5 bulletproof helmet (1026)",
      Recipe_Sell_Altyn_bulletproof_helmet = "Sell Altyn bulletproof helmet (1041)",
 
