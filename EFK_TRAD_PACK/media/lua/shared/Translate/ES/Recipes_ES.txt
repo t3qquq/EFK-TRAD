@@ -571,7 +571,7 @@ Recipes_ES = {
      Recipe_Sell_Crye_Precision_AirFrame_helmet = "Vender casco Crye Precision AirFrame (542)",
      Recipe_Sell_Team_Wendy_EXFIL_Ballistic_Helmet = "Vender casco Team Wendy EXFIL Ballistic Helmet (701)",
      Recipe_Sell_Maska-1SCh_bulletproof_helmet = "Vender casco antibalas Maska-1SCh (417)",
-     Recipe_Sell_Rys-T bulletproof helmet = "Vender casco antibalas Rys-T (1103)",
+     Recipe_Sell_Rys-T_bulletproof_helmet = "Vender casco antibalas Rys-T (1103)",
      Recipe_Sell_Vulkan-5_LShZ-5_bulletproof_helmet = "Vender casco antibalas Vulkan-5 LShZ-5 (1026)",
      Recipe_Sell_Altyn_bulletproof_helmet = "Vender casco antibalas Altyn (1041)",
 

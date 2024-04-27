@@ -3,26 +3,51 @@ UI_RU = {
     UI_prof_usec = "USEC",
     UI_prof_bear = "BEAR",
 
-    UI_profdesc_usec = "Американская частная военизированная компания",
-    UI_profdesc_bear = "Российская частная военизированная компания",
+    UI_profdesc_usec = "РђРјРµСЂРёРєР°РЅСЃРєР°СЏ С‡Р°СЃС‚РЅР°СЏ РІРѕРµРЅРёР·РёСЂРѕРІР°РЅРЅР°СЏ РєРѕРјРїР°РЅРёСЏ",
+    UI_profdesc_bear = "Р РѕСЃСЃРёР№СЃРєР°СЏ С‡Р°СЃС‚РЅР°СЏ РІРѕРµРЅРёР·РёСЂРѕРІР°РЅРЅР°СЏ РєРѕРјРїР°РЅРёСЏ",
 
-    UI_optionscreen_binding_Ask_Closest_Group_Member_to_Follow = "Попросить ближайшего члена группы следовать за ним",
-    UI_optionscreen_binding_Spawn_Wild_Survivor = "Заставить появиться еще одного выжившего",
-    UI_optionscreen_binding_Toggle_Group_Window = "Переключить окно группы",
-    UI_optionscreen_binding_Lower_Follow_Distance = "Уменьшить дистанцию слежения",
-    UI_optionscreen_binding_Raise_Follow_Distance = "Увеличить дистанцию слежения",
-    UI_optionscreen_binding_SSHotkey_1 = "Директива SSHotkey 1",
-    UI_optionscreen_binding_SSHotkey_2 = "Директива SSHotkey 2",
-    UI_optionscreen_binding_SSHotkey_3 = "Директива SSHotkey 3",
-    UI_optionscreen_binding_SSHotkey_4 = "Директива SSHotkey 4",
+    UI_optionscreen_binding_Ask_Closest_Group_Member_to_Follow = "РџРѕРїСЂРѕСЃРёС‚СЊ Р±Р»РёР¶Р°Р№С€РµРіРѕ С‡Р»РµРЅР° РіСЂСѓРїРїС‹ СЃР»РµРґРѕРІР°С‚СЊ Р·Р° РЅРёРј",
+    UI_optionscreen_binding_Spawn_Wild_Survivor = "Р—Р°СЃС‚Р°РІРёС‚СЊ РїРѕСЏРІРёС‚СЊСЃСЏ РµС‰Рµ РѕРґРЅРѕРіРѕ РІС‹Р¶РёРІС€РµРіРѕ",
+    UI_optionscreen_binding_Toggle_Group_Window = "РџРµСЂРµРєР»СЋС‡РёС‚СЊ РѕРєРЅРѕ РіСЂСѓРїРїС‹",
+    UI_optionscreen_binding_Lower_Follow_Distance = "РЈРјРµРЅСЊС€РёС‚СЊ РґРёСЃС‚Р°РЅС†РёСЋ СЃР»РµР¶РµРЅРёСЏ",
+    UI_optionscreen_binding_Raise_Follow_Distance = "РЈРІРµР»РёС‡РёС‚СЊ РґРёСЃС‚Р°РЅС†РёСЋ СЃР»РµР¶РµРЅРёСЏ",
+    UI_optionscreen_binding_SSHotkey_1 = "Р”РёСЂРµРєС‚РёРІР° SSHotkey 1",
+    UI_optionscreen_binding_SSHotkey_2 = "Р”РёСЂРµРєС‚РёРІР° SSHotkey 2",
+    UI_optionscreen_binding_SSHotkey_3 = "Р”РёСЂРµРєС‚РёРІР° SSHotkey 3",
+    UI_optionscreen_binding_SSHotkey_4 = "Р”РёСЂРµРєС‚РёРІР° SSHotkey 4",
 
    /**********************************************
                30/03/24
                EDIT
    ***********************************************/
 
-    UI_optionscreen_binding_Call_Closest_Group_Member = "Позвонить ближайшему члену группы",
-    UI_optionscreen_binding_Call_Closest_Non-Group_Member = "Позвонить ближайшему члену негрупповой группы",
+    UI_optionscreen_binding_Call_Closest_Group_Member = "РџРѕР·РІРѕРЅРёС‚СЊ Р±Р»РёР¶Р°Р№С€РµРјСѓ С‡Р»РµРЅСѓ РіСЂСѓРїРїС‹",
+    UI_optionscreen_binding_Call_Closest_Non-Group_Member = "РџРѕР·РІРѕРЅРёС‚СЊ Р±Р»РёР¶Р°Р№С€РµРјСѓ С‡Р»РµРЅСѓ РЅРµРіСЂСѓРїРїРѕРІРѕР№ РіСЂСѓРїРїС‹",
+
+   /**********************************************
+               10/04/24
+               NEW
+   ***********************************************/
+
+    UI_trait_porte_Headset = "РќР°РґРµС‚Р° РіР°СЂРЅРёС‚СѓСЂР°",
+    UI_trait_porte_Headset_description = "РРіСЂРѕРє РЅРѕСЃРёС‚ РіР°СЂРЅРёС‚СѓСЂСѓ",
+
+   /**********************************************
+               12/04/24
+               NEW
+   ***********************************************/
+
+	UI_Text_ExamineTooltip = "Р—Р°РєСЂС‹С‚СЊ (esc)"
+    
+   /**********************************************
+               13/04/24
+               NEW
+   ***********************************************/
+
+    UI_trait_porte_Helmet = "РќР°РґРµС‚ С€Р»РµРј",
+    UI_trait_porte_Helmet_description = "РРіСЂРѕРє РЅРѕСЃРёС‚ С€Р»РµРј",
+
+}
 
 
 

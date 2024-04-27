@@ -571,7 +571,7 @@ Recipes_CN = {
      Recipe_Sell_Crye_Precision_AirFrame_helmet = "出售 Crye Precision AirFrame 头盔 (542)",
      Recipe_Sell_Team_Wendy_EXFIL_Ballistic_Helmet = "出售 Wendy EXFIL 防弹头盔 (701)",
      Recipe_Sell_Maska-1SCh_bulletproof_helmet = "出售 Maska-1SCh 防弹头盔 (417)",
-     Recipe_Sell_Rys-T bulletproof helmet = "出售 Rys-T 防弹头盔 (1103)",
+     Recipe_Sell_Rys-T_bulletproof_helmet = "出售 Rys-T 防弹头盔 (1103)",
      Recipe_Sell_Vulkan-5_LShZ-5_bulletproof_helmet = "出售 Vulkan-5 LShZ-5 防弹头盔 (1026)",
      Recipe_Sell_Altyn_bulletproof_helmet = "出售 Altyn 防弹头盔 (1041)",
 
