@@ -711,6 +711,13 @@ ItemName_KO = {
 		ItemName_tactorgsol.scav_box = "럭키 스캐브 정크 박스",
 
 	/**********************************************
+			02/04/24
+			NEW
+	***********************************************/     
+
+		ItemName_Base.EFK_stash_lvl1_kit = "창고 레벨 1 키트",
+
+	/**********************************************
 			05/04/24
 			EDIT
 	***********************************************/
@@ -887,11 +894,64 @@ ItemName_KO = {
 		ItemName_Base.EFK_Hat_Cowboy_kit = "카우보이 모자 키트",
 
 	/**********************************************
-			25/04/24
-			EDIT
+			22/04/24
+			NEW
 	***********************************************/     
 
-		ItemName_Base.EFK_stash_lvl1_kit = "창고 레벨 1 키트",
+		ItemName_EFK_BNTI_Face_Shield = "BNTI LShZ-2DTM 헬멧 (안면보호대 착용)",
+		ItemName_EFK_LSHZ_Face_Shield = "LShZ lightweight 헬멧 (안면보호대 착용)",
+		ItemName_EFK_ZSH_Face_Shield = "ZSh-1-2M 헬멧 (안면보호대 착용)",
+		ItemName_EFK_TacKek_FASTMT_Face_Shield = "Tac-Kek FAST MT 헬멧 (안면보호대 착용)",
+		ItemName_EFK_Kolpak_Face_Shield = "Kolpak-1S 진압용 헬멧 (안면보호대 착용)",
+		ItemName_EFK_PSh_97_DJETA_Face_Shield = "PSh-97 DJETA 진압용 헬멧 (안면보호대 착용)",
+		ItemName_EFK_ShPM_Firefighter_Face_Shield = "ShPM 소방관 헬멧 (안면보호대 착용)",
+		ItemName_EFK_NFM_HJELM_Face_Shield = "NFM HJELM 헬멧 (안면보호대 착용)",
+		ItemName_EFK_Galvion_Caiman_Hybrid_Face_Shield = "Galvion Caiman 하이브리드 헬멧 (안면보호대 착용)",
+		ItemName_EFK_Kiver_M_Face_Shield = "FORT Kiver-M 방탄 헬멧 (안면보호대 착용)",
+		ItemName_EFK_KlASS_Tor2_Face_Shield = "NPP KlASS Tor-2 헬멧 (안면보호대 착용)",
+		ItemName_EFK_TC_800_Face_Shield = "MSA Gallet TC 800 High Cut combat 헬멧 (안면보호대 착용)",
+		ItemName_EFK_FAST_MT_Face_Shield = "Ops-Core FAST MT Super High Cut 헬멧 (안면보호대 착용)",
+		ItemName_EFK_AirFrame_Face_Shield = "Crye Precision AirFrame 헬멧 (안면보호대 착용)",
+		ItemName_EFK_EXFIL_Face_Shield = "Team Wendy EXFIL Ballistic 헬멧 (안면보호대 착용)",
+		ItemName_EFK_Maska_1SCh_Face_Shield = "Maska-1SCh 방탄 헬멧 (안면보호대 착용)",
+		ItemName_EFK_Rys_T_Face_Shield = "Rys-T 방탄 헬멧 (안면보호대 착용)",
+		ItemName_EFK_Vulkan_5_Face_Shield = "Vulkan-5 LShZ-5 방탄 헬멧 (안면보호대 착용)",
+		ItemName_EFK_Altyn_Face_Shield = "Altyn 방탄 헬멧 (안면보호대 착용)",
+		ItemName_EFK_BNTI_Face_Shield_OPEN = "BNTI LShZ-2DTM 헬멧 (안면보호대 열림)",
+		ItemName_EFK_LSHZ_Face_Shield_OPEN = "LShZ lightweight 헬멧 (안면보호대 열림)",
+		ItemName_EFK_ZSH_Face_Shield_OPEN = "ZSh-1-2M 헬멧 (안면보호대 열림)",
+		ItemName_EFK_TacKek_FASTMT_Face_Shield_OPEN = "Tac-Kek FAST MT 헬멧 (안면보호대 열림)",
+		ItemName_EFK_Kolpak_Face_Shield_OPEN = "Kolpak-1S 진압용 헬멧 (안면보호대 열림)",
+		ItemName_EFK_PSh_97_DJETA_Face_Shield_OPEN = "PSh-97 DJETA 진압용 헬멧 (안면보호대 열림)",
+		ItemName_EFK_ShPM_Firefighter_Face_Shield_OPEN = "ShPM 소방관 헬멧 (안면보호대 열림)",
+		ItemName_EFK_NFM_HJELM_Face_Shield_OPEN = "NFM HJELM 헬멧 (안면보호대 열림)",
+		ItemName_EFK_Galvion_Caiman_Hybrid_Face_Shield_OPEN = "Galvion Caiman 하이브리드 헬멧 (안면보호대 열림)",
+		ItemName_EFK_Kiver_M_Face_Shield_OPEN = "FORT Kiver-M 방탄 헬멧 (안면보호대 열림)",
+		ItemName_EFK_KlASS_Tor2_Face_Shield_OPEN = "NPP KlASS Tor-2 헬멧 (안면보호대 열림)",
+		ItemName_EFK_TC_800_Face_Shield_OPEN = "MSA Gallet TC 800 High Cut combat 헬멧 (안면보호대 열림)",
+		ItemName_EFK_FAST_MT_Face_Shield_OPEN = "Ops-Core FAST MT Super High Cut 헬멧 (안면보호대 열림)",
+		ItemName_EFK_AirFrame_Face_Shield_OPEN = "Crye Precision AirFrame 헬멧 (안면보호대 열림)",
+		ItemName_EFK_EXFIL_Face_Shield_OPEN = "Team Wendy EXFIL Ballistic 헬멧 (안면보호대 열림)",
+		ItemName_EFK_Maska_1SCh_Face_Shield_OPEN = "Maska-1SCh 방탄 헬멧 (안면보호대 열림)",
+		ItemName_EFK_Rys_T_Face_Shield_OPEN = "Rys-T 방탄 헬멧 (안면보호대 열림)",
+		ItemName_EFK_Vulkan_5_Face_Shield_OPEN = "Vulkan-5 LShZ-5 방탄 헬멧 (안면보호대 열림)",
+		ItemName_EFK_Altyn_Face_Shield_OPEN = "Altyn 방탄 헬멧 (안면보호대 열림)",
+		ItemName_EFK_Face_Shield_FAST = "Ops-Core FAST multi-hit ballistic 안면보호대",
+		ItemName_EFK_Face_Shield_Altyn = "Altyn 헬멧 안면보호대",
+		ItemName_EFK_Face_Shield_Rys = "Rys-T 안면보호대",
+		ItemName_EFK_Face_Shield_Vulkan = "Vulkan-5 헬멧 안면보호대",
+		ItemName_EFK_Face_Shield_Maska = "Maska-1SCh 안면보호대",
+		ItemName_EFK_Face_Shield_EXFIL = "Team Wendy EXFIL Ballistic 안면보호대",
+		ItemName_EFK_Face_Shield_2DTM = "LShZ-2DTM 안면보호대",
+		ItemName_EFK_Face_Shield_ZSh2M = "ZSh-1-2M 안면보호대",
+		ItemName_EFK_Face_Shield_Tor2 = "NPP KlASS Tor-2 헬멧 안면보호대",
+		ItemName_EFK_Face_Shield_Kolpak = "Kolpak-1S 안면보호대",
+		ItemName_EFK_Face_Shield_Kiver = "Kiver-M 안면보호대",
+
+
+
+
+
 
 
 
