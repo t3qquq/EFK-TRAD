@@ -481,10 +481,6 @@ ItemName_EN = {
         ItemName_MapItem.Muldraugh_Tactical_Map = "Muldraugh Tactical Map",
         ItemName_MapItem.Westpoint_Tactical_Map = "Westpoint Tactical Map",
         ItemName_MapItem.Florius_Tactical_Map = "Florius Tactical Map",
-        ItemName_MapItem.Cumberland_Tactical_Map = "Lake Cumberland Tactical Map",
-        ItemName_MapItem.Petroville_Tactical_Map = "Petroville Tactical Map",
-        ItemName_MapItem.Dirkerdam_Tactical_Map = "Dirkerdam Tactical Map",
-        ItemName_MapItem.PaulosHammer_Tactical_Map = "Paulo's Hammer Tactical Map",
         ItemName_MapItem.MarchRidge_Tactical_Map = "March Ridge Tactical Map",
 
         ItemName_Base.TancredTrader = "Sales Store",
@@ -948,11 +944,19 @@ ItemName_EN = {
           ItemName_EFK_Face_Shield_Kolpak = "Kolpak-1S face shield",
           ItemName_EFK_Face_Shield_Kiver = "Kiver-M face shield",
 
+   /**********************************************
+               30/04/24
+               NEW
+   ***********************************************/
 
+        ItemName_MapItem.Weyhausen_Tactical_Map = "Weyhausen Tactical Map",
+        ItemName_MapItem.Trelai_Tactical_Map = "Trelai Tactical Map",
 
+   /**********************************************
+               01/05/24
+               NEW
+   ***********************************************/
 
-
-
-
+        ItemName_MapItem.Pitstop_Tactical_Map = "Pitstop Tactical Map",
 
 }

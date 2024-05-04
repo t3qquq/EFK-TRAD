@@ -8,14 +8,10 @@ IGUI_EN = {
    IGUI_EFK_Message_OnPlayerJoinInsertion_Rosewood = "I arrived in Rosewood",
    IGUI_EFK_Message_OnPlayerJoinInsertion_Muldraugh = "I arrived in Muldraugh",
    IGUI_EFK_Message_OnPlayerJoinInsertion_Westpoint = "I arrived in Westpoint",
-   IGUI_EFK_Message_OnPlayerJoinInsertion_PauloHammer = "I arrived in St Paulo's Hammer",
    IGUI_EFK_Message_OnPlayerJoinInsertion_Louisville = "I arrived in Louisville",
    IGUI_EFK_Message_OnPlayerJoinInsertion_Ravencreek = "I arrived in Raven creek",
    IGUI_EFK_Message_OnPlayerJoinInsertion_Trelai = "I arrived in Trelai",
-   IGUI_EFK_Message_OnPlayerJoinInsertion_Dirkerdam = "I arrived in Dirkerdam",
    IGUI_EFK_Message_OnPlayerJoinInsertion_Florius = "I arrived in Florius",
-   IGUI_EFK_Message_OnPlayerJoinInsertion_LakeCumberland = "I arrived in Lake Cumberland",
-   IGUI_EFK_Message_OnPlayerJoinInsertion_Petroville = "I arrived in Petroville",
    IGUI_EFK_Message_OnPlayerJoinInsertion_Customs = "I arrived in Customs",
    IGUI_EFK_Message_OnPlayerJoinInsertion_Factory = "I arrived in Factory",
    IGUI_EFK_Message_OnPlayerJoinInsertion_Woods = "I arrived in Woods",
@@ -28,14 +24,10 @@ IGUI_EN = {
    IGUI_EFK_contextMenu_areaName_Rosewood = "Rosewood",
    IGUI_EFK_contextMenu_areaName_Muldraugh = "Muldraugh",
    IGUI_EFK_contextMenu_areaName_Westpoint = "Westpoint",
-   IGUI_EFK_contextMenu_areaName_PauloHammer = "St Paulo's Hammer",
    IGUI_EFK_contextMenu_areaName_Louisville = "Louisville",
    IGUI_EFK_contextMenu_areaName_Ravencreek = "Raven creek",
    IGUI_EFK_contextMenu_areaName_Trelai = "Trelai",
    IGUI_EFK_contextMenu_areaName_Florius = "Florius",
-   IGUI_EFK_contextMenu_areaName_Dirkerdam = "Dirkerdam",
-   IGUI_EFK_contextMenu_areaName_LakeCumberland = "Lake cumberland",
-   IGUI_EFK_contextMenu_areaName_Petroville = "Petroville",
    IGUI_EFK_contextMenu_areaName_Customs = "Customs",
    IGUI_EFK_contextMenu_areaName_Factory = "Factory",
    IGUI_EFK_contextMenu_areaName_Woods = "Woods",
@@ -53,15 +45,11 @@ IGUI_EN = {
    IGUI_EFK_tooltip_insertion_Rosewood = "Are you sure to start a Mission into Rosewood ? You need to Extract within 24 hours or you will die",
    IGUI_EFK_tooltip_insertion_Muldraugh = "Are you sure to start a Mission into Muldraugh ? You need to Extract within 24 hours or you will die",
    IGUI_EFK_tooltip_insertion_Westpoint = "Are you sure to start a Mission into Westpoint ? You need to Extract within 24 hours or you will die",
-   IGUI_EFK_tooltip_insertion_PauloHammer = "Are you sure to start a Mission into Paulo's Hammer ? You need to Extract within 24 hours or you will die",
    IGUI_EFK_tooltip_insertion_Louisville = "Are you sure to start a Mission into Louisville ? You need to Extract within 24 hours or you will die",
    IGUI_EFK_tooltip_insertion_Ravencreek = "Are you sure to start a Mission into Ravencreek ? You need to Extract within 24 hours or you will die",
    IGUI_EFK_tooltip_insertion_Trelai = "Are you sure to start a Mission into Trelai ? You need to Extract within 24 hours or you will die",
    IGUI_EFK_tooltip_insertion_MarchRidge = "Are you sure to start a Mission into MarchRidge ? You need to Extract within 24 hours or you will die",
-   IGUI_EFK_tooltip_insertion_Dirkerdam = "Are you sure to start a Mission into Dirkerdam ? You need to Extract within 24 hours or you will die",
    IGUI_EFK_tooltip_insertion_Florius = "Are you sure to start a Mission into Florius ? You need to Extract within 24 hours or you will die",
-   IGUI_EFK_tooltip_insertion_LakeCumberland = "Are you sure to start a Mission into LakeCumberland ? You need to Extract within 24 hours or you will die",
-   IGUI_EFK_tooltip_insertion_Petroville = "Are you sure to start a Mission into Petroville ? You need to Extract within 24 hours or you will die",
    IGUI_EFK_tooltip_insertion_Customs = "Are you sure to start a Mission into Customs ? You need to Extract within 24 hours or you will die",
    IGUI_EFK_tooltip_insertion_Factory = "Are you sure to start a Mission into Usine ? You need to Extract within 24 hours or you will die",
    IGUI_EFK_tooltip_insertion_Woods = "Are you sure to start a Mission into Wood ? You need to Extract within 24 hours or you will die",
@@ -91,7 +79,6 @@ IGUI_EN = {
    IGUI_PRAPOR_Task_Talk_Prapor = "Talk to Prapor",
    IGUI_PRAPOR_Task_q1_t1 = "Kill 100 zombies.",
    IGUI_PRAPOR_Task_q1_t2 = "Deliver 2 MP-133 kits (You must convert the shotguns into kits before returning its)",
-   IGUI_PRAPOR_Task_q2_t2 = "Reach the Riverside USEC Military Camp.",
    IGUI_PRAPOR_Task_q3_t2 = "Reach Rosewood Construction Site (South-East of the Rosewood North part).",
    IGUI_PRAPOR_Task_q3_t3 = "Reach building where the pocket watch is stored.",
    IGUI_PRAPOR_Task_q3_t4 = "Search for the pocket watch.",
@@ -99,17 +86,11 @@ IGUI_EN = {
    IGUI_PRAPOR_Task_q4_t3 = "Destroy the horde.",
    IGUI_PRAPOR_Task_q4_t4 = "Secure the building.",
    IGUI_PRAPOR_Task_q5_t2 = "Reach the Rosewood Police Station.",
-   IGUI_PRAPOR_Task_q5_t3 = "Find the armory room.",
+   IGUI_PRAPOR_Task_q5_t3 = "Find the armory room",
    IGUI_PRAPOR_Task_q5_t4 = "Search for the secure folder.",
    IGUI_PRAPOR_Task_q5_t5 = "Reach the Riverside USEC Military Camp.",
    IGUI_PRAPOR_Task_q5_t6 = "Find the officer's tent.",
    IGUI_PRAPOR_Task_q5_t7 = "Hide the secure folder.",
-   IGUI_PRAPOR_Task_q7_t2 = "Reach the Dirkerdam Police Station (Center of the West part of Dirkerdam).",
-   IGUI_PRAPOR_Task_q8_t2 = "Reach the Dirkerdam Police Station (Center of the West part of Dirkerdam).",
-   IGUI_PRAPOR_Task_q8_t3 = "Check the four West gates (check and clear).",
-   IGUI_PRAPOR_Task_q8_t4 = "Check the North double doors (check and clear).",
-   IGUI_PRAPOR_Task_q8_t5 = "Check the East entrance (check and clear).",
-   IGUI_PRAPOR_Task_q8_t6 = "Check the South double doors (check and clear).",
    IGUI_PRAPOR_Task_q9_t2 = "Reach the central building of Florius (next to the VideoStore).",
    IGUI_PRAPOR_Task_q9_t3 = "Find the good office room.",
    IGUI_PRAPOR_Task_q9_t4 = "Search for the secure folder.",
@@ -464,7 +445,6 @@ IGUI_EN = {
    IGUI_TOUBIB_Task_Talk_Toubib = "Talk to Therapist",
    IGUI_TOUBIB_Task_q2_t2 = "Deliver a gas analyzer kit (You must convert this item into kit before returning it)",
    IGUI_TOUBIB_Task_q3_t2 = "Deliver 2 gas analyzer kits (You must convert this items into kits before returning its)",
-   IGUI_TOUBIB_Task_q4_t2 = "Reach the court house of Rosewood",
    IGUI_TOUBIB_Task_q4_t3 = "Find the water reserve",
    IGUI_TOUBIB_Task_q4_t4 = "Mark the water reserve",
    IGUI_TOUBIB_Task_q5_t3 = "Destroy the horde",
@@ -576,8 +556,8 @@ IGUI_EN = {
 
    IGUI_SKIER_Task_Talk_Skier = "Talk to Skier",
    IGUI_SKIER_Task_q1_t1 = "Deliver 1 TOZ Rifle kit and 1 3M Armor kit (You must convert this items into kits before returning its)",
-   IGUI_SKIER_Task_q2_t2 = "Reach the printing house (Industrial building next to the most southern bridge of Dirkerdam)",
-   IGUI_SKIER_Task_q2_t3 = "Reach the administrative offices",
+   IGUI_SKIER_Task_q2_t2 = "Reach the shop (North West of Weyhausen)",
+   IGUI_SKIER_Task_q2_t3 = "Reach the administrative office",
    IGUI_SKIER_Task_q2_t4 = "Search for the secure folder",
    IGUI_SKIER_Task_q3_t2 = "Approach the Rosewood Company Building (x=8220 y=11042) (HORDE)",
    IGUI_SKIER_Task_q3_t3 = "Destroy the horde",
@@ -692,7 +672,6 @@ IGUI_EN = {
    IGUI_JAEGER_Task_q3_t2 = "Reach the refugee outpost (North East of Rosewood Expansion)",
    IGUI_JAEGER_Task_q3_t3 = "Find the military tent",
    IGUI_JAEGER_Task_q3_t4 = "Stash the ration pack behind the bed",
-   IGUI_JAEGER_Task_q4_t2 = "Reach the bar into Dirkerdam (x=7851 y=3592)",
    IGUI_JAEGER_Task_q4_t3 = "Search for the Jaeger bottle",
    IGUI_JAEGER_Task_q5_t2 = "Approach the Muldraugh Restaurant (HORDE)",
    IGUI_JAEGER_Task_q5_t3 = "Destroy the horde",
@@ -702,7 +681,6 @@ IGUI_EN = {
    IGUI_JAEGER_Task_q6_t4 = "Scout the Florius Jay's Chicken",
    IGUI_JAEGER_Task_q6_t5 = "Scout the Florius Greene's",
    IGUI_JAEGER_Task_q6_t7 = "Deliver a Lyon sausage to Jaeger (can be roten)",
-   IGUI_JAEGER_Task_q7_t3 = "Reach the office into Dirkerdam (x=7491 y=3543)",
    IGUI_JAEGER_Task_q8_t2 = "Kill 5600 Zombies",
    IGUI_JAEGER_Task_q9_t2 = "Reach the store at Fallas Lake",
    IGUI_JAEGER_Task_q9_t3 = "Find the room with the order book",
@@ -842,7 +820,6 @@ IGUI_EN = {
    IGUI_MECANIX_Task_q1_t3 = "Secure the bunker",
    IGUI_MECANIX_Task_q1_t4 = "Search for the Jaeger's encrypted message",
    IGUI_MECANIX_Task_q1_t6 = "Talk to Mechanic",
-   IGUI_MECANIX_Task_q2_t2 = "Reach the factory into Dirkerdam (GPS x=7937 y=3242)",
    IGUI_MECANIX_Task_q2_t3 = "Fix the first control board",
    IGUI_MECANIX_Task_q2_t4 = "Fix the second control board",
    IGUI_MECANIX_Task_q2_t6 = "Talk to Mechanic",
@@ -1146,12 +1123,6 @@ IGUI_EN = {
                EDIT
    ***********************************************/
 
-   IGUI_PRAPOR_Task_q6_t1 = "Mark the first gas dispenser (GPS 7143;3184)",
-   IGUI_PRAPOR_Task_q6_t2 = "Mark the second gas dispenser (GPS 6856;2723)",
-   IGUI_PRAPOR_Task_q6_t3 = "Mark the third gas dispenser (GPS 7774;2732)",
-   IGUI_PRAPOR_Task_q6_t4 = "Mark the fourth gas dispenser (GPS 8276;4009)",
-   IGUI_TOUBIB_Task_q5_t2 = "Approach the Dirkerdam Woke Wok Restaurant - South East sector of the city (HORDE)",
-   IGUI_TOUBIB_Task_q7_t2 = "Reach Therapist's pharmacy - Center of the West sector of the city",
    IGUI_TOUBIB_Task_q8_t2 = "Reach Muldraugh's military outpost",
 
    /**********************************************
@@ -1305,5 +1276,53 @@ IGUI_EN = {
    IGUI_MECANIX_Task_q3_t2 = "Reach the Riverside Highschool roof",
    IGUI_MECANIX_Task_q3_t3 = "Approach the antenna",
    IGUI_MECANIX_Task_q3_t5 = "Talk to Mechanic",
+
+   /**********************************************
+               29/04/24
+               EDIT
+   ***********************************************/
+
+   IGUI_TOUBIB_Task_q5_t2 = "Approach the Trelai Commercial Shop - Center North sector of the city (HORDE)",
+   IGUI_TOUBIB_Task_q7_t2 = "Reach Therapist's office into Trelai (GPS 7098;7035)",
+   IGUI_PRAPOR_Task_q7_t2 = "Reach the Trelai Police Station (GPS x=7937 y=3242)",
+   IGUI_PRAPOR_Task_q8_t2 = "Reach the Trelai Police Station (GPS x=7937 y=3242).",
+   IGUI_PRAPOR_Task_q8_t3 = "Check and Secure the Police Station North access",
+   IGUI_PRAPOR_Task_q8_t4 = "Check and Secure the Police Station South access",
+   IGUI_PRAPOR_Task_q8_t5 = "Check and Secure the Police Station South West outside access",
+   IGUI_PRAPOR_Task_q8_t6 = "Check and Secure the Police Station Weapon storage",
+
+   /**********************************************
+               30/04/24
+               EDIT
+   ***********************************************/
+
+      IGUI_JAEGER_Task_q4_t2 = "Reach the bar into Trelai (GPS x=6845 y=6987)",
+      IGUI_JAEGER_Task_q7_t3 = "Reach the place into Trelai (GPS x=7154 y=6800)",
+      IGUI_MECANIX_Task_q2_t2 = "Reach the factory into Trelai (GPS x=7425 y=6780)",
+
+   /**********************************************
+               30/04/24
+               NEW
+   ***********************************************/
+
+      IGUI_JAEGER_Task_q7_t4 = "Find the room",
+      IGUI_EFK_Message_OnPlayerJoinInsertion_Weyhausen = "I arrived in Weyhausen",
+      IGUI_EFK_contextMenu_areaName_Weyhausen = "Weyhausen",
+      IGUI_EFK_tooltip_insertion_Weyhausen = "Are you sure to start a Mission into Weyhausen ? You need to Extract within 24 hours or you will die",
+      IGUI_EFK_Message_OnPlayerJoinInsertion_Trelai = "I arrived in Trelai",
+      IGUI_EFK_contextMenu_areaName_Trelai = "Trelai",
+      IGUI_EFK_tooltip_insertion_Trelai = "Are you sure to start a Mission into Trelai ? You need to Extract within 24 hours or you will die",
+
+   /**********************************************
+               01/05/24
+               EDIT
+   ***********************************************/
+
+   IGUI_PRAPOR_Task_q6_t1 = "Mark the Weyhausen gas dispenser",
+   IGUI_PRAPOR_Task_q6_t2 = "Mark the Rosewood gas dispenser (GPS 8200;11298)",
+   IGUI_PRAPOR_Task_q6_t3 = "Mark the Trelai gas dispenser (GPS 7051;7143)",
+   IGUI_PRAPOR_Task_q6_t4 = "Mark the fourth gas dispenser (GPS 8276;4009)",
+   IGUI_PRAPOR_Task_q2_t2 = "Reach the Weyhausen USEC Military Camp.",
+   IGUI_TOUBIB_Task_q4_t2 = "Reach the water shop of Pitstop",
 
 }
