@@ -454,26 +454,26 @@ Recipes_FR = {
      Recipe_Craft_2_Iskra_ration_packs = "Fabriquer 2 rations Iskra",
      Recipe_Craft_2_Emergency_Water_Rations = "Fabriquer 2 rations d'eau d'urgence",
      Recipe_Craft_4_Can_of_Max_Energy_energy_drink = "Fabriquer 4 canettes de boisson énergétique Max Energy",
-
+     
    /**********************************************
                28/03/24
                EDIT
    ***********************************************/
 
-     Recipe_Sell_Simonov_SKS_7.62x39_carbine = "Sell Simonov SKS 7.62x39 carbine (192)",
+     Recipe_Sell_Simonov_SKS_7.62x39_carbine = "Vendre carabine Simonov SKS 7.62x39 (192)",
 
    /**********************************************
                28/03/24
-               NEW
+               NOUVEAU
    ***********************************************/
 
-     Recipe_Create_a_custom_firearm_:_AKS-74N_MK1 = "Create a custom firearm : AKS-74N MK1",
-     Recipe_Create_a_custom_firearm_:_P226R_MK1 = "Create a custom firearm : P226R MK1",
-     Recipe_Create_a_custom_firearm_:_AK-105_MK1 = "Create a custom firearm : AK-105 MK1",
-     Recipe_Create_a_custom_firearm_:_KRISS_Vector_9x19_MK1 = "Create a custom firearm : KRISS Vector 9x19 MK1",
-     Recipe_Create_a_custom_firearm_:_MPX_MK1 = "Create a custom firearm : MPX MK1",
-     Recipe_Create_a_custom_firearm_:_RSASS_MK1 = "Create a custom firearm : RSASS MK1",
-     Recipe_Create_a_custom_firearm_:_HK416_MK1 = "Create a custom firearm : HK416 MK1",
+     Recipe_Create_a_custom_firearm_:_AKS-74N_MK1 = "Créer une arme à feu personnalisée : AKS-74N MK1",
+     Recipe_Create_a_custom_firearm_:_P226R_MK1 = "Créer une arme à feu personnalisée : P226R MK1",
+     Recipe_Create_a_custom_firearm_:_AK-105_MK1 = "Créer une arme à feu personnalisée : AK-105 MK1",
+     Recipe_Create_a_custom_firearm_:_KRISS_Vector_9x19_MK1 = "Créer une arme à feu personnalisée : KRISS Vector 9x19 MK1",
+     Recipe_Create_a_custom_firearm_:_MPX_MK1 = "Créer une arme à feu personnalisée : MPX MK1",
+     Recipe_Create_a_custom_firearm_:_RSASS_MK1 = "Créer une arme à feu personnalisée : RSASS MK1",
+     Recipe_Create_a_custom_firearm_:_HK416_MK1 = "Créer une arme à feu personnalisée : HK416 MK1",
 
    /**********************************************
                01/04/24

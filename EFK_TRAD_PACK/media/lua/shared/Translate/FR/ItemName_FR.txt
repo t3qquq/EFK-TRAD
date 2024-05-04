@@ -481,10 +481,6 @@ ItemName_FR = {
         ItemName_MapItem.Muldraugh_Tactical_Map = "Carte tactique Muldraugh",
         ItemName_MapItem.Westpoint_Tactical_Map = "Carte tactique Westpoint",
         ItemName_MapItem.Florius_Tactical_Map = "Carte tactique Florius",
-        ItemName_MapItem.Cumberland_Tactical_Map = "Carte tactique Lake Cumberland",
-        ItemName_MapItem.Petroville_Tactical_Map = "Carte tactique Petroville",
-        ItemName_MapItem.Dirkerdam_Tactical_Map = "Carte tactique Dirkerdam",
-        ItemName_MapItem.PaulosHammer_Tactical_Map = "Carte tactique Paulo's Hammer",
         ItemName_MapItem.MarchRidge_Tactical_Map = "Carte tactique March Ridge",
 
         ItemName_Base.TancredTrader = "Magasin de vente",
@@ -700,8 +696,8 @@ ItemName_FR = {
                NEW
    ***********************************************/
 
-        ItemName_Base.EFK_AsepticBandage = "Sterile Bandage",
-        ItemName_Base.EFK_Tourniquet = "Tourniquet",
+        ItemName_Base.EFK_AsepticBandage = "Bandage Stérile",
+        ItemName_Base.EFK_Tourniquet = "Garrot Tourniquet",
 
    /**********************************************
                02/04/24
@@ -722,8 +718,8 @@ ItemName_FR = {
                EDIT
    ***********************************************/
 
-        ItemName_Base.EFK_VPO_136 = "Molot Arms VPO-136 "Vepr-KM" 7.62x39 carbine",
-        ItemName_Base.EFK_VPO_136_Melee = "Molot Arms VPO-136 "Vepr-KM" 7.62x39 carbine (Melee)",
+        ItemName_Base.EFK_VPO_136 = "Molot Arms VPO-136 'Vepr-KM' 7.62x39 carbine",
+        ItemName_Base.EFK_VPO_136_Melee = "Molot Arms VPO-136 'Vepr-KM' 7.62x39 carbine (Melee)",
 
    /**********************************************
                06/04/24
@@ -948,11 +944,19 @@ ItemName_FR = {
           ItemName_EFK_Face_Shield_Kolpak = "Écran facial Kolpak-1S",
           ItemName_EFK_Face_Shield_Kiver = "Écran facial Kiver-M",
 
+   /**********************************************
+               30/04/24
+               NEW
+   ***********************************************/
 
+        ItemName_MapItem.Weyhausen_Tactical_Map = "Carte tactique de Weyhausen",
+        ItemName_MapItem.Trelai_Tactical_Map = "Carte tactique de Trelai",
 
+   /**********************************************
+               01/05/24
+               NEW
+   ***********************************************/
 
-
-
-
+        ItemName_MapItem.Pitstop_Tactical_Map = "Carte tactique de Pitstop",
 
 }
