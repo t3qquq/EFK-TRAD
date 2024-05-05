@@ -481,10 +481,6 @@ ItemName_KO = {
 		ItemName_MapItem.Muldraugh_Tactical_Map = "멀드로우 전술지도",
 		ItemName_MapItem.Westpoint_Tactical_Map = "웨스트포인트 전술지도",
 		ItemName_MapItem.Florius_Tactical_Map = "플로리우스 전술지도",
-		ItemName_MapItem.Cumberland_Tactical_Map = "컴버랜드 호수 전술지도",
-		ItemName_MapItem.Petroville_Tactical_Map = "페트로빌 전술지도",
-		ItemName_MapItem.Dirkerdam_Tactical_Map = "더커담 전술지도",
-		ItemName_MapItem.PaulosHammer_Tactical_Map = "상파울로즈 해머 전술지도",
 		ItemName_MapItem.MarchRidge_Tactical_Map = "마치 릿지 전술지도",
 
 		ItemName_Base.TancredTrader = "판매점",
@@ -948,11 +944,20 @@ ItemName_KO = {
 		ItemName_EFK_Face_Shield_Kolpak = "Kolpak-1S 안면보호대",
 		ItemName_EFK_Face_Shield_Kiver = "Kiver-M 안면보호대",
 
+/**********************************************
+               30/04/24
+               NEW
+   ***********************************************/
 
+        ItemName_MapItem.Weyhausen_Tactical_Map = "바이하우젠 전술 지도",
+        ItemName_MapItem.Trelai_Tactical_Map = "트렐라이 전술 지도",
 
+   /**********************************************
+               01/05/24
+               NEW
+   ***********************************************/
 
-
-
+        ItemName_MapItem.Pitstop_Tactical_Map = "피트스탑 전술 지도",
 
 
 }
