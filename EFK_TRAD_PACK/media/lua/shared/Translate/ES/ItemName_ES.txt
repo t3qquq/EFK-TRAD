@@ -481,10 +481,6 @@ ItemName_Base.Bag_ArmyMedkit = "Bolsa médica",
         ItemName_MapItem.Muldraugh_Tactical_Map = "Mapa Táctico de Muldraugh",
         ItemName_MapItem.Westpoint_Tactical_Map = "Mapa Táctico de Westpoint",
         ItemName_MapItem.Florius_Tactical_Map = "Mapa Táctico Florius",
-        ItemName_MapItem.Cumberland_Tactical_Map = "Mapa Táctico del Lago Cumberland",
-        ItemName_MapItem.Petroville_Tactical_Map = "Mapa Táctico de Petroville",
-        ItemName_MapItem.Dirkerdam_Tactical_Map = "Mapa Táctico de Dirkerdam",
-        ItemName_MapItem.PaulosHammer_Tactical_Map = "Mapa Táctico Martillo de Paulo",
         ItemName_MapItem.MarchRidge_Tactical_Map = "Mapa Táctico March Ridge",
 
         ItemName_Base.TancredTrader = "Comerciante Tancred",
@@ -627,7 +623,7 @@ ItemName_Base.Bag_ArmyMedkit = "Bolsa médica",
         ItemName_Base.EFK_illumination_lvl1_kit = "Kit de iluminación nivel 1",
         ItemName_Base.EFK_workbench_lvl1_kit = "Kit de banco de trabajo nivel 1",
 
-        ItemName_Base.EFK_nutrition_lvl1_kit = "Kit de nutrición nivel 1",
+        ItemName_Base.EFK_nutritionTrader_lvl1_kit = "Kit de nutrición nivel 1",
         ItemName_Base.EFK_Max_Energy = "Lata de bebida Max Energy",
         ItemName_Base.EFK_BakeEzy = "Libro de cocina BakeEzy",
         ItemName_Base.EFK_Squash = "Lata de calabaza para untar",
@@ -722,8 +718,8 @@ ItemName_Base.Bag_ArmyMedkit = "Bolsa médica",
                EDITAR
    ***********************************************/
 
-        ItemName_Base.EFK_VPO_136 = "Molot Arms VPO-136 "Vepr-KM" 7.62x39 carbine",
-        ItemName_Base.EFK_VPO_136_Melee = "Molot Arms VPO-136 "Vepr-KM" 7.62x39 carbine (Melee)",
+        ItemName_Base.EFK_VPO_136 = "Molot Arms VPO-136 'Vepr-KM' 7.62x39 carbine",
+        ItemName_Base.EFK_VPO_136_Melee = "Molot Arms VPO-136 'Vepr-KM' 7.62x39 carbine (Melee)",
 
    /**********************************************
                06/04/24
@@ -948,11 +944,19 @@ ItemName_Base.Bag_ArmyMedkit = "Bolsa médica",
           ItemName_EFK_Face_Shield_Kolpak = "Pantalla facial Kolpak-1S",
           ItemName_EFK_Face_Shield_Kiver = "Pantalla facial Kiver-M",
 
+   /**********************************************
+               30/04/24
+               NEW
+   ***********************************************/
 
+        ItemName_MapItem.Weyhausen_Tactical_Map = "Mapa táctico de Weyhausen",
+        ItemName_MapItem.Trelai_Tactical_Map = "Mapa Táctico de Trelai",
 
+   /**********************************************
+               01/05/24
+               NUEVO
+   ***********************************************/
 
-
-
-
+        ItemName_MapItem.Pitstop_Tactical_Map = "Mapa táctico de Pitstop",
 
 }

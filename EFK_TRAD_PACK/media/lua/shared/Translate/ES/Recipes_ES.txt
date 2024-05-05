@@ -533,7 +533,7 @@ Recipes_ES = {
      Recipe_Craft_6_Aseptic_bandages = "Crear 6 Vendas asépticas",
      Recipe_Craft_2_Toilet_paper = "Crear 2 Papel higiénico",
      Recipe_Craft_2_Army_bandage = "Crear 2 Venda militar",
-     Recipe_Create_a_Stash_Lvl1_kit = "Create a Stash Lvl1 kit",
+     Recipe_Create_a_Stash_Lvl1_kit = "Crear un kit Stash Lvl1",
 
    /**********************************************
                10/04/24
@@ -674,7 +674,7 @@ Recipes_ES = {
      Recipe_Sell_5.11_Tactical_Hexgrid_plate_carrier = "Vender portaplacas 5.11 Tactical Hexgrid (936)",
      Recipe_Sell_LBT-6094A_Slick_Plate_Carrier = "Vende portaplacas LBT-6094A Slick (1576)",
      Recipe_Sell_BNTI_Zhuk_body_armor_Digital_Flora = "Vender BNTI Zhuk armadura Flora Digital (875)",
-     Recipe_Sell_BNTI_Gzhel-K_armadura_cuerpo = "Vender armadura corporal BNTI Gzhel-K (459)",
+     Recipe_Sell_BNTI_Gzhel-K_body_armor = "Vender armadura corporal BNTI Gzhel-K (459)",
      Recipe_Sell_NPP_KlASS_Korund-VM_body_armor_Black = "Vender NPP KlASS Korund-VM armadura negra (374)",
      Recipe_Sell_6B43_Zabralo-Sh_body_armor_Digital_Flora = "Vender 6B43 Zabralo-Sh armadura Flora Digital (1593)",
      Recipe_Sell_HighCom_Trooper_TFO_body_armor_MultiCam = "Vender HighCom Trooper TFO body armor MultiCam (469)",
@@ -684,7 +684,7 @@ Recipes_ES = {
      Recipe_Sell_Tehinkom_RK-PT-25_patrol_backpack_Digital_Flora = "Vender mochila de patrulla Tehinkom RK-PT-25 Flora Digital (169)",
      Recipe_Sell_Direct_Action_Dragon_Egg_Mark_II_backpack_Black = "Venta Acción Directa Huevo de Dragón Mark II mochila Negro (188)",
      Recipe_Sell_LBT-1476A_3Day_Pack_Woodland = "Vender LBT-1476A 3Day Pack Woodland (176)",
-     Recipe_Sell_LBT-8005A_Day_Packpack_MultiCam_Black = "Vender LBT-8005A Mochila Day Pack MultiCam Negra (140)",
+     Recipe_Sell_LBT-8005A_Day_Pack_backpack_MultiCam_Black = "Vender LBT-8005A Mochila Day Pack MultiCam Negra (140)",
      Recipe_Sell_Mystery_Ranch_NICE_COMM_3_BVS_frame_system_Coyote = "Venta Mystery Ranch NICE COMM 3 BVS frame system Coyote (1116)",
      Recipe_Sell_SSO_Attack_2_raid_backpack_Khaki = "Vende SSO Attack 2 raid backpack Khaki (542)",
      Recipe_Sell_Mystery_Ranch_Blackjack_50_backpack_MultiCam =  "Vender Mystery Ranch Blackjack 50 mochila MultiCam (785)",
