@@ -13,7 +13,7 @@ ContextMenu_DE = {
 
     ContextMenu_Use_CMS = "Den Ball mit dem CMS-Set herausziehen", 
     ContextMenu_Use_SURV = "Ball mit dem SURV12-Set herausholen", 
-    ContextMenu_Title = "Überlebende",
+    ContextMenu_Title  = "Überlebende",
     ContextMenu_SD_AidCheck = "Medizinische Überprüfung / Erste Hilfe",
     ContextMenu_SD_AidCheckDesc = "Gehen Sie zu diesem Überlebenden und führen Sie einen medizinischen Check durch, wenn er sich bewegt, kann der Vorgang abgebrochen werden", 
     ContextMenu_SD_AddClothing = "Kleidung des Überlebenden",
@@ -375,7 +375,7 @@ ContextMenu_DE = {
 
     ContextMenu_SOption_CallClosestGroupMember = "Das nächstgelegene Gruppenmitglied rufen",
     ContextMenu_SOption_CallClosestNonGroupMember = "Ruft das nächstgelegene Gruppenmitglied",
-    ContextMenu_SOption_AskestGroupMembertoFollow = "Das nächstgelegene Gruppenmitglied zum Mitgehen auffordern",
+    ContextMenu_SOption_AskClosestGroupMembertoFollow = "Das nächstgelegene Gruppenmitglied zum Mitgehen auffordern",
     ContextMenu_SOption_SpawnWildSurvivor = "Einen wilden Überlebenden erschaffen",
     ContextMenu_SOption_ToggleGroupWindow = "Das Gruppenfenster kippen",
     ContextMenu_SOption_LowerFollowDistance = "Verringert den Verfolgungsabstand",

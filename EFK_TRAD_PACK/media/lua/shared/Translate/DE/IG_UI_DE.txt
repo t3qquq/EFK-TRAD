@@ -8,14 +8,10 @@ IGUI_DE = {
    IGUI_EFK_Message_OnPlayerJoinInsertion_Rosewood = "Ich bin in Rosewood angekommen",
    IGUI_EFK_Message_OnPlayerJoinInsertion_Muldraugh = "Ich bin in Muldraugh angekommen",
    IGUI_EFK_Message_OnPlayerJoinInsertion_Westpoint = "Ich bin in Westpoint angekommen",
-   IGUI_EFK_Message_OnPlayerJoinInsertion_PauloHammer = "Ich kam in St. Paulos Hammer an",
    IGUI_EFK_Message_OnPlayerJoinInsertion_Louisville = "Ich bin in Louisville angekommen",
    IGUI_EFK_Message_OnPlayerJoinInsertion_Ravencreek = "Ich bin in Raven Creek angekommen",
    IGUI_EFK_Message_OnPlayerJoinInsertion_Trelai = "Ich bin in Trelai angekommen",
-   IGUI_EFK_Message_OnPlayerJoinInsertion_Dirkerdam = "Ich bin in Dirkerdam angekommen",
    IGUI_EFK_Message_OnPlayerJoinInsertion_Florius = "Ich bin in Florius angekommen",
-   IGUI_EFK_Message_OnPlayerJoinInsertion_LakeCumberland = "Ich bin im Cumberlandsee angekommen",
-   IGUI_EFK_Message_OnPlayerJoinInsertion_Petroville = "Ich bin in Petroville angekommen",
    IGUI_EFK_Message_OnPlayerJoinInsertion_Customs = "Ich bin in Customs angekommen",
    IGUI_EFK_Message_OnPlayerJoinInsertion_Factory = "Ich bin in der Fabrik angekommen",
    IGUI_EFK_Message_OnPlayerJoinInsertion_Woods = "Ich bin in den Wäldern angekommen",
@@ -28,14 +24,10 @@ IGUI_DE = {
    IGUI_EFK_contextMenu_areaName_Rosewood = "Rosenholz",
    IGUI_EFK_contextMenu_areaName_Muldraugh = "Muldraugh",
    IGUI_EFK_contextMenu_areaName_Westpoint = "Westpoint",
-   IGUI_EFK_contextMenu_areaName_PauloHammer = "St. Paulos Hammer",
    IGUI_EFK_contextMenu_areaName_Louisville = "Louisville",
    IGUI_EFK_contextMenu_areaName_Ravencreek = "Raven creek",
    IGUI_EFK_contextMenu_areaName_Trelai = "Trelai",
    IGUI_EFK_contextMenu_areaName_Florius = "Florius",
-   IGUI_EFK_contextMenu_areaName_Dirkerdam = "Dirkerdam",
-   IGUI_EFK_contextMenu_areaName_LakeCumberland = "Cumberlandsee",
-   IGUI_EFK_contextMenu_areaName_Petroville = "Petroville",
    IGUI_EFK_contextMenu_areaName_Customs = "Zölle",
    IGUI_EFK_contextMenu_areaName_Factory = "Fabrik",
    IGUI_EFK_contextMenu_areaName_Woods = "Wälder",
@@ -53,15 +45,11 @@ IGUI_DE = {
    IGUI_EFK_tooltip_insertion_Rosewood = "Sind Sie sicher, dass Sie eine Mission in Rosewood beginnen wollen? Sie müssen innerhalb von 24 Stunden extrahieren oder Sie werden sterben",
    IGUI_EFK_tooltip_insertion_Muldraugh = "Sind Sie sicher, dass Sie eine Mission in Muldraugh beginnen? Sie müssen innerhalb von 24 Stunden extrahieren oder Sie werden sterben",
    IGUI_EFK_tooltip_insertion_Westpoint = "Sind Sie sicher, dass Sie eine Mission in Westpoint beginnen? Sie müssen innerhalb von 24 Stunden aussteigen oder Sie werden sterben",
-   IGUI_EFK_tooltip_insertion_PauloHammer = "Sind Sie sicher, dass Sie eine Mission in Paulos Hammer beginnen? Sie müssen innerhalb von 24 Stunden extrahieren oder Sie werden sterben",
    IGUI_EFK_tooltip_insertion_Louisville = "Sind Sie sicher, dass Sie eine Mission in Louisville beginnen? Sie müssen innerhalb von 24 Stunden aussteigen oder Sie werden sterben",
    IGUI_EFK_tooltip_insertion_Ravencreek = "Sind Sie sicher, dass Sie eine Mission in Ravencreek beginnen? Sie müssen innerhalb von 24 Stunden extrahieren oder Sie werden sterben",
    IGUI_EFK_tooltip_insertion_Trelai = "Sind Sie sicher, dass Sie eine Mission in Trelai beginnen? Sie müssen innerhalb von 24 Stunden extrahieren oder Sie werden sterben",
    IGUI_EFK_tooltip_insertion_MarchRidge = "Sind Sie sicher, dass Sie eine Mission in MarchRidge beginnen? Sie müssen innerhalb von 24 Stunden extrahieren oder Sie sterben",
-   IGUI_EFK_tooltip_insertion_Dirkerdam = "Sind Sie sicher, dass Sie eine Mission in Dirkerdam beginnen? Sie müssen innerhalb von 24 Stunden extrahieren oder Sie werden sterben", 
    IGUI_EFK_tooltip_insertion_Florius = "Sind Sie sicher, dass Sie eine Mission in Florius beginnen? Sie müssen innerhalb von 24 Stunden extrahieren oder Sie sterben",
-   IGUI_EFK_tooltip_insertion_LakeCumberland = "Sind Sie sicher, dass Sie eine Mission in LakeCumberland beginnen? Sie müssen innerhalb von 24 Stunden extrahieren oder Sie werden sterben",
-   IGUI_EFK_tooltip_insertion_Petroville = "Sind Sie sicher, dass Sie eine Mission in Petroville beginnen? Sie müssen innerhalb von 24 Stunden abziehen oder Sie werden sterben",
    IGUI_EFK_tooltip_insertion_Customs = "Sind Sie sicher, dass Sie eine Mission in Riverside beginnen? Sie müssen innerhalb von 24 Stunden abziehen oder Sie werden sterben",
    IGUI_EFK_tooltip_insertion_Factory = "Sind Sie sicher, dass Sie eine Mission in Riverside beginnen? Sie müssen innerhalb von 24 Stunden extrahieren oder Sie werden sterben",
    IGUI_EFK_tooltip_insertion_Woods = "Sind Sie sicher, dass Sie eine Mission in Riverside beginnen? Sie müssen innerhalb von 24 Stunden aussteigen oder Sie werden sterben",
@@ -91,7 +79,6 @@ IGUI_DE = {
    IGUI_PRAPOR_Task_Talk_Prapor = "Mit Prapor sprechen",
    IGUI_PRAPOR_Task_q1_t1 = "100 Zombies töten",
    IGUI_PRAPOR_Task_q1_t2 = "Liefere 2 MP-133-Kits (Du musst die Gewehre in Kits umwandeln, bevor du sie zurückgibst)",
-   IGUI_PRAPOR_Task_q2_t2 = "Erreichen Sie das USEC-Militärlager in Riverside",
    IGUI_PRAPOR_Task_q3_t2 = "Erreichen Sie die Rosewood-Baustelle (südöstlich des nördlichen Teils von Rosewood)",
    IGUI_PRAPOR_Task_q3_t3 = "Erreichen Sie das Gebäude, in dem die Taschenuhr gelagert wird",
    IGUI_PRAPOR_Task_q3_t4 = "Suche nach der Taschenuhr",
@@ -104,12 +91,6 @@ IGUI_DE = {
    IGUI_PRAPOR_Task_q5_t5 = "Erreiche das USEC-Militärlager in Riverside",
    IGUI_PRAPOR_Task_q5_t6 = "Finde das Zelt des Offiziers",
    IGUI_PRAPOR_Task_q5_t7 = "Verstecke den sicheren Ordner",
-   IGUI_PRAPOR_Task_q7_t2 = "Polizeistation Dirkerdam (Zentrum des westlichen Teils von Dirkerdam) erreichen",
-   IGUI_PRAPOR_Task_q8_t2 = "Polizeistation Dirkerdam (Zentrum des westlichen Teils von Dirkerdam) erreichen",
-   IGUI_PRAPOR_Task_q8_t3 = "Überprüfen Sie die vier Westtore (überprüfen und räumen)",
-   IGUI_PRAPOR_Task_q8_t4 = "Überprüfen Sie die nördlichen Doppeltüren (überprüfen und räumen). ",
-   IGUI_PRAPOR_Task_q8_t5 = "Überprüfen Sie den Osteingang (überprüfen und räumen)",
-   IGUI_PRAPOR_Task_q8_t6 = "Überprüfen Sie die südlichen Doppeltüren (überprüfen und räumen).",
    IGUI_PRAPOR_Task_q9_t2 = "Erreichen Sie das zentrale Florius-Gebäude (neben dem VideoStore)",
    IGUI_PRAPOR_Task_q9_t3 = "Finde den richtigen Büroraum",
    IGUI_PRAPOR_Task_q9_t4 = "Suchen Sie den sicheren Ordner",
@@ -464,7 +445,6 @@ IGUI_DE = {
    IGUI_TOUBIB_Task_Talk_Toubib = "Mit dem Toubib sprechen",
    IGUI_TOUBIB_Task_q2_t2 = "Finde einen Gasanalysator",
    IGUI_TOUBIB_Task_q3_t2 = "Finde 2 Gasanalysatoren",
-   IGUI_TOUBIB_Task_q4_t2 = "Erreiche das Gerichtsgebäude von Rosewood",
    IGUI_TOUBIB_Task_q4_t3 = "Finde das Wasserreservoir",
    IGUI_TOUBIB_Task_q4_t4 = "Markiere das Wasserreservoir",
    IGUI_TOUBIB_Task_q5_t3 = "Vernichte die Horde",
@@ -692,7 +672,6 @@ IGUI_DE = {
    IGUI_JAEGER_Task_q3_t2 = "Erreiche den Außenposten der Flüchtlinge (nordöstlich von Rosewood Expansion)",
    IGUI_JAEGER_Task_q3_t3 = "Finde das Militärzelt",
    IGUI_JAEGER_Task_q3_t4 = "Verpflegungspaket hinter dem Bett verstecken",
-   IGUI_JAEGER_Task_q4_t2 = "Erreiche die Bar in Dirkerdam (x=7851 y=3592)",
    IGUI_JAEGER_Task_q4_t3 = "Suche nach der Flasche von Jaeger",
    IGUI_JAEGER_Task_q5_t2 = "Nähern Sie sich dem Restaurant Muldraugh (HORDE)",
    IGUI_JAEGER_Task_q5_t3 = "Vernichte die Horde",
@@ -702,7 +681,6 @@ IGUI_DE = {
    IGUI_JAEGER_Task_q6_t4 = "Machen Sie sich auf die Suche nach dem Huhn von Jay de Florius",
    IGUI_JAEGER_Task_q6_t5 = "Machen Sie sich auf die Suche nach Florius Greene's",
    IGUI_JAEGER_Task_q6_t7 = "Liefere eine Lyoner Wurst an Jaeger (kann gebraten werden)",
-   IGUI_JAEGER_Task_q7_t3 = "Erreiche das Büro in Dirkerdam (x=7491 y=3543)",
    IGUI_JAEGER_Task_q8_t2 = "Tötet 5600 Zombies",
    IGUI_JAEGER_Task_q9_t2 = "Erreiche den Laden am Fallas-See",
    IGUI_JAEGER_Task_q9_t3 = "Finde den Raum mit dem Auftragsbuch",
@@ -842,7 +820,6 @@ IGUI_DE = {
    IGUI_MECANIX_Task_q1_t3 = "Sichere den Bunker",
    IGUI_MECANIX_Task_q1_t4 = "Nach der verschlüsselten Nachricht des Jaegers suchen",
    IGUI_MECANIX_Task_q1_t6 = "Mit Mecanix sprechen",
-   IGUI_MECANIX_Task_q2_t2 = "Erreiche die Fabrik in Dirkerdam (GPS x=7937 y=3242)",
    IGUI_MECANIX_Task_q2_t3 = "Repariere die erste Kontrollkarte",
    IGUI_MECANIX_Task_q2_t4 = "Die zweite Kontrolltafel befestigen",
    IGUI_MECANIX_Task_q2_t6 = "Mit Mecanix sprechen",
@@ -1146,12 +1123,6 @@ IGUI_DE = {
                EDIT
    ***********************************************/
 
-   IGUI_PRAPOR_Task_q6_t1 = "Markieren Sie die erste Zapfsäule (GPS 7143;3184)",
-   IGUI_PRAPOR_Task_q6_t2 = "Markieren Sie die zweite Zapfsäule (GPS 6856;2723)",
-   IGUI_PRAPOR_Task_q6_t3 = "Markieren Sie die dritte Zapfsäule (GPS 7774;2732)",
-   IGUI_PRAPOR_Task_q6_t4 = "Markieren Sie die vierte Zapfsäule (GPS 8276;4009)",
-   IGUI_TOUBIB_Task_q5_t2 = "Nähern Sie sich dem Dirkerdam Woke Wok Restaurant - Südostsektor der Stadt (HORDE)",
-   IGUI_TOUBIB_Task_q7_t2 = "Erreichen Sie die Apotheke des Therapeuten - Zentrum des Westsektors der Stadt",
    IGUI_TOUBIB_Task_q8_t2 = "Erreichen Sie Muldraughs militärischen Außenposten",
 
    /**********************************************
@@ -1261,7 +1232,7 @@ IGUI_DE = {
                EDIT
    ***********************************************/
 
-IGUI_MECANIX_Task_firearm_q1_t2 = "Eine MP-133 so modifizieren, dass sie den geforderten Spezifikationen entspricht ("MP-133 MK1" in das Handwerksmenü eingeben)",
+   IGUI_MECANIX_Task_firearm_q1_t2 = "Eine MP-133 so modifizieren, dass sie den geforderten Spezifikationen entspricht ("MP-133 MK1" in das Handwerksmenü eingeben)",
    IGUI_MECANIX_Task_firearm_q1_t3 = "Mit Mechaniker sprechen",
    IGUI_MECANIX_Task_firearm_q2_t2 = "Modifizieren Sie eine AKS-74U, damit sie den erforderlichen Spezifikationen entspricht ("AKS-74U MK1" im Handwerksmenü)",
    IGUI_MECANIX_Task_firearm_q2_t3 = "Mit Mechaniker sprechen",
@@ -1306,4 +1277,51 @@ IGUI_MECANIX_Task_firearm_q1_t2 = "Eine MP-133 so modifizieren, dass sie den gef
    IGUI_MECANIX_Task_q3_t3 = "Nähern Sie sich der Antenne",
    IGUI_MECANIX_Task_q3_t5 = "Sprich mit dem Mechaniker",  
 
+   /**********************************************
+               29/04/24
+               EDIT
+   ***********************************************/
+
+   IGUI_TOUBIB_Task_q5_t2 = "Nähern Sie sich dem Trelai Commercial Shop - Zentrum Nordsektor der Stadt (HORDE)",
+   IGUI_TOUBIB_Task_q7_t2 = "Erreichen Sie die Praxis des Therapeuten in Trelai (GPS 7098;7035)",
+   IGUI_PRAPOR_Task_q7_t2 = "Erreichen Sie die Polizeistation in Trelai (GPS x=7937 y=3242)",
+   IGUI_PRAPOR_Task_q8_t2 = "Erreichen Sie die Polizeistation von Trelai (GPS x=7937 y=3242)",
+   IGUI_PRAPOR_Task_q8_t3 = "Überprüfe und sichere den Zugang zur Polizeistation im Norden",
+   IGUI_PRAPOR_Task_q8_t4 = "Überprüfen und Sichern des Zugangs zur Polizeistation Süd",
+   IGUI_PRAPOR_Task_q8_t5 = "Überprüfen und Sichern des Außenzugangs der Polizeistation Süd-West",
+   IGUI_PRAPOR_Task_q8_t6 = "Überprüfen und Sichern des Waffenlagers der Polizeiwache",
+
+   /**********************************************
+               30/04/24
+               EDIT
+   ***********************************************/
+
+      IGUI_JAEGER_Task_q4_t2 = "Erreichen Sie die Bar in Trelai (GPS x=6845 y=6987)",
+      IGUI_JAEGER_Task_q7_t3 = "Erreiche den Platz in Trelai (GPS x=7154 y=6800)",
+      IGUI_MECANIX_Task_q2_t2 = "Erreichen Sie die Fabrik in Trelai (GPS x=7425 y=6780)",
+
+   /**********************************************
+               30/04/24
+               NEW
+   ***********************************************/
+
+      IGUI_JAEGER_Task_q7_t4 = "Das Zimmer finden",
+      IGUI_EFK_Message_OnPlayerJoinInsertion_Weyhausen = "Ich bin in Weyhausen angekommen",
+      IGUI_EFK_contextMenu_areaName_Weyhausen = "Weyhausen",
+      IGUI_EFK_tooltip_insertion_Weyhausen = "Sind Sie sicher, dass Sie eine Mission in Weyhausen starten wollen? Sie müssen innerhalb von 24 Stunden ausrücken, sonst sterben Sie",
+      IGUI_EFK_Message_OnPlayerJoinInsertion_Trelai = "Ich bin in Trelai angekommen",
+      IGUI_EFK_contextMenu_areaName_Trelai = "Trelai",
+      IGUI_EFK_tooltip_insertion_Trelai = "Sind Sie sicher, dass Sie eine Mission in Trelai starten wollen? Sie müssen innerhalb von 24 Stunden ausziehen, sonst sterben Sie",
+
+   /**********************************************
+               01/05/24
+               EDIT
+   ***********************************************/
+
+   IGUI_PRAPOR_Task_q6_t1 = "Markieren Sie die Gaszapfsäule Weyhausen",
+   IGUI_PRAPOR_Task_q6_t2 = "Markieren Sie die Rosenholz-Gaszapfsäule (GPS 8200;11298)",
+   IGUI_PRAPOR_Task_q6_t3 = "Markieren Sie die Gaszapfsäule Trelai (GPS 7051;7143)",
+   IGUI_PRAPOR_Task_q6_t4 = "Markieren Sie die vierte Zapfsäule (GPS 8276;4009)",
+   IGUI_PRAPOR_Task_q2_t2 = "Erreichen Sie das USEC-Militärlager Weyhausen.",
+   IGUI_TOUBIB_Task_q4_t2 = "Erreichen Sie den Wasserladen von Pitstop",
 }

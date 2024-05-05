@@ -481,10 +481,6 @@ ItemName_DE = {
         ItemName_MapItem.Muldraugh_Tactical_Map = "Taktische Karte von Muldraugh",
         ItemName_MapItem.Westpoint_Tactical_Map = "Taktische Karte von Westpoint",
         ItemName_MapItem.Florius_Tactical_Map = "Taktische Karte von Florius",
-        ItemName_MapItem.Cumberland_Tactical_Map = "Taktische Karte des Sees Cumberland",
-        ItemName_MapItem.Petroville_Tactical_Map = "Taktische Karte von Petroville",
-        ItemName_MapItem.Dirkerdam_Tactical_Map = "Taktische Karte Dirkerdam",
-        ItemName_MapItem.PaulosHammer_Tactical_Map = "Taktische Karte von Paulos Hammer",
         ItemName_MapItem.MarchRidge_Tactical_Map = "Taktische Karte March Ridge",
 
         ItemName_Base.TancredTrader = "Verkaufsladen",
@@ -534,7 +530,7 @@ ItemName_DE = {
         ItemName_Base.EFK_MedicalTool = "Medizinische Hilfsmittel",
         ItemName_Base.EFK_Helix = "Heizkörper-Helix",
         ItemName_Base.EFK_MilitaryTube = "Militärisches Wellrohr",
-        ItemName_Base.EFK_Ratsche = "Ratschenschlüssel",
+        ItemName_Base.EFK_Ratchet = "Ratschenschlüssel",
         ItemName_Base.EFK_Shustrilo = "Shustrilo Dichtungsschaum",
         ItemName_Base.EFK_SetMaster = "Set von Master-Dateien",
         ItemName_Base.EFK_Leatherman = "Leatherman-Zange ",
@@ -948,11 +944,19 @@ ItemName_DE = {
           ItemName_EFK_Face_Shield_Kolpak = "Kolpak-1S Gesichtsschutzschild",
           ItemName_EFK_Face_Shield_Kiver = "Gesichtsschutzschild Kiver-M",
 
+   /**********************************************
+               30/04/24
+               NEW
+   ***********************************************/
 
+        ItemName_MapItem.Weyhausen_Tactical_Map = "Taktische Karte Weyhausen",
+        ItemName_MapItem.Trelai_Tactical_Map = "Taktische Karte Trelai",
 
+   /**********************************************
+               01/05/24
+               NEW
+   ***********************************************/
 
-
-
-
+        ItemName_MapItem.Pitstop_Tactical_Map = "Taktische Karte Pitstop",
 
 }
