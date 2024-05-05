@@ -452,7 +452,7 @@ Recipes_CN = {
      Recipe_Create_a_Workbench_Lvl1_kit = "创建工作台 Lvl1 套件",
      Recipe_Create_a_Nutrition_Lvl1_kit = "创建一个营养 Lvl1 套件",
      Recipe_Craft_2_Iskra_ration_packs = "制作 2 个伊斯卡口粮",
-     Recipe_Craft_2_Cans_of_beef_stew_(Small) = "制作 2 罐炖牛肉罐头（小号）",
+     Recipe_Craft_2_Emergency_Water_Rations = "工艺 2 应急口粮水",
      Recipe_Craft_4_Can_of_Max_Energy_energy_drink = "制作 4 罐 Max Energy 能量饮料",
 
    /**********************************************

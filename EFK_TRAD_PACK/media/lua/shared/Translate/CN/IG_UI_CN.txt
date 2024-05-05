@@ -8,14 +8,10 @@ IGUI_CN = {
    IGUI_EFK_Message_OnPlayerJoinInsertion_Rosewood = "我到达了罗斯伍德",
    IGUI_EFK_Message_OnPlayerJoinInsertion_Muldraugh = "我到达了 Muldraugh",
    IGUI_EFK_Message_OnPlayerJoinInsertion_Westpoint = "我到达 Westpoint",
-   IGUI_EFK_Message_OnPlayerJoinInsertion_PauloHammer = "我到达了圣保罗之锤",
    IGUI_EFK_Message_OnPlayerJoinInsertion_Louisville = "我到达了路易斯维尔",
    IGUI_EFK_Message_OnPlayerJoinInsertion_Ravencreek = "我到达了乌鸦溪",
    IGUI_EFK_Message_OnPlayerJoinInsertion_Trelai = "我到达了特雷莱",
-   IGUI_EFK_Message_OnPlayerJoinInsertion_Dirkerdam = "我到达了 Dirkerdam",
    IGUI_EFK_Message_OnPlayerJoinInsertion_Florius = "我到达了弗洛里斯",
-   IGUI_EFK_Message_OnPlayerJoinInsertion_LakeCumberland = "我到达坎伯兰湖",
-   IGUI_EFK_Message_OnPlayerJoinInsertion_Petroville = "我到达了佩特罗维尔",
    IGUI_EFK_Message_OnPlayerJoinInsertion_Customs = "我到达了海关",
    IGUI_EFK_Message_OnPlayerJoinInsertion_Factory = "我到达了工厂",
    IGUI_EFK_Message_OnPlayerJoinInsertion_Woods = "我来到了森林",
@@ -28,14 +24,10 @@ IGUI_CN = {
    IGUI_EFK_contextMenu_areaName_Rosewood = "紫檀",
    IGUI_EFK_contextMenu_areaName_Muldraugh = "Muldraugh",
    IGUI_EFK_contextMenu_areaName_Westpoint = "Westpoint",
-   IGUI_EFK_contextMenu_areaName_PauloHammer = "圣保罗之锤",
    IGUI_EFK_contextMenu_areaName_Louisville = "路易斯维尔",
    IGUI_EFK_contextMenu_areaName_Ravencreek = "Raven creek",
    IGUI_EFK_contextMenu_areaName_Trelai = "Trelai",
    IGUI_EFK_contextMenu_areaName_Florius = "Florius",
-   IGUI_EFK_contextMenu_areaName_Dirkerdam = "Dirkerdam",
-   IGUI_EFK_contextMenu_areaName_LakeCumberland = "Lake cumberland",
-   IGUI_EFK_contextMenu_areaName_Petroville = "Petroville",
    IGUI_EFK_contextMenu_areaName_Customs = "海关",
    IGUI_EFK_contextMenu_areaName_Factory = "工厂",
    IGUI_EFK_contextMenu_areaName_Woods = "木材",
@@ -53,15 +45,11 @@ IGUI_CN = {
    IGUI_EFK_tooltip_insertion_Rosewood = "您确定要在罗斯伍德执行任务吗？您必须在 24 小时内退出，否则您将死亡",
    IGUI_EFK_tooltip_insertion_Muldraugh = "您确定要在 Muldraugh 开始任务吗？您必须在 24 小时内撤离，否则您将死亡",
    IGUI_EFK_tooltip_insertion_Westpoint = "您确定要在 Westpoint 开始任务吗？您必须在 24 小时内撤离，否则将死亡",
-   IGUI_EFK_tooltip_insertion_PauloHammer = "您确定要在 Paulo's Hammer 开始任务吗？您必须在 24 小时内撤离，否则您将死亡",
    IGUI_EFK_tooltip_insertion_Louisville = "您确定要在路易斯维尔开始任务吗？您必须在 24 小时内退出，否则您将死亡",
    IGUI_EFK_tooltip_insertion_Ravencreek = "您确定要在 Ravencreek 开始任务吗？您必须在 24 小时内撤离，否则您将死亡",
    IGUI_EFK_tooltip_insertion_Trelai = "您确定要在特雷莱执行任务吗？您必须在 24 小时内撤离，否则将死亡",
    IGUI_EFK_tooltip_insertion_MarchRidge = "您确定要在马奇岭开始任务吗？您必须在 24 小时内撤离，否则将死亡",
-   IGUI_EFK_tooltip_insertion_Dirkerdam = "您确定要在 Dirkerdam 开始任务吗？您必须在 24 小时内撤离，否则将死亡", 
    IGUI_EFK_tooltip_insertion_Florius = "您确定要在弗洛里斯执行任务吗？您必须在 24 小时内撤离，否则您将死亡",
-   IGUI_EFK_tooltip_insertion_LakeCumberland = "您确定要在 LakeCumberland 执行任务吗？您必须在 24 小时内撤离，否则将死亡",
-   IGUI_EFK_tooltip_insertion_Petroville = "您确定要在佩特罗维尔执行任务吗？您必须在 24 小时内撤离，否则将死亡",
    IGUI_EFK_tooltip_insertion_Customs = "您确定要在里弗赛德执行任务吗？您必须在 24 小时内撤离，否则您将死亡",
    IGUI_EFK_tooltip_insertion_Factory = "您确定要在里弗赛德执行任务吗？您必须在 24 小时内退出，否则将死亡",
    IGUI_EFK_tooltip_insertion_Woods = "您确定要在里弗赛德执行任务吗？您必须在 24 小时内撤离，否则您将死亡",
@@ -91,7 +79,6 @@ IGUI_CN = {
    IGUI_PRAPOR_Task_Talk_Prapor = "与 Prapor 交谈",
    IGUI_PRAPOR_Task_q1_t1 = "杀死 100 个僵尸",
    IGUI_PRAPOR_Task_q1_t2 = "运送 2 个 MP-133 套件（在归还步枪之前必须将其转换为套件）",
-   IGUI_PRAPOR_Task_q2_t2 = "到达河畔 USEC 军营",
    IGUI_PRAPOR_Task_q3_t2 = "到达罗斯伍德建筑工地（罗斯伍德北部东南方）",
    IGUI_PRAPOR_Task_q3_t3 = "到达存放怀表的建筑",
    IGUI_PRAPOR_Task_q3_t4 = "寻找怀表",
@@ -104,19 +91,13 @@ IGUI_CN = {
    IGUI_PRAPOR_Task_q5_t5 = "到达河畔 USEC 军营",
    IGUI_PRAPOR_Task_q5_t6 = "找到军官帐篷",
    IGUI_PRAPOR_Task_q5_t7 = "隐藏安全文件",
-   IGUI_PRAPOR_Task_q7_t2 = "到达 Dirkerdam 派出所（西 Dirkerdam 中心）",
-   IGUI_PRAPOR_Task_q8_t2 = "到达 Dirkerdam 派出所（西 Dirkerdam 中心）",
-   IGUI_PRAPOR_Task_q8_t3 ="检查西面的四个大门（检查并清理）",
-   IGUI_PRAPOR_Task_q8_t4 = "检查北面的双扇门（检查并清理）"。",
-   IGUI_PRAPOR_Task_q8_t5 = "检查东入口（检查并清理）",
-   IGUI_PRAPOR_Task_q8_t6 ="检查南双门（检查并清理）",
    IGUI_PRAPOR_Task_q9_t2 = "到达弗洛里斯中心大楼（音像店旁边）",
    IGUI_PRAPOR_Task_q9_t3 = "找到正确的办公房间",
    IGUI_PRAPOR_Task_q9_t4 = "找到安全文件夹",
    IGUI_PRAPOR_Task_q10_t2 = "找到 3 个 5.45x39 Drum 的充电器套件（在归还充电器之前必须将其转换成套件）",
 
    IGUI_PRAPOR_Quest_Accepted = "我就知道你会帮我！完成后回来找我",
-   IGUI_PRAPOR_Quest_Accepted_variant = "完成后回来看我",
+   IGUI_PRAPOR_Quest_Accepted_variante = "完成后回来看我",
    IGUI_PRAPOR_Quest_Good_Work = "干得好",
    IGUI_PRAPOR_Quest_Decline_Reaction = "很好。如果改变主意，请再来",
 
@@ -214,7 +195,7 @@ IGUI_CN = {
    IGUI_AUD_Talk_Main_Choice = "没关系",
    IGUI_AUD_Talk_Role_Choice = "您在这里扮演什么角色？",
 
-   IGUI_AUD_Talk_Role_Aswer = "我帮助让这里更舒适。因此，如果您需要帮助让这里变得更好，请告诉我",
+   IGUI_AUD_Talk_Role_Answer = "我帮助让这里更舒适。因此，如果您需要帮助让这里变得更好，请告诉我",
 
    IGUI_AUD_Task_Vents_q1_t2 = "向 AuD 交付 250 美元",
    IGUI_AUD_Task_Rest_q1_t2 = "制作并向 AuD 交付 Lvl1 休息处套件",
@@ -273,7 +254,7 @@ IGUI_CN = {
    IGUI_AUD_Quest_Accepted = "带着我们一起建造所需的一切回来找我",
    IGUI_AUD_Quest_Broom_Accepted = "一件好事！是时候拿出扫帚和刷子了！哦，我们还需要一些零碎的东西来开始建造最基本的建筑。",   
    IGUI_AUD_Quest_Completed = "干得好，这地方现在看起来好多了",
-   IGUI_AUD_Quest_Completed_Variant = "你会喜欢上你的新家的",
+   IGUI_AUD_Quest_Completed_Variante = "你会喜欢上你的新家的",
 
    IGUI_AUD_Vents_Quest_1_Name = "改善房屋 - 通风 1",
    IGUI_AUD_Vents_Quest_1_Desc = "第一次通风口升级",
@@ -374,7 +355,7 @@ IGUI_CN = {
    IGUI_TOUBIB_Quest_Decline_Reaction = "有什么需要再回来",
 
    IGUI_TOUBIB_Quest_Accepted = "我就知道你会帮我一把！",
-   IGUI_TOUBIB_Quest_Accepted_variant = "完成后回来找我",
+   IGUI_TOUBIB_Quest_Accepted_variante = "完成后回来找我",
    IGUI_TOUBIB_Quest_Decline_Reaction = "好吧。如果你改变主意，请再回来",
    IGUI_TOUBIB_Quest_Good_Work = "干得好",
    IGUI_TOUBIB_Quest_No_More_Quest = "我没有更多工作给你做了。请稍后再来找我",
@@ -464,7 +445,6 @@ IGUI_CN = {
    IGUI_TOUBIB_Task_Talk_Toubib = "与医疗兵对话",
    IGUI_TOUBIB_Task_q2_t2 = "交付一个气体分析仪套件（您必须将此物品转换成套件后才能退回）。",
    IGUI_TOUBIB_Task_q3_t2 = "交付 2 个气体分析仪套件（您必须将这些物品转换成套件后方可退货）",
-   IGUI_TOUBIB_Task_q4_t2 = "到达紫檀法院",
    IGUI_TOUBIB_Task_q4_t3 = "找到水源",
    IGUI_TOUBIB_Task_q4_t4 = "标记水源保护区",
    IGUI_TOUBIB_Task_q5_t3 = "消灭部落",
@@ -487,7 +467,7 @@ IGUI_CN = {
    IGUI_SKIER_Flag_q10_completed = "您在Skier处有足够的声望，可以进入他的 3 级商店",
 
    IGUI_SKIER_Quest_Accepted = "我就知道你会帮我一把！",
-   IGUI_SKIER_Quest_Accepted_variant = "完成任务后回来找我",
+   IGUI_SKIER_Quest_Accepted_variante = "完成任务后回来找我",
    IGUI_SKIER_Quest_Decline_Reaction = "好的。如果改变主意，请再回来",
    IGUI_SKIER_Quest_Good_Work = "干得好",
    IGUI_SKIER_Quest_No_More_Quest = "我没有更多工作给您。请稍后再来找我",
@@ -609,7 +589,7 @@ IGUI_CN = {
    IGUI_JAEGER_Flag_q10_completed = "您在 Jaeger 处有足够的声望，可以进入他的 3 级商店",
 
    IGUI_JAEGER_Quest_Accepted = "我就知道你会帮我！",
-   IGUI_JAEGER_Quest_Accepted_variant = "完成任务后回来找我",
+   IGUI_JAEGER_Quest_Accepted_variante = "完成任务后回来找我",
    IGUI_JAEGER_Quest_Decline_Reaction = "好的。如果改变主意，请再回来",
    IGUI_JAEGER_Quest_Good_Work = "干得好",
    IGUI_JAEGER_Quest_No_More_Quest = "我没有更多工作给您。请稍后再来找我",
@@ -692,7 +672,6 @@ IGUI_CN = {
    IGUI_JAEGER_Task_q3_t2 = "到达难民前哨站（紫檀扩建区东北方向）",
    IGUI_JAEGER_Task_q3_t3 = "找到军用帐篷",
    IGUI_JAEGER_Task_q3_t4 = "将口粮包藏在床后面",
-   IGUI_JAEGER_Task_q4_t2 = "到达 Dirkerdam 的酒吧 (x=7851 y=3592)",
    IGUI_JAEGER_Task_q4_t3 = "寻找一瓶 Jaeger",
    IGUI_JAEGER_Task_q5_t2 = "接近 Muldraugh 餐厅 (HORDE)",
    IGUI_JAEGER_Task_q5_t3 = "消灭部落",
@@ -702,7 +681,6 @@ IGUI_CN = {
    IGUI_JAEGER_Task_q6_t4 = "寻找 Jay de Florius 的鸡",
    IGUI_JAEGER_Task_q6_t5 = "搜索弗洛里厄斯-格林家",
    IGUI_JAEGER_Task_q6_t7 = "给 Jaeger 送一根里昂香肠（可以是烤的）",
-   IGUI_JAEGER_Task_q7_t3 = "到达位于 Dirkerdam 的办公室 (x=7491 y=3543)",
    IGUI_JAEGER_Task_q8_t2 = "杀死 5600 只僵尸",
    IGUI_JAEGER_Task_q9_t2 = "到达法拉斯湖的商店",
    IGUI_JAEGER_Task_q9_t3 = "找到有订单簿的房间",
@@ -721,7 +699,7 @@ IGUI_CN = {
    IGUI_MECANIX_Talk_Firearm = "我是来讨论定制枪械的",
 
    IGUI_MECANIX_Quest_Accepted = "我就知道你会帮我！",
-   IGUI_MECANIX_Quest_Accepted_variant = "完成后回来找我",
+   IGUI_MECANIX_Quest_Accepted_variante = "完成后回来找我",
    IGUI_MECANIX_Quest_Decline_Reaction = "那好吧。如果改变主意，请再回来",
    IGUI_MECANIX_Quest_Good_Work = "干得好",
 
@@ -842,7 +820,6 @@ IGUI_CN = {
    IGUI_MECANIX_Task_q1_t3 = "保护碉堡",
    IGUI_MECANIX_Task_q1_t4 = "搜索机甲战士的加密信息",
    IGUI_MECANIX_Task_q1_t6 = "与 Mecanix 对话",
-   IGUI_MECANIX_Task_q2_t2 = "到达 Dirkerdam 的工厂（GPS x=7937 y=3242）",
    IGUI_MECANIX_Task_q2_t3 = "修复第一块控制板",
    IGUI_MECANIX_Task_q2_t4 = "修复第二块控制板",
    IGUI_MECANIX_Task_q2_t6 = "与 Mecanix 通信",
@@ -870,7 +847,7 @@ IGUI_CN = {
    IGUI_PEACEKEEPER_Flag_q10_completed = "您在维和人员那里有足够的声望，可以进入他的 3 级商店",
 
    IGUI_PEACEKEEPER_Quest_Accepted = "我知道你会帮我！完成任务后回来找我",
-   IGUI_PEACEKEEPER_Quest_Accepted_variant = "完成任务后回来找我",
+   IGUI_PEACEKEEPER_Quest_Accepted_variante = "完成任务后回来找我",
    IGUI_PEACEKEEPER_Quest_Decline_Reaction = "好吧。如果您改变主意，请再回来",
    IGUI_PEACEKEEPER_Quest_Good_Work = "干得好",
 
@@ -911,7 +888,7 @@ IGUI_CN = {
    IGUI_RAGMAN_Flag_q10_completed = "您在拉格曼处有足够的声望，可以进入他的 3 级商店",
 
    IGUI_RAGMAN_Quest_Accepted = "我知道你会帮我的。当你取得一些进展时再来找我",
-   IGUI_RAGMAN_Quest_Accepted_variant = "取得进展后再来找我",
+   IGUI_RAGMAN_Quest_Accepted_variante = "取得进展后再来找我",
    IGUI_RAGMAN_Quest_Decline_Reaction = "好的。如果您改变主意，请告诉我",
    IGUI_RAGMAN_Talk_Refuse = "你好，我的朋友！哦，你在找工作吗？我有适合你这样的人的工作，但我更愿意和懂得穿衣打扮和保护自己的人一起工作。等你有了更多的缝纫知识，再来找我，我们再谈。",
    IGUI_RAGMAN_Quest_Good_Work = "做好事",   
@@ -1146,13 +1123,7 @@ IGUI_CN = {
                EDIT
    ***********************************************/
 
-   IGUI_PRAPOR_Task_q6_t1 = "标记第一个加油机（GPS 7143;3184）",
-   IGUI_PRAPOR_Task_q6_t2 = "标记第二个气体分配器（GPS 6856;2723）",
-   IGUI_PRAPOR_Task_q6_t3 = "标记第三个气体分配器（GPS 7774;2732）",
-   IGUI_PRAPOR_Task_q6_t4 = "标记第四个气体分配器（GPS 8276;4009）",
-   IGUI_TOUBIB_Task_q5_t2 = "接近 Dirkerdam Woke Wok 餐馆 - 城市东南区 (HORDE)",
-   IGUI_TOUBIB_Task_q7_t2 = "到达治疗师药房 - 城市西区中心",
-   IGUI_TOUBIB_Task_q8_t2 = "到达穆德劳格的军事哨所",
+   IGUI_TOUBIB_Task_q8_t2 = "到达 Muldraugh 的军事哨所",
 
    /**********************************************
                28/03/24
@@ -1305,5 +1276,53 @@ IGUI_CN = {
    IGUI_MECANIX_Task_q3_t2 = "到达河畔高中屋顶",
    IGUI_MECANIX_Task_q3_t3 = "接近天线",
    IGUI_MECANIX_Task_q3_t5 = "与机械师交谈",
+
+   /**********************************************
+               29/04/24
+               EDIT
+   ***********************************************/
+
+   IGUI_TOUBIB_Task_q5_t2 = "接近特雷莱商业店铺 - 城市中心北区（HORDE）",
+   IGUI_TOUBIB_Task_q7_t2 = "到达特雷莱的治疗师办公室（GPS 7098;7035）",
+   IGUI_PRAPOR_Task_q7_t2 = "到达特雷莱警察局（GPS x=7937 y=3242）",
+   IGUI_PRAPOR_Task_q8_t2 = "到达 Trelai 派出所（GPS x=7937 y=3242）",
+   IGUI_PRAPOR_Task_q8_t3 = "检查并确保警察局北面入口的安全",
+   IGUI_PRAPOR_Task_q8_t4 = "检查并确保警察局南入口的安全",
+   IGUI_PRAPOR_Task_q8_t5 ="检查和保护警察局西南外部通道",
+   IGUI_PRAPOR_Task_q8_t6 = "检查警察局武器库并确保其安全",
+
+   /**********************************************
+               30/04/24
+               编辑
+   ***********************************************/
+
+      IGUI_JAEGER_Task_q4_t2 = "Reach the bar into Trelai (GPS x=6845 y=6987)",
+      IGUI_JAEGER_Task_q7_t3 = "到达进入 Trelai 的地方（GPS x=7154 y=6800）",
+      IGUI_MECANIX_Task_q2_t2 = "到达特雷莱工厂（GPS x=7425 y=6780）",
+
+   /**********************************************
+               30/04/24
+               新
+   ***********************************************/
+
+      IGUI_JAEGER_Task_q7_t4 = "找到房间",
+      IGUI_EFK_Message_OnPlayerJoinInsertion_Weyhausen = "我到达了 Weyhausen",
+      IGUI_EFK_contextMenu_areaName_Weyhausen = "韦豪森",
+      IGUI_EFK_tooltip_insertion_Weyhausen = "您确定要开始进入魏豪森的任务吗？您需要在 24 小时内撤离，否则您将死亡",
+      IGUI_EFK_Message_OnPlayerJoinInsertion_Trelai = "我已到达特雷莱",
+      IGUI_EFK_contextMenu_areaName_Trelai = "特雷莱",
+      IGUI_EFK_tooltip_insertion_Trelai = "您确定要开始特雷莱任务吗？您需要在 24 小时内提取，否则您将死亡",
+
+   /**********************************************
+               01/05/24
+               编辑
+   ***********************************************/
+
+   IGUI_PRAPOR_Task_q6_t1 = "标记 Weyhausen 气体分配器",
+   IGUI_PRAPOR_Task_q6_t2 = "Mark the Rosewood gas dispenser (GPS 8200;11298)",
+   IGUI_PRAPOR_Task_q6_t3 = "标记特雷莱气体分配器（GPS 7051;7143）",
+   IGUI_PRAPOR_Task_q6_t4 = "标记第四个气体分配器（GPS 8276;4009）",
+   IGUI_PRAPOR_Task_q2_t2 = "到达韦豪森 USEC 军营",
+   IGUI_TOUBIB_Task_q4_t2 = "到达 Pitstop 水店",
 
 }

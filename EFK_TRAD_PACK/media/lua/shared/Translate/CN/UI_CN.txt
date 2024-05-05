@@ -15,6 +15,7 @@ UI_CN = {
     UI_optionscreen_binding_SSHotkey_2 = "SSHotkey 2 指令",
     UI_optionscreen_binding_SSHotkey_3 = "SSHotkey 3 指令",
     UI_optionscreen_binding_SSHotkey_4 = "SSHotkey 4 指令",
+    
    /**********************************************
                30/03/24
                EDIT
@@ -47,4 +48,3 @@ UI_CN = {
     UI_trait_porte_Helmet_description = "玩家佩戴头盔",
 
 }
-

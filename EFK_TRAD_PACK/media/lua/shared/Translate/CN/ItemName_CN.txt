@@ -481,10 +481,6 @@ ItemName_CN = {
         ItemName_MapItem.Muldraugh_Tactical_Map = "Muldraugh 战术地图"",
         ItemName_MapItem.Westpoint_Tactical_Map = "Westpoint 战术地图"",
         ItemName_MapItem.Florius_Tactical_Map = "Florius 战术地图"",
-        ItemName_MapItem.Cumberland_Tactical_Map = "Cumberland 战术地图"",
-        ItemName_MapItem.Petroville_Tactical_Map = "Petroville 战术地图"",
-        ItemName_MapItem.Dirkerdam_Tactical_Map = "Dirkerdam 战术地图"",
-        ItemName_MapItem.PaulosHammer_Tactical_Map = "Paulo's Hammer 战术地图"",
         ItemName_MapItem.MarchRidge_Tactical_Map = "March Ridge 战术地图"",
 
         ItemName_Base.TancredTrader = "销售商店",
@@ -948,11 +944,19 @@ ItemName_CN = {
           ItemName_EFK_Face_Shield_Kolpak = "Kolpak-1S 面罩",
           ItemName_EFK_Face_Shield_Kiver = "Kiver-M 面罩",
 
+   /**********************************************
+               30/04/24
+               NEW
+   ***********************************************/
 
+        ItemName_MapItem.Weyhausen_Tactical_Map = "Weyhausen 战术地图",
+        ItemName_MapItem.Trelai_Tactical_Map = "Trelai 战术地图",
 
+   /**********************************************
+               01/05/24
+               NEW
+   ***********************************************/
 
-
-
-
+        ItemName_MapItem.Pitstop_Tactical_Map = "Pitstop 战术地图",
 
 }
