@@ -259,8 +259,8 @@ ItemName_RU = {
         ItemName_Base.EFK_Saiga9_Fold = "Карабин Сайга-9 9x19 (Сложенный)",
         ItemName_Base.EFK_STM = "Винтовка Союз-ТМ СТМ-9 Gen.2 9x19",
         ItemName_Base.EFK_T5000 = "Снайперская винтовка ORSIS T-5000M 7.62x51 с болтовым затвором",
+        ItemName_Base.EFK_VPO_209 = "Карабин Molot VPO-209 .366 TKM",
         ItemName_Base.EFK_VPO_209_Melee = "Карабин Molot VPO-209 .366 TKM (Melee)",
-        ItemName_Base.EFK_VPO_136 = "Карабин Молот ВПО-209 .366 ТКМ",
         ItemName_Base.EFK_APS = "Пистолет-пулемет Стечкина АПС 9х18ПМ",
         ItemName_Base.EFK_APS_Fold = "Пистолет-пулемет Стечкина АПС 9х18ПМ (Сложенный)",
         ItemName_Base.EFK_Makarov380 = "Пистолет ПМ 9х18ПМ (С проводом)",
@@ -477,14 +477,10 @@ ItemName_RU = {
         ItemName_Base.EFK_SupRotor762x54 = "Редуктор Ротор 43 7.62 x 54",
 
         ItemName_MapItem.Rosewood_Tactical_Map = "Тактическая карта из розового дерева",
-        ItemName_MapItem.Riverside_Tactical_Card = "Тактическая карта Риверсайд",
+        ItemName_MapItem.Riverside_Tactical_Map = "Тактическая карта Риверсайд",
         ItemName_MapItem.Muldraugh_Tactical_Map = "Тактическая карта Muldraugh",
         ItemName_MapItem.Westpoint_Tactical_Map = "Тактическая карта Вестпойнта",
         ItemName_MapItem.Florius_Tactical_Map = "Тактическая карта Флориуса",
-        ItemName_MapItem.Cumberland_Tactical_Map = "Тактическая карта озера Камберленд",
-        ItemName_MapItem.Petroville_Tactical_Map = "Тактическая карта Петровилля",
-        ItemName_MapItem.Dirkerdam_Tactical_Map = "Тактическая карта Диркердама",
-        ItemName_MapItem.PaulosHammer_Tactical_Map  = "Тактическая карта Молот Пауло",
         ItemName_MapItem.MarchRidge_Tactical_Map = "Тактическая карта Мартовский хребет",
 
         ItemName_Base.TancredTrader = "Торговец Танкред",
@@ -769,7 +765,7 @@ ItemName_RU = {
         ItemName_Base.Cleaning = "Набор для ремонта оружия",
 
         ItemName_Base.EFK_WD40 = "WD-40 100 мл",
-        ItemName_Base.EFK_WD40_400 = "WD-40 400ml",
+        ItemName_Base.EFK_WD40_400 = "WD-40 400мл",
 
    /**********************************************
                10/04/24
@@ -948,11 +944,19 @@ ItemName_RU = {
           ItemName_EFK_Face_Shield_Kolpak = "Лицевой щиток Колпак-1С",
           ItemName_EFK_Face_Shield_Kiver = "Лицевой щиток Кивер-М",
 
+   /**********************************************
+               30/04/24
+               НОВИНКА
+   ***********************************************/
 
+        ItemName_MapItem.Weyhausen_Tactical_Map = "Тактическая карта Вейхаузена",
+        ItemName_MapItem.Trelai_Tactical_Map = "Тактическая карта Трелай",
 
+   /**********************************************
+               01/05/24
+               НОВИНКА
+   ***********************************************/
 
-
-
-
+        ItemName_MapItem.Pitstop_Tactical_Map = "Тактическая карта Питстоп",
 
 }

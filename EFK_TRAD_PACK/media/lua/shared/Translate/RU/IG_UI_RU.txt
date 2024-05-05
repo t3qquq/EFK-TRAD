@@ -8,14 +8,10 @@ IGUI_RU = {
    IGUI_EFK_Message_OnPlayerJoinInsertion_Rosewood = "Я прибыл в Роузвуд",
    IGUI_EFK_Message_OnPlayerJoinInsertion_Muldraugh = "Я прибыл в Малдрауг",
    IGUI_EFK_Message_OnPlayerJoinInsertion_Westpoint = "Я прибыл в Вестпойнт",
-   IGUI_EFK_Message_OnPlayerJoinInsertion_PauloHammer = "Я прибыл в Молот Святого Павла",
    IGUI_EFK_Message_OnPlayerJoinInsertion_Louisville = "Я прибыл в Луисвилль",
    IGUI_EFK_Message_OnPlayerJoinInsertion_Ravencreek = "Я прибыл в Рейвен Крик",
    IGUI_EFK_Message_OnPlayerJoinInsertion_Trelai = "Я прибыл в Трелай",
-   IGUI_EFK_Message_OnPlayerJoinInsertion_Dirkerdam = "Я прибыл в Диркердам",
    IGUI_EFK_Message_OnPlayerJoinInsertion_Florius = "Я прибыл во Флориус",
-   IGUI_EFK_Message_OnPlayerJoinInsertion_LakeCumberland = "Я прибыл на озеро Камберленд",
-   IGUI_EFK_Message_OnPlayerJoinInsertion_Petroville = "Я прибыл в Петровилль",
    IGUI_EFK_Message_OnPlayerJoinInsertion_Customs = "Я прибыл на таможню",
    IGUI_EFK_Message_OnPlayerJoinInsertion_Factory = "Я прибыл на Фабрику",
    IGUI_EFK_Message_OnPlayerJoinInsertion_Woods = "Я прибыл в лес",
@@ -28,14 +24,10 @@ IGUI_RU = {
    IGUI_EFK_contextMenu_areaName_Rosewood = "Роузвуд",
    IGUI_EFK_contextMenu_areaName_Muldraugh = "Малдрауг",
    IGUI_EFK_contextMenu_areaName_Westpoint = "Вестпойнт",
-   IGUI_EFK_contextMenu_areaName_PauloHammer = "Молот Святого Пауло",
    IGUI_EFK_contextMenu_areaName_Louisville = "Луисвилль",
    IGUI_EFK_contextMenu_areaName_Ravencreek = "Вороний ручей",
    IGUI_EFK_contextMenu_areaName_Trelai = "Трелай",
    IGUI_EFK_contextMenu_areaName_Florius = "Флориус",
-   IGUI_EFK_contextMenu_areaName_Dirkerdam = "Диркердам",
-   IGUI_EFK_contextMenu_areaName_LakeCumberland = "Озеро Камберленд",
-   IGUI_EFK_contextMenu_areaName_Petroville = "Петровилль",
    IGUI_EFK_contextMenu_areaName_Customs = "Таможня",
    IGUI_EFK_contextMenu_areaName_Factory = "Завод",
    IGUI_EFK_contextMenu_areaName_Woods = "Леса",
@@ -53,15 +45,11 @@ IGUI_RU = {
    IGUI_EFK_tooltip_insertion_Rosewood = "Вы уверены, что хотите начать миссию в Роузвуде? Вы должны извлечь себя в течение 24 часов, иначе вы умрете",
    IGUI_EFK_tooltip_insertion_Muldraugh = "Вы уверены, что хотите начать миссию в Малдрауге? Вы должны извлечь себя в течение 24 часов, иначе вы умрете",
    IGUI_EFK_tooltip_insertion_Westpoint = "Вы уверены, что хотите начать миссию в Вестпойнте? Вы должны извлечь себя в течение 24 часов или вы умрете",
-   IGUI_EFK_tooltip_insertion_PauloHammer = "Вы уверены, что хотите начать миссию в Молоте Пауло? Вы должны извлечь себя в течение 24 часов, иначе вы умрете",
    IGUI_EFK_tooltip_insertion_Louisville = "Вы уверены, что хотите начать миссию в Луисвилле? Вы должны извлечь себя в течение 24 часов или вы умрете",
    IGUI_EFK_tooltip_insertion_Ravencreek = "Вы уверены, что хотите начать миссию в Рейвенкрике? Вы должны извлечь себя в течение 24 часов, иначе вы умрете",
    IGUI_EFK_tooltip_insertion_Trelai = "Вы уверены, что хотите начать миссию в Трелае? Вы должны извлечь себя в течение 24 часов, иначе вы умрете",
    IGUI_EFK_tooltip_insertion_MarchRidge = "Вы уверены, что хотите начать миссию в Марчридже? Вы должны извлечь себя в течение 24 часов, иначе вы умрете",
-   IGUI_EFK_tooltip_insertion_Dirkerdam = "Вы уверены, что хотите начать миссию в Диркердаме? Вы должны извлечь себя в течение 24 часов, иначе вы умрете", 
    IGUI_EFK_tooltip_insertion_Florius = "Вы уверены, что хотите начать миссию во Флориусе? Вы должны извлечь себя в течение 24 часов или вы умрете",
-   IGUI_EFK_tooltip_insertion_LakeCumberland = "Вы уверены, что хотите начать миссию в LakeCumberland? Вы должны извлечь себя в течение 24 часов, иначе вы умрете",
-   IGUI_EFK_tooltip_insertion_Petroville = "Вы уверены, что хотите начать миссию в Петровилле? Вы должны извлечь себя в течение 24 часов, иначе вы умрете",
    IGUI_EFK_tooltip_insertion_Customs = "Вы уверены, что хотите начать миссию в Риверсайде? Вы должны извлечь себя в течение 24 часов или вы умрете",
    IGUI_EFK_tooltip_insertion_Factory = "Вы уверены, что хотите начать миссию в Риверсайде? Вы должны извлечь себя в течение 24 часов, иначе вы умрете",
    IGUI_EFK_tooltip_insertion_Woods = "Вы уверены, что хотите начать миссию в Риверсайде? Вы должны извлечь себя в течение 24 часов, иначе вы умрете",
@@ -91,7 +79,6 @@ IGUI_RU = {
    IGUI_PRAPOR_Task_Talk_Prapor = "Поговорить с Прапором",
    IGUI_PRAPOR_Task_q1_t1 = "Убить 100 зомби",
    IGUI_PRAPOR_Task_q1_t2 = "Доставить 2 комплекта MP-133 (Вы должны переделать винтовки в комплекты, прежде чем вернуть их)",
-   IGUI_PRAPOR_Task_q2_t2 = "Достичь военного лагеря USEC на реке",
    IGUI_PRAPOR_Task_q3_t2 = "Достичь строительной площадки Роузвуда (юго-восток северной части Роузвуда)",
    IGUI_PRAPOR_Task_q3_t3 = "Дойти до здания, где хранятся карманные часы",
    IGUI_PRAPOR_Task_q3_t4 = "Найти карманные часы",
@@ -104,19 +91,13 @@ IGUI_RU = {
    IGUI_PRAPOR_Task_q5_t5 = "Добраться до военного лагеря USEC в Риверсайде",
    IGUI_PRAPOR_Task_q5_t6 = "Найти палатку офицера",
    IGUI_PRAPOR_Task_q5_t7 = "Спрятать защищенный файл",
-   IGUI_PRAPOR_Task_q7_t2 = "Дойти до полицейского участка Диркердама (центр западного Диркердама)",
-   IGUI_PRAPOR_Task_q8_t2 = "Доехать до полицейского участка Диркердама (центр западного Диркердама)",
-   IGUI_PRAPOR_Task_q8_t3 = "Проверить четыре западных ворот (проверить и очистить)",
-   IGUI_PRAPOR_Task_q8_t4 = "Проверьте двойные двери на север (проверьте и очистите). ",
-   IGUI_PRAPOR_Task_q8_t5 = "Проверить восточный вход (проверить и очистить)",
-   IGUI_PRAPOR_Task_q8_t6 = "Проверить двойные двери на юге (проверить и очистить)",
    IGUI_PRAPOR_Task_q9_t2 = "Дойти до центрального здания Флориуса (рядом с Видеомагазином)",
    IGUI_PRAPOR_Task_q9_t3 = "Найти нужную офисную комнату",
    IGUI_PRAPOR_Task_q9_t4 = "Найти защищенную папку",
    IGUI_PRAPOR_Task_q10_t2 = "Найти 3 комплекта зарядных устройств 5.45x39 Drum (Вы должны преобразовать зарядные устройства в комплекты, прежде чем вернуть их)",
 
    IGUI_PRAPOR_Quest_Accepted = "Я знал, что ты мне поможешь! Вернись и увидишь меня, когда закончишь",
-   IGUI_PRAPOR_Quest_Accepted_variant = "Вернись и увидишь меня, когда закончишь",
+   IGUI_PRAPOR_Quest_Accepted_Variante = "Вернись и увидишь меня, когда закончишь",
    IGUI_PRAPOR_Quest_Good_Work = "Хорошая работа",
    IGUI_PRAPOR_Quest_Decline_Reaction = "Очень хорошо. Возвращайтесь, если передумаете",
 
@@ -273,7 +254,7 @@ IGUI_RU = {
    IGUI_AUD_Quest_Accepted = "Возвращайся ко мне со всем, что нам нужно для совместного строительства",
    IGUI_AUD_Quest_Broom_Accepted = "Хорошее дело! Пора доставать метлу и щетку! О, и нам понадобится несколько предметов, чтобы начать строить самый минимум",   
    IGUI_AUD_Quest_Completed = "Хорошая работа, теперь это место выглядит немного лучше.",
-   IGUI_AUD_Quest_Completed_Variant = "Тебе понравится твой новый дом",
+   IGUI_AUD_Quest_Completed_Variante = "Тебе понравится твой новый дом",
 
    IGUI_AUD_Vents_Quest_1_Name = "Улучшение дома - Вентиляция 1",
    IGUI_AUD_Vents_Quest_1_Desc = "Первая модернизация вентиляции",
@@ -374,7 +355,7 @@ IGUI_RU = {
    IGUI_TOUBIB_Quest_Decline_Reaction = "Возвращайся, если тебе что-нибудь понадобится",
 
    IGUI_TOUBIB_Quest_Accepted = "Я знал, что ты мне поможешь!",
-   IGUI_TOUBIB_Quest_Accepted_variant = "Вернись и увидишь меня, когда закончишь",
+   IGUI_TOUBIB_Quest_Accepted_Variante = "Вернись и увидишь меня, когда закончишь",
    IGUI_TOUBIB_Quest_Decline_Reaction = "Отлично. Возвращайтесь, если передумаете",
    IGUI_TOUBIB_Quest_Good_Work = "Хорошая работа",
    IGUI_TOUBIB_Quest_No_More_Quest = "У меня больше нет для вас работы. Зайдите ко мне позже",
@@ -464,7 +445,6 @@ IGUI_RU = {
    IGUI_TOUBIB_Task_Talk_Toubib = "Поговорить с медиком",
    IGUI_TOUBIB_Task_q2_t2 = "Поставка комплекта газоанализатора (Вы должны превратить этот предмет в комплект перед возвратом)",
    IGUI_TOUBIB_Task_q3_t2 = "Поставьте 2 комплекта газоанализаторов (Вы должны превратить эти предметы в комплекты, прежде чем вернуть их)",
-   IGUI_TOUBIB_Task_q4_t2 = "Дойти до здания суда Роузвуда",
    IGUI_TOUBIB_Task_q4_t3 = "Найти водопровод",
    IGUI_TOUBIB_Task_q4_t4 = "Отметить запас воды",
    IGUI_TOUBIB_Task_q5_t3 = "Уничтожить орду",
@@ -487,7 +467,7 @@ IGUI_RU = {
    IGUI_SKIER_Flag_q10_completed = "У вас достаточно репутации с Лыжником, чтобы получить доступ к его магазину 3-го уровня",
 
    IGUI_SKIER_Quest_Accepted = "Я знал, что ты мне поможешь!",
-   IGUI_SKIER_Quest_Accepted_variant = "Приходи ко мне, когда закончишь",
+   IGUI_SKIER_Quest_Accepted_Variante = "Приходи ко мне, когда закончишь",
    IGUI_SKIER_Quest_Decline_Reaction = "Хорошо. Возвращайтесь, если передумаете",
    IGUI_SKIER_Quest_Good_Work = "Хорошая работа",
    IGUI_SKIER_Quest_No_More_Quest = "У меня больше нет для вас работы. Зайдите ко мне позже",
@@ -609,7 +589,7 @@ IGUI_RU = {
    IGUI_JAEGER_Flag_q10_completed = "У вас достаточно репутации с Егерем, чтобы получить доступ к его магазину третьего уровня",
 
    IGUI_JAEGER_Quest_Accepted = "Я знал, что ты мне поможешь!",
-   IGUI_JAEGER_Quest_Accepted_variant = "Вернись и увидишь меня, когда закончишь",
+   IGUI_JAEGER_Quest_Accepted_Variante = "Вернись и увидишь меня, когда закончишь",
    IGUI_JAEGER_Quest_Decline_Reaction = "Хорошо. Возвращайтесь, если передумаете",
    IGUI_JAEGER_Quest_Good_Work = "Хорошая работа",
    IGUI_JAEGER_Quest_No_More_Quest = "У меня больше нет для вас работы. Зайдите ко мне позже",
@@ -692,7 +672,6 @@ IGUI_RU = {
    IGUI_JAEGER_Task_q3_t2 = "Добраться до аванпоста беженцев (к северо-востоку от Роузвуд Экспаншн)",
    IGUI_JAEGER_Task_q3_t3 = "Найти военную палатку",
    IGUI_JAEGER_Task_q3_t4 = "Спрячьте паек за кроватью",
-   IGUI_JAEGER_Task_q4_t2 = "Дойти до бара в Диркердаме (x=7851 y=3592)",
    IGUI_JAEGER_Task_q4_t3 = "Найти бутылку Егеря",
    IGUI_JAEGER_Task_q5_t2 = "Подойти к ресторану Малдрауг (HORDE)",
    IGUI_JAEGER_Task_q5_t3 = "Уничтожить орду",
@@ -702,7 +681,6 @@ IGUI_RU = {
    IGUI_JAEGER_Task_q6_t4 = "Найти курицу Джея де Флориуса",
    IGUI_JAEGER_Task_q6_t5 = "Отыскать дом Флориуса Грина",
    IGUI_JAEGER_Task_q6_t7 = "Доставить Егерю лионскую колбасу (можно жареную)",
-   IGUI_JAEGER_Task_q7_t3 = "Добраться до офиса в Диркердаме (x=7491 y=3543)",
    IGUI_JAEGER_Task_q8_t2 = "Убить 5600 зомби",
    IGUI_JAEGER_Task_q9_t2 = "Дойти до магазина на озере Фаллас",
    IGUI_JAEGER_Task_q9_t3 = "Найти комнату с книгой заказов",
@@ -721,7 +699,7 @@ IGUI_RU = {
    IGUI_MECANIX_Talk_Firearm = "Я здесь, чтобы поговорить о настройке огнестрельного оружия",
 
    IGUI_MECANIX_Quest_Accepted = "Я знал, что вы мне поможете!",
-   IGUI_MECANIX_Quest_Accepted_variant = "Приходите ко мне, когда закончите",
+   IGUI_MECANIX_Quest_Accepted_Variante = "Приходите ко мне, когда закончите",
    IGUI_MECANIX_Quest_Decline_Reaction = "Хорошо, тогда. Возвращайтесь, если передумаете",
    IGUI_MECANIX_Quest_Good_Work = "Хорошая работа",
 
@@ -842,7 +820,6 @@ IGUI_RU = {
    IGUI_MECANIX_Task_q1_t3 = "Охранять бункер",
    IGUI_MECANIX_Task_q1_t4 = "Найти зашифрованное сообщение егерей",
    IGUI_MECANIX_Task_q1_t6 = "Поговорить с Меканиксом",
-   IGUI_MECANIX_Task_q2_t2 = "Добраться до завода в Диркердаме (GPS x=7937 y=3242)",
    IGUI_MECANIX_Task_q2_t3 = "Отремонтировать первую плату управления",
    IGUI_MECANIX_Task_q2_t4 = "Починить вторую плату управления",
    IGUI_MECANIX_Task_q2_t6 = "Поговорить с Меканиксом",
@@ -870,7 +847,7 @@ IGUI_RU = {
    IGUI_PEACEKEEPER_Flag_q10_completed = "У вас достаточно репутации с Миротворцем, чтобы получить доступ к его магазину третьего уровня",
 
    IGUI_PEACEKEEPER_Quest_Accepted = "Я знал, что ты мне поможешь! Вернись и увидишь меня, когда закончишь",
-   IGUI_PEACEKEEPER_Quest_Accepted_variant = "Вернись и увидишь меня, когда закончишь",
+   IGUI_PEACEKEEPER_Quest_Accepted_Variante = "Вернись и увидишь меня, когда закончишь",
    IGUI_PEACEKEEPER_Quest_Decline_Reaction = "Хорошо, тогда. Возвращайтесь, если передумаете",
    IGUI_PEACEKEEPER_Quest_Good_Work = "Хорошая работа,
 
@@ -911,7 +888,7 @@ IGUI_RU = {
    IGUI_RAGMAN_Flag_q10_completed = "У вас достаточно репутации с Рэгманом, чтобы получить доступ к его магазину третьего уровня",
 
    IGUI_RAGMAN_Quest_Accepted = "Я знал, что ты мне поможешь. Вернись и увидишь меня, когда добьешься успехов",
-   IGUI_RAGMAN_Quest_Accepted_variant = "Вернись и увидишь меня, когда достигнешь некоторого прогресса",
+   IGUI_RAGMAN_Quest_Accepted_Variante = "Вернись и увидишь меня, когда достигнешь некоторого прогресса",
    IGUI_RAGMAN_Quest_Decline_Reaction = "Хорошо. Дайте мне знать, если передумаете",
    IGUI_RAGMAN_Talk_Refuse = "Привет тебе, мой друг! О, ты ищешь работу? У меня есть работа для таких, как ты, но я предпочитаю работать с парнями, которые умеют одеваться и защищать себя. Приходи ко мне, когда подтянешь свои швейные навыки, и мы снова поговорим".",
    IGUI_RAGMAN_Quest_Good_Work = "Сделанное доброе дело",   
@@ -1146,13 +1123,7 @@ IGUI_RU = {
                EDIT
    ***********************************************/
 
-   IGUI_PRAPOR_Task_q6_t1 = "Отметить первый газовый дозатор (GPS 7143;3184)",
-   IGUI_PRAPOR_Task_q6_t2 = "Отметить второй газовый дозатор (GPS 6856;2723)",
-   IGUI_PRAPOR_Task_q6_t3 = "Отметить третий газовый дозатор (GPS 7774;2732)",
-   IGUI_PRAPOR_Task_q6_t4 = "Отметить четвертую газораздаточную колонку (GPS 8276;4009)",
-   IGUI_TOUBIB_Task_q5_t2 = "Подойти к ресторану "Диркердам Вок Вок" - юго-восточный сектор города (HORDE)",
-   IGUI_TOUBIB_Task_q7_t2 = "Дойти до аптеки терапевта - центр западного сектора города",
-   IGUI_TOUBIB_Task_q8_t2 = "Достичь военной заставы Малдрауга",
+   IGUI_TOUBIB_Task_q8_t2 = "Достигните военной заставы Малдрауга",
 
    /**********************************************
                28/03/24
@@ -1305,5 +1276,53 @@ IGUI_RU = {
    IGUI_MECANIX_Task_q3_t2 = "Добраться до крыши средней школы Риверсайд",
    IGUI_MECANIX_Task_q3_t3 = "Подойти к антенне",
    IGUI_MECANIX_Task_q3_t5 = "Поговорить с механиком",
+
+   /**********************************************
+               29/04/24
+               EDIT
+   ***********************************************/
+
+   IGUI_TOUBIB_Task_q5_t2 = "Подойдите к коммерческому магазину Трелай - центр северного сектора города (HORDE)",
+   IGUI_TOUBIB_Task_q7_t2 = "Дойти до кабинета терапевта в Трелае (GPS 7098;7035)",
+   IGUI_PRAPOR_Task_q7_t2 = "Дойти до полицейского участка в Трелае (GPS x=7937 y=3242)",
+   IGUI_PRAPOR_Task_q8_t2 = "Достичь полицейского участка Трелай (GPS x=7937 y=3242)",
+   IGUI_PRAPOR_Task_q8_t3 = "Проверить и обезопасить северный доступ к полицейскому участку",
+   IGUI_PRAPOR_Task_q8_t4 = "Проверить и заблокировать доступ к южному полицейскому участку",
+   IGUI_PRAPOR_Task_q8_t5 = "Проверьте и обеспечьте наружный доступ к полицейскому участку на юго-западе",
+   IGUI_PRAPOR_Task_q8_t6 = "Проверить и обеспечить безопасность хранения оружия в полицейском участке",
+
+   /**********************************************
+               30/04/24
+               EDIT
+   ***********************************************/
+
+      IGUI_JAEGER_Task_q4_t2 = "Дойти до бара в Трелай (GPS x=6845 y=6987)",
+      IGUI_JAEGER_Task_q7_t3 = "Дойти до места в Трелае (GPS x=7154 y=6800)",
+      IGUI_MECANIX_Task_q2_t2 = "Дойти до завода в Трелае (GPS x=7425 y=6780)",
+
+   /**********************************************
+               30/04/24
+               NEW
+   ***********************************************/
+
+      IGUI_JAEGER_Task_q7_t4 = "Найти комнату",
+      IGUI_EFK_Message_OnPlayerJoinInsertion_Weyhausen = "Я прибыл в Вейхаузен",
+      IGUI_EFK_contextMenu_areaName_Weyhausen = "Вейхаузен",
+      IGUI_EFK_tooltip_insertion_Weyhausen = "Вы уверены, что хотите начать миссию в Вейхаузен? Вы должны добыть ее в течение 24 часов, иначе вы умрете",
+      IGUI_EFK_Message_OnPlayerJoinInsertion_Trelai = "Я прибыл в Трелай",
+      IGUI_EFK_contextMenu_areaName_Trelai = "Трелай",
+      IGUI_EFK_tooltip_insertion_Trelai = "Вы уверены, что хотите начать миссию в Трелай? Вы должны добыть ее в течение 24 часов, иначе вы умрете",
+
+   /**********************************************
+               01/05/24
+               EDIT
+   ***********************************************/
+
+   IGUI_PRAPOR_Task_q6_t1 = "Отметить газовый дозатор Вейхаузена",
+   IGUI_PRAPOR_Task_q6_t2 = "Отметить газораздаточную колонку Rosewood (GPS 8200;11298)",
+   IGUI_PRAPOR_Task_q6_t3 = "Отметить газораздаточную колонку "Трелай" (GPS 7051;7143)",
+   IGUI_PRAPOR_Task_q6_t4 = "Отметить четвертую газораздаточную колонку (GPS 8276;4009)",
+   IGUI_PRAPOR_Task_q2_t2 = "Дойти до военного лагеря USEC Вейхаузен",
+   IGUI_TOUBIB_Task_q4_t2 = "Дойти до магазина воды Pitstop",
 
 }

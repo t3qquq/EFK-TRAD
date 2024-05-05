@@ -48,10 +48,3 @@ UI_RU = {
     UI_trait_porte_Helmet_description = "Игрок носит шлем",
 
 }
-
-
-
-
-
-
-}
