@@ -8,15 +8,15 @@ IGUI_KO = {
     IGUI_EFK_Message_OnPlayerJoinInsertion_Rosewood = "로즈우드에 도착했다",
     IGUI_EFK_Message_OnPlayerJoinInsertion_Muldraugh = "멀드로우에 도착했다",
     IGUI_EFK_Message_OnPlayerJoinInsertion_Westpoint = "웨스트포인트에 도착했다",
-    IGUI_EFK_Message_OnPlayerJoinInsertion_Louisville = "루이빌 도착했다",
+    IGUI_EFK_Message_OnPlayerJoinInsertion_Louisville = "루이빌에 도착했다",
     IGUI_EFK_Message_OnPlayerJoinInsertion_Ravencreek = "레이븐크릭에 도착했다",
     IGUI_EFK_Message_OnPlayerJoinInsertion_Trelai = "트렐라이에 도착했다",
     IGUI_EFK_Message_OnPlayerJoinInsertion_Florius = "플로리우스에 도착했다",
     IGUI_EFK_Message_OnPlayerJoinInsertion_Customs = "세관에 도착했다",
     IGUI_EFK_Message_OnPlayerJoinInsertion_Factory = "공장에 도착했다",
     IGUI_EFK_Message_OnPlayerJoinInsertion_Woods = "삼림에 도착했다",
-    IGUI_EFK_Message_OnPlayerJoinInsertion_Interchange = "나들목에 도착했다",
-    IGUI_EFK_Message_OnPlayerJoinInsertion_MilitaryBase = "보급고에 도착했다",
+    IGUI_EFK_Message_OnPlayerJoinInsertion_Interchange = "인터체인지에 도착했다",
+    IGUI_EFK_Message_OnPlayerJoinInsertion_MilitaryBase = "리저브에 도착했다",
     IGUI_EFK_Message_OnPlayerJoinInsertion_Labo = "연구소에 도착했다",
     IGUI_EFK_Message_OnPlayerJoinInsertion_MarchRidge = "마치 릿지에 도착했다",
 
@@ -53,8 +53,8 @@ IGUI_KO = {
     IGUI_EFK_tooltip_insertion_Customs = "세관에서 임무를 수행하시겠습니까? 24시간 이내에 탈출해야하며, 실패 시 사망합니다",
     IGUI_EFK_tooltip_insertion_Factory = "공장에서 임무를 수행하시겠습니까? 24시간 이내에 탈출해야하며, 실패 시 사망합니다",
     IGUI_EFK_tooltip_insertion_Woods = "삼림에서 임무를 수행하시겠습니까? 24시간 이내에 탈출해야하며, 실패 시 사망합니다",
-    IGUI_EFK_tooltip_insertion_Interchange = "나들목에서 임무를 수행하시겠습니까? 24시간 이내에 탈출해야하며, 실패 시 사망합니다",
-    IGUI_EFK_tooltip_insertion_MilitaryBase = "보급고에서 임무를 수행하시겠습니까? 24시간 이내에 탈출해야하며, 실패 시 사망합니다",
+    IGUI_EFK_tooltip_insertion_Interchange = "인터체인지에서 임무를 수행하시겠습니까? 24시간 이내에 탈출해야하며, 실패 시 사망합니다",
+    IGUI_EFK_tooltip_insertion_MilitaryBase = "리저브에서 임무를 수행하시겠습니까? 24시간 이내에 탈출해야하며, 실패 시 사망합니다",
     IGUI_EFK_tooltip_insertion_Labo = "연구소에서 임무를 수행하시겠습니까? 24시간 이내에 탈출해야하며, 실패 시 사망합니다",
 
     IGUI_Identity = "인물 : ",
@@ -556,7 +556,7 @@ IGUI_KO = {
 
     IGUI_SKIER_Task_Talk_Skier = "스키어에게 말 걸기",
     IGUI_SKIER_Task_q1_t1 = "TOZ-106 키트 1개, Module-3M 키트 1개 전달하기 (전달하기 전에 아이템을 키트로 변환해야 합니다)",
-    IGUI_SKIER_Task_q2_t2 = "인쇄소 진입하기 (더커담 최남단 다리 옆 산업용 건물)",
+    IGUI_SKIER_Task_q2_t2 = "상가 진입하기 (바이하우젠 북서쪽)",
     IGUI_SKIER_Task_q2_t3 = "관리사무소 진입하기",
     IGUI_SKIER_Task_q2_t4 = "보안 문서 찾기",
     IGUI_SKIER_Task_q3_t2 = "로즈우드 회사 건물 근처 호드에 접근하기 (x=8220 y=11042)",
@@ -1123,7 +1123,7 @@ IGUI_KO = {
                 EDIT
     ***********************************************/
 
-   IGUI_TOUBIB_Task_q8_t2 = "멀드라우의 군사 전초 기지에 도달하세요",
+	IGUI_TOUBIB_Task_q8_t2 = "멀드로우 군사 주둔지 진입하기",
 
     /**********************************************
                 28/03/24
@@ -1269,60 +1269,60 @@ IGUI_KO = {
     IGUI_EFK_travelDialog_toHideoute_byMoney = "은신처로 복귀합니다.",
 
     /**********************************************
-                23/04/24
-                EDIT
+				23/04/24
+				EDIT
     ***********************************************/
 
     IGUI_MECANIX_Task_q3_t2 = "리버사이드 고등학교 옥상에 진입하기",
     IGUI_MECANIX_Task_q3_t3 = "안테나에 접근하기",
     IGUI_MECANIX_Task_q3_t5 = "메카닉에게 말걸기",
 
-   /**********************************************
-               29/04/24
-               편집
-   ***********************************************/
+	/**********************************************
+				29/04/24
+				EDIT
+	***********************************************/
 
-   IGUI_TOUBIB_Task_q5_t2 = "트렐라이 상업 상점 - 도시 중심 북쪽 구역(HORDE)에 접근하세요.",
-   IGUI_TOUBIB_Task_q7_t2 = "치료사 사무실로 트렐라이(GPS 7098;7035)에 도착하세요",
-   IGUI_PRAPOR_Task_q7_t2 = "트렐라이 경찰서에 도착 (GPS x=7937 y=3242)",
-   IGUI_PRAPOR_Task_q8_t2 = "트렐라이 경찰서에 도착하세요 (GPS x=7937 y=3242).", 
-   IGUI_PRAPOR_Task_q8_t3 = "경찰서 북쪽 출입구 확인 및 보안",
-   IGUI_PRAPOR_Task_q8_t4 = "경찰서 남쪽 출입구 확인 및 보안", "경찰서 남쪽 출입구 확인 및 보안",
-   IGUI_PRAPOR_Task_q8_t5 = "경찰서 남서쪽 외부 출입 확인 및 보안", "경찰서 남쪽 출입 확인 및 보안",
-   IGUI_PRAPOR_Task_q8_t6 = "경찰서 무기 보관소 확인 및 보안",
+	IGUI_TOUBIB_Task_q5_t2 = "트렐라이 북부 중앙 상점가 근처 호드에 접근하기",
+	IGUI_TOUBIB_Task_q7_t2 = "트렐라이 테라피스트 사무실에 진입하기 (GPS x=7098 y=7035)",
+	IGUI_PRAPOR_Task_q7_t2 = "트렐라이 경찰서 진입하기 (GPS x=7937 y=3242)",
+	IGUI_PRAPOR_Task_q8_t2 = "트렐라이 경찰서 진입하기 (GPS x=7937 y=3242).",
+	IGUI_PRAPOR_Task_q8_t3 = "경찰서 북쪽 출입구 확보하기",
+	IGUI_PRAPOR_Task_q8_t4 = "경찰서 남쪽 출입구 확보하기",
+	IGUI_PRAPOR_Task_q8_t5 = "경찰서 남서쪽 외부 출입구 확보하기",
+	IGUI_PRAPOR_Task_q8_t6 = "경찰서 무기고 확보하기",
 
-   /**********************************************
-               30/04/24
-               편집
-   ***********************************************/
+	/**********************************************
+				30/04/24
+				EDIT
+	***********************************************/
 
-      IGUI_JAEGER_Task_q4_t2 = "트렐라이에 바에 도달 (GPS x=6845 y=6987)",
-      IGUI_JAEGER_Task_q7_t3 = "트렐라이에 도착 (GPS x=7154 y=6800)",
-      IGUI_MECANIX_Task_q2_t2 = "트렐라이로 공장에 도착 (GPS x=7425 y=6780)",
+	IGUI_JAEGER_Task_q4_t2 = "트렐라이 술집 진입하기 (GPS x=6845 y=6987)",
+	IGUI_JAEGER_Task_q7_t3 = "트렐라이 해당 좌표 진입하기 (GPS x=7154 y=6800)",
+	IGUI_MECANIX_Task_q2_t2 = "트렐라이 공장 진입하기 (GPS x=7425 y=6780)",
 
-   /**********************************************
-               30/04/24
-               NEW
-   ***********************************************/
+	/**********************************************
+				30/04/24
+				NEW
+	***********************************************/
 
-      IGUI_JAEGER_Task_q7_t4 = "방 찾기",
-      IGUI_EFK_Message_OnPlayerJoinInsertion_Weyhausen = "바이하우젠에 도착했습니다",
-      IGUI_EFK_contextMenu_areaName_Weyhausen = "바이하우젠",
-      IGUI_EFK_tooltip_insertion_Weyhausen = "바이하우젠으로 미션을 시작하시겠습니까? 24시간 이내에 추출해야 하며, 그렇지 않으면 사망합니다",
-      IGUI_EFK_Message_OnPlayerJoinInsertion_Trelai = "트렐라이에 도착했습니다",
-      IGUI_EFK_contextMenu_areaName_Trelai = "트렐라이",
-      IGUI_EFK_tooltip_insertion_Trelai = "트렐라이로 미션을 시작하시겠습니까? 24시간 이내에 추출하지 않으면 죽습니다",
+	IGUI_JAEGER_Task_q7_t4 = "방 찾기",
+	IGUI_EFK_Message_OnPlayerJoinInsertion_Weyhausen = "바이하우젠에 도착했다",
+	IGUI_EFK_contextMenu_areaName_Weyhausen = "바이하우젠",
+	IGUI_EFK_tooltip_insertion_Weyhausen = "바이하우젠에서 임무를 수행하시겠습니까? 24시간 이내에 탈출해야하며, 실패 시 사망합니다",
+	IGUI_EFK_Message_OnPlayerJoinInsertion_Trelai = "트렐라이에 도착했다",
+	IGUI_EFK_contextMenu_areaName_Trelai = "트렐라이",
+	IGUI_EFK_tooltip_insertion_Trelai = "트렐라이에서 임무를 수행하시겠습니까? 24시간 이내에 탈출해야하며, 실패 시 사망합니다",
 
-   /**********************************************
-               01/05/24
-               편집
-   ***********************************************/
+	/**********************************************
+				01/05/24
+				EDIT
+	***********************************************/
 
-   IGUI_PRAPOR_Task_q6_t1 = "바이하우젠 가스 디스펜서 표시",
-   IGUI_PRAPOR_Task_q6_t2 = "로즈우드 가스 디스펜서 표시(GPS 8200;11298)",
-   IGUI_PRAPOR_Task_q6_t3 = "트렐라이 가스 디스펜서 표시(GPS 7051;7143)",
-   IGUI_PRAPOR_Task_q6_t4 = "네 번째 가스 디스펜서 표시 (GPS 8276;4009)",
-   IGUI_PRAPOR_Task_q2_t2 = "바이하우젠 USEC 군사 캠프에 도착하세요.",
-   IGUI_TOUBIB_Task_q4_t2 = "피트스탑의 물 가게에 도달하세요",
+	IGUI_PRAPOR_Task_q6_t1 = "바이하우젠 주유기에 표시 남기기",
+	IGUI_PRAPOR_Task_q6_t2 = "로즈우드 주유기에 표시 남기기 (GPS x=8200 y=11298)",
+	IGUI_PRAPOR_Task_q6_t3 = "트렐라이 주유기에 표시 남기기 (GPS x=7051 y=7143)",
+	IGUI_PRAPOR_Task_q6_t4 = "네번째 주유기에 표시 남기기 (GPS x=8276 y=4009)",
+	IGUI_PRAPOR_Task_q2_t2 = "바이하우젠 USEC 군사 주둔지 진입하기.",
+	IGUI_TOUBIB_Task_q4_t2 = "피트스탑 물 가게 진입하기",
 
-}
+	}

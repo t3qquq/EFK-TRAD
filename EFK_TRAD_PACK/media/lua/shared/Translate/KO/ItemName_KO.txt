@@ -949,15 +949,15 @@ ItemName_KO = {
                NEW
    ***********************************************/
 
-        ItemName_MapItem.Weyhausen_Tactical_Map = "바이하우젠 전술 지도",
-        ItemName_MapItem.Trelai_Tactical_Map = "트렐라이 전술 지도",
+        ItemName_MapItem.Weyhausen_Tactical_Map = "바이하우젠 전술지도",
+        ItemName_MapItem.Trelai_Tactical_Map = "트렐라이 전술지도",
 
    /**********************************************
                01/05/24
                NEW
    ***********************************************/
 
-        ItemName_MapItem.Pitstop_Tactical_Map = "피트스탑 전술 지도",
+        ItemName_MapItem.Pitstop_Tactical_Map = "피트스탑 전술지도",
 
 
 }
