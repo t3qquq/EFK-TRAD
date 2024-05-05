@@ -13,7 +13,7 @@ ContextMenu_CN = {
 
     ContextMenu_Use_CMS = "使用 CMS 套件提取球", 
     ContextMenu_Use_SURV = "使用 SURV12 套件提取球", 
-    ContextMenu_Title = "幸存者",
+    ContextMenu_Title  = "幸存者",
     ContextMenu_SD_AidCheck = "医疗检查/急救",
     ContextMenu_SD_AidCheckDesc = "走到这名幸存者身边并进行医疗检查，如果他移动，检查过程可能会中断", 
     ContextMenu_SD_AddClothing = "幸存者的衣物",
@@ -68,7 +68,7 @@ ContextMenu_CN = {
     ContextMenu_speech_FarmingActionHarvesting = "",
     ContextMenu_speech_FarmingActionWatering = "",
     ContextMenu_speech_NoFarmingArea = "没有指定的耕作区域",
-    ContextMenu_speech_IDontKnowHarming = "我不知道如何耕作",
+    ContextMenu_speech_IDontKnowHowFarming = "我不知道如何耕作",
     ContextMenu_SOption_SurvivorBravery = "勇敢的幸存者",
     ContextMenu_SOption_SurvivorBraveryDesc = "决定幸存者战斗而不是逃跑或躲避的概率",
     ContextMenu_SD_Cowardly = "懦弱",
