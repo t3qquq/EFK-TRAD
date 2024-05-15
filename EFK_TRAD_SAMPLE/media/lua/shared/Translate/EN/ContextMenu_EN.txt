@@ -1,6 +1,5 @@
 ContextMenu_EN = {
 
-    ContextMenu_Take_pills = "Consume drug",
     ContextMenu_EFK_Already_take = "I have to wait before reinjecting a dose.", 
     ContextMenu_NVG_OFF = "Raising the night vision device",
     ContextMenu_NVG_ON = "Setting up the Night Vision system", 
@@ -2164,5 +2163,11 @@ ContextMenu_Use_Bandage = "Heal Small Wound with Small Medical Kit",
 
 	ContextMenu_Examine = "Examine",
 
+   /**********************************************
+               08/05/24
+               NEW
+   ***********************************************/
+
+   ContextMenu_Use Injector = "Use Injector",
 
 }

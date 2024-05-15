@@ -52,7 +52,6 @@ Recipes_EN = {
      Recipe_Sell_B&T_MP9_9x19_submachine_gun = "Sell B&T MP9 9x19 submachine gun (158)",
      Recipe_Sell_HK_MP5_9x19_submachine_gun_(Navy_3_Round_Burst) = "Sell HK MP5 9x19 submachine gun (Navy 3 Round Burst) (232)",
      Recipe_Sell_Colt_M4A1_5.56x45_assault_rifle = "Sell Colt M4A1 5.56x45 assault rifle (103)",
-     Recipe_Sell_FN_SCAR-H_7.62x51_assault_rifle = "Sell FN SCAR-H 7.62x51 assault rifle (136)",
      Recipe_Sell_HK_G36_5.56x45_assault_rifle = "Sell HK G36 5.56x45 assault rifle (319)",
      Recipe_Sell_Steyr_AUG_A1_5.56x45_assault_rifle = "Sell Steyr AUG A1 5.56x45 assault rifle (379)",
      Recipe_Sell_Steyr_AUG_A3_5.56x45_assault_rifle = "Sell Steyr AUG A3 5.56x45 assault rifle (451)",
@@ -283,9 +282,6 @@ Recipes_EN = {
      Recipe_Sell_CALOK-B_hemostatic_applicator = "Sell CALOK-B hemostatic applicator (35)",
      Recipe_Sell_Adrenaline_injector = "Sell Adrenaline Injector (198)",
      Recipe_Sell_Morphine_injector = "Sell Morphine Injector (159)",
-     Recipe_Sell_Beta_Blockers_IR6_Injector = "Sell Beta Blockers IR6 Injector (252)",
-     Recipe_Sell_Beta_Blockers_TEX-1_Injector = "Sell Beta Blockers TEX-1 Injector (349)",
-     Recipe_Sell_Beta_Blockers_Dress-U_Injector = "Sell Beta Blockers Dress-U Injector (409)",
      Recipe_Sell_Augmentin_antibiotic_pills = "Sell Augmentin Antibiotic Pills (86)",
      Recipe_Sell_Vaseline_balm = "Sell Vaseline balm (93)",
      Recipe_Sell_Caffeine_pills = "Sell Caffeine pills (60)",
@@ -729,5 +725,127 @@ Recipes_EN = {
    ***********************************************/
 
      Recipe_Craft_1_Gas_mask_air_filter = "Craft 1 Gas mask air filter",
+
+   /**********************************************
+               05/05/24
+               NEW
+   ***********************************************/
+
+      Recipe_Mount_a_MP5SD_suppressor_on_a_MP5 = "Mount a MP5SD suppressor on a MP5",
+
+   /**********************************************
+               06/05/24
+               NEW
+   ***********************************************/
+
+      Recipe_Sell_Analog_thermometer = "Sell Analog thermometer (287)",
+      Recipe_Sell_Tube_of_Poxeram_cold_welding = "Sell Tube of Poxeram cold welding (122)",
+      Recipe_Sell_Golden_1GPhone_smartphone = "Sell Golden 1GPhone smartphone (281)",
+      Recipe_Sell_Microcontroller_board = "Sell Microcontroller board (630)",
+      Recipe_Sell_Military_cable = "Sell Military cable (259)",
+      Recipe_Sell_Military_circuit_board = "Sell Military circuit board (252)",
+      Recipe_Sell_Military_gyrotachometer = "Sell Military gyrotachometer (390)",
+      Recipe_Sell_RAM = "Sell RAM (69)",
+      Recipe_Sell_Cyclon_rechargeable_battery = "Sell Cyclon rechargeable battery (535)",
+      Recipe_Sell_USB_Adapter = "Sell USB Adapter (10)",
+      Recipe_Sell_Ultraviolet_lamp = "Sell Ultraviolet lamp (97)",
+      Recipe_Sell_Tetriz_portable_game_console = "Sell Tetriz portable game console (756)",
+      Recipe_Sell_Portable_Powerbank = "Sell Portable Powerbank (128)",
+      Recipe_Sell_D_Size_battery = "Sell D Size battery (13)",
+      Recipe_Sell_6-STEN-140-M_military_battery = "Sell 6-STEN-140-M military battery (2079)",
+      Recipe_Sell_Expeditionary_fuel_tank = "Sell Expeditionary fuel tank (315)",
+      Recipe_Sell_Fuel_conditioner = "Sell Fuel conditioner (381)",
+      Recipe_Sell_Propane_Tank_5L = "Sell Propane Tank 5L (79)",
+      Recipe_Sell_SurvL_Survivor_Lighter = "Sell SurvL Survivor Lighter (100)",
+      Recipe_Sell_Deadlyslob's_beard_oil = "Sell Deadlyslob's beard oil (349)",
+      Recipe_Sell_LVNDMARK's_rat_poison = "Sell LVNDMARK's rat poison (320)",
+      Recipe_Sell_Ortodontox_toothpaste = "Sell Ortodontox toothpaste (34)",
+      Recipe_Sell_Pack_of_chlorine = "Sell Pack of chlorine (69)",
+      Recipe_Sell_PAID_AntiRoach_spray = "Sell PAID AntiRoach spray (69)",
+      Recipe_Sell_Repellent = "Sell Repellent (53)",
+      Recipe_Sell_Aquapeps_water_purification_tablets = "Sell Aquapeps water purification tablets (189)",
+      Recipe_Sell_Bottle_of_hydrogen_peroxide = "Sell Bottle of hydrogen peroxide (76)",
+      Recipe_Sell_Portable_defibrillator = "Sell Portable defibrillator (1414)",
+      Recipe_Sell_Nippers = "Sell Nippers (107)",
+      Recipe_Sell_Advanced_Electronic_Materials_textbook = "Sell Advanced Electronic Materials textbook (2392)",
+      Recipe_Sell_SAS_drive = "Sell SAS drive (455)",
+      Recipe_Sell_Secure_magnetic_tape_cassette = "Sell Secure magnetic tape cassette (717)",
+      Recipe_Sell_Silicon_Optoelectronic_Integrated_Circuits_textbook = "Sell Silicon Optoelectronic Integrated Circuits textbook (2441)",
+      Recipe_Sell_Tech_manual = "Sell Tech manual (18)",
+      Recipe_Sell_TerraGroup_Blue_Folders_materials = "Sell TerraGroup Blue Folders materials (3712)",
+      Recipe_Sell_Video_cassette_with_the_Cyborg_Killer_movie = "Sell Video cassette with the Cyborg Killer movie (342)",
+      Recipe_Sell_42_Signature_Blend_English_Tea = "Sell 42 Signature Blend English Tea (174)",
+      Recipe_Sell_BEAR_Buddy_plush_toy = "Sell BEAR Buddy plush toy (546)",
+      Recipe_Sell_Pack_of_Arseniy_buckwheat = "Sell Pack of Arseniy buckwheat (140)",
+      Recipe_Sell_Can_of_Dr._Lupo's_coffee_beans = "Sell Can of Dr. Lupo's coffee beans (327)",
+      Recipe_Sell_OFZ_30x160mm_shell = "Sell OFZ 30x160mm shell (352)",
+      Recipe_Sell_Paracord = "Sell Paracord (141)",
+      Recipe_Sell_Press_pass_issued_for_NoiceGuy = "Sell Press pass issued for NoiceGuy (315)",
+      Recipe_Sell_UZRGM_grenade_fuze = "Sell UZRGM grenade fuze (51)",
+      Recipe_Sell_Water_filter = "Sell Water filter (154)",
+      Recipe_Sell_Antique_teapot = "Sell Antique teapot (295)",
+      Recipe_Sell_Antique_vase = "Sell Antique vase (427)",
+      Recipe_Sell_Axel_parrot_figurine = "Sell Axel parrot figurine (321)",
+      Recipe_Sell_Battered_antique_book = "Sell Battered antique book (397)",
+      Recipe_Sell_BEAR_operative_figurine = "Sell BEAR operative figurine (472)",
+      Recipe_Sell_Bronze_lion_figurine = "Sell Bronze lion figurine (1026)",
+      Recipe_Sell_Cat_figurine = "Sell Cat figurine (392)",
+      Recipe_Sell_Chain_with_Prokill_medallion = "Sell Chain with Prokill medallion (535)",
+      Recipe_Sell_Cultist_figurine = "Sell Cultist figurine (630)",
+      Recipe_Sell_Ded_Moroz_figurine = "Sell Ded Moroz figurine (630)",
+      Recipe_Sell_Gold_skull_ring = "Sell Gold skull ring (346)",
+      Recipe_Sell_Golden_egg = "Sell Golden egg (428)",
+      Recipe_Sell_Golden_neck_chain = "Sell Golden neck chain (240)",
+      Recipe_Sell_Golden_rooster_figurine = "Sell Golden rooster figurine (570)",
+      Recipe_Sell_GP_coin = "Sell GP coin (225)",
+      Recipe_Sell_Horse_figurine = "Sell Horse figurine (72)",
+      Recipe_Sell_Loot_Lord_plushie = "Sell Loot Lord plushie (523)",
+      Recipe_Sell_Old_firesteel = "Sell Old firesteel (399)",
+      Recipe_Sell_Politician_Mutkevich_figurine = "Sell Politician Mutkevich figurine (630)",
+      Recipe_Sell_Raven_figurine = "Sell Raven figurine (302)",
+      Recipe_Sell_Roler_Submariner_gold_wrist_watch = "Sell Roler Submariner gold wrist watch (447)",
+      Recipe_Sell_Ryzhy_figurine = "Sell Ryzhy figurine (315)",
+      Recipe_Sell_Scav_figurine = "Sell Scav figurine (315)",
+      Recipe_Sell_Silver_Badge = "Sell Silver Badge (379)",
+      Recipe_Sell_USEC_operative_figurine = "Sell USEC operative figurine (472)",
+      Recipe_Sell_Veritas_guitar_pick = "Sell Veritas guitar pick (346)",
+      Recipe_Sell_Wooden_clock = "Sell Wooden clock (524)",
+
+      Recipe_Sell_L1_(Norepinephrine)_injector = "Sell L1 (Norepinephrine) injector (236)",
+      Recipe_Sell_Trimadol_stimulant_injector = "Sell Trimadol stimulant injector (378)",
+      Recipe_Sell_Propital_regenerative_stimulant_injector = "Sell Propital regenerative stimulant injector (132)",
+      Recipe_Sell_eTG-change_regenerative_stimulant_injector = "Sell eTG-change regenerative stimulant injector (238)",
+      Recipe_Sell_xTG-12_antidote_injector = "Sell xTG-12 antidote injector (507)",
+      Recipe_Sell_Perfotoran_(Blue_Blood)_stimulant_injector = "Sell Perfotoran (Blue Blood) stimulant injector (415)",
+      Recipe_Sell_AHF1-M_stimulant_injector = "Sell AHF1-M stimulant injector (286)",
+      Recipe_Sell_Zagustin_hemostatic_drug_injector = "Sell Zagustin hemostatic drug injector (211)",
+      Recipe_Sell_PNB_(Product_16)_stimulant_injector = "Sell PNB (Product 16) stimulant injector (411)",
+      Recipe_Sell_P22_(Product_22)_stimulant_injector = "Sell P22 (Product 22) stimulant injector (253)",
+      Recipe_Sell_Meldonin_injector = "Sell Meldonin injector (352)",
+      Recipe_Sell_SJ1_TGLabs_combat_stimulant_injector = "Sell SJ1 TGLabs combat stimulant injector (226)",
+      Recipe_Sell_SJ6 TGLabs_combat_stimulant_injector = "Sell SJ6 TGLabs combat stimulant injector (176)",
+      Recipe_Sell_3-(b-TG)_stimulant_injector = "Sell 3-(b-TG) stimulant injector (193)",
+      Recipe_Sell_Obdolbos_cocktail_injector = "Sell Obdolbos cocktail injector (389)",
+      Recipe_Sell_Obdolbos_2_cocktail_injector = "Sell Obdolbos 2 cocktail injector (422)",
+      Recipe_Sell_M.U.L.E._stimulant_injector = "Sell M.U.L.E. stimulant injector (274)",
+      Recipe_Sell_SJ9_TGLabs_combat_stimulant_injector = "Sell SJ9 TGLabs combat stimulant injector (565)",
+      Recipe_Sell_SJ12_TGLabs_combat_stimulant_injector = "Sell SJ12 TGLabs combat stimulant injector (258)",
+      Recipe_Sell_AFAK_tactical_individual_first_aid_kit = "Sell AFAK tactical individual first aid kit (262)",
+
+      Recipe_Sell_Golden_Star_balm = "Sell Golden Star balm (182)",
+      Recipe_Sell_Ibuprofen_painkillers = "Sell Ibuprofen painkillers (158)",
+      Recipe_Sell_Augmentin_antibiotic_pills = "Sell Augmentin antibiotic pills (86)",
+      Recipe_Sell_Analgin_painkillers = "Sell Analgin painkillers (35)",
+      Recipe_Sell_Vaseline_balm = "Sell Vaseline balm (93)",
+
+   /**********************************************
+               15/05/24
+               EDIT
+   ***********************************************/
+
+     Recipe_Sell_FN_SCAR-H_7.62x51_assault_rifle = "Sell FN SCAR-H 7.62x51 assault rifle (661)",
+
+
+
 }
 

@@ -145,4 +145,44 @@ Tooltip_EN = {
    ***********************************************/
 
 	Tooltip_EFK_Tourniquet = "Heal 1 Small wound",
+
+   /**********************************************
+               05/05/24
+               NEW
+   ***********************************************/
+
+	Tooltip_EFK_SupMP5SD = "Reduces gunfire noise<br>Reduces recoil (-1)<br>Reduces accuracy (-1)<br>Increases reloading time (+6)<br>Increases aiming time (-2)<br>Increases minimum range (+0.2)<br>Can be mounted on a MP5 with the hideout Workbench",
+
+   /**********************************************
+               08/05/24
+               NEW
+   ***********************************************/
+
+	Tooltip_EFK_Morphine = "Injector<br>Painkiller for 5 hours<br>Increase thirst (+5)<br>Increase fatigue (+5)",
+	Tooltip_EFK_Adrenaline = "Injector<br>Painkiller for 1 hour<br>Increase thirst (+5)<br>Reduce fatigue (-40)",
+	Tooltip_EFK_BetaPills_Norepinephrine = "Injector<br>Painkiller for 2 hours<br>Block Panic during 2 hours<br>Increase hunger (+5)<br>Increase thirst (+5)<br>Reduce fatigue (-15)",
+	Tooltip_EFK_Trimadol = "Injector<br>Painkiller for 3 hours<br>Increase intoxication (+15)<br>Increase hunger (+5)<br>Increase thirst (+5)<br>Reduce fatigue (-10)",
+	Tooltip_EFK_Propital = "Injector<br>Painkiller for 4 hours<br>Reduce hunger (-10)<br>Reduce thirst (-10)<br>Reduce fatigue (-5)",
+	Tooltip_EFK_ETG = "Injector<br>Increase intoxication (+25)<br>Reduce hunger (-20)<br>Reduce thirst (-20)",
+	Tooltip_EFK_XTG = "Injector<br>Heal all intoxication<br>Increase hunger (+15)<br>Increase thirst (+10)<br>Reduce fatigue (+5)",
+	Tooltip_EFK_Perfotoran = "Injector<br>Increase intoxication (+10)<br>Reduce hunger (-10)<br>Increase thirst (+5)<br>Reduce fatigue (-5)",
+	Tooltip_EFK_AHF1 = "Injector<br>Heal intoxication (-30)<br>Reduce hunger (-5)<br>Increase thirst (+25)",
+	Tooltip_EFK_Zagustin = "Injector<br>Heal intoxication (-20)<br>Reduce hunger (-15)<br>Increase thirst (+40)<br>Increase fatigue (+5)",
+	Tooltip_EFK_PNB = "Injector<br>Increase hunger (+10)<br>Increase thirst (+15)<br>Reduce fatigue (-20)",
+	Tooltip_EFK_P22 = "Injector<br>Reduce hunger (-20)<br>Reduce thirst (-20)<br>Increase fatigue (+20)",
+	Tooltip_EFK_Meldonin = "Injector<br>Increase hunger (+15)<br>Increase thirst (+20)<br>Increase fatigue (+15)",
+	Tooltip_EFK_SJ1 = "Injector<br>Increase intoxication (+30)<br>Increase hunger (+20)<br>Increase thirst (+20)<br>Reduce fatigue (-50)",
+	Tooltip_EFK_SJ6 = "Injector<br>Medium Pain<br>Increase intoxication (+10)<br>Reduce fatigue (-10)",
+	Tooltip_EFK_3BTG = "Injector<br>Medium Pain<br>Heal intoxication (-20)<br>Reduce hunger (-15)<br>Increase thirst (+5)<br>Reduce fatigue (-10)",
+	Tooltip_EFK_Obdolbos = "Injector<br>Slight Pain<br>Heal intoxication (-50)<br>Increase hunger (+30)<br>Increase thirst (+40)<br>Increase fatigue (+20)",
+	Tooltip_EFK_Obdolbos2 = "Injector<br>Medium Pain<br>Heal intoxication (-30)<br>Increase hunger (+20)<br>Increase thirst (+35)<br>Increase fatigue (+15)",
+	Tooltip_EFK_Mule = "Injector<br>Increase intoxication (+20)<br>Reduce hunger (-10)<br>Reduce thirst (-10)<br>Reduce fatigue (-15)",
+	Tooltip_EFK_SJ9 = "Injector<br>Heal intoxication (-10)<br>Reduce hunger (-15)<br>Increase thirst (+5)<br>Reduce fatigue (-10)",
+	Tooltip_EFK_SJ12 = "Injector<br>Slight Pain<br>Heal intoxication (-20)<br>Reduce hunger (-25)<br>Reduce thirst (-5)<br>Increase fatigue (+5)",
+	Tooltip_EFK_vaseline = "Balm<br>Painkiller for 3 hours<br>Increase thirst, hunger and fatigue",
+	Tooltip_Pills_EFK_Analgin = "Pills<br>Painkiller for 1 hour<br>Increase thirst",
+	Tooltip_Pills_EFK_Augmentin = "Pills<br>Painkiller for 2 hours<br>Increase thirst<br>Reduce hunger and fatigue",
+	Tooltip_Pills_EFK_Ibuprofen = "Pills<br>Painkiller for 3 hours<br>Increase thirst",
+	Tooltip_Pills_EFK_Golden = "Balm<br>Painkiller for 4 hours<br>Increase hunger and fatigue",
+
 }
