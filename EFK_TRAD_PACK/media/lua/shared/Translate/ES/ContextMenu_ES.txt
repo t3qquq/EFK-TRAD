@@ -1,6 +1,5 @@
 ContextMenu_ES = {
 
-    ContextMenu_Take_pills = "Tomar la medicina",
     ContextMenu_EFK_Already_take = "Tengo que esperar antes de volver a inyectar una dosis", 
     ContextMenu_NVG_OFF = "Levantar el dispositivo de visión nocturna",
     ContextMenu_NVG_ON = "Levantar el dispositivo de visión nocturna", 
@@ -234,7 +233,7 @@ ContextMenu_ES = {
     ContextMenu_SD_LookForItem_After = "",
     ContextMenu_SD_NoFindItem_Before = "",
     ContextMenu_SD_NoFindItem_After = "",
-    ContextMenu_SD_EquipsArmor_Afore = "",
+    ContextMenu_SD_EquipsArmor_Before = "",
     ContextMenu_SD_EquipsArmor_After = "",
     ContextMenu_SD_Opens_Before = "",
     ContextMenu_SD_Opens_After = "",
@@ -2164,5 +2163,11 @@ ContextMenu_Use_Bandage = "Curar herida pequeña con botiquín pequeño",
 
 	ContextMenu_Examine = "Examine",
 
+   /**********************************************
+               08/05/24
+               NEW
+   ***********************************************/
+
+   ContextMenu_Use_Injector = "Usar inyector",
 
 }
