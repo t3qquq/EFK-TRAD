@@ -52,7 +52,6 @@ Recipes_ES = {
      Recipe_Sell_B&T_MP9_9x19_submachine_gun = "Vender B&T MP9 9x19 submachine gun (158)",
      Recipe_Sell_HK_MP5_9x19_submachine_gun_(Navy_3_Round_Burst) = "Vender HK MP5 9x19 submachine gun (Navy 3 Round Burst) (232)",
      Recipe_Sell_Colt_M4A1_5.56x45_assault_rifle = "Vender Colt M4A1 5.56x45 assault rifle (103)",
-     Recipe_Sell_FN_SCAR-H_7.62x51_assault_rifle = "Vender FN SCAR-H 7.62x51 assault rifle (136)",
      Recipe_Sell_HK_G36_5.56x45_assault_rifle = "Vender HK G36 5.56x45 assault rifle (319)",
      Recipe_Sell_Steyr_AUG_A1_5.56x45_assault_rifle = "Vender Steyr AUG A1 5.56x45 assault rifle (379)",
      Recipe_Sell_Steyr_AUG_A3_5.56x45_assault_rifle = "Vender Steyr AUG A3 5.56x45 assault rifle (451)",
@@ -283,9 +282,6 @@ Recipes_ES = {
      Recipe_Sell_CALOK-B_hemostatic_applicator = "Vender CALOK-B hemostatic applicator (35)",
      Recipe_Sell_Adrenaline_injector = "Vender Adrenaline Injector (198)",
      Recipe_Sell_Morphine_injector = "Vender Morphine Injector (159)",
-     Recipe_Sell_Beta_Blockers_IR6_Injector = "Vender Beta Blockers IR6 Injector (252)",
-     Recipe_Sell_Beta_Blockers_TEX-1_Injector = "Vender Beta Blockers TEX-1 Injector (349)",
-     Recipe_Sell_Beta_Blockers_Dress-U_Injector = "Vender Beta Blockers Dress-U Injector (409)",
      Recipe_Sell_Augmentin_antibiotic_pills = "Vender Augmentin Antibiotic Pills (86)",
      Recipe_Sell_Vaseline_balm = "Vender Vaseline balm (93)",
      Recipe_Sell_Caffeine_pills = "Vender Caffeine pills (60)",
@@ -663,7 +659,7 @@ Recipes_ES = {
      Recipe_Sell_Security_vest = "Vender Chaleco de seguridad (24)",
      Recipe_Sell_Scav_vest = "Vender chaleco escavador (26)",
      Recipe_Sell_BNTI_Zhuk_body_armor_Press = "Vender Armadura corporal BNTI Zhuk Press (101)",
-     Recipe_Sell_NPP_KlASS_Kora-Kulon_armadura_cuerpo = "Vender NPP KlASS Kora-Kulon armadura de cuerpo (268)",
+     Recipe_Sell_NPP_KlASS_Kora-Kulon_body_armor = "Vender NPP KlASS Kora-Kulon armadura de cuerpo (268)",
      Recipe_Sell_MF-UNTAR_body_armor = "Vender armadura MF-UNTAR (212)",
      Recipe_Sell_Hexatac_HPC_Plate_Carrier_Multicam_Black = "Vender Hexatac HPC Plate Carrier Multicam Negro (337)",
      Recipe_Sell_IOTV_Gen4_body_armor_High_Mobility_Kit_MultiCam = "Venta IOTV Gen4 body armor Kit Alta Movilidad MultiCam (516)",
@@ -729,5 +725,127 @@ Recipes_ES = {
    ***********************************************/
 
      Recipe_Craft_1_Gas_mask_air_filter = "Crea 1 filtro de aire para máscara de gas",
+
+   /**********************************************
+               05/05/24
+               NEW
+   ***********************************************/
+
+      Recipe_Mount_a_MP5SD_suppressor_on_a_MP5 = "Montar un supresor MP5SD en un MP5",
+
+   /**********************************************
+               06/05/24
+               NEW
+   ***********************************************/
+
+      Recipe_Sell_Analog_thermometer = "Venta Termómetro analógico (287)",
+      Recipe_Sell_Tube_of_Poxeram_cold_welding = "Venta de Tubo de Poxeram soldadura en frío (122)",
+      Recipe_Sell_Golden_1GPhone_smartphone = "Venta de Golden 1GPhone smartphone (281)",
+      Recipe_Sell_Microcontroller_board = "Vender Placa microcontrolador (630)",
+      Recipe_Sell_Military_cable = "Vender cable militar (259)",
+      Recipe_Sell_Military_circuit_board = "Venta Placa de circuito militar (252)",
+      Recipe_Sell_Military_gyrotachometer = "Vender girotacómetro militar (390)",
+      Recipe_Sell_RAM = "Vender RAM (69)",
+      Recipe_Sell_Cyclon_rechargeable_battery = "Vender batería recargable Cyclon (535)",
+      Recipe_Sell_USB_Adapter = "Vender adaptador USB (10)",
+      Recipe_Sell_Ultraviolet_lamp = "Vender Lámpara ultravioleta (97)",
+      Recipe_Sell_Tetriz_portable_game_console = "Vender consola de juegos portátil Tetriz (756)",
+      Recipe_Sell_Portable_Powerbank = "Vender Powerbank portátil (128)",
+      Recipe_Sell_D_Size_battery = "Vender batería tamaño D (13)",
+      Recipe_Sell_6-STEN-140-M_military_battery = "Vender batería militar 6-STEN-140-M (2079)",
+      Recipe_Sell_Expeditionary_fuel_tank = "Vender depósito de combustible expedicionario (315)",
+      Recipe_Sell_Fuel_conditioner = "Vender Acondicionador de combustible (381)",
+      Recipe_Sell_Propane_Tank_5L = "Vender Tanque de propano 5L (79)",
+      Recipe_Sell_SurvL_Survivor_Lighter = "Vender Mechero superviviente SurvL (100)",
+      Recipe_Sell_Deadlyslob's_beard_oil = "Vender aceite de barba de Deadlyslob (349)",
+      Recipe_Sell_LVNDMARK's_rat_poison = "Vender veneno para ratas de LVNDMARK (320)",
+      Recipe_Sell_Ortodontox_toothpaste = "Vender pasta de dientes Ortodontox (34)",
+      Recipe_Sell_Pack_of_chlorine = "Vender Paquete de cloro (69)",
+      Recipe_Sell_PAID_AntiRoach_spray = "Vender spray AntiRoach de pago (69)",
+      Recipe_Sell_Repellent = "Vender Repelente (53)",
+      Recipe_Sell_Aquapeps_water_purification_tablets = "Vender tabletas de purificación de agua Aquapeps (189)",
+      Recipe_Sell_Bottle_of_hydrogen_peroxide = "Vender Botella de peróxido de hidrógeno (76)",
+      Recipe_Sell_Portable_defibrillator = "Venta Desfibrilador portátil (1414)",
+      Recipe_Sell_Nippers = "Vender tenazas (107)",
+      Recipe_Sell_Advanced_Electronic_Materials_textbook = "Vender libro de texto Materiales electrónicos avanzados (2392)",
+      Recipe_Sell_SAS_drive = "Vender unidad SAS (455)",
+      Recipe_Sell_Secure_magnetic_tape_cassette = "Vender Casete de cinta magnética Secure (717)",
+      Recipe_Sell_Silicon_Optoelectronic_Integrated_Circuits_textbook = "Vender Libro de texto Circuitos integrados optoelectrónicos de silicio (2441)",
+      Recipe_Sell_Tech_manual = "Vender manual técnico (18)",
+      Recipe_Sell_TerraGroup_Blue_Folders_materials = "Venta de materiales TerraGroup Carpetas Azules (3712)",
+      Recipe_Sell_Video_cassette_with_the_Cyborg_Killer_movie = "Vendo videocasete con la película Cyborg Killer (342)",
+      Recipe_Sell_42_Signature_Blend_English_Tea = "Vender 42 Té inglés Signature Blend (174)",
+      Recipe_Sell_BEAR_Buddy_plush_toy = "Vender peluche BEAR Buddy (546)",
+      Recipe_Sell_Pack_of_Arseniy_buckwheat = "Venta de Paquete de trigo sarraceno Arseniy (140)",
+      Recipe_Sell_Can_of_Dr._Lupo's_coffee_beans = "Vender lata de café en grano Dr. Lupo's (327)",
+      Recipe_Sell_OFZ_30x160mm_shell = "Venta OFZ 30x160mm cáscara (352)",
+      Recipe_Sell_Paracord = "Vender Paracord (141)",
+      Recipe_Sell_Press_pass_issued_for_NoiceGuy = "Vender Pase de prensa emitido para NoiceGuy (315)",
+      Recipe_Sell_UZRGM_grenade_fuze = "Vender espoleta de granada UZRGM (51)",
+      Recipe_Sell_Water_filter = "Venta Filtro de agua (154)",
+      Recipe_Sell_Antique_teapot = "Vender Tetera antigua (295)",
+      Recipe_Sell_Antique_vase = "Vender Jarrón antiguo (427)",
+      Recipe_Sell_Axel_parrot_figurine = "Venta de la estatuilla del loro Axel (321)",
+      Recipe_Sell_Battered_antique_book = "Vender libro antiguo maltratado (397)",
+      Recipe_Sell_BEAR_operative_figurine = "Vender figura operativa OSO (472)",
+      Recipe_Sell_Bronze_lion_figurine = "Vender Estatuilla de león de bronce (1026)",
+      Recipe_Sell_Cat_figurine = "Vender Figurita de gato (392)",
+      Recipe_Sell_Chain_with_Prokill_medallion = "Vender cadena con medallón Prokill (535)",
+      Recipe_Sell_Cultist_figurine = "Vender estatuilla Cultista (630)",
+      Recipe_Sell_Ded_Moroz_figurine = "Vender estatuilla Ded Moroz (630)",
+      Recipe_Sell_Gold_skull_ring = "Vender Anillo calavera de oro (346)",
+      Recipe_Sell_Golden_egg = "Vender huevo de oro (428)",
+      Recipe_Sell_Golden_neck_chain = "Venta Cadena de oro para el cuello (240)",
+      Recipe_Sell_Golden_rooster_figurine = "Vender Figurita gallo de oro (570)",
+      Recipe_Sell_GP_coin = "Vender moneda GP (225)",
+      Recipe_Sell_Horse_figurine = "Vender Figura de caballo (72)",
+      Recipe_Sell_Loot_Lord_plushie = "Vender peluche del Señor del Botín (523)",
+      Recipe_Sell_Old_firesteel = "Vender firesteel viejo (399)",
+      Recipe_Sell_Politician_Mutkevich_figurine = "Vender estatuilla Político Mutkevich (630)",
+      Recipe_Sell_Raven_figurine = "Vender estatuilla Cuervo (302)",
+      Recipe_Sell_Roler_Submariner_gold_wrist_watch = "Vender Roler Submariner reloj de pulsera de oro (447)",
+      Recipe_Sell_Ryzhy_figurine = "Vender estatuilla Ryzhy (315)",
+      Recipe_Sell_Scav_figurine = "Vender estatuilla Scav (315)",
+      Recipe_Sell_Silver_Badge = "Vender insignia de plata (379)",
+      Recipe_Sell_USEC_operative_figurine = "Vender figura de operativo USEC (472)",
+      Recipe_Sell_Veritas_guitar_pick = "Vender púa de guitarra Veritas (346)",
+      Recipe_Sell_Wooden_clock = "Vender Reloj de madera (524)",
+
+      Recipe_Sell_L1_(Norepinephrine)_injector = "Venta L1 (Norepinefrina) inyector (236)",
+      Recipe_Sell_Trimadol_stimulant_injector = "Venta Trimadol inyector estimulante (378)",
+      Recipe_Sell_Propital_regenerative_stimulant_injector = "Venta Propital inyector estimulante regenerador (132)",
+      Recipe_Sell_eTG-change_regenerative_stimulant_injector = "Venta de inyector estimulante regenerador eTG-change (238)",
+      Recipe_Sell_xTG-12_antidote_injector = "Vender inyector antídoto xTG-12 (507)",
+      Recipe_Sell_Perfotoran_(Blue_Blood)_stimulant_injector = "Venta Perfotoran (Sangre Azul) inyector estimulante (415)",
+      Recipe_Sell_AHF1-M_stimulant_injector = "Venta AHF1-M inyector estimulante (286)",
+      Recipe_Sell_Zagustin_hemostatic_drug_injector = "Venta Zagustin hemostático inyector de drogas (211)",
+      Recipe_Sell_PNB_(Product_16)_stimulant_injector = "Venta PNB (Producto 16) inyector estimulante (411)",
+      Recipe_Sell_P22_(Product_22)_stimulant_injector = "Venta P22 (Producto 22) inyector estimulante (253)",
+      Recipe_Sell_Meldonin_injector = "Venta Meldonin inyector (352)",
+      Recipe_Sell_SJ1_TGLabs_combat_stimulant_injector = "Venta SJ1 TGLabs combate estimulante inyector (226)",
+      Recipe_Sell_SJ6 TGLabs_combat_stimulant_injector = "Venta SJ6 TGLabs combate estimulante inyector (176)",
+      Recipe_Sell_3-(b-TG)_stimulant_injector = "Venta 3-(b-TG) inyector estimulante (193)",
+      Recipe_Sell_Obdolbos_cocktail_injector = "Venta Obdolbos cóctel inyector (389)",
+      Recipe_Sell_Obdolbos_2_cocktail_injector = "Venta Obdolbos 2 inyector de cóctel (422)",
+      Recipe_Sell_M.U.L.E._stimulant_injector = "Venta M.U.L.E. inyector estimulante (274)",
+      Recipe_Sell_SJ9_TGLabs_combat_stimulant_injector = "Venta SJ9 TGLabs combate estimulante inyector (565)",
+      Recipe_Sell_SJ12_TGLabs_combat_stimulant_injector = "Venta SJ12 TGLabs combate estimulante inyector (258)",
+      Recipe_Sell_AFAK_tactical_individual_first_aid_kit = "Venta AFAK kit táctico individual de primeros auxilios (262)",
+
+      Recipe_Sell_Golden_Star_balm = "Vender bálsamo Golden Star (182)",
+      Recipe_Sell_Ibuprofen_painkillers = "Venta de analgésicos Ibuprofeno (158)",
+      Recipe_Sell_Augmentin_antibiotic_pills = "Venta de pastillas antibióticas Augmentin (86)",
+      Recipe_Sell_Analgin_painkillers = "Venta de analgésicos Analgin (35)",
+      Recipe_Sell_Vaseline_balm = "Vender bálsamo de vaselina (93)",
+
+   /**********************************************
+               15/05/24
+               EDIT
+   ***********************************************/
+
+     Recipe_Sell_FN_SCAR-H_7.62x51_assault_rifle = "Vendo fusil de asalto FN SCAR-H 7.62x51 (661)",
+
+
+
 }
 
