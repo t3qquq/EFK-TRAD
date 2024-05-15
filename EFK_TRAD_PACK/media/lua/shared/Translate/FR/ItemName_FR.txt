@@ -6,13 +6,9 @@ ItemName_FR = {
         ItemName_Base.EFK_ImmoSplint = "Attelle d'immobilisation",
         ItemName_Base.SURV12_Kit = "Kit Surv12",
         ItemName_Base.CMS_Kit = "Kit chirurgical CMS",
-        ItemName_Base.TancredTerror_Kit_1 = "TancredTerror Coop Kit - Handgun Pack",
-        ItemName_Base.TancredTerror_Kit_2 = "TancredTerror Coop Kit - Light Pack",
-        ItemName_Base.TancredTerror_Kit_3 = "TancredTerror Coop Kit - Heavy Pack",
         ItemName_Base.EFK_BetaPillsV2 = "IR6 Beta-Blocking Injector",
         ItemName_Base.EFK_BetaPillsV3 = "TEX-1 Beta-Blocking Injector",
         ItemName_Base.EFK_BetaPillsV4 = "Dress-U Beta-Blocking Injector",
-        ItemName_Base.EFK_vaseline = "Baume à la vaseline",
         ItemName_Base.EFK_MedGrizzly = "Kit médical Grizzly",   
 
         ItemName_Base.AI2Painkiller = "Medkit Painkiller",
@@ -623,7 +619,7 @@ ItemName_FR = {
         ItemName_Base.EFK_illumination_lvl1_kit = "Kit d'illumination de niveau 1",
         ItemName_Base.EFK_workbench_lvl1_kit = "Kit établi niveau 1",
 
-        ItemName_Base.EFK_nutrition_lvl1_kit = "Kit Nutrition Niveau 1",
+        ItemName_Base.EFK_NutritionTrader_lvl1_kit = "Kit Nutrition Niveau 1",
         ItemName_Base.EFK_Max_Energy = "Can of Max Energy energy drink",
         ItemName_Base.EFK_BakeEzy = "Livre de cuisine BakeEzy",
         ItemName_Base.EFK_Squash = "Boîte de pâte à tartiner à la courge",
@@ -884,8 +880,6 @@ ItemName_FR = {
           ItemName_Base.50BMGBullets = "munitions 50 BMG",
           ItemName_Base.M82Clip = "Chargeur 50-BMG",
           ItemName_Base.EFK_PowderPackHemostatic = "Applicateur hémostatique CALOK-B",
-          ItemName_MoreMedical.SyretteHighGradePainkillers = "Injecteur de morphine",
-          ItemName_MoreMedical.SyretteAdrenalin = "Injecteur d'adrénaline",
           ItemName_Base.EFK_Spark = "Bougie d'allumage",
           ItemName_Base.EFK_Hat_Cowboy_kit = "Kit chapeau de cow-boy",
 
@@ -894,7 +888,7 @@ ItemName_FR = {
                NEW
    ***********************************************/
 
-           ItemName_EFK_BNTI_Face_Shield = "BNTI LShZ-2DTM helmet with face shield",
+          ItemName_EFK_BNTI_Face_Shield = "BNTI LShZ-2DTM helmet with face shield",
           ItemName_EFK_LSHZ_Face_Shield = "Casque léger LShZ avec écran facial",
           ItemName_EFK_ZSH_Face_Shield = "ZSh-1-2M helmet with face shield",
           ItemName_EFK_TacKek_FASTMT_Face_Shield = "Casque Tac-Kek FAST MT avec écran facial",
@@ -958,5 +952,128 @@ ItemName_FR = {
    ***********************************************/
 
         ItemName_MapItem.Pitstop_Tactical_Map = "Carte tactique de Pitstop",
+
+   /**********************************************
+               05/05/24
+               NEW
+   ***********************************************/
+
+        ItemName_Base.EFK_SupMP5SD = "HK MP5SD 9x19 sound suppressor",
+
+   /**********************************************
+               06/05/24
+               NOUVEAU
+   ***********************************************/
+
+     ItemName_Base.EFK_analog = "Thermomètre analogique",
+     ItemName_Base.EFK_Poxeram = "Tube de Poxeram soudure à froid",  
+     ItemName_Base.EFK_Components = "Composants électroniques",  
+     ItemName_Base.EFK_GoldenGPhone = "Smartphone Golden 1GPhone",
+     ItemName_Base.EFK_Iridium = "Module de vision thermique militaire Iridium",
+     ItemName_Base.EFK_Microcontroller = "Carte microcontrôleur",
+     ItemName_Base.EFK_MilitaryCable = "Câble militaire",
+     ItemName_Base.EFK_MilitaryCircuitBoard = "Carte de circuit imprimé militaire",
+     ItemName_Base.EFK_Militarygyrotachometer = "gyrotachomètre militaire",
+     ItemName_Base.EFK_RAM = "RAM",
+     ItemName_Base.EFK_STEN = "Batterie militaire 6-STEN-140-M",
+     ItemName_Base.EFK_BatteryD = "D Size battery",
+     ItemName_Base.EFK_Tetriz = "Console de jeu portable Tetriz",
+     ItemName_Base.EFK_UVLamp = "Lampe à ultraviolets",
+     ItemName_Base.EFK_USB_Adapter = "Adaptateur USB",
+     ItemName_Base.EFK_Powerbank = "Portable Powerbank",
+     ItemName_Base.EFK_Cyclon = "Cyclon rechargeable battery",
+     ItemName_Base.EFK_Expeditionary = "Réservoir de carburant expéditionnaire", 
+     ItemName_Base.EFK_Conditionner = "Conditionneur de carburant", 
+     ItemName_Base.EFK_SurvL = "Briquet SurvL Survivor", 
+     ItemName_Base.EFK_Deadlyslob = "Huile de barbe Deadlyslob", 
+     ItemName_Base.EFK_LVNDMARK = "La mort aux rats de LVNDMARK", 
+     ItemName_Base.EFK_Ortodontox = "Le dentifrice d'Ortodontox", 
+     ItemName_Base.EFK_Bleach = "Ox bleach", 
+     ItemName_Base.EFK_Chlorine = "Pack de chlore", 
+     ItemName_Base.EFK_AntiRoach = "PAID AntiRoach spray", 
+     ItemName_Base.EFK_Repellent = "Répulsif", 
+     ItemName_Base.EFK_Aquapeps = "Aquapeps water purification tablets", 
+     ItemName_Base.EFK_Peroxide = "Bouteille de peroxyde d'hydrogène", 
+     ItemName_Base.EFK_Defibrillator = "Défibrillateur portable", 
+     ItemName_Base.EFK_Nippers = "Pince", 
+     ItemName_Base.EFK_Pipe_Grip = "Clé à pipe", 
+     ItemName_Base.EFK_AEM = "Advanced Electronic Materials textbook", 
+     ItemName_Base.EFK_SAS = "lecteur SAS",
+     ItemName_Base.EFK_Secure_Magnetic = "Cassette magnétique sécurisée", 
+     ItemName_Base.EFK_SOIC = "Silicon Optoelectronic Integrated Circuits textbook",
+     ItemName_Base.EFK_TechManual = "Manuel technique", 
+     ItemName_Base.EFK_BlueFolder = "TerraGroup Blue Folders materials",
+     ItemName_Base.EFK_VideoCassette = "Cassette vidéo avec le film Cyborg Killer",
+     ItemName_Base.EFK_Tea = "42 Signature Blend English Tea",
+     ItemName_Base.EFK_Plush = "Peluche BEAR Buddy",
+     ItemName_Base.EFK_Buckwheat = "Pack de sarrasin Arseniy",
+     ItemName_Base.EFK_Lupo = "Boîte de grains de café du Dr,
+     ItemName_Base.EFK_OFZ = "Coquille OFZ 30x160mm",
+     ItemName_Base.EFK_Paracord = "Paracord",
+     ItemName_Base.EFK_NoiceGuy = "Carte de presse délivrée pour NoiceGuy",
+     ItemName_Base.EFK_UZRGM = "Fusée de grenade UZRGM",
+     ItemName_Base.EFK_Water_filter = "Filtre à eau",
+     ItemName_Base.EFK_Antique_Teapot = "Théière ancienne",
+     ItemName_Base.EFK_Antique_Vase = "Vase ancien",
+     ItemName_Base.EFK_Parrot = "Figurine perroquet Axel",
+     ItemName_Base.EFK_Antique_Book = "Livre ancien abîmé",
+     ItemName_Base.EFK_Figurine = "Figurine opérationnelle BEAR",
+     ItemName_Base.EFK_Lion = "Figurine lion en bronze",
+     ItemName_Base.EFK_Cat = "Figurine de chat",
+     ItemName_Base.EFK_Prokill = "Chaîne avec médaillon Prokill",
+     ItemName_Base.EFK_Cultist = "Figurine de cultiste",
+     ItemName_Base.EFK_Noel = "Figurine Ded Moroz",
+     ItemName_Base.EFK_Gold_Skull = "Bague crâne d'or",
+     ItemName_Base.EFK_Golden_Egg = "Œuf d'or",
+     ItemName_Base.EFK_Golden_Chain = "Chaîne de cou en or",
+     ItemName_Base.EFK_Rooster = "Figurine de coq en or",
+     ItemName_Base.EFK_GP = "Pièce GP",
+     ItemName_Base.EFK_Horse = "Figurine cheval",
+     ItemName_Base.EFK_Lord = "Loot Lord plushie",
+     ItemName_Base.EFK_Firesteel = "Vieux firesteel",
+     ItemName_Base.EFK_Mutkevich = "Figurine du politicien Mutkevich",
+     ItemName_Base.EFK_Raven = "Figurine de corbeau",
+     ItemName_Base.EFK_Roler = "Roler Submariner gold wrist watch",
+     ItemName_Base.EFK_Ryzhy = "Figurine Ryzhy",
+     ItemName_Base.EFK_Scav = "Figurine Scav",
+     ItemName_Base.EFK_Silver = "Insigne d'argent",
+     ItemName_Base.EFK_USEC = "Figurine d'agent de l'USEC",
+     ItemName_Base.EFK_Veritas = "Plectre de guitare Veritas",
+     ItemName_Base.EFK_Clock = "Horloge en bois",
+     ItemName_Base.EFK_Morphine = "Injecteur de morphine",
+     ItemName_Base.EFK_Adrenaline = "Injecteur d'adrénaline",
+     ItemName_Base.EFK_BetaPills_Norepinephrine = "Injecteur de L1 (Norepinephrine)",
+     ItemName_Base.EFK_Trimadol = "Injecteur de stimulant Trimadol",
+     ItemName_Base.EFK_Propital = "Injecteur de stimulant régénérateur Propital",
+     ItemName_Base.EFK_ETG = "eTG-change stimulant régénérateur",
+     ItemName_Base.EFK_XTG = "Injecteur d'antidote xTG-12",
+     ItemName_Base.EFK_Perfotoran = "Injecteur de stimulant Perfotoran (sang bleu)",
+     ItemName_Base.EFK_AHF1 = "Injecteur de stimulant AHF1-M",
+     ItemName_Base.EFK_Zagustin = "Injecteur de médicament hémostatique Zagustin",
+     ItemName_Base.EFK_PNB = "PNB (Product 16) stimulant injector",
+     ItemName_Base.EFK_P22 = "P22 (Produit 22) injecteur de stimulant",
+     ItemName_Base.EFK_Meldonin = "Injecteur Meldonin",
+     ItemName_Base.EFK_SJ1 = "SJ1 TGLabs combat stimulant injector",
+     ItemName_Base.EFK_SJ6 = "SJ6 TGLabs combat stimulant injector",
+     ItemName_Base.EFK_3BTG = "Injecteur de stimulant 3-(b-TG)",
+     ItemName_Base.EFK_Obdolbos = "Injecteur de cocktail Obdolbos",
+     ItemName_Base.EFK_Obdolbos2 = "Injecteur de cocktail Obdolbos 2",
+     ItemName_Base.EFK_Mule = "Injecteur de stimulant M.U.L.E.",
+     ItemName_Base.EFK_SJ9 = "SJ9 TGLabs combat stimulant injector",
+     ItemName_Base.EFK_SJ12 = "SJ12 TGLabs combat stimulant injector",
+     ItemName_Base.EFK_AFAK = "AFAK tactical individual first aid kit",
+
+     ItemName_Base.Pills_EFK_vaseline = "Baume à la vaseline",
+     ItemName_Base.Pills_EFK_Analgin = "Analgin painkillers",
+     ItemName_Base.Pills_EFK_Augmentin = "pilules antibiotiques Augmentin",
+     ItemName_Base.Pills_EFK_Ibuprofen = "Ibuprofen painkillers",
+     ItemName_Base.Pills_EFK_Golden = "Baume Golden Star",
+
+
+
+
+
+
+
 
 }

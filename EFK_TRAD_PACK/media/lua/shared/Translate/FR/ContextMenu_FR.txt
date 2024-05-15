@@ -1,6 +1,5 @@
 ContextMenu_FR = {
 
-    ContextMenu_Take_pills = "Consommer le médicament",
     ContextMenu_EFK_Already_take = "Je dois attendre avant de réinjecter une dose", 
     ContextMenu_NVG_OFF = "Lever le dispositif de vision nocturne",
     ContextMenu_NVG_ON = "Mise en place du système de vision nocturne", 
@@ -2164,5 +2163,11 @@ ContextMenu_Use_Bandage = "Soigner les petites blessures avec une petite trousse
 
 	ContextMenu_Examine = "Examine",
 
+   /**********************************************
+               08/05/24
+               NEW
+   ***********************************************/
+
+   ContextMenu_Use Injector = "Utiliser un injecteur",
 
 }
