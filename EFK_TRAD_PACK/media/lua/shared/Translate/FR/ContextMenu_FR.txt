@@ -2168,6 +2168,6 @@ ContextMenu_Use_Bandage = "Soigner les petites blessures avec une petite trousse
                NEW
    ***********************************************/
 
-   ContextMenu_Use_Injector = "Utiliser un injecteur",
+   ContextMenu_Use Injector = "Utiliser un injecteur",
 
 }
