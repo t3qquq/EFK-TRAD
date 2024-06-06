@@ -6,13 +6,9 @@ ItemName_KO = {
 		ItemName_Base.EFK_ImmoSplint = "고정식 부목",
 		ItemName_Base.SURV12_Kit = "Surv12 야전 수술키트",
 		ItemName_Base.CMS_Kit = "CMS 수술키트",
-		ItemName_Base.TancredTerror_Kit_1 = "TancredTerror 협동 키트 - 권총 패키지",
-		ItemName_Base.TancredTerror_Kit_2 = "TancredTerror 협동 키트 - 경량형 패키지",
-		ItemName_Base.TancredTerror_Kit_3 = "TancredTerror 협동 키트 - 중량형 패키지",
 		ItemName_Base.EFK_BetaPillsV2 = "IR6 베타 차단 주사기",
 		ItemName_Base.EFK_BetaPillsV3 = "TEX-1 베타 차단 주사기",
 		ItemName_Base.EFK_BetaPillsV4 = "Dress-U 베타 차단 주사기",
-		ItemName_Base.EFK_vaseline = "바셀린",
 		ItemName_Base.EFK_MedGrizzly = "그리즐리 응급치료키트",   
 
 		ItemName_Base.AI2Painkiller = "아날긴 진통제",
@@ -884,8 +880,6 @@ ItemName_KO = {
 		ItemName_Base.BMGBullets = ".50BMG 탄약",
 		ItemName_Base.M82Clip = ".50BMG 탄창",
 		ItemName_Base.EFK_PowderPackHemostatic = "CALOK-B 지혈제",
-		ItemName_MoreMedical.SyretteHighGradePainkillers = "모르핀 주사기",
-		ItemName_MoreMedical.SyretteAdrenalin = "아드레날린 주사기",
 		ItemName_Base.EFK_Spark = "점화 플러그",
 		ItemName_Base.EFK_Hat_Cowboy_kit = "카우보이 모자 키트",
 
@@ -944,20 +938,142 @@ ItemName_KO = {
 		ItemName_EFK_Face_Shield_Kolpak = "Kolpak-1S 안면보호대",
 		ItemName_EFK_Face_Shield_Kiver = "Kiver-M 안면보호대",
 
-/**********************************************
+	/**********************************************
                30/04/24
                NEW
-   ***********************************************/
+	***********************************************/
 
         ItemName_MapItem.Weyhausen_Tactical_Map = "바이하우젠 전술지도",
         ItemName_MapItem.Trelai_Tactical_Map = "트렐라이 전술지도",
 
-   /**********************************************
+	/**********************************************
                01/05/24
                NEW
-   ***********************************************/
+	***********************************************/
 
         ItemName_MapItem.Pitstop_Tactical_Map = "피트스탑 전술지도",
+
+	/**********************************************
+               05/05/24
+               NEW
+	***********************************************/
+
+    	ItemName_Base.EFK_SupMP5SD = "HK MP5SD 9x19mm 소음기",
+
+	/**********************************************
+               06/05/24
+               NEW
+	***********************************************/
+
+		ItemName_Base.EFK_analog = "아날로그 온도계",
+		ItemName_Base.EFK_Poxeram = "Poxeram 냉간 용접 접착제",  
+		ItemName_Base.EFK_Components = "전자 부품",  
+		ItemName_Base.EFK_GoldenGPhone = "Golden 1GPhone 스마트폰",
+		ItemName_Base.EFK_Iridium = "군용 열화상 이리듐 모듈",
+		ItemName_Base.EFK_Microcontroller = "마이크로컨트롤러 보드",
+		ItemName_Base.EFK_MilitaryCable = "군용 케이블",
+		ItemName_Base.EFK_MilitaryCircuitBoard = "군용 회로기판",
+		ItemName_Base.EFK_Militarygyrotachometer = "군용 자이로 측정기",
+		ItemName_Base.EFK_RAM = "RAM",
+		ItemName_Base.EFK_STEN = "6-STEN-140-M 탱크 배터리",
+		ItemName_Base.EFK_BatteryD = "D형 배터리",
+		ItemName_Base.EFK_Tetriz = "테트리즈 휴대용 게임기",
+		ItemName_Base.EFK_UVLamp = "자외선 램프",
+		ItemName_Base.EFK_USB_Adapter = "USB-A 어댑터",
+		ItemName_Base.EFK_Powerbank = "보조배터리",
+		ItemName_Base.EFK_Cyclon = "Cyclon 충전지",
+		ItemName_Base.EFK_Expeditionary = "여행용 연료통", 
+		ItemName_Base.EFK_Conditionner = "연료 첨가제", 
+		ItemName_Base.EFK_SurvL = "SurvL 서바이벌 라이터", 
+		ItemName_Base.EFK_Deadlyslob = "Deadlyslob의 수염 기름", 
+		ItemName_Base.EFK_LVNDMARK = "LVNDMARK의 쥐약", 
+		ItemName_Base.EFK_Ortodontox = "Ortodontox 치약", 
+		ItemName_Base.EFK_Bleach = "옥스 표백제", 
+		ItemName_Base.EFK_Chlorine = "염소", 
+		ItemName_Base.EFK_AntiRoach = "PAID 살충제", 
+		ItemName_Base.EFK_Repellent = "방충제", 
+		ItemName_Base.EFK_Aquapeps = "아쿠아펩 정수 정제", 
+		ItemName_Base.EFK_Peroxide = "과산화수소", 
+		ItemName_Base.EFK_Defibrillator = "휴대용 제세동기", 
+		ItemName_Base.EFK_Nippers = "니퍼", 
+		ItemName_Base.EFK_Pipe_Grip = "파이프 그립 렌치", 
+		ItemName_Base.EFK_AEM = "고급 전자 재료 교과서", 
+		ItemName_Base.EFK_SAS = "SAS 드라이브",
+		ItemName_Base.EFK_Secure_Magnetic = "보안 자기 테이프 카세트", 
+		ItemName_Base.EFK_SOIC = "실리콘 광전자 집적 회로 교과서",
+		ItemName_Base.EFK_TechManual = "기술 매뉴얼", 
+		ItemName_Base.EFK_BlueFolder = "테라그룹 "블루 폴더" 재료",
+		ItemName_Base.EFK_VideoCassette = "영화 "사이보그 킬러" 비디오카세트",
+		ItemName_Base.EFK_Tea = "42번 시그니쳐 블렌딩 영국식 홍차",
+		ItemName_Base.EFK_Plush = "BEAR Buddy 인형",
+		ItemName_Base.EFK_Buckwheat = "아르세니 메밀 팩",
+		ItemName_Base.EFK_Lupo = "Dr.Lupo의 커피 원두",
+		ItemName_Base.EFK_OFZ = "OFZ 30x160mm 포탄",
+		ItemName_Base.EFK_Paracord = "낙하산 줄",
+		ItemName_Base.EFK_NoiceGuy = "기자 출입증 (NoiceGuy)",
+		ItemName_Base.EFK_UZRGM = "UZRGM 수류탄 신관",
+		ItemName_Base.EFK_Water_filter = "정수 필터",
+		ItemName_Base.EFK_Antique_Teapot = "골동품 찻주전자",
+		ItemName_Base.EFK_Antique_Vase = "골동품 꽃병",
+		ItemName_Base.EFK_Parrot = "Axel 앵무새 조각상",
+		ItemName_Base.EFK_Antique_Book = "낡은 골동품 책",
+		ItemName_Base.EFK_Figurine = "BEAR 요원 피규어",
+		ItemName_Base.EFK_Lion = "청동 사자상",
+		ItemName_Base.EFK_Cat = "고양이 조각상",
+		ItemName_Base.EFK_Prokill = "Prokill 메달이 달린 목걸이",
+		ItemName_Base.EFK_Cultist = "컬트주의자 피규어",
+		ItemName_Base.EFK_Noel = "데드 모로즈 피규어",
+		ItemName_Base.EFK_Gold_Skull = "황금 해골 반지",
+		ItemName_Base.EFK_Golden_Egg = "황금알",
+		ItemName_Base.EFK_Golden_Chain = "금목걸이",
+		ItemName_Base.EFK_Rooster = "황금 수탉",
+		ItemName_Base.EFK_GP = "GP 코인",
+		ItemName_Base.EFK_Horse = "말 조각상",
+		ItemName_Base.EFK_Lord = "Loot Lord 인형",
+		ItemName_Base.EFK_Firesteel = "오래된 부시",
+		ItemName_Base.EFK_Mutkevich = "정치가 무트케비치 피규어",
+		ItemName_Base.EFK_Raven = "까마귀 동상",
+		ItemName_Base.EFK_Roler = "롤러 서브마리너 골드 손목시계",
+		ItemName_Base.EFK_Ryzhy = "리지 피규어",
+		ItemName_Base.EFK_Scav = "스캐브 피규어",
+		ItemName_Base.EFK_Silver = "은 배지",
+		ItemName_Base.EFK_USEC = "USEC 요원 피규어",
+		ItemName_Base.EFK_Veritas = "Veritas 기타 피크",
+		ItemName_Base.EFK_Clock = "나무 시계",
+		ItemName_Base.EFK_Morphine = "모르핀 주사기",
+		ItemName_Base.EFK_Adrenaline = "아드레날린 주사기",
+		ItemName_Base.EFK_BetaPills_Norepinephrine = "L1 (노르에피네프린) 주사기",
+		ItemName_Base.EFK_Trimadol = "트리마돌 각성제 주사기",
+		ItemName_Base.EFK_Propital = "프로피탈 재생 자극제 주사기",
+		ItemName_Base.EFK_ETG = "eTG-change 재생 자극제 주사기",
+		ItemName_Base.EFK_XTG = "xTG-12 해독제 주사기",
+		ItemName_Base.EFK_Perfotoran = "퍼포토란(블루 블러드) 각성제 주사기",
+		ItemName_Base.EFK_AHF1 = "AHF1-M 자극제 주사기",
+		ItemName_Base.EFK_Zagustin = "쟈그스틴 지혈 주사기",
+		ItemName_Base.EFK_PNB = "PNB (제품 16) 각성제 주사기",
+		ItemName_Base.EFK_P22 = "P22 자극제 주사기",
+		ItemName_Base.EFK_Meldonin = "멜도닌 주사기",
+		ItemName_Base.EFK_SJ1 = "SJ1 TGLabs 전투 자극제 주사기",
+		ItemName_Base.EFK_SJ6 = "SJ6 TGLabs 전투 자극제 주사기",
+		ItemName_Base.EFK_3BTG = "3-(b-TG) 자극제 주사기",
+		ItemName_Base.EFK_Obdolbos = "Obdolbos 칵테일 주사기",
+		ItemName_Base.EFK_Obdolbos2 = "Obdolbos 2 칵테일 주사기",
+		ItemName_Base.EFK_Mule = "M.U.L.E. 자극제 주사기",
+		ItemName_Base.EFK_SJ9 = "SJ9 TGLabs 전투 자극제 주사기",
+		ItemName_Base.EFK_SJ12 = "SJ12 TGLabs 전투 자극제 주사기",
+		ItemName_Base.EFK_AFAK = "AFAK 개인 전술 응급 처치 키트",
+
+		ItemName_Base.Pills_EFK_vaseline = "바셀린",
+		ItemName_Base.Pills_EFK_Analgin = "아날긴 진통제",
+		ItemName_Base.Pills_EFK_Augmentin = "어그멘틴 항생제",
+		ItemName_Base.Pills_EFK_Ibuprofen = "이부프로펜 진통제",
+		ItemName_Base.Pills_EFK_Golden = "골든 스타 연고",
+
+
+
+
+
+
 
 
 }

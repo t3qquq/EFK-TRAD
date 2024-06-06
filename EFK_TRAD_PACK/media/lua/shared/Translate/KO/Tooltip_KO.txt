@@ -145,4 +145,44 @@ Tooltip_KO = {
    ***********************************************/
 
 	Tooltip_EFK_Tourniquet = "부상 1부위 치료",
+
+   /**********************************************
+               05/05/24
+               NEW
+   ***********************************************/
+
+	Tooltip_EFK_SupMP5SD = "Reduces gunfire noise<br>Reduces recoil (-1)<br>Reduces accuracy (-1)<br>Increases reloading time (+6)<br>Increases aiming time (-2)<br>Increases minimum range (+0.2)<br>Can be mounted on a MP5 with the hideout Workbench",
+
+   /**********************************************
+               08/05/24
+               NEW
+   ***********************************************/
+
+	Tooltip_EFK_Morphine = "주사기<br>진통 지속시간: 5시간<br>갈증 증가 (+5)<br>피로도 증가 (+5)",
+	Tooltip_EFK_Adrenaline = "주사기<br>진통 지속시간: 1시간<br>갈증 증가 (+5)<br>피로도 감소 (-40)",
+	Tooltip_EFK_BetaPills_Norepinephrine = "주사기<br>진통 지속시간: 2시간<br>패닉 방지: 2시간<br>배고픔 증가 (+5)<br>갈증 증가 (+5)<br>피로도 감소 (-15)",
+	Tooltip_EFK_Trimadol = "주사기<br>진통 지속시간: 3시간<br>취기 증가 (+15)<br>배고픔 증가 (+5)<br>갈증 증가 (+5)<br>피로도 감소 (-10)",
+	Tooltip_EFK_Propital = "주사기<br>진통 지속시간: 4시간<br>배고픔 감소 (-10)<br>갈증 감소 (-10)<br>피로도 감소 (-5)",
+	Tooltip_EFK_ETG = "주사기<br>취기 증가 (+25)<br>배고픔 감소 (-20)<br>갈증 감소 (-20)",
+	Tooltip_EFK_XTG = "주사기<br>취기 완전 제거<br>배고픔 증가 (+15)<br>갈증 증가 (+10)<br>피로도 감소 (+5)",
+	Tooltip_EFK_Perfotoran = "주사기<br>취기 증가 (+10)<br>배고픔 감소 (-10)<br>갈증 증가 (+5)<br>피로도 감소 (-5)",
+	Tooltip_EFK_AHF1 = "주사기<br>취기 해소 (-30)<br>배고픔 감소 (-5)<br>갈증 증가 (+25)",
+	Tooltip_EFK_Zagustin = "주사기<br>취기 해소 (-20)<br>배고픔 감소 (-15)<br>갈증 증가 (+40)<br>피로도 증가 (+5)",
+	Tooltip_EFK_PNB = "주사기<br>배고픔 증가 (+10)<br>갈증 증가 (+15)<br>피로도 감소 (-20)",
+	Tooltip_EFK_P22 = "주사기<br>배고픔 감소 (-20)<br>갈증 감소 (-20)<br>피로도 증가 (+20)",
+	Tooltip_EFK_Meldonin = "주사기<br>배고픔 증가 (+15)<br>갈증 증가 (+20)<br>피로도 증가 (+15)",
+	Tooltip_EFK_SJ1 = "주사기<br>취기 증가 (+30)<br>배고픔 증가 (+20)<br>갈증 증가 (+20)<br>피로도 감소 (-50)",
+	Tooltip_EFK_SJ6 = "주사기<br>고통 증가<br>취기 증가 (+10)<br>피로도 감소 (-10)",
+	Tooltip_EFK_3BTG = "주사기<br>고통 증가<br>취기 해소 (-20)<br>배고픔 감소 (-15)<br>갈증 증가 (+5)<br>피로도 감소 (-10)",
+	Tooltip_EFK_Obdolbos = "주사기<br>약한 고통 증가<br>취기 해소 (-50)<br>배고픔 증가 (+30)<br>갈증 증가 (+40)<br>피로도 증가 (+20)",
+	Tooltip_EFK_Obdolbos2 = "주사기<br>고통 증가<br>취기 해소 (-30)<br>배고픔 증가 (+20)<br>갈증 증가 (+35)<br>피로도 증가 (+15)",
+	Tooltip_EFK_Mule = "주사기<br>취기 증가 (+20)<br>배고픔 감소 (-10)<br>갈증 감소 (-10)<br>피로도 감소 (-15)",
+	Tooltip_EFK_SJ9 = "주사기<br>취기 해소 (-10)<br>배고픔 감소 (-15)<br>갈증 증가 (+5)<br>피로도 감소 (-10)",
+	Tooltip_EFK_SJ12 = "주사기<br>약한 고통 증가<br>취기 해소 (-20)<br>배고픔 감소 (-25)<br>갈증 감소 (-5)<br>피로도 증가 (+5)",
+	Tooltip_EFK_vaseline = "연고<br>진통 지속시간: 3시간<br>갈증, 배고픔, 피로도 증가",
+	Tooltip_Pills_EFK_Analgin = "알약<br>진통 지속시간: 1시간<br>갈증 증가",
+	Tooltip_Pills_EFK_Augmentin = "알약<br>진통 지속시간: 2시간<br>갈증 증가<br>배고픔, 피로도 감소",
+	Tooltip_Pills_EFK_Ibuprofen = "알약<br>진통 지속시간: 3시간<br>갈증 증가",
+	Tooltip_Pills_EFK_Golden = "연고<br>진통 지속시간: 4시간<br>배고픔, 피로도 증가",
+
 }
