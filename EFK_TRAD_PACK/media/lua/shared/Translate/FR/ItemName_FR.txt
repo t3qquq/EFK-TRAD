@@ -1081,7 +1081,7 @@ ItemName_FR = {
      ItemName_Base.EFK_condensed_milk = "Boîte de lait concentré",
      ItemName_Base.EFK_DevilDog = "Pot de mayo DevilDog",
      ItemName_Base.EFK_Herring = "Boîte de harengs",
-     ItemName_Base.EFK_Saury = "Can of pacific saury", ItemName_Base.EFK_Saury = "Can of pacific saury",
+     ItemName_Base.EFK_Saury = "Can of pacific saury",
      ItemName_Base.EFK_Salmon = "Boîte de saumon à bosse",
      ItemName_Base.EFK_Sausage = "Saucisse de bœuf Salty Dog",
      ItemName_Base.EFK_Sprats = "Boîte de sprats",
@@ -1097,13 +1097,5 @@ ItemName_FR = {
      ItemName_Base.EFK_WaterBottle = "Bouteille d'eau 0.6L",
      ItemName_Base.EFK_Aquamari = "Bouteille d'eau Aquamari avec filtre",
      ItemName_Base.EFK_purified = "bidon d'eau purifiée",
-
-}
-
-
-
-
-
-
 
 }

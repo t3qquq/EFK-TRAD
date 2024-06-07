@@ -297,10 +297,6 @@ Recipes_FR = {
      Recipe_Sell_Army_crackers = "Vendre des crackers de l'armée (18)",
      Recipe_Sell_Water_Bottle = "Vendre une bouteille d'eau (15)",
      Recipe_Sell_Iskra_Ration_Pack = "Vendre des rations Iskra (30)",
-     Recipe_Sell_Can_of_green_peas = "Vendre une boîte de pois verts (41)",
-     Recipe_Sell_Can_of_condensed_milk = "Vendre boîte de lait concentré (157)",
-     Recipe_Sell_Pack_of_milk = "Vendre Pack de lait (92)",
-     Recipe_Sell_Pack_of_sugar = "Vendre le paquet de sucre (135)",
      Recipe_Sell_MRE_Ration_Pack = "Vendre un pack de rations MRE (107)",
      Recipe_Sell_Can_of_humpback_salmon = "Vendre une boîte de saumon à bosse (62)",
      Recipe_Sell_Can_of_Majaica_coffee_beans = "Vendre une boîte de grains de café Majaica (94)",
@@ -739,7 +735,7 @@ Recipes_FR = {
    ***********************************************/
 
       Recipe_Sell_Analog_thermometer = "Vendre un thermomètre analogique (287)",
-      Recipe_Sell_Tube_de_Poxeram_soudure_à_froid = "Vendre Tube de Poxeram soudure à froid (122)",
+      Recipe_Sell_Tube_of_Poxeram_cold_welding = "Vendre Tube de Poxeram soudure à froid (122)",
       Recipe_Sell_Golden_1GPhone_smartphone = "Vendre smartphone Golden 1GPhone (281)",
       Recipe_Sell_Microcontroller_board = "Vendre carte microcontrôleur (630)",
       Recipe_Sell_Military_cable = "Vendre Câble militaire (259)", Recipe_Sell_Military_cable = "Vendre Câble militaire (259)",
@@ -844,6 +840,51 @@ Recipes_FR = {
    ***********************************************/
 
      Recipe_Sell_FN_SCAR-H_7.62x51_assault_rifle = "Vendre FN SCAR-H 7.62x51 fusil d'assaut (661)",
+
+   /**********************************************
+               18/05/24
+               NEW
+   ***********************************************/
+
+     Recipe_Sell_HK_MP5SD_9x19_sound_suppressor = "Vendre HK MP5SD 9x19 silencieux (149)",
+
+   /**********************************************
+               20/05/24
+               NEW
+   ***********************************************/
+
+     Recipe_Sell_Slickers_chocolate_bar = "Vendre la barre de chocolat Slickers (39)",
+     Recipe_Sell_Alyonka_chocolate_bar = "Vendre la barre de chocolat Alyonka (66)",
+     Recipe_Sell_Pack_of_oat_flakes = "Vendre Pack de flocons d'avoine (47)",
+     Recipe_Sell_Jar_of_DevilDog_mayo = "Vendre Pot de mayo DevilDog (76)",
+     Recipe_Sell_Can_of_herring = "Vendre une boîte de harengs (106)",
+     Recipe_Sell_Can_of_pacific_saury = "Vendre une boîte de saucisses du Pacifique (53)",
+     Recipe_Sell_Can_of_humpback_salmon = "Vendre une boîte de saumon à bosse (62)",
+     Recipe_Sell_Salty_Dog_beef_sausage = "Vente de saucisses de bœuf Salty Dog (126)",
+     Recipe_Sell_Can_of_sprats = "Vendre une boîte de sprats (56)",
+     Recipe_Sell_Pack_of_Tarker_dried_meat = "Vente d'un paquet de viande séchée Tarker (56)", Recipe_Sell_Pack_of_Tarker_dried_meat = "Vente d'une boîte de sprats (56)",
+     Recipe_Sell_Pack_of_instant_noodles = "Vendre un paquet de nouilles instantanées (79)",
+     Recipe_Sell_Pack_of_apple_juice = "Vendre un pack de jus de pomme (21)",
+     Recipe_Sell_Can_of_Hot_Rod_energy_drink = "Vendre une canette de boisson énergisante Hot Rod (58)",
+     Recipe_Sell_Pack_of_Vita_juice = "Vendre un pack de jus Vita (21)",
+     Recipe_Sell_Pack_of_Grand_juice = "Vendre un pack de Grand juice (21)",
+     Recipe_Sell_Pack_of_Russian_Army_pineapple_juice = "Vente d'un pack de jus d'ananas de l'armée russe (13)",
+     Recipe_Sell_Bottle_of_water_0.6L = "Vendre une bouteille d'eau de 0.6L (15)",
+     Recipe_Sell_Aquamari_water_bottle_with_filter = "Vendre bouteille d'eau Aquamari avec filtre (199)", Recipe_Sell_Aquamari_water_bottle_with_filter = "Vendre bouteille d'eau Aquamari avec filtre (199)",
+     Recipe_Sell_Canister_with_purified_water = "Vendre un bidon avec de l'eau purifiée (315)",
+
+   /**********************************************
+               20/05/24
+               EDIT
+   ***********************************************/
+
+     Recipe_Sell_Can_of_green_peas = "Vendre une boîte de pois verts (41)",
+     Recipe_Sell_Can_of_condensed_milk = "Vendre Boîte de lait concentré (157)",
+     Recipe_Sell_Pack_of_milk = "Vendre Pack de lait (92)",
+     Recipe_Sell_Pack_of_sugar = "Vendre un paquet de sucre (135)",
+
+
+
 
 
 
