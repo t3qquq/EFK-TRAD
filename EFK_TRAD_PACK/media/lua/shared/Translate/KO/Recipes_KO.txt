@@ -52,7 +52,6 @@ Recipes_KO = {
 		Recipe_Sell_B&T_MP9_9x19_submachine_gun = "B&T MP9 9x19 기관단총 판매 (158$)",
 		Recipe_Sell_HK_MP5_9x19_submachine_gun_(Navy_3_Round_Burst) = "HK MP5 9x19 기관단총 (Navy 3점사) 판매 (232$)",
 		Recipe_Sell_Colt_M4A1_5.56x45_assault_rifle = "Colt M4A1 5.56x45 돌격소총 판매 (103$)",
-		Recipe_Sell_FN_SCAR-H_7.62x51_assault_rifle = "FN SCAR-H 7.62x51 돌격소총 판매 (136$)",
 		Recipe_Sell_HK_G36_5.56x45_assault_rifle = "HK G36 5.56x45 돌격소총 판매 (319$)",
 		Recipe_Sell_Steyr_AUG_A1_5.56x45_assault_rifle = "Steyr AUG A1 5.56x45 돌격소총 판매 (379$)",
 		Recipe_Sell_Steyr_AUG_A3_5.56x45_assault_rifle = "Steyr AUG A3 5.56x45 돌격소총 판매 (451$)",
@@ -283,9 +282,6 @@ Recipes_KO = {
 		Recipe_Sell_CALOK-B_hemostatic_applicator = "CALOK-B 지혈제 판매 (35$)",
 		Recipe_Sell_Adrenaline_injector = "아드레날린 주사기 판매 (198$)",
 		Recipe_Sell_Morphine_injector = "모르핀 주사기 판매 (159$)",
-		Recipe_Sell_Beta_Blockers_IR6_Injector = "IR6 베타 차단 주사기 판매 (252$)",
-		Recipe_Sell_Beta_Blockers_TEX-1_Injector = "TEX-1 베타 차단 주사기 판매 (349$)",
-		Recipe_Sell_Beta_Blockers_Dress-U_Injector = "Dress-U 베타 차단 주사기 판매 (409$)",
 		Recipe_Sell_Augmentin_antibiotic_pills = "어그멘틴 항생제 판매 (86$)",
 		Recipe_Sell_Vaseline_balm = "바셀린 판매 (93$)",
 		Recipe_Sell_Caffeine_pills = "카페인 알약 판매 (60$)",
@@ -729,5 +725,127 @@ Recipes_KO = {
 	***********************************************/
 
 		Recipe_Craft_1_Gas_mask_air_filter = "방독면 정화통 1개 제작",
-}
+
+	/**********************************************
+				05/05/24
+				NEW
+	***********************************************/
+
+		Recipe_Mount_a_MP5SD_suppressor_on_a_MP5 = "MP5에 MP5SD 소음기 부착",
+
+	/**********************************************
+				06/05/24
+				NEW
+	***********************************************/
+
+		Recipe_Sell_Analog_thermometer = "아날로그 온도계 판매 (287$)",
+		Recipe_Sell_Tube_of_Poxeram_cold_welding = "Poxeram 냉간 용접 접착제 판매 (122$)",
+		Recipe_Sell_Golden_1GPhone_smartphone = "Golden 1GPhone 스마트폰 판매 (281$)",
+		Recipe_Sell_Microcontroller_board = "마이크로컨트롤러 보드 판매 (630$)",
+		Recipe_Sell_Military_cable = "군용 케이블 판매 (259$)",
+		Recipe_Sell_Military_circuit_board = "군용 회로기판 판매 (252$)",
+		Recipe_Sell_Military_gyrotachometer = "군용 자이로 측정기 판매 (390$)",
+		Recipe_Sell_RAM = "RAM 판매 (69$)",
+		Recipe_Sell_Cyclon_rechargeable_battery = "Cyclon 충전지 판매 (535$)",
+		Recipe_Sell_USB_Adapter = "USB-A 어댑터 판매 (10$)",
+		Recipe_Sell_Ultraviolet_lamp = "자외선 램프 판매 (97$)",
+		Recipe_Sell_Tetriz_portable_game_console = "테트리즈 휴대용 게임기 판매 (756$)",
+		Recipe_Sell_Portable_Powerbank = "보조배터리 판매 (128$)",
+		Recipe_Sell_D_Size_battery = "D형 배터리 판매 (13$)",
+		Recipe_Sell_6-STEN-140-M_military_battery = "6-STEN-140-M 탱크 배터리 판매 (2079$)",
+		Recipe_Sell_Expeditionary_fuel_tank = "여행용 연료통 판매 (315$)",
+		Recipe_Sell_Fuel_conditioner = "연료 첨가제 판매 (381$)",
+		Recipe_Sell_Propane_Tank_5L = "프로판 통 5L 판매 (79$)",
+		Recipe_Sell_SurvL_Survivor_Lighter = "SurvL 서바이벌 라이터 판매 (100$)",
+		Recipe_Sell_Deadlyslob's_beard_oil = "Deadlyslob의 수염 기름 판매 (349$)",
+		Recipe_Sell_LVNDMARK's_rat_poison = "LVNDMARK의 쥐약 판매 (320$)",
+		Recipe_Sell_Ortodontox_toothpaste = "Ortodontox 치약 판매 (34$)",
+		Recipe_Sell_Pack_of_chlorine = "염소 판매 (69$)",
+		Recipe_Sell_PAID_AntiRoach_spray = "PAID 살충제 판매 (69$)",
+		Recipe_Sell_Repellent = "방충제 판매 (53$)",
+		Recipe_Sell_Aquapeps_water_purification_tablets = "아쿠아펩 정수 정제 판매 (189$)",
+		Recipe_Sell_Bottle_of_hydrogen_peroxide = "과산화수소 판매 (76$)",
+		Recipe_Sell_Portable_defibrillator = "휴대용 제세동기 판매 (1414$)",
+		Recipe_Sell_Nippers = "니퍼 판매 (107$)",
+		Recipe_Sell_Advanced_Electronic_Materials_textbook = "고급 전자 재료 교과서 판매 (2392$)",
+		Recipe_Sell_SAS_drive = "SAS 드라이브 판매 (455$)",
+		Recipe_Sell_Secure_magnetic_tape_cassette = "보안 자기 테이프 카세트 판매 (717$)",
+		Recipe_Sell_Silicon_Optoelectronic_Integrated_Circuits_textbook = "실리콘 광전자 집적 회로 교과서 판매 (2441$)",
+		Recipe_Sell_Tech_manual = "기술 매뉴얼 판매 (18$)",
+		Recipe_Sell_TerraGroup_Blue_Folders_materials = "테라그룹 "블루 폴더" 재료 판매 (3712$)",
+		Recipe_Sell_Video_cassette_with_the_Cyborg_Killer_movie = "영화 "사이보그 킬러" 비디오카세트 판매 (342$)",
+		Recipe_Sell_42_Signature_Blend_English_Tea = "42번 시그니쳐 블렌딩 영국식 홍차 판매 (174$)",
+		Recipe_Sell_BEAR_Buddy_plush_toy = "BEAR Buddy 인형 판매 (546$)",
+		Recipe_Sell_Pack_of_Arseniy_buckwheat = "아르세니 메밀 팩 판매 (140$)",
+		Recipe_Sell_Can_of_Dr._Lupo's_coffee_beans = "Dr.Lupo의 커피 원두 판매 (327$)",
+		Recipe_Sell_OFZ_30x160mm_shell = "OFZ 30x160mm 포탄 판매 (352$)",
+		Recipe_Sell_Paracord = "낙하산 줄 판매 (141$)",
+		Recipe_Sell_Press_pass_issued_for_NoiceGuy = "기자 출입증 (NoiceGuy) 판매 (315$)",
+		Recipe_Sell_UZRGM_grenade_fuze = "UZRGM 수류탄 신관 판매 (51$)",
+		Recipe_Sell_Water_filter = "정수 필터 판매 (154$)",
+		Recipe_Sell_Antique_teapot = "골동품 찻주전자 판매 (295$)",
+		Recipe_Sell_Antique_vase = "골동품 꽃병 판매 (427$)",
+		Recipe_Sell_Axel_parrot_figurine = "Axel 앵무새 조각상 판매 (321$)",
+		Recipe_Sell_Battered_antique_book = "낡은 골동품 책 판매 (397$)",
+		Recipe_Sell_BEAR_operative_figurine = "BEAR 요원 피규어 판매 (472$)",
+		Recipe_Sell_Bronze_lion_figurine = "청동 사자상 판매 (1026$)",
+		Recipe_Sell_Cat_figurine = "고양이 조각상 판매 (392$)",
+		Recipe_Sell_Chain_with_Prokill_medallion = "Prokill 메달이 달린 목걸이 판매 (535$)",
+		Recipe_Sell_Cultist_figurine = "컬트주의자 피규어 판매 (630$)",
+		Recipe_Sell_Ded_Moroz_figurine = "데드 모로즈 피규어 판매 (630$)",
+		Recipe_Sell_Gold_skull_ring = "황금 해골 반지 판매 (346$)",
+		Recipe_Sell_Golden_egg = "황금알 판매 (428$)",
+		Recipe_Sell_Golden_neck_chain = "금목걸이 판매 (240$)",
+		Recipe_Sell_Golden_rooster_figurine = "황금 수탉 판매 (570$)",
+		Recipe_Sell_GP_coin = "GP 코인 판매 (225$)",
+		Recipe_Sell_Horse_figurine = "말 조각상 판매 (72$)",
+		Recipe_Sell_Loot_Lord_plushie = "Loot Lord 인형 판매 (523$)",
+		Recipe_Sell_Old_firesteel = "오래된 부시 판매 (399$)",
+		Recipe_Sell_Politician_Mutkevich_figurine = "정치가 무트케비치 피규어 판매 (630$)",
+		Recipe_Sell_Raven_figurine = "까마귀 동상 판매 (302$)",
+		Recipe_Sell_Roler_Submariner_gold_wrist_watch = "롤러 서브마리너 골드 손목시계 판매 (447$)",
+		Recipe_Sell_Ryzhy_figurine = "리지 피규어 판매 (315$)",
+		Recipe_Sell_Scav_figurine = "스캐브 피규어 판매 (315$)",
+		Recipe_Sell_Silver_Badge = "은 배지 판매 (379$)",
+		Recipe_Sell_USEC_operative_figurine = "USEC 요원 피규어 판매 (472$)",
+		Recipe_Sell_Veritas_guitar_pick = "Veritas 기타 피크 판매 (346$)",
+		Recipe_Sell_Wooden_clock = "나무 시계 판매 (524$)",
+
+		Recipe_Sell_L1_(Norepinephrine)_injector = "L1 (노르에피네프린) 주사기 판매 (236$)",
+		Recipe_Sell_Trimadol_stimulant_injector = "트리마돌 각성제 주사기 판매 (378$)",
+		Recipe_Sell_Propital_regenerative_stimulant_injector = "프로피탈 재생 자극제 주사기 판매 (132$)",
+		Recipe_Sell_eTG-change_regenerative_stimulant_injector = "eTG-change 재생 자극제 주사기 판매 (238$)",
+		Recipe_Sell_xTG-12_antidote_injector = "xTG-12 해독제 주사기 판매 (507$)",
+		Recipe_Sell_Perfotoran_(Blue_Blood)_stimulant_injector = "퍼포토란(블루 블러드) 각성제 주사기 판매 (415$)",
+		Recipe_Sell_AHF1-M_stimulant_injector = "AHF1-M 자극제 주사기 판매 (286$)",
+		Recipe_Sell_Zagustin_hemostatic_drug_injector = "쟈그스틴 지혈제 판매 (211$)",
+		Recipe_Sell_PNB_(Product_16)_stimulant_injector = "PNB (제품 16) 각성제 주사기 판매 (411$)",
+		Recipe_Sell_P22_(Product_22)_stimulant_injector = "P22 자극제 주사기 판매 (253$)",
+		Recipe_Sell_Meldonin_injector = "멜도닌 주사기 판매 (352$)",
+		Recipe_Sell_SJ1_TGLabs_combat_stimulant_injector = "SJ1 TGLabs 전투 자극제 주사기 판매 (226$)",
+		Recipe_Sell_SJ6 TGLabs_combat_stimulant_injector = "SJ6 TGLabs 전투 자극제 주사기 판매 (176$)",
+		Recipe_Sell_3-(b-TG)_stimulant_injector = "3-(b-TG) 자극제 주사기판매 (193$)",
+		Recipe_Sell_Obdolbos_cocktail_injector = "Obdolbos 칵테일 주사기 판매 (389$)",
+		Recipe_Sell_Obdolbos_2_cocktail_injector = "Obdolbos 2 칵테일 주사기 판매 (422$)",
+		Recipe_Sell_M.U.L.E._stimulant_injector = "M.U.L.E. 자극제 주사기판매 (274$)",
+		Recipe_Sell_SJ9_TGLabs_combat_stimulant_injector = "SJ9 TGLabs 전투 자극제 주사기 판매 (565$)",
+		Recipe_Sell_SJ12_TGLabs_combat_stimulant_injector = "SJ12 TGLabs 전투 자극제 주사기 판매 (258$)",
+		Recipe_Sell_AFAK_tactical_individual_first_aid_kit = "AFAK 개인 전술 응급 처치 키트 판매 (262$)",
+
+		Recipe_Sell_Golden_Star_balm = "골든 스타 연고 판매 (182$)",
+		Recipe_Sell_Ibuprofen_painkillers = "이부프로펜 진통제 판매 (158$)",
+		Recipe_Sell_Augmentin_antibiotic_pills = "어그멘틴 항생제 판매 (86$)",
+		Recipe_Sell_Analgin_painkillers = "아날긴 진통제 판매 (35$)",
+		Recipe_Sell_Vaseline_balm = "바셀린 판매 (93$)",
+
+	/**********************************************
+				15/05/24
+				EDIT
+	***********************************************/
+
+		Recipe_Sell_FN_SCAR-H_7.62x51_assault_rifle = "FN SCAR-H 7.62x51 돌격소총 판매 (661$)",
+
+
+
+	}
 

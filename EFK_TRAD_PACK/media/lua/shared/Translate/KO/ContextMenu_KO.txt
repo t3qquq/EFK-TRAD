@@ -1,6 +1,5 @@
 ContextMenu_KO = {
 
-    ContextMenu_Take_pills = "약 복용",
     ContextMenu_EFK_Already_take = "재복용하려면 더 기다려야 해.", 
     ContextMenu_NVG_OFF = "야간투시 장비 비활성화",
     ContextMenu_NVG_ON = "야간투시 장비 활성화", 
@@ -2164,5 +2163,11 @@ ContextMenu_KO = {
 
 	ContextMenu_Examine = "확인하기",
 
+   /**********************************************
+               08/05/24
+               NEW
+   ***********************************************/
+
+   ContextMenu_Use Injector = "주사기 사용하기",
 
 }
