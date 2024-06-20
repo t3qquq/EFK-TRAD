@@ -729,7 +729,7 @@ ItemName_Base.Bag_ArmyMedkit = "Bolsa médica",
         ItemName_Base.EFK_Ranch_Blackjack = "Mystery Ranch Blackjack 50 backpack MultiCam",
         ItemName_Base.EFK_Attack_2 = "SSO Attack 2 raid backpack Khaki",
         ItemName_Base.EFK_COMM_BVS = "Mystery Ranch NICE COMM 3 BVS frame system Coyote",
-        ItemName_Base.EFK_LBT_8005A = "LBT-8005A Day Pack backpack MultiCam Black",
+        ItemName_Base.EFK_LBT_8005A = "LBT-8005A Mochila Day Pack MultiCam Negra",
         ItemName_Base.EFK_LBT_1476A = "LBT-1476A 3Day Pack Woodland",
         ItemName_Base.EFK_Dragon_Egg_Mark_II = "Acción Directa Dragon Egg Mark II mochila Negro",
         ItemName_Base.EFK_RK_PT_25 = "Mochila de patrulla Tehinkom RK-PT-25 Digital Flora",
@@ -1069,11 +1069,33 @@ ItemName_Base.Bag_ArmyMedkit = "Bolsa médica",
      ItemName_Base.Pills_EFK_Ibuprofen = "Analgésicos Ibuprofeno",
      ItemName_Base.Pills_EFK_Golden = "Bálsamo Golden Star",
 
+   /**********************************************
+               20/05/24
+               NEW
+   ***********************************************/
 
-
-
-
-
-
+     ItemName_Base.EFK_Slickers = "Barra de chocolate Slickers",
+     ItemName_Base.EFK_Alyonka = "Barrita de chocolate Alyonka",
+     ItemName_Base.EFK_Cereal = "Paquete de copos de avena",
+     ItemName_Base.EFK_Sugar = "Paquete de azúcar",
+     ItemName_Base.EFK_condensed_milk = "Lata de leche condensada",
+     ItemName_Base.EFK_DevilDog = "Bote de mayonesa DevilDog",
+     ItemName_Base.EFK_Herring = "Lata de arenque",
+     ItemName_Base.EFK_Saury = "Lata de saurio del pacífico",
+     ItemName_Base.EFK_Salmon = "Lata de salmón jorobado",
+     ItemName_Base.EFK_Sausage = "Salchicha de ternera Salty Dog",
+     ItemName_Base.EFK_Sprats = "Lata de espadines",
+     ItemName_Base.EFK_Tarker = "Paquete de carne seca Tarker",
+     ItemName_Base.EFK_CannedPeas = "Lata de guisantes verdes",
+     ItemName_Base.EFK_Noodles = "Paquete de fideos instantáneos",
+     ItemName_Base.EFK_JuiceBox = "Envase de zumo de manzana",
+     ItemName_Base.EFK_HotRod = "Lata de bebida energética Hot Rod",
+     ItemName_Base.EFK_VitaBox = "Envase de zumo Vita",
+     ItemName_Base.EFK_GrandBox = "Envase de zumo Grand",
+     ItemName_Base.EFK_pineapple = "Pack de zumo de piña Russian Army",
+     ItemName_Base.EFK_Milk = "Paquete de leche",
+     ItemName_Base.EFK_WaterBottle = "Botella de agua 0.6L",
+     ItemName_Base.EFK_Aquamari = "Botella de agua Aquamari con filtro",
+     ItemName_Base.EFK_purified = "Bidón con agua purificada",
 
 }
