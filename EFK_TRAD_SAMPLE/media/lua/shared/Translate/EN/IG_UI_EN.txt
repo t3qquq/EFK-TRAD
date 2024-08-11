@@ -50,7 +50,7 @@ IGUI_EN = {
    IGUI_EFK_tooltip_insertion_Louisville = "Are you sure to start a Mission into Louisville ? You need to Extract within 24 hours or you will die",
    IGUI_EFK_tooltip_insertion_Ravencreek = "Are you sure to start a Mission into Ravencreek ? You need to Extract within 24 hours or you will die",
    IGUI_EFK_tooltip_insertion_Trelai = "Are you sure to start a Mission into Trelai ? You need to Extract within 24 hours or you will die",
-   IGUI_EFK_tooltip_insertion_MarchRidge = "Are you sure to start a Mission into MarchRidge ? You need to Extract within 24 hours or you will die",
+   IGUI_EFK_tooltip_insertion_MarchRidge = "Are you sure to start a Mission into March Ridge ? You need to Extract within 24 hours or you will die",
    IGUI_EFK_tooltip_insertion_Florius = "Are you sure to start a Mission into Florius ? You need to Extract within 24 hours or you will die",
    IGUI_EFK_tooltip_insertion_Pitstop = "Are you sure to start a Mission into Pitstop ? You need to Extract within 24 hours or you will die",
    IGUI_EFK_tooltip_insertion_Customs = "Are you sure to start a Mission into Customs ? You need to Extract within 24 hours or you will die",
@@ -580,7 +580,6 @@ IGUI_EN = {
    IGUI_SKIER_Task_q9_t2 = "Reach the March Ridge Medical Center",
    IGUI_SKIER_Task_q9_t3 = "Reach the main office",
    IGUI_SKIER_Task_q9_t4 = "Search for the documents",
-   IGUI_SKIER_Task_q10_t1 = "Kill 3000 Zombies",
 
    /****************************
          Quetes JAEGER
@@ -752,7 +751,7 @@ IGUI_EN = {
    IGUI_MECANIX_Quest_6_part4 = "Interesting, right? But we need to deal with these pests already. Install suppressors on the antennas you found, and, just in case, another one on the tower, also there on the Shoreline.",
 
    IGUI_MECANIX_Quest_7_Name = "Mecanix 7 - Signal Part 3",
-   IGUI_MECANIX_Quest_7_Desc = "What do you think about this Artificial Intelligence thing ? Personally, i find it fascinating and we'll talk more about it if you manage to save my ass. I'm using this old relay antenna in the military base located in StockJogh, south-east of MarchRidge. There's some good stuff but most importanly, gas in massive quantity ! It's a fuel storage owned by the army. I only own an antenna there and it just broke for some reason. I need you to repair it, my AI can't do it.",
+   IGUI_MECANIX_Quest_7_Desc = "What do you think about this Artificial Intelligence thing ? Personally, i find it fascinating and we'll talk more about it if you manage to save my ass. I'm using this old relay antenna in the military base located in StockJogh, south-east of March Ridge. There's some good stuff but most importanly, gas in massive quantity ! It's a fuel storage owned by the army. I only own an antenna there and it just broke for some reason. I need you to repair it, my AI can't do it.",
 
    IGUI_MECANIX_Quest_8_Name = "Mecanix 8 - Signal Part 4",
    IGUI_MECANIX_Quest_8_Desc = "Did the rise of civilization made better people ? Are they really kind to each other ? It's easy being "nice" when you're in a safe environment but now that times are tough, you can see the masks fall. Head west from Riverside, towards the highway and you'll encounter a military outpost on a gas station. Mark the antenna, it'll help me a lot.",
@@ -916,9 +915,9 @@ IGUI_EN = {
    IGUI_RAGMAN_Quest_3_part_3 = "This would help me a lot.",
 
    IGUI_RAGMAN_Quest_4_Name = "Ragman 4 - Total Liquidation !",
-   IGUI_RAGMAN_Quest_4_Desc = "You know, bro, let me tell you something, clothes will always be valuable. War or no war, people still buy this stuff. We're going to stock up on a few basics: there's a store on MarchRidge, very little coveted, it's called Filigree Fashions. Can't you tell? It's south of the Community Center. Anyway, get rid of the bastards in the area and get me the store register, so we can see what we're dealing with.",
+   IGUI_RAGMAN_Quest_4_Desc = "You know, bro, let me tell you something, clothes will always be valuable. War or no war, people still buy this stuff. We're going to stock up on a few basics: there's a store on March Ridge, very little coveted, it's called Filigree Fashions. Can't you tell? It's south of the Community Center. Anyway, get rid of the bastards in the area and get me the store register, so we can see what we're dealing with.",
    IGUI_RAGMAN_Quest_4_part_1 = "You know, bro, let me tell you something, clothes will always be valuable.",
-   IGUI_RAGMAN_Quest_4_part_2 = "War or no war, people still buy this stuff. We're going to stock up on a few basics: there's a store on MarchRidge, very little coveted, it's called Filigree Fashions. Can't you tell?",
+   IGUI_RAGMAN_Quest_4_part_2 = "War or no war, people still buy this stuff. We're going to stock up on a few basics: there's a store on March Ridge, very little coveted, it's called Filigree Fashions. Can't you tell?",
    IGUI_RAGMAN_Quest_4_part_3 = "It's south of the Community Center. Anyway, get rid of the bastards in the area and get me the store register, so we can see what we're dealing with.",
 
    IGUI_RAGMAN_Quest_5_Name = "Ragman 5 - The Nerve of War Part 1",
@@ -1235,22 +1234,22 @@ IGUI_EN = {
                EDIT
    ***********************************************/
 
-   IGUI_MECANIX_Task_firearm_q1_t2 = "Modify a MP-133 to comply with the required specification ("MP-133 MK1" into the craft menu)",
+   IGUI_MECANIX_Task_firearm_q1_t2 = "Modify a MP-133 to comply with the required specification ('MP-133 MK1'sd into the craft menu)",
    IGUI_MECANIX_Task_firearm_q1_t3 = "Talk to Mechanic",
-   IGUI_MECANIX_Task_firearm_q2_t2 = "Modify an AKS-74U to comply with the required specification ("AKS-74U MK1" into the craft menu)",
+   IGUI_MECANIX_Task_firearm_q2_t2 = "Modify an AKS-74U to comply with the required specification ('AKS-74U MK1' into the craft menu)",
    IGUI_MECANIX_Task_firearm_q2_t3 = "Talk to Mechanic",
-   IGUI_MECANIX_Task_firearm_q3_t2 = "Modify a MP5-SD to comply with the required specification ("MP5-SD MK1" into the craft menu)",
+   IGUI_MECANIX_Task_firearm_q3_t2 = "Modify a MP5-SD to comply with the required specification ('MP5-SD MK1' into the craft menu)",
    IGUI_MECANIX_Task_firearm_q3_t3 = "Talk to Mechanic",
    IGUI_MECANIX_Task_firearm_q3_2_t2 = "Reach level 3 Reputation with Prapor",
    IGUI_MECANIX_Task_firearm_q3_2_t3 = "Talk to Mechanic",
-   IGUI_MECANIX_Task_firearm_q4_t2 = "Modify a SKS to comply with the required specification ("SKS MK1" into the craft menu)",
+   IGUI_MECANIX_Task_firearm_q4_t2 = "Modify a SKS to comply with the required specification ('SKS MK1' into the craft menu)",
    IGUI_MECANIX_Task_firearm_q4_t3 = "Talk to Mechanic",
-   IGUI_MECANIX_Task_firearm_q5_t2 = "Modify a M870 to comply with the required specification ("M870 MK1" into the craft menu)",
+   IGUI_MECANIX_Task_firearm_q5_t2 = "Modify a M870 to comply with the required specification ('M870 MK1' into the craft menu)",
    IGUI_MECANIX_Task_firearm_q5_t3 = "Talk to Mechanic",   
-   IGUI_MECANIX_Task_firearm_q6_t2 = "Modify an AKM to comply with the required specification ("AKM MK1" into the craft menu)",
+   IGUI_MECANIX_Task_firearm_q6_t2 = "Modify an AKM to comply with the required specification ('AKM MK1' into the craft menu)",
    IGUI_MECANIX_Task_firearm_q6_t3 = "Talk to Mechanic", 
-   IGUI_MECANIX_Task_firearm_q7_t2 = "Modify an M4A1 to comply with the required specification ("M4A1 MK1" into the craft menu)",
-   IGUI_MECANIX_Task_firearm_q7_t3 = "Talk to Mechanic", 
+   IGUI_MECANIX_Task_firearm_q7_t2 = "Modify an M4A1 to comply with the required specification ('M4A1 MK1' into the craft menu)",
+   IGUI_MECANIX_Task_firearm_q7_t3 = "Talk to Mechanic",
 
    /**********************************************
                12/04/24
@@ -1321,11 +1320,57 @@ IGUI_EN = {
                EDIT
    ***********************************************/
 
-   IGUI_PRAPOR_Task_q6_t1 = "Mark the Weyhausen gas dispenser",
    IGUI_PRAPOR_Task_q6_t2 = "Mark the Rosewood gas dispenser (GPS 8200;11298)",
    IGUI_PRAPOR_Task_q6_t3 = "Mark the Trelai gas dispenser (GPS 7051;7143)",
-   IGUI_PRAPOR_Task_q6_t4 = "Mark the fourth gas dispenser (GPS 8276;4009)",
    IGUI_PRAPOR_Task_q2_t2 = "Reach the Weyhausen USEC Military Camp.",
    IGUI_TOUBIB_Task_q4_t2 = "Reach the water shop of Pitstop",
+
+   /**********************************************
+               09/06/24
+               EDIT
+   ***********************************************/
+
+   IGUI_PRAPOR_Task_q6_t1 = "Mark the Weyhausen gas dispenser (GPS 5188;9559)",
+   IGUI_PRAPOR_Task_q6_t4 = "Mark the Muldraugh gas dispenser (GPS 10615;9760)",
+
+   /**********************************************
+               31/07/24
+               NEW
+   ***********************************************/
+
+   IGUI_SKIER_Task_q10_t2 = "Kill 3000 Zombies",
+
+   /**********************************************
+               09/08/24
+               NEW
+   ***********************************************/
+
+   IGUI_MECANIX_Task_firearm_q8_t2 = "Modify an AKS-74N to comply with the required specification ('AKS-74N MK1' into the craft menu)",
+   IGUI_MECANIX_Task_firearm_q8_t3 = "Talk to Mechanic",
+   IGUI_MECANIX_Task_firearm_q9_t2 = "Modify an P226R to comply with the required specification ('P226R MK1' into the craft menu)",
+   IGUI_MECANIX_Task_firearm_q9_t3 = "Talk to Mechanic",
+   IGUI_MECANIX_Task_firearm_q10_t2 = "Modify a P226R to comply with the required specification ('P226R MK1' into the craft menu)",
+   IGUI_MECANIX_Task_firearm_q10_t3 = "Talk to Mechanic",
+   IGUI_MECANIX_Task_firearm_q11_t2 = "Modify a Kriss Vector 9x19 to comply with the required specification ('Kriss Vector 9x19 MK1' into the craft menu)",
+   IGUI_MECANIX_Task_firearm_q11_t3 = "Talk to Mechanic",
+   IGUI_MECANIX_Task_firearm_q12_t2 = "Modify a MPX to comply with the required specification ('MPX MK1' into the craft menu)",
+   IGUI_MECANIX_Task_firearm_q12_t3 = "Talk to Mechanic",
+   IGUI_MECANIX_Task_firearm_q13_t2 = "Modify a RSASS to comply with the required specification ('RSASS MK1' into the craft menu)",
+   IGUI_MECANIX_Task_firearm_q13_t3 = "Talk to Mechanic",
+   IGUI_MECANIX_Task_firearm_q14_t2 = "Modify a HK-416A5 to comply with the required specification ('HK-416A5 MK1' into the craft menu)",
+   IGUI_MECANIX_Task_firearm_q14_t3 = "Talk to Mechanic",
+   IGUI_MECANIX_Task_firearm_q15_t2 = "Modify an AS VAL to comply with the required specification ('AS VAL MK1' into the craft menu)",
+   IGUI_MECANIX_Task_firearm_q15_t3 = "Talk to Mechanic",
+   IGUI_MECANIX_Task_firearm_q16_t2 = "Modify a DVL to comply with the required specification ('DVL MK1' into the craft menu)",
+   IGUI_MECANIX_Task_firearm_q16_t3 = "Talk to Mechanic",
+   IGUI_MECANIX_Task_firearm_q17_t2 = "Modify an AK-102 to comply with the required specification ('AK-102 MK1' into the craft menu)",
+   IGUI_MECANIX_Task_firearm_q17_t3 = "Talk to Mechanic",
+   IGUI_MECANIX_Task_firearm_q18_t2 = "Modify an AKMN to comply with the required specification ('AKMN MK1' into the craft menu)",
+   IGUI_MECANIX_Task_firearm_q18_t3 = "Talk to Mechanic",
+   IGUI_MECANIX_Task_firearm_q19_t2 = "Modify a SVDS to comply with the required specification ('SVDS MK1' into the craft menu)",
+   IGUI_MECANIX_Task_firearm_q19_t3 = "Talk to Mechanic",
+   IGUI_MECANIX_Task_firearm_q20_t2 = "Modify a M1A to comply with the required specification ('M1A MK1' into the craft menu)",
+   IGUI_MECANIX_Task_firearm_q20_t3 = "Talk to Mechanic",
+
 
 }
