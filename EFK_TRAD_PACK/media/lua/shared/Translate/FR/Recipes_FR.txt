@@ -883,9 +883,12 @@ Recipes_FR = {
      Recipe_Sell_Pack_of_milk = "Vendre Pack de lait (92)",
      Recipe_Sell_Pack_of_sugar = "Vendre un paquet de sucre (135)",
 
+   /**********************************************
+               31/05/24
+               NEW
+   ***********************************************/
 
-
-
+     Recipe_Group_500$_from_1$ = "Créer une liasse de 500 $",
 
 
 }

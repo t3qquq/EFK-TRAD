@@ -644,7 +644,6 @@ ItemName_FR = {
         ItemName_Base.EFK_PraporInfo_Q3 = "Informations Prapor Quest 3",
         ItemName_Base.EFK_PraporInfo_Q4 = "Informations Prapor Quest 4",
         ItemName_Base.EFK_PraporInfo_Q5 = "Informations Prapor Quest 5",
-        ItemName_Base.EFK_PraporInfo_Q7 = "Informations Prapor Quest 7",
         ItemName_Base.EFK_PraporInfo_Q9 = "Informations Prapor Quest 9",
         ItemName_Base.EFK_ToubibInfo_Q4 = "Informations Toubib Quest 4",
         ItemName_Base.EFK_ToubibInfo_Q5 = "Informations Toubib Quest 5",
@@ -1097,5 +1096,15 @@ ItemName_FR = {
      ItemName_Base.EFK_WaterBottle = "Bouteille d'eau 0.6L",
      ItemName_Base.EFK_Aquamari = "Bouteille d'eau Aquamari avec filtre",
      ItemName_Base.EFK_purified = "bidon d'eau purifiée",
+
+   /**********************************************
+               16/06/24
+               NEW
+   ***********************************************/
+
+        ItemName_Base.EFK_RatCola = "Canette de soda RatCola",
+        ItemName_Base.EFK_TarCola = "Canette de soda TarCola",
+        ItemName_Base.EFK_GreenTea = "Canette de thé vert glacé",
+        ItemName_Base.EFK_PevkoBeer = "Bouteille de bière Pevko Light",
 
 }
