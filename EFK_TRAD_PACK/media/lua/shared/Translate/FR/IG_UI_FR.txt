@@ -580,7 +580,6 @@ IGUI_FR = {
    IGUI_SKIER_Task_q9_t2 = " Atteindre le centre médical March Ridge ",
    IGUI_SKIER_Task_q9_t3 = "Atteindre le bureau principal",
    IGUI_SKIER_Task_q9_t4 = "Rechercher les documents",
-   IGUI_SKIER_Task_q10_t1 = "Tuer 3000 zombies",
 
    /****************************
          Quetes JAEGER
@@ -1235,21 +1234,21 @@ IGUI_FR = {
                EDIT
    ***********************************************/
 
-   IGUI_MECANIX_Task_firearm_q1_t2 = "Modifier un MP-133 pour qu'il soit conforme aux spécifications requises ("MP-133 MK1" dans le menu artisanat)",
+   IGUI_MECANIX_Task_firearm_q1_t2 = "Modifier un MP-133 pour qu'il soit conforme aux spécifications requises ('MP-133 MK1' dans le menu artisanat)",
    IGUI_MECANIX_Task_firearm_q1_t3 = "Parler à Mecanix",
-   IGUI_MECANIX_Task_firearm_q2_t2 = "Modifier un AKS-74U pour respecter les spécifications requises ("AKS-74U MK1" dans le menu artisanat)",
+   IGUI_MECANIX_Task_firearm_q2_t2 = "Modifier un AKS-74U pour respecter les spécifications requises ('AKS-74U MK1' dans le menu artisanat)",
    IGUI_MECANIX_Task_firearm_q2_t3 = "Parler à Mecanix",
-   IGUI_MECANIX_Task_firearm_q3_t2 = "Modifier un MP5-SD pour se conformer à la spécification requise ("AKS-74U MK1" dans le menu artisanat)",
+   IGUI_MECANIX_Task_firearm_q3_t2 = "Modifier un MP5-SD pour se conformer à la spécification requise ('MP5-SD MK1' dans le menu artisanat)",
    IGUI_MECANIX_Task_firearm_q3_t3 = "Parler à Mecanix",
    IGUI_MECANIX_Task_firearm_q3_2_t2 = "Atteindre le niveau 3 de réputation avec Prapor",
    IGUI_MECANIX_Task_firearm_q3_2_t3 = "Parler à Mecanix",
-   IGUI_MECANIX_Task_firearm_q4_t2 = "Modifier un SKS pour qu'il soit conforme aux spécifications requises ("AKS-74U MK1" dans le menu artisanat)",
+   IGUI_MECANIX_Task_firearm_q4_t2 = "Modifier un SKS pour qu'il soit conforme aux spécifications requises ('SKS MK1' dans le menu artisanat)",
    IGUI_MECANIX_Task_firearm_q4_t3 = "Parler à Mecanix",
-   IGUI_MECANIX_Task_firearm_q5_t2 = "Modifier un M870 pour se conformer à la spécification requise ("AKS-74U MK1" dans le menu artisanat)",
+   IGUI_MECANIX_Task_firearm_q5_t2 = "Modifier un M870 pour se conformer à la spécification requise ('M870 MK1' dans le menu artisanat)",
    IGUI_MECANIX_Task_firearm_q5_t3 = "Parler à Mecanix",   
-   IGUI_MECANIX_Task_firearm_q6_t2 = "Modifier un AKM pour se conformer à la spécification requise ("AKS-74U MK1" dans le menu artisanat)",
+   IGUI_MECANIX_Task_firearm_q6_t2 = "Modifier un AKM pour se conformer à la spécification requise ('AKM MK1' dans le menu artisanat)",
    IGUI_MECANIX_Task_firearm_q6_t3 = "Parler à Mecanix", 
-   IGUI_MECANIX_Task_firearm_q7_t2 = "Modifier un M4A1 pour le rendre conforme aux spécifications requises ("AKS-74U MK1" dans le menu artisanat)",
+   IGUI_MECANIX_Task_firearm_q7_t2 = "Modifier un M4A1 pour le rendre conforme aux spécifications requises ('M4A1 MK1' dans le menu artisanat)",
    IGUI_MECANIX_Task_firearm_q7_t3 = "Parler à Mecanix", 
 
    /**********************************************
@@ -1321,11 +1320,57 @@ IGUI_FR = {
                EDIT
    ***********************************************/
 
-   IGUI_PRAPOR_Task_q6_t1 = "Marquer le distributeur de gaz de Weyhausen",
    IGUI_PRAPOR_Task_q6_t2 = "Repérez le distributeur de gaz de Rosewood (GPS 8200;11298)",
    IGUI_PRAPOR_Task_q6_t3 = "Marquer le distributeur de gaz de Trelai (GPS 7051;7143)",
-   IGUI_PRAPOR_Task_q6_t4 = "Marquer le quatrième distributeur de gaz (GPS 8276;4009)",
    IGUI_PRAPOR_Task_q2_t2 = "Atteindre le camp militaire USEC de Weyhausen",
    IGUI_TOUBIB_Task_q4_t2 = "Atteindre le magasin d'eau de Pitstop",
+
+   /**********************************************
+               09/06/24
+               EDIT
+   ***********************************************/
+
+   IGUI_PRAPOR_Task_q6_t1 = "Marquer le distributeur de gaz de Weyhausen (GPS 5188;9559)",
+   IGUI_PRAPOR_Task_q6_t4 = "Marquer le distributeur de gaz de Muldraugh (GPS 10615;9760)",
+
+   /**********************************************
+               31/07/24
+               NEW
+   ***********************************************/
+
+   IGUI_SKIER_Task_q10_t2 = "Tuer 3000 Zombies",
+
+   /**********************************************
+               09/08/24
+               NEW
+   ***********************************************/
+
+   IGUI_MECANIX_Task_firearm_q8_t2 = "Modifier un AKS-74N pour qu'il réponde aux spécifications requises ('AKS-74N MK1' dans le menu artisanat).",
+   IGUI_MECANIX_Task_firearm_q8_t3 = "Parler au mécanicien",
+   IGUI_MECANIX_Task_firearm_q9_t2 = "Modify an P226R to comply with the required specification ('P226R MK1' into the craft menu)',
+   IGUI_MECANIX_Task_firearm_q9_t3 = "Parler au mécanicien",
+   IGUI_MECANIX_Task_firearm_q10_t2 = "Modifier un P226R pour qu'il soit conforme aux spécifications requises ('P226R MK1' dans le menu artisanat)",
+   IGUI_MECANIX_Task_firearm_q10_t3 = "Parler au mécanicien",
+   IGUI_MECANIX_Task_firearm_q11_t2 = "Modifier un Kriss Vector 9x19 pour qu'il soit conforme aux spécifications requises ('Kriss Vector 9x19 MK1" dans le menu artisanat)",
+   IGUI_MECANIX_Task_firearm_q11_t3 = "Parler au mécanicien",
+   IGUI_MECANIX_Task_firearm_q12_t2 = "Modifier un MPX pour qu'il soit conforme aux spécifications requises ('MPX MK1' dans le menu artisanat)",
+   IGUI_MECANIX_Task_firearm_q12_t3 = "Parler au mécanicien",
+   IGUI_MECANIX_Task_firearm_q13_t2 = "Modifier un RSASS pour se conformer aux spécifications requises ('RSASS MK1' dans le menu artisanat)",
+   IGUI_MECANIX_Task_firearm_q13_t3 = "Parler au mécanicien",
+   IGUI_MECANIX_Task_firearm_q14_t2 = "Modifier un HK-416A5 pour qu'il soit conforme aux spécifications requises ('HK-416A5 MK1' dans le menu artisanat)",
+   IGUI_MECANIX_Task_firearm_q14_t3 = "Parler au mécanicien",
+   IGUI_MECANIX_Task_firearm_q15_t2 = "Modifier un AS VAL pour qu'il soit conforme aux spécifications requises ("AS VAL MK1" dans le menu artisanat)",
+   IGUI_MECANIX_Task_firearm_q15_t3 = "Parler au mécanicien",
+   IGUI_MECANIX_Task_firearm_q16_t2 = "Modifier un DVL pour se conformer à la spécification requise ('DVL MK1' dans le menu artisanat)",
+   IGUI_MECANIX_Task_firearm_q16_t3 = "Parler au mécanicien",
+   IGUI_MECANIX_Task_firearm_q17_t2 = "Modifier un AK-102 pour qu'il soit conforme aux spécifications requises ('AK-102 MK1' dans le menu artisanat)",
+   IGUI_MECANIX_Task_firearm_q17_t3 = "Parler au mécanicien",
+   IGUI_MECANIX_Task_firearm_q18_t2 = "Modifier un AKMN pour se conformer aux spécifications requises ('AKMN MK1' dans le menu artisanat)",
+   IGUI_MECANIX_Task_firearm_q18_t3 = "Parler au mécanicien",
+   IGUI_MECANIX_Task_firearm_q19_t2 = "Modifier un SVDS pour se conformer aux spécifications requises ('SVDS MK1' dans le menu artisanat)",
+   IGUI_MECANIX_Task_firearm_q19_t3 = "Parler au mécanicien",
+   IGUI_MECANIX_Task_firearm_q20_t2 = "Modifier un M1A pour se conformer aux spécifications requises ('M1A MK1' dans le menu artisanat)",
+   IGUI_MECANIX_Task_firearm_q20_t3 = "Parler au mécanicien",
+
 
 }
