@@ -297,10 +297,6 @@ Recipes_KO = {
 		Recipe_Sell_Army_crackers = "군용 크래커 판매 (18$)",
 		Recipe_Sell_Water_Bottle = "물병 판매 (15$)",
 		Recipe_Sell_Iskra_Ration_Pack = "Iskra 전투식량 판매 (30$)",
-		Recipe_Sell_Can_of_green_peas = "완두콩 통조림 판매 (41$)",
-		Recipe_Sell_Can_of_condensed_milk = "연유 판매 (157$)",
-		Recipe_Sell_Pack_of_milk = "우유팩 판매 (92$)",
-		Recipe_Sell_Pack_of_sugar = "설탕 팩 판매 (135$)",
 		Recipe_Sell_MRE_Ration_Pack = "MRE 전투식량 판매 (107$)",
 		Recipe_Sell_Can_of_humpback_salmon = "곱사연어 통조림 판매 (62$)",
 		Recipe_Sell_Can_of_Majaica_coffee_beans = "마자이카 커피 판매 (94$)",
@@ -845,7 +841,55 @@ Recipes_KO = {
 
 		Recipe_Sell_FN_SCAR-H_7.62x51_assault_rifle = "FN SCAR-H 7.62x51 돌격소총 판매 (661$)",
 
+   /**********************************************
+               18/05/24
+               NEW
+   ***********************************************/
+
+     Recipe_Sell_HK_MP5SD_9x19_sound_suppressor = "HK MP5SD 9x19mm 소음기 판매 (149$)",
+
+   /**********************************************
+               20/05/24
+               NEW
+   ***********************************************/
+
+     Recipe_Sell_Slickers_chocolate_bar = "슬리커스 초콜릿 바 판매 (39$)",
+     Recipe_Sell_Alyonka_chocolate_bar = "알룐카 초콜릿 바 판매 (66$)",
+     Recipe_Sell_Pack_of_oat_flakes = "귀리 플레이크 팩 판매 (47$)",
+     Recipe_Sell_Jar_of_DevilDog_mayo = "DevilDog 마요네즈 판매 (76$)",
+     Recipe_Sell_Can_of_herring = "청어 통조림 판매 (106$)",
+     Recipe_Sell_Can_of_pacific_saury = "꽁치 통조림 판매 (53$)",
+     Recipe_Sell_Can_of_humpback_salmon = "곱사연어 통조림 판매 (62$)",
+     Recipe_Sell_Salty_Dog_beef_sausage = "Salty Dog 훈제 소시지 판매 (126$)",
+     Recipe_Sell_Can_of_sprats = "스프랫 통조림 판매 (56$)",
+     Recipe_Sell_Pack_of_Tarker_dried_meat = "Tarker 육포 팩 판매 (56$)",
+     Recipe_Sell_Pack_of_instant_noodles = "라면 팩 판매 (79$)",
+     Recipe_Sell_Pack_of_apple_juice = "사과 주스 팩 판매 (21$)",
+     Recipe_Sell_Can_of_Hot_Rod_energy_drink = "핫 로드 에너지 드링크 캔 판매 (58$)",
+     Recipe_Sell_Pack_of_Vita_juice = "비타 주스 팩 판매 (21$)",
+     Recipe_Sell_Pack_of_Grand_juice = "그랜드 자몽 주스 판매 (21$)",
+     Recipe_Sell_Pack_of_Russian_Army_pineapple_juice = "러시아군 파인애플 주스 판매 (13$)",
+     Recipe_Sell_Bottle_of_water_0.6L = "물병 0.6L 판매 (15$)",
+     Recipe_Sell_Aquamari_water_bottle_with_filter = "아쿠아마리 필터 달린 물병 판매 (199$)",
+     Recipe_Sell_Canister_with_purified_water = "정제수 판매 (315$)",
+
+   /**********************************************
+               20/05/24
+               EDIT
+   ***********************************************/
+
+	 Recipe_Sell_Can_of_green_peas = "완두콩 통조림 판매 (41$)",
+	 Recipe_Sell_Can_of_condensed_milk = "연유 판매 (157$)",
+	 Recipe_Sell_Pack_of_milk = "우유팩 판매 (92$)",
+	 Recipe_Sell_Pack_of_sugar = "설탕 팩 판매 (135$)",
+
+   /**********************************************
+               31/05/24
+               NEW
+   ***********************************************/
+
+     Recipe_Group_500$_from_1$ = "500달러 뭉치 만들기",
 
 
-	}
+}
 

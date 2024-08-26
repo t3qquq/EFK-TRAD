@@ -644,7 +644,6 @@ ItemName_KO = {
 		ItemName_Base.EFK_PraporInfo_Q3 = "프라퍼 퀘스트3 정보",
 		ItemName_Base.EFK_PraporInfo_Q4 = "프라퍼 퀘스트4 정보",
 		ItemName_Base.EFK_PraporInfo_Q5 = "프라퍼 퀘스트5 정보",
-		ItemName_Base.EFK_PraporInfo_Q7 = "프라퍼 퀘스트7 정보",
 		ItemName_Base.EFK_PraporInfo_Q9 = "프라퍼 퀘스트9 정보",
 		ItemName_Base.EFK_ToubibInfo_Q4 = "테라피스트 퀘스트 4 정보",
 		ItemName_Base.EFK_ToubibInfo_Q5 = "테라피스트 퀘스트 5 정보",
@@ -1069,11 +1068,43 @@ ItemName_KO = {
 		ItemName_Base.Pills_EFK_Ibuprofen = "이부프로펜 진통제",
 		ItemName_Base.Pills_EFK_Golden = "골든 스타 연고",
 
+   /**********************************************
+               20/05/24
+               NEW
+   ***********************************************/
 
+     ItemName_Base.EFK_Slickers = "슬리커스 초콜릿 바",
+     ItemName_Base.EFK_Alyonka = "알룐카 초콜릿 바",
+     ItemName_Base.EFK_Cereal = "귀리 플레이크 팩",
+     ItemName_Base.EFK_Sugar = "설탕 팩",
+     ItemName_Base.EFK_condensed_milk = "연유",
+     ItemName_Base.EFK_DevilDog = "DevilDog 마요네즈",
+     ItemName_Base.EFK_Herring = "청어 통조림",
+     ItemName_Base.EFK_Saury = "꽁치 통조림",
+     ItemName_Base.EFK_Salmon = "곱사연어 통조림",
+     ItemName_Base.EFK_Sausage = "Salty Dog 훈제 소시지",
+     ItemName_Base.EFK_Sprats = "스프랫 통조림",
+     ItemName_Base.EFK_Tarker = "Tarker 육포 팩",
+     ItemName_Base.EFK_CannedPeas = "녹색 완두콩 통조림",
+     ItemName_Base.EFK_Noodles = "라면 팩",
+     ItemName_Base.EFK_JuiceBox = "사과 주스 팩",
+     ItemName_Base.EFK_HotRod = "핫 로드 에너지 드링크 캔",
+     ItemName_Base.EFK_VitaBox = "비타 주스 팩",
+     ItemName_Base.EFK_GrandBox = "그랜드 자몽 주스",
+     ItemName_Base.EFK_pineapple = "러시아군 파인애플 주스",
+     ItemName_Base.EFK_Milk = "우유 팩",
+     ItemName_Base.EFK_WaterBottle = "물병 0.6L",
+     ItemName_Base.EFK_Aquamari = "아쿠아마리 필터 달린 물병",
+     ItemName_Base.EFK_purified = "정제수",
 
+   /**********************************************
+               16/06/24
+               NEW
+   ***********************************************/
 
-
-
-
+        ItemName_Base.EFK_RatCola = "RatCola 탄산음료",
+        ItemName_Base.EFK_TarCola = "TarCola 탄산음료",
+        ItemName_Base.EFK_GreenTea = "아이스 녹차 캔",
+        ItemName_Base.EFK_PevkoBeer = "Pevko Light 병맥주",
 
 }
