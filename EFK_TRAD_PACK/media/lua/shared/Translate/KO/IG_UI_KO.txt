@@ -580,7 +580,6 @@ IGUI_KO = {
     IGUI_SKIER_Task_q9_t2 = "마치릿지 의료 센터 진입하기",
     IGUI_SKIER_Task_q9_t3 = "사무실 진입하기",
     IGUI_SKIER_Task_q9_t4 = "단서 찾기",
-    IGUI_SKIER_Task_q10_t1 = "좀비 3000마리 처치",
 
     /****************************
             Quetes JAEGER
@@ -1235,21 +1234,21 @@ IGUI_KO = {
                 EDIT
     ***********************************************/
 
-    IGUI_MECANIX_Task_firearm_q1_t2 = "MP-133을 요구조건에 맞게 모딩하기 (제작메뉴 "MP-133 MK1")",
+    IGUI_MECANIX_Task_firearm_q1_t2 = "MP-133을 요구조건에 맞게 모딩하기 (제작메뉴 'MP-133 MK1')",
     IGUI_MECANIX_Task_firearm_q1_t3 = "메카닉에게 말 걸기",
-    IGUI_MECANIX_Task_firearm_q2_t2 = "AKS-74U을 요구조건에 맞게 모딩하기 (제작메뉴 "AKS-74U MK1")",
+    IGUI_MECANIX_Task_firearm_q2_t2 = "AKS-74U을 요구조건에 맞게 모딩하기 (제작메뉴 'AKS-74U MK1')",
     IGUI_MECANIX_Task_firearm_q2_t3 = "메카닉에게 말 걸기",
-    IGUI_MECANIX_Task_firearm_q3_t2 = "MP5-SD을 요구조건에 맞게 모딩하기 (제작메뉴 "MP5-SD MK1")",
+    IGUI_MECANIX_Task_firearm_q3_t2 = "MP5-SD을 요구조건에 맞게 모딩하기 (제작메뉴 'MP5-SD MK1')",
     IGUI_MECANIX_Task_firearm_q3_t3 = "메카닉에게 말 걸기",
     IGUI_MECANIX_Task_firearm_q3_2_t2 = "프라퍼 평판 레벨 3 도달하기",
     IGUI_MECANIX_Task_firearm_q3_2_t3 = "메카닉에게 말 걸기",
-    IGUI_MECANIX_Task_firearm_q4_t2 = "SKS을 요구조건에 맞게 모딩하기 (제작메뉴 "SKS MK1")",
+    IGUI_MECANIX_Task_firearm_q4_t2 = "SKS을 요구조건에 맞게 모딩하기 (제작메뉴 'SKS MK1')",
     IGUI_MECANIX_Task_firearm_q4_t3 = "메카닉에게 말 걸기",
-    IGUI_MECANIX_Task_firearm_q5_t2 = "M870을 요구조건에 맞게 모딩하기 (제작메뉴 "M870 MK1")",
+    IGUI_MECANIX_Task_firearm_q5_t2 = "M870을 요구조건에 맞게 모딩하기 (제작메뉴 'M870 MK1')",
     IGUI_MECANIX_Task_firearm_q5_t3 = "메카닉에게 말 걸기",   
-    IGUI_MECANIX_Task_firearm_q6_t2 = "AKM을 요구조건에 맞게 모딩하기 (제작메뉴 "AKM MK1")",
+    IGUI_MECANIX_Task_firearm_q6_t2 = "AKM을 요구조건에 맞게 모딩하기 (제작메뉴 'AKM MK1')",
     IGUI_MECANIX_Task_firearm_q6_t3 = "메카닉에게 말 걸기", 
-    IGUI_MECANIX_Task_firearm_q7_t2 = "M4A1을 요구조건에 맞게 모딩하기 (제작메뉴 "M4A1 MK1")",
+    IGUI_MECANIX_Task_firearm_q7_t2 = "M4A1을 요구조건에 맞게 모딩하기 (제작메뉴 'M4A1 MK1')",
     IGUI_MECANIX_Task_firearm_q7_t3 = "메카닉에게 말 걸기", 
 
     /**********************************************
@@ -1321,11 +1320,57 @@ IGUI_KO = {
 				EDIT
 	***********************************************/
 
-	IGUI_PRAPOR_Task_q6_t1 = "바이하우젠 주유기에 표시 남기기",
 	IGUI_PRAPOR_Task_q6_t2 = "로즈우드 주유기에 표시 남기기 (GPS x=8200 y=11298)",
 	IGUI_PRAPOR_Task_q6_t3 = "트렐라이 주유기에 표시 남기기 (GPS x=7051 y=7143)",
-	IGUI_PRAPOR_Task_q6_t4 = "네번째 주유기에 표시 남기기 (GPS x=8276 y=4009)",
 	IGUI_PRAPOR_Task_q2_t2 = "바이하우젠 USEC 군사 주둔지 진입하기.",
 	IGUI_TOUBIB_Task_q4_t2 = "피트스탑 물 가게 진입하기",
 
-	}
+        /**********************************************
+                09/06/24
+                EDIT
+        ***********************************************/
+
+        IGUI_PRAPOR_Task_q6_t1 = "바이하우젠 주유기에 표시 남기기 (GPS 5188;9559)",
+        IGUI_PRAPOR_Task_q6_t4 = "멀드로우 주유기에 표시남기기 (GPS 10615;9760)",
+
+        /**********************************************
+                31/07/24
+                NEW
+        ***********************************************/
+
+        IGUI_SKIER_Task_q10_t2 = "좀비 3000마리 처치",
+
+        /**********************************************
+                09/08/24
+                NEW
+        ***********************************************/
+
+        IGUI_MECANIX_Task_firearm_q8_t2 = "AKS-74N을 요구조건에 맞게 모딩하기 (제작메뉴 'AKS-74N MK1')",
+        IGUI_MECANIX_Task_firearm_q8_t3 = "Talk to Mechanic",
+        IGUI_MECANIX_Task_firearm_q9_t2 = "P226R을 요구조건에 맞게 모딩하기 (제작메뉴 'P226R MK1')",
+        IGUI_MECANIX_Task_firearm_q9_t3 = "Talk to Mechanic",
+        IGUI_MECANIX_Task_firearm_q10_t2 = "P226R을 요구조건에 맞게 모딩하기 (제작메뉴 'P226R MK1')",
+        IGUI_MECANIX_Task_firearm_q10_t3 = "Talk to Mechanic",
+        IGUI_MECANIX_Task_firearm_q11_t2 = "Kriss Vector 9x19을 요구조건에 맞게 모딩하기 (제작메뉴 'Kriss Vector 9x19 MK1')",
+        IGUI_MECANIX_Task_firearm_q11_t3 = "Talk to Mechanic",
+        IGUI_MECANIX_Task_firearm_q12_t2 = "MPX을 요구조건에 맞게 모딩하기 (제작메뉴 'MPX MK1')",
+        IGUI_MECANIX_Task_firearm_q12_t3 = "Talk to Mechanic",
+        IGUI_MECANIX_Task_firearm_q13_t2 = "RSASS을 요구조건에 맞게 모딩하기 (제작메뉴 'RSASS MK1')",
+        IGUI_MECANIX_Task_firearm_q13_t3 = "Talk to Mechanic",
+        IGUI_MECANIX_Task_firearm_q14_t2 = "HK-416A5을 요구조건에 맞게 모딩하기 (제작메뉴 'HK-416A5 MK1')",
+        IGUI_MECANIX_Task_firearm_q14_t3 = "Talk to Mechanic",
+        IGUI_MECANIX_Task_firearm_q15_t2 = "AS VAL을 요구조건에 맞게 모딩하기 (제작메뉴 'AS VAL MK1')",
+        IGUI_MECANIX_Task_firearm_q15_t3 = "Talk to Mechanic",
+        IGUI_MECANIX_Task_firearm_q16_t2 = "DVL을 요구조건에 맞게 모딩하기 (제작메뉴 'DVL MK1')",
+        IGUI_MECANIX_Task_firearm_q16_t3 = "Talk to Mechanic",
+        IGUI_MECANIX_Task_firearm_q17_t2 = "AK-102을 요구조건에 맞게 모딩하기 (제작메뉴 'AK-102 MK1')",
+        IGUI_MECANIX_Task_firearm_q17_t3 = "Talk to Mechanic",
+        IGUI_MECANIX_Task_firearm_q18_t2 = "AKMN을 요구조건에 맞게 모딩하기 (제작메뉴 'AKMN MK1')",
+        IGUI_MECANIX_Task_firearm_q18_t3 = "Talk to Mechanic",
+        IGUI_MECANIX_Task_firearm_q19_t2 = "SVDS을 요구조건에 맞게 모딩하기 (제작메뉴 'SVDS MK1')",
+        IGUI_MECANIX_Task_firearm_q19_t3 = "Talk to Mechanic",
+        IGUI_MECANIX_Task_firearm_q20_t2 = "M1A을 요구조건에 맞게 모딩하기 (제작메뉴 'M1A MK1')",
+        IGUI_MECANIX_Task_firearm_q20_t3 = "Talk to Mechanic",
+
+
+}
