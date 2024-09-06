@@ -297,10 +297,6 @@ Recipes_EN = {
      Recipe_Sell_Army_crackers = "Sell Army crackers (18)",
      Recipe_Sell_Water_Bottle = "Sell Water Bottle (15)",
      Recipe_Sell_Iskra_Ration_Pack = "Sell Iskra Ration Pack (30)",
-     Recipe_Sell_Can_of_green_peas = "Sell Can of green peas (41)",
-     Recipe_Sell_Can_of_condensed_milk = "Sell Can of condensed milk (157)",
-     Recipe_Sell_Pack_of_milk = "Sell Pack of milk (92)",
-     Recipe_Sell_Pack_of_sugar = "Sell Pack of sugar (135)",
      Recipe_Sell_MRE_Ration_Pack = "Sell MRE Ration Pack (107)",
      Recipe_Sell_Can_of_humpback_salmon = "Sell Can of humpback salmon (62)",
      Recipe_Sell_Can_of_Majaica_coffee_beans = "Sell Can of Majaica coffee beans (94)",
@@ -845,6 +841,54 @@ Recipes_EN = {
 
      Recipe_Sell_FN_SCAR-H_7.62x51_assault_rifle = "Sell FN SCAR-H 7.62x51 assault rifle (661)",
 
+   /**********************************************
+               18/05/24
+               NEW
+   ***********************************************/
+
+     Recipe_Sell_HK_MP5SD_9x19_sound_suppressor = "Sell HK MP5SD 9x19 sound suppressor (149)",
+
+   /**********************************************
+               20/05/24
+               NEW
+   ***********************************************/
+
+     Recipe_Sell_Slickers_chocolate_bar = "Sell Slickers chocolate bar (39)",
+     Recipe_Sell_Alyonka_chocolate_bar = "Sell Alyonka chocolate bar (66)",
+     Recipe_Sell_Pack_of_oat_flakes = "Sell Pack of oat flakes (47)",
+     Recipe_Sell_Jar_of_DevilDog_mayo = "Sell Jar of DevilDog mayo (76)",
+     Recipe_Sell_Can_of_herring = "Sell Can of herring (106)",
+     Recipe_Sell_Can_of_pacific_saury = "Sell Can of pacific saury (53)",
+     Recipe_Sell_Can_of_humpback_salmon = "Sell Can of humpback salmon (62)",
+     Recipe_Sell_Salty_Dog_beef_sausage = "Sell Salty Dog beef sausage (126)",
+     Recipe_Sell_Can_of_sprats = "Sell Can of sprats (56)",
+     Recipe_Sell_Pack_of_Tarker_dried_meat = "Sell Pack of Tarker dried meat (56)",
+     Recipe_Sell_Pack_of_instant_noodles = "Sell Pack of instant noodles (79)",
+     Recipe_Sell_Pack_of_apple_juice = "Sell Pack of apple juice (21)",
+     Recipe_Sell_Can_of_Hot_Rod_energy_drink = "Sell Can of Hot Rod energy drink (58)",
+     Recipe_Sell_Pack_of_Vita_juice = "Sell Pack of Vita juice (21)",
+     Recipe_Sell_Pack_of_Grand_juice = "Sell Pack of Grand juice (21)",
+     Recipe_Sell_Pack_of_Russian_Army_pineapple_juice = "Sell Pack of Russian Army pineapple juice (13)",
+     Recipe_Sell_Bottle_of_water_0.6L = "Sell Bottle of water 0.6L (15)",
+     Recipe_Sell_Aquamari_water_bottle_with_filter = "Sell Aquamari water bottle with filter (199)",
+     Recipe_Sell_Canister_with_purified_water = "Sell Canister with purified water (315)",
+
+   /**********************************************
+               20/05/24
+               EDIT
+   ***********************************************/
+
+     Recipe_Sell_Can_of_green_peas = "Sell Can of green peas (41)",
+     Recipe_Sell_Can_of_condensed_milk = "Sell Can of condensed milk (157)",
+     Recipe_Sell_Pack_of_milk = "Sell Pack of milk (92)",
+     Recipe_Sell_Pack_of_sugar = "Sell Pack of sugar (135)",
+
+   /**********************************************
+               31/05/24
+               NEW
+   ***********************************************/
+
+     Recipe_Group_500$_from_1$ = "Create a bundle of 500$",
 
 
 }

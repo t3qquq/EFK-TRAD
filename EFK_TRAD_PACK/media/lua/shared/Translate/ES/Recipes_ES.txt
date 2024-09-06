@@ -297,10 +297,6 @@ Recipes_ES = {
      Recipe_Sell_Army_crackers = "Vender Army crackers (18)",
      Recipe_Sell_Water_Bottle = "Vender Water Bottle (15)",
      Recipe_Sell_Iskra_Ration_Pack = "Vender Iskra Ration Pack (30)",
-     Recipe_Sell_Can_of_green_peas = "Vender Can of green peas (41)",
-     Recipe_Sell_Can_of_condensed_milk = "Vender Can of condensed milk (157)",
-     Recipe_Sell_Pack_of_milk = "Vender Pack of milk (92)",
-     Recipe_Sell_Pack_of_sugar = "Vender Pack of sugar (135)",
      Recipe_Sell_MRE_Ration_Pack = "Vender MRE Ration Pack (107)",
      Recipe_Sell_Can_of_humpback_salmon = "Vender Can of humpback salmon (62)",
      Recipe_Sell_Can_of_Majaica_coffee_beans = "Vender Can of Majaica coffee beans (94)",
@@ -619,7 +615,7 @@ Recipes_ES = {
      Recipe_Sell_HK_G28_7.62x51_marksman_rifle = "Rifle HK G28 7.62x51 marksman (1587)",
      Recipe_Sell_BNTI_LShZ-2DTM_helmet = "Vender casco BNTI LShZ-2DTM (484)",
      Recipe_Sell_ZSh-1-2M_helmet = "Vender casco ZSh-1-2M (276)",
-
+     Recipe_Sell_6B47_Ratnik-BSh_helmet = "Venta de casco 6B47 Ratnik-BSh (222)",
 
    /**********************************************
                23/04/24
@@ -845,6 +841,54 @@ Recipes_ES = {
 
      Recipe_Sell_FN_SCAR-H_7.62x51_assault_rifle = "Vendo fusil de asalto FN SCAR-H 7.62x51 (661)",
 
+   /**********************************************
+               18/05/24
+               NEW
+   ***********************************************/
+
+     Recipe_Sell_HK_MP5SD_9x19_sound_suppressor = "Vender HK MP5SD 9x19 supresor de sonido (149)",
+
+   /**********************************************
+               20/05/24
+               NEW
+   ***********************************************/
+
+     Recipe_Sell_Slickers_chocolate_bar = "Vender chocolatina Slickers (39)",
+     Recipe_Sell_Alyonka_chocolate_bar = "Vender chocolatina Alyonka (66)",
+     Recipe_Sell_Pack_of_oat_flakes = "Venta Pack de copos de avena (47)",
+     Recipe_Sell_Jar_of_DevilDog_mayo = "Vender bote de mayonesa DevilDog (76)",
+     Recipe_Sell_Can_of_herring = "Venta Lata de arenque (106)",
+     Recipe_Sell_Can_of_pacific_saury = "Venta de lata de saurio del pacífico (53)",
+     Recipe_Sell_Can_of_humpback_salmon = "Venta Lata de salmón jorobado (62)",
+     Recipe_Sell_Salty_Dog_beef_sausage = "Venta de Salchichas Salty Dog (126)",
+     Recipe_Sell_Can_of_sprats = "Venta Lata de espadines (56)",
+     Recipe_Sell_Pack_of_Tarker_dried_meat = "Venta de paquetes de carne seca Tarker (56)",
+     Recipe_Sell_Pack_of_instant_noodles = "Venta de paquetes de fideos instantáneos (79)",
+     Recipe_Sell_Pack_of_apple_juice = "Venta Pack de zumo de manzana (21)",
+     Recipe_Sell_Can_of_Hot_Rod_energy_drink = "Vendo lata de bebida energética Hot Rod (58)",
+     Recipe_Sell_Pack_of_Vita_juice = "Pack de venta de zumo Vita (21)",
+     Recipe_Sell_Pack_of_Grand_juice = "Vender Pack de zumo Grand (21)",
+     Recipe_Sell_Pack_of_Russian_Army_pineapple_juice = "Venta de Pack de zumo de piña Ejército Ruso (13)",
+     Recipe_Sell_Bottle_of_water_0.6L = "Venta Botella de agua 0,6L (15)",
+     Recipe_Sell_Aquamari_water_bottle_with_filter = "Venta de botella de agua Aquamari con filtro (199)",
+     Recipe_Sell_Canister_with_purified_water = "Vender Bidón con agua purificada (315)",
+
+   /**********************************************
+               20/05/24
+               EDIT
+   ***********************************************/
+
+     Recipe_Sell_Can_of_green_peas = "Venta Lata de guisantes verdes (41)",
+     Recipe_Sell_Can_of_condensed_milk = "Venta Lata de leche condensada (157)",
+     Recipe_Sell_Pack_of_milk = "Venta Pack de leche (92)",
+     Recipe_Sell_Pack_of_sugar = "Venta Paquete de azúcar (135)",
+
+   /**********************************************
+               31/05/24
+               NEW
+   ***********************************************/
+
+     Recipe_Group_500$_from_1$ = "Crea un paquete de 500",
 
 
 }

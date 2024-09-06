@@ -644,7 +644,6 @@ ItemName_EN = {
         ItemName_Base.EFK_PraporInfo_Q3 = "Informations Prapor Quest 3",
         ItemName_Base.EFK_PraporInfo_Q4 = "Informations Prapor Quest 4",
         ItemName_Base.EFK_PraporInfo_Q5 = "Informations Prapor Quest 5",
-        ItemName_Base.EFK_PraporInfo_Q7 = "Informations Prapor Quest 7",
         ItemName_Base.EFK_PraporInfo_Q9 = "Informations Prapor Quest 9",
         ItemName_Base.EFK_ToubibInfo_Q4 = "Informations Toubib Quest 4",
         ItemName_Base.EFK_ToubibInfo_Q5 = "Informations Toubib Quest 5",
@@ -1069,11 +1068,43 @@ ItemName_EN = {
      ItemName_Base.Pills_EFK_Ibuprofen = "Ibuprofen painkillers",
      ItemName_Base.Pills_EFK_Golden = "Golden Star balm",
 
+   /**********************************************
+               20/05/24
+               NEW
+   ***********************************************/
 
+     ItemName_Base.EFK_Slickers = "Slickers chocolate bar",
+     ItemName_Base.EFK_Alyonka = "Alyonka chocolate bar",
+     ItemName_Base.EFK_Cereal = "Pack of oat flakes",
+     ItemName_Base.EFK_Sugar = "Pack of sugar",
+     ItemName_Base.EFK_condensed_milk = "Can of condensed milk",
+     ItemName_Base.EFK_DevilDog = "Jar of DevilDog mayo",
+     ItemName_Base.EFK_Herring = "Can of herring",
+     ItemName_Base.EFK_Saury = "Can of pacific saury",
+     ItemName_Base.EFK_Salmon = "Can of humpback salmon",
+     ItemName_Base.EFK_Sausage = "Salty Dog beef sausage",
+     ItemName_Base.EFK_Sprats = "Can of sprats",
+     ItemName_Base.EFK_Tarker = "Pack of Tarker dried meat",
+     ItemName_Base.EFK_CannedPeas = "Can of green peas",
+     ItemName_Base.EFK_Noodles = "Pack of instant noodles",
+     ItemName_Base.EFK_JuiceBox = "Pack of apple juice",
+     ItemName_Base.EFK_HotRod = "Can of Hot Rod energy drink",
+     ItemName_Base.EFK_VitaBox = "Pack of Vita juice",
+     ItemName_Base.EFK_GrandBox = "Pack of Grand juice",
+     ItemName_Base.EFK_pineapple = "Pack of Russian Army pineapple juice",
+     ItemName_Base.EFK_Milk = "Pack of milk",
+     ItemName_Base.EFK_WaterBottle = "Bottle of water 0.6L",
+     ItemName_Base.EFK_Aquamari = "Aquamari water bottle with filter",
+     ItemName_Base.EFK_purified = "Canister with purified water",
 
+   /**********************************************
+               16/06/24
+               NEW
+   ***********************************************/
 
-
-
-
+        ItemName_Base.EFK_RatCola = "Can of RatCola soda",
+        ItemName_Base.EFK_TarCola = "Can of TarCola soda",
+        ItemName_Base.EFK_GreenTea = "Can of Ice Green tea",
+        ItemName_Base.EFK_PevkoBeer = "Bottle of Pevko Light beer",
 
 }
