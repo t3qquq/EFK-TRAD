@@ -1328,4 +1328,16 @@ IGUI_FR = {
    IGUI_PRAPOR_Task_q2_t2 = "Atteindre le camp militaire USEC de Weyhausen",
    IGUI_TOUBIB_Task_q4_t2 = "Atteindre le magasin d'eau de Pitstop",
 
+        /**********************************************
+            07/09/24
+            NEW
+        ***********************************************/
+
+        IGUI_perks_Search = "Fouille",
+        IGUI_perks_Practical = "Compétences Pratiques",
+
+
+
+
+
 }
